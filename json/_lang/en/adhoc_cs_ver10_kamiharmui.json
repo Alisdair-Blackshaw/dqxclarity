@@ -51,7 +51,7 @@
     "「ニコロイ王は　まだ幼子であったし|　当時を知るはずの　年寄りたちは|　クチを　開いてくれんのだよ。": "King Nikolai was just a boy, and the old|people who were supposed to know him then,|they wouldn't open up..."
   },
   "18": {
-    "「むっ　そなたか。": "No..."
+    "「むっ　そなたか。": "Oh, it's you."
   },
   "19": {
     "「ニコロイ王は　北の　捨てられた城へ|　出向いておられる。すまぬが　そなたも|　様子を見にいってはくれんか？": "King Nicolai is on his way north to the|abandoned castle. I beg your pardon, but|would you care to go and see him?"
@@ -132,7 +132,7 @@
     "「おっ　あんた！|　たしか　玉座の間で会ったよな！？": "Oh, you! We met in the throne room, didn't|we?"
   },
   "45": {
-    "「……そうか　<pc>っていうのか。|　とんでもねえもんを　見ちまったな！": " Okay<pc> I mean... You've seen some things, man!"
+    "「……そうか　<pc>っていうのか。|　とんでもねえもんを　見ちまったな！": " Okay <pc> I mean... You've seen some things, man!"
   },
   "46": {
     "「こんな所に来たってことは|　お前も　コトル大臣から|　王のことを　頼まれてきたんだろ？": "If you've come all this way, you must have|been sent by Minister Cottle to ask for the|king."
@@ -177,7 +177,7 @@
     "「お待ちを！": "Hold on!"
   },
   "60": {
-    "「チカラなき者を　いたずらに|　危険な目に　あわせるのは|　ニコロイ王も　本意では　ありますまい。": "It is not the intention of King Nikolai to|put those without strength in harm's way."
+    "「チカラなき者を　いたずらに|　危険な目に　あわせるのは|　ニコロイ王も　本意では　ありますまい。": "It is not the intention of King Nicolai to|put those without strength in harm's way."
   },
   "61": {
     "「おお　そなたが　<pc>か！|　そなたには　捨てられた城で|　助けられたそうだな。ふむ……": "Oh, you<pc> No! You rescued me from the abandoned castle.|Hmm..."
@@ -267,16 +267,16 @@
     "「<pc>！　先行くぜっ！！": "<pc> Let's go! I'm going first!"
   },
   "90": {
-    "「それにしても　暗黒大樹の葉とは……。|　なぜ　アグシュナ王妃は　死の間際に|　あのようなものを　求めたのだろうな？": "But the leaves of the Great Dark Tree... Why|would Queen Agushuna want something like that|on her deathbed?"
+    "「それにしても　暗黒大樹の葉とは……。|　なぜ　アグシュナ王妃は　死の間際に|　あのようなものを　求めたのだろうな？": "But the leaves of the Great Dark Tree... Why|would Queen Agasuna want something like that|on her deathbed?"
   },
   "91": {
     "「……………………。": "..."
   },
   "92": {
-    "「おお　<pc>か。": "oh!<pc> Ka."
+    "「おお　<pc>か。": "Oh!<pc> Ok."
   },
   "93": {
-    "「捨てられた城の　御殿にある|　玉座の間へ　暗黒大樹の葉を納めにいった|　ニコロイ王のこと……　よろしく頼むぞ！": "King Nikolai, who went to the throne room of|the abandoned castle to deliver the leaves of|the Dark Tree... Take care of him!"
+    "「捨てられた城の　御殿にある|　玉座の間へ　暗黒大樹の葉を納めにいった|　ニコロイ王のこと……　よろしく頼むぞ！": "King Nicolai, who went to the throne room of|the abandoned castle to deliver the leaves of|the Dark Tree... Take care of him!"
   },
   "94": {
     "「どうしました　ニコロイ王？": "What can I do for you, King Nicolai?"
@@ -288,16 +288,16 @@
     "「この暗黒大樹の葉のせいだろうか。|　心なしか　まわりの空気が|　反応しているような気がする……。": "It's the leaves of this dark tree... I feel|as if the air around me is reacting..."
   },
   "97": {
-    "「ナシュロイ王様ー！|　リタ姫様ー！　ニコロイ王子様ー！": "King Nashroy! Princess Rita! Prince Nikolai!"
+    "「ナシュロイ王様ー！|　リタ姫様ー！　ニコロイ王子様ー！": "King Nasharoi! Princess Rita! Prince Nicolai!"
   },
   "98": {
-    "「アグシュナ王妃様が|　お帰りになりましたよー！": "Queen Agushuna is back!"
+    "「アグシュナ王妃様が|　お帰りになりましたよー！": "Queen Agasuna is back!"
   },
   "99": {
     "「母上！！　おかえりなさい！": "Mother! You're home!"
   },
   "100": {
-    "「ただいま　ニコロイ。|　さみしかったでしょう……。ごめんなさいね。": "I'm back, Ni... I know you missed me... I'm|sorry..."
+    "「ただいま　ニコロイ。|　さみしかったでしょう……。ごめんなさいね。": "I'm back, Nicolai I know you missed me... I'm|sorry..."
   },
   "101": {
     "「ううん。|　母上の病気を　治すためだもん。|　ボク　ガマンできたよ！": "... To cure your mother's illness... I've got|it under control!"
@@ -333,13 +333,13 @@
     "「あははははっ！": "Ha-ha-ha!"
   },
   "112": {
-    "「アグシュナよ。|　そのように走ると　また身体に障るぞ。": "Agsi... If you run like that, your body|will..."
+    "「アグシュナよ。|　そのように走ると　また身体に障るぞ。": "Agasuna, If you run like that, your body|will..."
   },
   "113": {
     "「大丈夫ですわ　あなた。|　もう　全然　苦しくないのです。": "I'm fine. I'm fine. I'm not in pain at all."
   },
   "114": {
-    "「姉上！": "ister on!"
+    "「姉上！": "Sister!"
   },
   "115": {
     "「母上　すっごく元気になったね！": "Mother, you're looking so much better!"
@@ -357,7 +357,7 @@
     "「これ……　一緒に食べよう？|　母上が　ボクたちのために……": "Here... Would you like to eat with me? My mom|made this for us."
   },
   "120": {
-    "「姉…上……？": "ister... Up...?"
+    "「姉…上……？": "Sister...?"
   },
   "121": {
     "「そうだった……。": "It was..."
@@ -366,13 +366,13 @@
     "「姉上は　すこしずつ|　おかしくなっていったのだ。": "Your sister is slowly going mad..."
   },
   "123": {
-    "「母上の体調が　回復してゆくにつれて|　姉上は　母上を憎むようになっていき…………": "As your mother's condition improves| Your sister grew to hate your mother"
+    "「母上の体調が　回復してゆくにつれて|　姉上は　母上を憎むようになっていき…………": "As his mother's condition improved|she grew to hate her mother"
   },
   "124": {
     "「そして　あの日の悲劇に　つながったのだ。": "And that led to the tragedy of that day..."
   },
   "125": {
-    "「リタ姫様は　どうして　アグシュナ様を|　憎んだのでしょう……？": "Why did Princess Rita hate Lord Agushuna...?"
+    "「リタ姫様は　どうして　アグシュナ様を|　憎んだのでしょう……？": "Why did Princess Rita hate Queen Agasuna...?"
   },
   "126": {
     "「わからぬ……。|　母上の回復を願う気持ちは|　姉上も　同じだと思っていたのに……。": "I don't know... I thought you wanted your|mother to recover as much as I do."
@@ -411,16 +411,16 @@
     "「まさか……　ああ　まさか！！": "No way... Oh, no!"
   },
   "138": {
-    "「ああっ　ニコロイ！？|　かすかだが　面影がある……。|　あの小さなニコロイが　立派になって……。": "Oh, Nicolai! There's a faint resemblance...|That little Nicoloy, all grown up..."
+    "「ああっ　ニコロイ！？|　かすかだが　面影がある……。|　あの小さなニコロイが　立派になって……。": "Oh, Nicolai! There's a faint resemblance...|That little Nicolai, all grown up..."
   },
   "139": {
-    "「は　母上……！": "Hagami...!"
+    "「は　母上……！": "Mother!"
   },
   "140": {
     "「見間違えようもない……。|　あの日のままの　母上よ。|　こうして　ふたたび会えるとは……！": "There's no mistaking it... Just like that|day. I never thought I'd see you again."
   },
   "141": {
-    "「どうやら　苦労をかけたようですね。|　でも　ニコロイ。|　あなただけでも　無事でよかった。": "Apparently, I put you through a lot... But,|Ni... I'm just glad you're okay."
+    "「どうやら　苦労をかけたようですね。|　でも　ニコロイ。|　あなただけでも　無事でよかった。": "Apparently, I put you through a lot... But,|Nicolai I'm just glad you're okay."
   },
   "142": {
     "「して　ニコロイ　この者たちは……？": "So, Nicolai, who are these people?"
@@ -441,31 +441,31 @@
     "「教えてください！|　５０年前の　あの日　この城で|　何が　起こったのかを！": "Tell me! Tell me what happened in this castle|on that day 50 years ago!"
   },
   "148": {
-    "「ニコロイ……。|　あなたは　姉のリタが　大好きでしたね。|　真実は　知らないほうが……。": "Nicolai... You're very fond of my sister|Rita. The truth is, the less you know..."
+    "「ニコロイ……。|　あなたは　姉のリタが　大好きでしたね。|　真実は　知らないほうが……。": "Nicolai, you're very fond of your sister|Rita. The truth is, the less you know..."
   },
   "149": {
     "「私は　もう幼い子供ではありません。|　どうか　真実を　お伝えください。": "I am no longer a young child... Please, tell|me the truth..."
   },
   "150": {
-    "「わかりました……。": "Okay, sir..."
+    "「わかりました……。": "Okay.."
   },
   "151": {
-    "「ニコロイ。リタが　聖地と通じ合える|　特別なチカラを持つ子供……|　白き者であったことは　覚えていますね？": "Ni... Rita was a child with a special power|that allowed her to communicate with the Holy|Land. You remember that she was white, don't|<br>|you?"
+    "「ニコロイ。リタが　聖地と通じ合える|　特別なチカラを持つ子供……|　白き者であったことは　覚えていますね？": "Rita was a child with a special power|that allowed her to communicate with the Holy|Land. You remember that she was white, don't|<br>|you?"
   },
   "152": {
     "「リタは　聖地と通じ合えるチカラを利用し|　聖地の大いなるチカラを|　我が物にしようと　していたのです。": "Rita wanted to use her power of communication|with the Holy Land to harness its great power|for herself..."
   },
   "153": {
-    "「あの子が　なぜ　そんなことを企んだのかは|　わかりません。ナシュロイ王と　私が|　そのことに気づいた時には　時すでに遅く……": "I don't know why he'd want to do something|like that. By the time King Nasarov and I|figured it out, it was too late."
+    "「あの子が　なぜ　そんなことを企んだのかは|　わかりません。ナシュロイ王と　私が|　そのことに気づいた時には　時すでに遅く……": "I don't know why he'd want to do something|like that. By the time King Nasharoi and I|figured it out, it was too late."
   },
   "154": {
-    "「身に余る聖地のチカラを取り込んだ　リタは|　心を失い　暴走しました。ナシュロイ王は|　それを止めようとして　リタに殺められ……": "Rita took in more than she could handle. She|lost her mind. She went mad. King Nasarov|tried to stop her, but Rita killed him."
+    "「身に余る聖地のチカラを取り込んだ　リタは|　心を失い　暴走しました。ナシュロイ王は|　それを止めようとして　リタに殺められ……": "Rita took in more than she could handle. She|lost her mind. She went mad. King Nasharoi|tried to stop her, but Rita killed him."
   },
   "155": {
     "「そんな……　なんということだ。": "Oh, my... What a..."
   },
   "156": {
-    "「ニコロイ。|　私たちは　王家の一族として　聖地を守るという|　使命を　果たさねばなりません。": "Ni... As a royal family, we must fulfill our|mission to protect the sacred land..."
+    "「ニコロイ。|　私たちは　王家の一族として　聖地を守るという|　使命を　果たさねばなりません。": "Nicolai, as a royal family, we must fulfill|our mission to protect the sacred land."
   },
   "157": {
     "「聖地は……　この大地の　チカラの源。|　エルトナ大陸の心臓なのです。": "The Holy Land... The strength of this land...|The heart of Eltona..."
@@ -474,7 +474,7 @@
     "「リタに　チカラを奪われた聖地が|　今　どうなっているのか……。|　急ぎ　確かめにいかなくては！": "I don't know what's happening to the|sanctuary that Rita stole my powers from,|but... We must go and find out!"
   },
   "159": {
-    "「母上が持っていた　黄金の指輪ならば |　あの日以来　肌身離さず　持っております。|　すぐに　王家の庭へ向かいましょう。": "If it's the golden ring your mother had, I've|carried it with me every day since that day.|We must go at once to the royal garden."
+    "「母上が持っていた　黄金の指輪ならば |　あの日以来　肌身離さず　持っております。|　すぐに　王家の庭へ向かいましょう。": "If it's the golden ring my mother had, I've|carried it with me since that day.|We must go at once to the royal garden."
   },
   "160": {
     "「<pc>。キュウスケ。|　そなたたちも　共に　王家の庭へ来てくれ。": "<pc> . Kyusuke, You're coming with me to the royal|garden..."
@@ -492,7 +492,7 @@
     "「まさか　死んだと思われていた王妃が |　こんな形で　現れるなんてねえ。": "I didn't think that the queen, who was|thought to be dead, would show up like this."
   },
   "165": {
-    "「それじゃあ　行くとしようぜ！|　ええと　城壁を出てから　北の住居跡を抜け|　裏手にある　王家の庭を目指す……だったな！": "Well, then, let's go! Well, once we're|outside the city walls, we'll head north past|the ruins of the dwellings to the royal|<br>|garden behind... Right!"
+    "「それじゃあ　行くとしようぜ！|　ええと　城壁を出てから　北の住居跡を抜け|　裏手にある　王家の庭を目指す……だったな！": "Well, then, let's go! Well, once we're|outside the city walls, we'll head north past|the ruins of the dwellings to the royal|<br>|garden behind."
   },
   "166": {
     "「そいじゃあ　お先にっ！": "Well, after you!"
@@ -699,7 +699,7 @@
     "「あなたは　こんな所で……|　たったひとりで　命と引き換えに|　聖地を　守っていたというのに！": "And here you are... All alone, protecting a|sacred place at the cost of your life!"
   },
   "234": {
-    "「でも　ニコロイ王……。|　私たちは　最後に　リタ姫様のことを|　お助けすることが　できたじゃないですか。": "But King Nikolai... We were able to help|Princess Rita in the end..."
+    "「でも　ニコロイ王……。|　私たちは　最後に　リタ姫様のことを|　お助けすることが　できたじゃないですか。": "But King Nicolai... We were able to help|Princess Rita in the end..."
   },
   "235": {
     "「リタ姫様の魂は　自由になれました。|　だからこそ　あんなにも|　幸せそうな顔を　なさっていたのです。": "Princess Rita's soul is free... That's why|she looked so happy..."
@@ -744,19 +744,19 @@
     "「じゃあな　アディオ～ス！！": "See you later, Adios!"
   },
   "249": {
-    "「ハイッ！　お安いご用で。": "Hi! Cheap..."
+    "「ハイッ！　お安いご用で。": "Hi! At your service."
   },
   "250": {
     "「おそらく　王都カミハルムイには|　何か　忌まわしい歴史があるということ……。": "Perhaps it means that the royal city of|Kamiharmui has some kind of abominable|history..."
   },
   "251": {
-    "「ニコロイ王は　それを解き明かすために|　捨てられた城へ　出向いていらっしゃるのだ。": "King Nikolai went to the abandoned castle to|find out..."
+    "「ニコロイ王は　それを解き明かすために|　捨てられた城へ　出向いていらっしゃるのだ。": "King Nicolai went to the abandoned castle to|find out..."
   },
   "252": {
     "「しかし……　あの地は　不吉で恐ろしい土地だ。|　わしは　王の身が　心配でならん。": "But... The land is ominous and terrible. And|I fear for the king's life."
   },
   "253": {
-    "「そなたは　王に　会いたいのだろう？|　ならば　捨てられた城まで|　ニコロイ王の様子を　見にいってはくれんか？": "You want to see your king, don't you? Then|why don't you go to the abandoned castle and|check on King Nikoloi?"
+    "「そなたは　王に　会いたいのだろう？|　ならば　捨てられた城まで|　ニコロイ王の様子を　見にいってはくれんか？": "You want to see your king, don't you? Then|why don't you go to the abandoned castle and|check on King Nicoloi?"
   },
   "254": {
     "「先ほど行かせた　キュウスケも|　かなりの手練れだが　彼ひとりでは|　難儀するかもしれんからな。": "Kyusuke, who I just sent over, is quite|skilled, but he might have trouble doing it|alone..."
@@ -777,7 +777,7 @@
     "「えへへへへっ。": "Heh heh..."
   },
   "260": {
-    "「おや　ニコロイ王子。|　おいしそうな　山ブドウじゃないですか。": "Oh, Nikoloi... That's a delicious looking|grape..."
+    "「おや　ニコロイ王子。|　おいしそうな　山ブドウじゃないですか。": "Oh, Nicoloi... That's a delicious looking|grape..."
   },
   "261": {
     "「よく　お聞きなさい……|　あ　暗黒大樹の葉を　この城に……": "Now, listen to me| Oh, the leaves of the Dark Lord's tree, on this castle"
@@ -795,7 +795,7 @@
     "「だから　あの城は　忌まわしい城とされたのだ。|　その日より　聖地のチカラが失われたのも……|　おそらく　姉上の乱心によるものだろう。": "That's why the castle was considered an|abomination. And from that day on, the power|of the sanctuary was lost... Probably because|<br>|of your sister's distraction."
   },
   "266": {
-    "「ニコロイ王……。": "King Nikolai..."
+    "「ニコロイ王……。": "King Nicolai..."
   },
   "267": {
     "「あの城に遺された　亡き母上の遺志が|　わしに何かを伝えるため|　あのような幻影を　見せたということか。": "Your mother's dying wish was to show me a|vision of the castle, to tell me something."
@@ -825,10 +825,10 @@
     "「あの地が　悪しき者の手に落ちれば|　この大陸は　暗黒大樹に　すべてをむしばまれ|　滅びゆく運命にあります。": "If that land falls into the hands of the evil|one, this continent will be devoured by the|Dark Tree and doomed to perish."
   },
   "276": {
-    "「ニコロイよ。あの日に　私が落とした|　黄金の指輪を　持っていますか？": "Nico... Do you still have the golden ring I|dropped that day?"
+    "「ニコロイよ。あの日に　私が落とした|　黄金の指輪を　持っていますか？": "Nicolai, Do you still have the golden ring I|dropped that day?"
   },
   "277": {
-    "「お前さんが　<pc>じゃな？|　ニコロイ様と　捨てられた城で|　リタ姫様のことを　知ったそうじゃのう。": "You<pc> So? It was at the abandoned castle with|Master Nikolai that I learned about Princess|Rita."
+    "「お前さんが　<pc>じゃな？|　ニコロイ様と　捨てられた城で|　リタ姫様のことを　知ったそうじゃのう。": "You<pc> So? It was at the abandoned castle with|King Nicolai that I learned about Princess|Rita."
   },
   "278": {
     "「じいさん！　忌まわしい　あの姫の名など|　クチにしては　なりませぬ。|　災いを　呼びますぞ！": "Grandfather! You shall not speak the name of|that abominable princess... You'll bring bad|luck!"
