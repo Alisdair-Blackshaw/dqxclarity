@@ -36,7 +36,7 @@
     "「……まあ　一人前の証を持つ者になら|　そのわけを話しても　かまわんだろう。": "... Well, I don't mind telling a man who's|already a man why..."
   },
   "13": {
-    "「５０年前……まだ幼かった　ニコロイ様を残して|　王族たちが　そろって　不穏な死をとげるという|　奇怪な事件が　起きたそうだ。": "Fifty years ago... A bizarre incident|occurred in which all the royal family died a|disturbing death, leaving behind the young|<br>|King Nikolai..."
+    "「５０年前……まだ幼かった　ニコロイ様を残して|　王族たちが　そろって　不穏な死をとげるという|　奇怪な事件が　起きたそうだ。": "Fifty years ago... A bizarre incident|occurred in which all the royal family died a|disturbing death, leaving behind the young|<br>|King Nicolai..."
   },
   "14": {
     "「それと　時を同じくして|　城に隠された　聖地がチカラを失い………|　城は　またたく間に　朽ち果てていったという。": "At the same time, the sacred ground hidden|within the castle lost its power. And the|castle fell into decay."
@@ -255,10 +255,10 @@
     "<pc>は|１０００ゴールドを　手に入れた！<se_nots System 7>": "<pc> got a thousand gold!|<se_nots System 7>"
   },
   "86": {
-    "「<pc>。そして　キュウスケ。|　すまぬが　引き続き　ニコロイ王のこと|　頼まれてはくれまいか？": "<pc> And... And Kyusuke, I'm sorry, but will you|please continue to take care of King Nikolai?"
+    "「<pc>。そして　キュウスケ。|　すまぬが　引き続き　ニコロイ王のこと|　頼まれてはくれまいか？": "<pc> And... And Kyusuke, I'm sorry, but will you|please continue to take care of King Nicolai?"
   },
   "87": {
-    "「どうか　そなたたちも　ニコロイ王を追って|　捨てられた城の　御殿にある|　玉座の間へ向かってほしい。": "I urge you to follow King Nikolai to the|throne room of the abandoned castle..."
+    "「どうか　そなたたちも　ニコロイ王を追って|　捨てられた城の　御殿にある|　玉座の間へ向かってほしい。": "I urge you to follow King Nicolai to the|throne room of the abandoned castle..."
   },
   "88": {
     "「わかりました　コトル大臣。|　このキュウスケと　<pc>|　命に代えても　王を　お守りいたします！": "Okay, Kot... Kyusuke here.<pc> I will protect the king even if it costs me|my life!"
@@ -504,10 +504,10 @@
     "「……今なら　思いだすことができる。|　この王家の庭は　姉上が好んだ場所であった。|　幼き頃　ここで　ふたりで遊んだものだ……。": "I... I can remember now... This royal garden|was my sister's favorite place. We used to|play here together as children."
   },
   "169": {
-    "「あの子が　なぜ　聖地のチカラを|　我が物としようとしたのか|　ずっと　わからずにいたのですが……": "How did she know about the power of the Holy|Land?, I tried to find it myself, but.."
+    "「あの子が　なぜ　聖地のチカラを|　我が物としようとしたのか|　ずっと　わからずにいたのですが……": "How did she know about the power of the Holy|Land? I tried to find it myself, but.."
   },
   "170": {
-    "「ニコロイより　リタの部屋にあった日記を|　見せてもらって　ようやく　得心が行きました。": "When Nikolai showed me the diary that was in|Rita's room, I finally understood..."
+    "「ニコロイより　リタの部屋にあった日記を|　見せてもらって　ようやく　得心が行きました。": "When Nicolai showed me the diary that was in|Rita's room, I finally understood..."
   },
   "171": {
     "「あの子が聖地のチカラを求めたのは……|　私の病を　治すためだったのですね……。": "The reason she sought the power of the Holy|Land... Was to cure me of my illness..."
@@ -543,7 +543,7 @@
     "「では　<cs_pchero>よ。|　これより　聖地へと入るとしよう。": "Well, <cs_pchero>. We can enter the sanctuary..."
   },
   "182": {
-    "「さあ　ニコロイ。|　黄金の指輪を　泉に投げ入れなさい。|　聖地への扉を　開きましょう。": "Now, Nicoloi, cast the Golden Ring into the|fountain and that should open the gates to the|Holy Land..."
+    "「さあ　ニコロイ。|　黄金の指輪を　泉に投げ入れなさい。|　聖地への扉を　開きましょう。": "Now, Nicolai, cast the Golden Ring into the|fountain and that should open the gates to the|Holy Land..."
   },
   "183": {
     "「はい　母上。": "Yes..."
@@ -588,7 +588,7 @@
     "「私は　怪蟲アラグネ……。|　この大陸を　死と絶望で染めるために|　暗黒大樹より　生まれでた者。": "I am Araniad... I was born from the Great|Dark Tree to stain this continent with death|and despair..."
   },
   "197": {
-    "「私の　愛しい　ニコロイ坊や。|　この母に会えて　うれしかったかい？|　家族を取り戻せたとでも　思ったかい？": "My dear Nicoloi... Were you happy to see your|mother? Did you feel like you had your family|back?"
+    "「私の　愛しい　ニコロイ坊や。|　この母に会えて　うれしかったかい？|　家族を取り戻せたとでも　思ったかい？": "My dear Nicolai, Were you happy to see your|mother? Did you feel like you had your family|back?"
   },
   "198": {
     "「ふふふ……。お前の　病弱な母なら|　とっくの昔に　この世を去ったよ。|　殺したのは　この私。": "Mmm... Your sickly mother left|this world a long time ago... I killed her..."
@@ -756,7 +756,7 @@
     "「しかし……　あの地は　不吉で恐ろしい土地だ。|　わしは　王の身が　心配でならん。": "But... The land is ominous and terrible. And|I fear for the king's life."
   },
   "253": {
-    "「そなたは　王に　会いたいのだろう？|　ならば　捨てられた城まで|　ニコロイ王の様子を　見にいってはくれんか？": "You want to see your king, don't you? Then|why don't you go to the abandoned castle and|check on King Nicoloi?"
+    "「そなたは　王に　会いたいのだろう？|　ならば　捨てられた城まで|　ニコロイ王の様子を　見にいってはくれんか？": "You want to see your king, don't you? Then|why don't you go to the abandoned castle and|check on King Nicolai?"
   },
   "254": {
     "「先ほど行かせた　キュウスケも|　かなりの手練れだが　彼ひとりでは|　難儀するかもしれんからな。": "Kyusuke, who I just sent over, is quite|skilled, but he might have trouble doing it|alone..."
@@ -777,7 +777,7 @@
     "「えへへへへっ。": "Heh heh..."
   },
   "260": {
-    "「おや　ニコロイ王子。|　おいしそうな　山ブドウじゃないですか。": "Oh, Nicoloi... That's a delicious looking|grape..."
+    "「おや　ニコロイ王子。|　おいしそうな　山ブドウじゃないですか。": "Oh, Nicolai... That's a delicious looking|grape..."
   },
   "261": {
     "「よく　お聞きなさい……|　あ　暗黒大樹の葉を　この城に……": "Now, listen to me| Oh, the leaves of the Dark Lord's tree, on this castle"
