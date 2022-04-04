@@ -174,7 +174,7 @@
     "<%sCAS_monster>は|メラストームを　となえた！|<auto_bw=3000><close>": "<%sCAS_monster> casts Kerfrizzle!<auto_bw=3000><close>"
   },
   "59": {
-    "<%sCAS_monster>は　地面をたたきつけた！|<auto_bw=3000><close>": "<%sCAS_monster> has hit the ground running!<auto_bw=3000><close>"
+    "<%sCAS_monster>は　地面をたたきつけた！|<auto_bw=3000><close>": "<%sCAS_monster> slammed the ground!<auto_bw=3000><close>"
   },
   "60": {
     "レインボースライムの　おしつぶし！|<auto_bw=3000><close>": "Rainbow Slime Crush!<auto_bw=3000><close>"

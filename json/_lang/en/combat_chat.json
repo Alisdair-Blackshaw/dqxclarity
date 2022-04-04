@@ -12,7 +12,7 @@
     "clarity_nt_char_4": "clarity_nt_char_4"
   },
   "5": {
-    "<%sB_TARGET_RPL>に|<%sB_ACTION>！": "<%sB_ACTION> on <%sB_TARGET_RPL>!"
+    "<%sB_TARGET_RPL>に|<%sB_ACTION>！": "<%sB_ACTION> on|<%sB_TARGET_RPL>!"
   },
   "6": {
     "<%sB_ACTION>！": "<%sB_ACTION>!"
@@ -156,7 +156,7 @@
     "こんらんして|おびえている": "Confused and|frightened!"
   },
   "53": {
-    "フワフワしている": "Fluffy"
+    "フワフワしている": "Fluffing around!"
   },
   "54": {
     "clarity_nt_char_54": "clarity_nt_char_54"
@@ -918,7 +918,7 @@
     "いとしいリィン……|我はお前がほしい！": ""
   },
   "307": {
-    "闇よ！ 呪文を封ぜよ！": ""
+    "闇よ！ 呪文を封ぜよ！": "O Darkness!|Seal spells!"
   },
   "308": {
     "俺がキミを守る！": ""
@@ -999,7 +999,7 @@
     "clarity_nt_char_333": "clarity_nt_char_333"
   },
   "334": {
-    "くそッ！ここまで　私が|追いつめられるとは……": ""
+    "くそッ！ここまで　私が|追いつめられるとは……": "Damn! Never thought|you'd get this far..."
   },
   "335": {
     "アゲていこうぜ！": ""
@@ -1035,7 +1035,7 @@
     "☆☆☆": ""
   },
   "346": {
-    "<%sB_TARGET_RPL>よ！|<%sB_ACTION>！": "Hey, <%sB_ACTION>!|<%sB_ACTION>!"
+    "<%sB_TARGET_RPL>よ！|<%sB_ACTION>！": "Hey, <%sB_TARGET_RPL>!|<%sB_ACTION>!"
   },
   "347": {
     "clarity_nt_char_347": "clarity_nt_char_347"
@@ -1068,7 +1068,7 @@
     "購買に並べちゃうわよ♪": ""
   },
   "357": {
-    "<%sB_TARGET_RPL>を|みつめている……": ""
+    "<%sB_TARGET_RPL>を|みつめている……": "Staring closely at|<%sB_TARGET_RPL>..."
   },
   "358": {
     "clarity_nt_char_358": "clarity_nt_char_358"
@@ -1077,7 +1077,7 @@
     "あまたの生命よ|我に力を貸したまえ": ""
   },
   "360": {
-    "<%sB_ACTOR>は|しずかに泣いている": ""
+    "<%sB_ACTOR>は|しずかに泣いている": "<%sB_ACTOR> is|quietly crying..."
   },
   "361": {
     "clarity_nt_char_361": "clarity_nt_char_361"
@@ -1089,7 +1089,7 @@
     "不気味に微笑み|詠唱をはじめた……": ""
   },
   "364": {
-    "<%sB_ACTOR>は|とまどっている": ""
+    "<%sB_ACTOR>は|とまどっている": "<%sB_ACTOR>|is puzzled."
   },
   "365": {
     "clarity_nt_char_365": "clarity_nt_char_365"
@@ -1152,7 +1152,7 @@
     "逆巻け 荒波よ": ""
   },
   "385": {
-    "私が守るわ！": ""
+    "私が守るわ！": "I'll protect you!"
   },
   "386": {
     "clarity_nt_char_386": "clarity_nt_char_386"
@@ -1164,7 +1164,7 @@
     "相手の動きを封じます！": ""
   },
   "389": {
-    "<%sB_ACTOR>は|もがき苦しんでいる": ""
+    "<%sB_ACTOR>は|もがき苦しんでいる": "<%sB_ACTOR>|is struggling..."
   },
   "390": {
     "clarity_nt_char_390": "clarity_nt_char_390"
@@ -1215,7 +1215,7 @@
     "グランゼニスの小僧が！！|我に楯突くなど許されぬ！": ""
   },
   "406": {
-    "滅びこそ わが よろこび": ""
+    "滅びこそ わが よろこび": "Joyous destruction!"
   },
   "407": {
     "clarity_nt_char_407": "clarity_nt_char_407"
@@ -1302,7 +1302,7 @@
     "<%sB_TARGET_RPL>に|こうげき！": "Attacked|<%sB_TARGET_RPL>!"
   },
   "435": {
-    "没収してやるニャン！": ""
+    "没収してやるニャン！": "That's meowne!"
   },
   "436": {
     "clarity_nt_char_436": "clarity_nt_char_436"
@@ -1329,10 +1329,10 @@
     "clarity_nt_char_443": "clarity_nt_char_443"
   },
   "444": {
-    "<%sB_TARGET_RPL>に|ベホマ": ""
+    "<%sB_TARGET_RPL>に|ベホマ": "Fullheal on|<%sB_TARGET_RPL>!"
   },
   "445": {
-    "はげしく斬りつける": ""
+    "はげしく斬りつける": "Robochop"
   },
   "446": {
     "あとはまかせた！": ""
@@ -1347,19 +1347,19 @@
     "clarity_nt_char_449": "clarity_nt_char_449"
   },
   "450": {
-    "おいでなさい": ""
+    "おいでなさい": "Welcome"
   },
   "451": {
     "clarity_nt_char_451": "clarity_nt_char_451"
   },
   "452": {
-    "わるあがき！": ""
+    "わるあがき！": "It's useless!"
   },
   "453": {
     "clarity_nt_char_453": "clarity_nt_char_453"
   },
   "454": {
-    "<%sB_ACTOR>は|あそびはじめた！": ""
+    "<%sB_ACTOR>は|あそびはじめた！": "<%sB_ACTOR>|started playing!"
   },
   "455": {
     "働く姿こそ|美しいのデス！": ""
@@ -1386,7 +1386,7 @@
     "やる気スイッチを|押してさしあげマス！": ""
   },
   "463": {
-    "働けッ！　働けッ！": ""
+    "働けッ！　働けッ！": "Work! Work!"
   },
   "464": {
     "キョキョキョ！|働くのデス！！": ""
@@ -1437,97 +1437,97 @@
     "<%sB_TARGET_RPL>に|<%sB_ACTION>をしてあげた！": ""
   },
   "480": {
-    "魔力の負荷が|パドレを蝕んでいる": ""
+    "魔力の負荷が|パドレを蝕んでいる": "The magical strain is|eating away at Padre..."
   },
   "481": {
     "clarity_nt_char_481": "clarity_nt_char_481"
   },
   "482": {
-    "おめえら久しぶりだな！": ""
+    "おめえら久しぶりだな！": "Long time no see!"
   },
   "483": {
-    "きまぐれな攻撃力アップ|天に向かって　ほえた！": ""
+    "きまぐれな攻撃力アップ|天に向かって　ほえた！": "Attack increased!|Yelled at the sky!"
   },
   "484": {
-    "きまぐれな守備力アップ|貝の気持ちになってみた！": ""
+    "きまぐれな守備力アップ|貝の気持ちになってみた！": "Defense increased!|BE the shell..."
   },
   "485": {
     "clarity_nt_char_485": "clarity_nt_char_485"
   },
   "486": {
-    "きまぐれな速度アップ|柔軟体操を　はじめた！": ""
+    "きまぐれな速度アップ|柔軟体操を　はじめた！": "Move speed up!|Work those glutes!"
   },
   "487": {
     "clarity_nt_char_487": "clarity_nt_char_487"
   },
   "488": {
-    "きまぐれな呪文耐性アップ|デタラメな呪文を言った！": ""
+    "きまぐれな呪文耐性アップ|デタラメな呪文を言った！": "Spell resistance up!|Chanted nonsense!"
   },
   "489": {
-    "きまぐれなテンション|ムフフなことを考えた！": ""
+    "きまぐれなテンション|ムフフなことを考えた！": "Tension boost!|Can't think straight..."
   },
   "490": {
     "clarity_nt_char_490": "clarity_nt_char_490"
   },
   "491": {
-    "きまぐれな攻撃力ダウン|怪しい薬を飲みほした！": ""
+    "きまぐれな攻撃力ダウン|怪しい薬を飲みほした！": "Attack decreased!|Don't do drugs!"
   },
   "492": {
-    "きまぐれな守備力ダウン|自分の弱点をさけんだ！": ""
+    "きまぐれな守備力ダウン|自分の弱点をさけんだ！": "Defense decreased!|You're so weak!"
   },
   "493": {
-    "きまぐれな速度ダウン|カメの気持ちになった！": ""
+    "きまぐれな速度ダウン|カメの気持ちになった！": "Move speed down!|Feel like a turtle..."
   },
   "494": {
     "clarity_nt_char_494": "clarity_nt_char_494"
   },
   "495": {
-    "きまぐれな呪文耐性ダウン|今朝の悪夢を思いだした！": ""
+    "きまぐれな呪文耐性ダウン|今朝の悪夢を思いだした！": "Spell resistance down!|Ah! Nightmares!!"
   },
   "496": {
-    "きまぐれな幻惑攻撃|砂ぼこりを立てた！": ""
+    "きまぐれな幻惑攻撃|砂ぼこりを立てた！": "Blind attack!|Blew dust around!"
   },
   "497": {
-    "きまぐれな笑い攻撃|渾身の恥ずかしいダンス！": ""
+    "きまぐれな笑い攻撃|渾身の恥ずかしいダンス！": "Laugh attack!|You call THAT dancing?!"
   },
   "498": {
     "clarity_nt_char_498": "clarity_nt_char_498"
   },
   "499": {
-    "きまぐれなマヒ攻撃|ヘンなお香をふりまいた！": ""
+    "きまぐれなマヒ攻撃|ヘンなお香をふりまいた！": "Paralysis attack!|Truly shocking."
   },
   "500": {
     "clarity_nt_char_500": "clarity_nt_char_500"
   },
   "501": {
-    "きまぐれな呪い攻撃|降霊術を　やってみた！": ""
+    "きまぐれな呪い攻撃|降霊術を　やってみた！": "Curse attack!|Speak to me, spirits!"
   },
   "502": {
-    "きまぐれな地雷攻撃|ヘンな粉を　ばらまいた。": ""
+    "きまぐれな地雷攻撃|ヘンな粉を　ばらまいた。": "Landmine attack!|What is this powder?"
   },
   "503": {
     "clarity_nt_char_503": "clarity_nt_char_503"
   },
   "504": {
-    "きまぐれな爆弾攻撃|危険物を放置した。": ""
+    "きまぐれな爆弾攻撃|危険物を放置した。": "Bomb attack!|Careful, it's dangerous!"
   },
   "505": {
-    "きまぐれな罠|クモの巣をしかけた。": ""
+    "きまぐれな罠|クモの巣をしかけた。": "It's a trap!|These webs are sticky."
   },
   "506": {
-    "きまぐれなバナナ攻撃|おサルさんごっこ！": ""
+    "きまぐれなバナナ攻撃|おサルさんごっこ！": "Banana attack!|Monkey see, monkey do!"
   },
   "507": {
     "clarity_nt_char_507": "clarity_nt_char_507"
   },
   "508": {
-    "きまぐれなシールド陣|バリバリバーリア！": ""
+    "きまぐれなシールド陣|バリバリバーリア！": "Shield Circle!|Don't die!"
   },
   "509": {
     "clarity_nt_char_509": "clarity_nt_char_509"
   },
   "510": {
-    "きまぐれな回復陣|やさしさをふりまいた。": ""
+    "きまぐれな回復陣|やさしさをふりまいた。": "Recover Circle!|It feels nice."
   },
   "511": {
     "clarity_nt_char_511": "clarity_nt_char_511"
@@ -1539,106 +1539,106 @@
     "この姿である間|私に手は出せませんよ！": ""
   },
   "514": {
-    "Ｐ８９０を解析中……|まもなく解析完了……": ""
+    "Ｐ８９０を解析中……|まもなく解析完了……": "Analyzing P890...|Please wait..."
   },
   "515": {
-    "パドレは苦しそうに|顔を歪めている": ""
+    "パドレは苦しそうに|顔を歪めている": "Padre's face is|twisted in pain..."
   },
   "516": {
-    "きまぐれな攻撃力アップ|ふんばって　リキんだ！": ""
+    "きまぐれな攻撃力アップ|ふんばって　リキんだ！": "Attack increased!|Time to kick ass!"
   },
   "517": {
-    "きまぐれな攻撃力アップ|強くなる　おまじない！": ""
+    "きまぐれな攻撃力アップ|強くなる　おまじない！": "Attack increased!|Feeling stronger!"
   },
   "518": {
-    "きまぐれな守備力アップ|なんだか　緊張してきた！": ""
+    "きまぐれな守備力アップ|なんだか　緊張してきた！": "Defense increased!|Kinda nervous..."
   },
   "519": {
     "clarity_nt_char_519": "clarity_nt_char_519"
   },
   "520": {
-    "きまぐれな守備力アップ|腹筋にチカラを入れた！": ""
+    "きまぐれな守備力アップ|腹筋にチカラを入れた！": "Defense increased!|Work those abs!"
   },
   "521": {
-    "きまぐれな速度アップ|ヘンなポーズをとった！": ""
+    "きまぐれな速度アップ|ヘンなポーズをとった！": "Move speed up!|Struck a weird pose!"
   },
   "522": {
     "clarity_nt_char_522": "clarity_nt_char_522"
   },
   "523": {
-    "きまぐれな速度アップ|リミッターをはずした！": ""
+    "きまぐれな速度アップ|リミッターをはずした！": "Move speed up!|No more limits!"
   },
   "524": {
     "clarity_nt_char_524": "clarity_nt_char_524"
   },
   "525": {
-    "きまぐれな呪文耐性アップ|心のカラに閉じこもった！": ""
+    "きまぐれな呪文耐性アップ|心のカラに閉じこもった！": "Spell resistance up!|Free your heart..."
   },
   "526": {
-    "きまぐれな呪文耐性アップ|めいそうのポーズ！": ""
+    "きまぐれな呪文耐性アップ|めいそうのポーズ！": "Spell resistance up!|Meditative pose!"
   },
   "527": {
     "clarity_nt_char_527": "clarity_nt_char_527"
   },
   "528": {
-    "きまぐれなテンション|今晩のご飯を考えた！": ""
+    "きまぐれなテンション|今晩のご飯を考えた！": "Tension boost!|Dinner sounds good..."
   },
   "529": {
-    "きまぐれなテンション|自分をはげました！": ""
+    "きまぐれなテンション|自分をはげました！": "Tension boost!|Feeling pumped up!"
   },
   "530": {
     "clarity_nt_char_530": "clarity_nt_char_530"
   },
   "531": {
-    "きまぐれな攻撃力ダウン|脱力してリラックス！": ""
+    "きまぐれな攻撃力ダウン|脱力してリラックス！": "Attack decreased!|Some R&R!"
   },
   "532": {
     "clarity_nt_char_532": "clarity_nt_char_532"
   },
   "533": {
-    "きまぐれな守備力ダウン|装備を　はだけさせた！": ""
+    "きまぐれな守備力ダウン|装備を　はだけさせた！": "Defense decreased!|I'm gonna strip!"
   },
   "534": {
-    "きまぐれな速度ダウン|足をくじいてしまった！": ""
+    "きまぐれな速度ダウン|足をくじいてしまった！": "Move speed down!|Ow, my ankle!"
   },
   "535": {
     "clarity_nt_char_535": "clarity_nt_char_535"
   },
   "536": {
-    "きまぐれな呪文耐性ダウン|不敵に笑ってみた！": ""
+    "きまぐれな呪文耐性ダウン|不敵に笑ってみた！": "Speed resistance down!|Fearless smile!"
   },
   "537": {
     "clarity_nt_char_537": "clarity_nt_char_537"
   },
   "538": {
-    "きまぐれな幻惑攻撃|目を覆いたくなるダンス！": ""
+    "きまぐれな幻惑攻撃|目を覆いたくなるダンス！": "Blind attack!|That dance! My eyes!!"
   },
   "539": {
     "clarity_nt_char_539": "clarity_nt_char_539"
   },
   "540": {
-    "きまぐれな笑い攻撃|ヘニョヘニョと踊った！": ""
+    "きまぐれな笑い攻撃|ヘニョヘニョと踊った！": "Laugh attack!|I'm so flexible!"
   },
   "541": {
-    "きまぐれなマヒ攻撃|即興ビリビリダンス！": ""
+    "きまぐれなマヒ攻撃|即興ビリビリダンス！": "Paralysis attack!|Impromptu dance!"
   },
   "542": {
     "clarity_nt_char_542": "clarity_nt_char_542"
   },
   "543": {
-    "きまぐれな呪い攻撃|いけないあそび！": ""
+    "きまぐれな呪い攻撃|いけないあそび！": "Curse attack!|Foul play!"
   },
   "544": {
     "clarity_nt_char_544": "clarity_nt_char_544"
   },
   "545": {
-    "きまぐれな爆弾攻撃|自作の兵器を置いた。": ""
+    "きまぐれな爆弾攻撃|自作の兵器を置いた。": "Bomb attack!|????"
   },
   "546": {
     "clarity_nt_char_546": "clarity_nt_char_546"
   },
   "547": {
-    "きまぐれなバナナ攻撃|食べかけバナナを捨てた。": ""
+    "きまぐれなバナナ攻撃|食べかけバナナを捨てた。": "Banana attack!|It's half eaten..."
   },
   "548": {
     "ほほう　ただの祭とはいえ|その強さ……見事だ！": ""
