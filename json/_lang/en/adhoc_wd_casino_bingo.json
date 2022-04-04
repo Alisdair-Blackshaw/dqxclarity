@@ -21,19 +21,19 @@
     "<speed=0>ビンゴ券がありません。|ビンゴを終了します。<auto_bw=2500><close>": "<speed=0>You don't have any Bingo Tickets.|Bingo has ended.<auto_bw=2500><close>"
   },
   "8": {
-    "<speed=0>全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=2500><close>": "<speed=0>You have <%dM_coin> total Coins!<auto_bw=2500><close>"
+    "<speed=0>全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=2500><close>": "<speed=0>Received <%dM_coin> total Coins!<auto_bw=2500><close>"
   },
   "9": {
     "<speed=0>すべての抽選が　終了しました。<auto_bw=2500><close>": "<speed=0>All drawings have been completed.<auto_bw=2500><close>"
   },
   "10": {
-    "<speed=0>当選番号は <color_yellow><%2dM_Num><color_white>です！<auto_bw=2500><close>": "<speed=0>Winning number is <color_yellow><%2dM_Num><color_white>!<auto_bw=2500><close>"
+    "<speed=0>当選番号は <color_yellow><%2dM_Num><color_white>です！<auto_bw=2500><close>": "<speed=0>The winning number is <color_yellow><%2dM_Num><color_white>!<auto_bw=2500><close>"
   },
   "11": {
-    "<speed=0>マネマネは　モシャスをとなえた！<auto_br=2500>|なんと　ボールがひとつ　増えたようだ！<auto_bw=2500><close>": "<speed=0>Float-o-copier used Morph!<auto_br=2500>You received an extra ball!<auto_bw=2500><close>"
+    "<speed=0>マネマネは　モシャスをとなえた！<auto_br=2500>|なんと　ボールがひとつ　増えたようだ！<auto_bw=2500><close>": "<speed=0>Float-o-copier used Morph!<auto_br=2500>|You received an extra ball!<auto_bw=2500><close>"
   },
   "12": {
-    "<speed=0>エクストラオープン！|<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9>　<%sM_Num10><color_white><auto_bw=2500><close>": "<speed=0>Extra Open!<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9> <%sM_Num10><color_white><auto_bw=2500><close>"
+    "<speed=0>エクストラオープン！|<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9>　<%sM_Num10><color_white><auto_bw=2500><close>": "<speed=0>Extra Spaces!|<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9> <%sM_Num10><color_white><auto_bw=2500><close>"
   },
   "13": {
     "<speed=0>リーチ！<auto_bw=2500><close>": "<speed=0>Reach!<auto_bw=2500><close>"
@@ -42,7 +42,7 @@
     "<speed=0>リーチ×<%dM_Num>！<auto_bw=2500><close>": "<speed=0>Reach x<%dM_Num>!<auto_bw=2500><close>"
   },
   "15": {
-    "<speed=0><%dM_Num1>本の　ビンゴが完成しました！<auto_br=2500>|全部で　<%dM_Num2>本の　ビンゴがそろった！<auto_bw=2500><close>": "<speed=0>The <%dM_Num1> book bingo is complete!<auto_br=2500>All in all, we have <%dM_Num2> bottles of|bingo!<auto_bw=2500><close>"
+    "<speed=0><%dM_Num1>本の　ビンゴが完成しました！<auto_br=2500>|全部で　<%dM_Num2>本の　ビンゴがそろった！<auto_bw=2500><close>": "<speed=0>Completed <%dM_Num1> bingo line(s)!<auto_br=2500>|You now have <%dM_Num1> total line(s)!|<auto_bw=2500><close>"
   },
   "16": {
     "<speed=0>宝箱から|<%dM_coin>枚のコインを　手に入れた！<auto_bw=2500><close>": "<speed=0>Received <%dM_coin> Coins from chest!<auto_bw=2500><close>"
@@ -87,7 +87,7 @@
     "<speed=0>ベビーサタンが　あらわれた！<auto_bw=2000>|なんと　ベビーサタンは|ベビンゴサタンを　呼び出した！<auto_bw=2000>|ベビンゴサタンは　イオグランデをとなえた！<auto_bw=1700><close>": "<speed=0>An Imp draws near!<auto_bw=2000>|The Imp calls forth a Lil' Tyke!<auto_bw=2000>|The Lil' Tyke casts Kaboomle!<auto_bw=1700><close>"
   },
   "30": {
-    "<speed=0>ばくだん岩が　あらわれた！<auto_bw=2000>|ばくだん岩は　メガンテをとなえた！<auto_bw=1700><close>": "<speed=0>A Bombrock draws near!<auto_bw=2000>|The Rockbomb casts Kamikazee!<auto_bw=1700><close>"
+    "<speed=0>ばくだん岩が　あらわれた！<auto_bw=2000>|ばくだん岩は　メガンテをとなえた！<auto_bw=1700><close>": "<speed=0>A Rockbomb draws near!<auto_bw=2000>|The Rockbomb casts Kamikazee!<auto_bw=1700><close>"
   },
   "31": {
     "<speed=0>キラーマシンが　あらわれた！<auto_bw=2000>|キラーマシンの　ビーム攻撃！<auto_bw=1700><close>": "<speed=0>A Killing Machine draws near!<auto_bw=2000>|The Killer Machine uses Laser Strike!<auto_bw=1700><close>"
@@ -126,7 +126,7 @@
     "(空席)": "(Empty)"
   },
   "43": {
-    "参加者一覧(  /  )": "Players (  /  )"
+    "参加者一覧(  /  )": "Players   (   /   )"
   },
   "44": {
     "<speed=0>なんと　<pc>も|コイン<%dM_coin>枚を　手に入れた！<auto_bw=2500><close>": "<speed=0><pc> received <%dM_coin> Coins!<auto_bw=2500><close>"
