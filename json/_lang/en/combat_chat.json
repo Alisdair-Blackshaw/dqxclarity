@@ -303,7 +303,7 @@
     "なかまをよんだ": "Call Ally"
   },
   "102": {
-    "ぶんれつ": ""
+    "ぶんれつ": "Divide"
   },
   "103": {
     "clarity_nt_char_103": "clarity_nt_char_103"
@@ -438,13 +438,13 @@
     "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "147": {
-    "スー！ゴン！|気合いれていきますよ！": ""
+    "スー！ゴン！|気合いれていきますよ！": "Sue! Gon!|Let's go for it!"
   },
   "148": {
     "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "149": {
-    "みんな！元気だして！": ""
+    "みんな！元気だして！": "Cheer up, everyone!"
   },
   "150": {
     "clarity_nt_char_150": "clarity_nt_char_150"
@@ -528,16 +528,16 @@
     "clarity_nt_char_176": "clarity_nt_char_176"
   },
   "177": {
-    "次こそ本気モグ！|スタイルチェーンジ！": ""
+    "次こそ本気モグ！|スタイルチェーンジ！": "I won't go easy!|STYLE CHANGE!"
   },
   "178": {
-    "ワシの本気をみせるモグ！|スタイルチェーンジ！": "Now I'm gonna get serious!|STYLE CHANGE!"
+    "ワシの本気をみせるモグ！|スタイルチェーンジ！": "Now I'm getting serious!|STYLE CHANGE!"
   },
   "179": {
-    "このままではいかんモグ！|仕切り直しモグ！": ""
+    "このままではいかんモグ！|仕切り直しモグ！": "Can't go on like this!|Let's start over!"
   },
   "180": {
-    "いやん おっも～い！": ""
+    "いやん おっも～い！": "Oh, no! Oops!"
   },
   "181": {
     "clarity_nt_char_181": "clarity_nt_char_181"
@@ -690,7 +690,7 @@
     "clarity_nt_char_230": "clarity_nt_char_230"
   },
   "231": {
-    "シャドウを|呼んだ！": ""
+    "シャドウを|呼んだ！": "Called a Shadow!"
   },
   "232": {
     "clarity_nt_char_232": "clarity_nt_char_232"
@@ -1119,7 +1119,7 @@
     "clarity_nt_char_373": "clarity_nt_char_373"
   },
   "374": {
-    "ダメージ蓄積により|ダウンした！": "Downed from continual|damage!"
+    "ダメージ蓄積により|ダウンした！": "Downed from accumulated|damage!"
   },
   "375": {
     "clarity_nt_char_375": "clarity_nt_char_375"
@@ -1176,13 +1176,13 @@
     "clarity_nt_char_392": "clarity_nt_char_392"
   },
   "393": {
-    "すべてを押し流せ": ""
+    "すべてを押し流せ": "Push away everything!"
   },
   "394": {
     "clarity_nt_char_394": "clarity_nt_char_394"
   },
   "395": {
-    "これで終わりにしてくれる": ""
+    "これで終わりにしてくれる": "This will finish it."
   },
   "396": {
     "clarity_nt_char_396": "clarity_nt_char_396"
@@ -1335,7 +1335,7 @@
     "はげしく斬りつける": "Robochop"
   },
   "446": {
-    "あとはまかせた！": ""
+    "あとはまかせた！": "The rest is up to you!"
   },
   "447": {
     "clarity_nt_char_447": "clarity_nt_char_447"
@@ -1632,7 +1632,7 @@
     "clarity_nt_char_544": "clarity_nt_char_544"
   },
   "545": {
-    "きまぐれな爆弾攻撃|自作の兵器を置いた。": "Bomb attack!|????"
+    "きまぐれな爆弾攻撃|自作の兵器を置いた。": "Bomb attack!|It's home-made."
   },
   "546": {
     "clarity_nt_char_546": "clarity_nt_char_546"
