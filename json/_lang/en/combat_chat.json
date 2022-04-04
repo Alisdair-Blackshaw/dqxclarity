@@ -9687,10 +9687,10 @@
     "呪文耐性ダウン攻撃": ""
   },
   "3230": {
-    "ひかりのブレス": ""
+    "ひかりのブレス": "Blessed Breath"
   },
   "3231": {
-    "ヘルファイア": ""
+    "ヘルファイア": "Hellfire"
   },
   "3232": {
     "clarity_nt_char_3232": "clarity_nt_char_3232"
@@ -9726,7 +9726,7 @@
     "clarity_nt_char_3242": "clarity_nt_char_3242"
   },
   "3243": {
-    "デスファイア": ""
+    "デスファイア": "Deathfire"
   },
   "3244": {
     "clarity_nt_char_3244": "clarity_nt_char_3244"
@@ -9816,13 +9816,13 @@
     "clarity_nt_char_3272": "clarity_nt_char_3272"
   },
   "3273": {
-    "こおりのいき": ""
+    "こおりのいき": "Ice Breath"
   },
   "3274": {
     "clarity_nt_char_3274": "clarity_nt_char_3274"
   },
   "3275": {
-    "マジックシールド": ""
+    "マジックシールド": "Magic Shield"
   },
   "3276": {
     "clarity_nt_char_3276": "clarity_nt_char_3276"
@@ -9882,7 +9882,7 @@
     "clarity_nt_char_3294": "clarity_nt_char_3294"
   },
   "3295": {
-    "たつまき": ""
+    "たつまき": "Tornado"
   },
   "3296": {
     "clarity_nt_char_3296": "clarity_nt_char_3296"
@@ -9897,7 +9897,7 @@
     "アップリケ": "Applique"
   },
   "3300": {
-    "サンドブレス": ""
+    "サンドブレス": "Sand Breath"
   },
   "3301": {
     "clarity_nt_char_3301": "clarity_nt_char_3301"
@@ -9909,10 +9909,10 @@
     "clarity_nt_char_3303": "clarity_nt_char_3303"
   },
   "3304": {
-    "あまいいき": ""
+    "あまいいき": "Sweet Breath"
   },
   "3305": {
-    "どくのいき": ""
+    "どくのいき": "Poison Breath"
   },
   "3306": {
     "怒りの突撃": ""
@@ -9921,7 +9921,7 @@
     "もうどくのきり": "Deadly Poison Fog"
   },
   "3308": {
-    "連撃": ""
+    "連撃": "Volley"
   },
   "3309": {
     "clarity_nt_char_3309": "clarity_nt_char_3309"
@@ -9933,7 +9933,7 @@
     "clarity_nt_char_3311": "clarity_nt_char_3311"
   },
   "3312": {
-    "呪いのきり": ""
+    "呪いのきり": "Cursed Cut"
   },
   "3313": {
     "絶対零度": "Ice Age"
@@ -9951,7 +9951,7 @@
     "clarity_nt_char_3317": "clarity_nt_char_3317"
   },
   "3318": {
-    "ダンスフィーバー": ""
+    "ダンスフィーバー": "Dance Fever"
   },
   "3319": {
     "clarity_nt_char_3319": "clarity_nt_char_3319"
@@ -9975,10 +9975,10 @@
     "メダパニダンス": "Fuddle Dance"
   },
   "3326": {
-    "創生の魔力": ""
+    "創生の魔力": "Creation Magic"
   },
   "3327": {
-    "創生の魔力開放！": ""
+    "創生の魔力開放！": "Release|Creation Magic!"
   },
   "3328": {
     "clarity_nt_char_3328": "clarity_nt_char_3328"
@@ -9996,7 +9996,7 @@
     "針百本": "100 N."
   },
   "3333": {
-    "ふしぎなおどり": ""
+    "ふしぎなおどり": "Weird Dance"
   },
   "3334": {
     "針万本": "10000 N."
@@ -10005,7 +10005,7 @@
     "闇のころも": "Dark Cloak"
   },
   "3336": {
-    "魔法の角笛": ""
+    "魔法の角笛": "Magic Horn"
   },
   "3337": {
     "まりょくのうた": "Song of Magic"
@@ -10014,7 +10014,7 @@
     "ネクロゴンドの波動": ""
   },
   "3339": {
-    "死のおどり": ""
+    "死のおどり": "Death Dance"
   },
   "3340": {
     "ひつじかぞえ歌": "Sheep Counting Song"
@@ -10023,7 +10023,7 @@
     "たたかいのうた": "Gritty Ditty"
   },
   "3342": {
-    "バーストウィップ": ""
+    "バーストウィップ": "Burst Whip"
   },
   "3343": {
     "clarity_nt_char_3343": "clarity_nt_char_3343"
@@ -10047,16 +10047,16 @@
     "呪いのうた": "Cursed Verse"
   },
   "3350": {
-    "呪いのおどり": ""
+    "呪いのおどり": "Cursed Dance"
   },
   "3351": {
     "clarity_nt_char_3351": "clarity_nt_char_3351"
   },
   "3352": {
-    "グリンチリウィップ": ""
+    "グリンチリウィップ": "Green Chili Whip"
   },
   "3353": {
-    "ホットスパイス": ""
+    "ホットスパイス": "Hot Spice"
   },
   "3354": {
     "奈落の舞い": "Abyss Dance"
@@ -10080,7 +10080,7 @@
     "clarity_nt_char_3360": "clarity_nt_char_3360"
   },
   "3361": {
-    "バイパーダガー": ""
+    "バイパーダガー": "Viper Dagger"
   },
   "3362": {
     "ドラゴンソード": "Dragon Smash"
@@ -10122,7 +10122,7 @@
     "コードゼロ": "Code Zero"
   },
   "3375": {
-    "テールアタック": ""
+    "テールアタック": "Tail Attack"
   },
   "3376": {
     "竜のおたけび": ""
@@ -10155,7 +10155,7 @@
     "まくら投げ": ""
   },
   "3386": {
-    "レッドチリウィップ": ""
+    "レッドチリウィップ": "Red Chili Whip"
   },
   "3387": {
     "ももいろシャワー": ""
@@ -10185,7 +10185,7 @@
     "スクリーム": "Scream"
   },
   "3396": {
-    "フラッド": ""
+    "フラッド": "Flood"
   },
   "3397": {
     "clarity_nt_char_3397": "clarity_nt_char_3397"
@@ -10212,7 +10212,7 @@
     "あやしいほうし": ""
   },
   "3405": {
-    "すみ攻撃": ""
+    "すみ攻撃": "Ink Attack"
   },
   "3406": {
     "clarity_nt_char_3406": "clarity_nt_char_3406"
@@ -10221,7 +10221,7 @@
     "マヌーサエキス": ""
   },
   "3408": {
-    "ヘルサークル": ""
+    "ヘルサークル": "Hell Circle"
   },
   "3409": {
     "clarity_nt_char_3409": "clarity_nt_char_3409"
@@ -10245,10 +10245,10 @@
     "clarity_nt_char_3415": "clarity_nt_char_3415"
   },
   "3416": {
-    "毒攻撃": ""
+    "毒攻撃": "Toxic"
   },
   "3417": {
-    "セクシービーム": ""
+    "セクシービーム": "Sexy Beam"
   },
   "3418": {
     "連続かみつき": ""
@@ -10257,7 +10257,7 @@
     "clarity_nt_char_3419": "clarity_nt_char_3419"
   },
   "3420": {
-    "火球連弾": ""
+    "火球連弾": "Firebolide"
   },
   "3421": {
     "clarity_nt_char_3421": "clarity_nt_char_3421"
@@ -10269,13 +10269,13 @@
     "clarity_nt_char_3423": "clarity_nt_char_3423"
   },
   "3424": {
-    "爆走": ""
+    "爆走": "Noisy"
   },
   "3425": {
     "clarity_nt_char_3425": "clarity_nt_char_3425"
   },
   "3426": {
-    "テンション下げ攻撃": ""
+    "テンション下げ攻撃": "Tension Down Attack"
   },
   "3427": {
     "マッスルポーズ": "Muscle Flex"
@@ -10305,7 +10305,7 @@
     "clarity_nt_char_3435": "clarity_nt_char_3435"
   },
   "3436": {
-    "藍碧の宝珠": ""
+    "藍碧の宝珠": "Blue Jewel"
   },
   "3437": {
     "花火": "Fworks"
@@ -10314,31 +10314,31 @@
     "clarity_nt_char_3438": "clarity_nt_char_3438"
   },
   "3439": {
-    "こうげきツメ": ""
+    "こうげきツメ": "Claw Attack"
   },
   "3440": {
     "clarity_nt_char_3440": "clarity_nt_char_3440"
   },
   "3441": {
-    "クラッカー": ""
+    "クラッカー": "Crackers"
   },
   "3442": {
     "たんすマグナム": "Dresser Magnum"
   },
   "3443": {
-    "ファイガIII": ""
+    "ファイガIII": "Firaga III"
   },
   "3444": {
     "ガリバーハンド": "Gulliver Hand"
   },
   "3445": {
-    "ふういんのはどう": ""
+    "ふういんのはどう": "Sealing Wave"
   },
   "3446": {
     "clarity_nt_char_3446": "clarity_nt_char_3446"
   },
   "3447": {
-    "ミステリーダンス": ""
+    "ミステリーダンス": "Mystery Dance"
   },
   "3448": {
     "clarity_nt_char_3448": "clarity_nt_char_3448"
@@ -10347,7 +10347,7 @@
     "ハッピーブレス": "Boogie Breath"
   },
   "3450": {
-    "アシッドブレス": ""
+    "アシッドブレス": "Acid Breath"
   },
   "3451": {
     "マホトラハット": "Magical Hat"
@@ -10395,61 +10395,61 @@
     "clarity_nt_char_3465": "clarity_nt_char_3465"
   },
   "3466": {
-    "料理　サラダ": ""
+    "料理　サラダ": "Making Salad"
   },
   "3467": {
     "clarity_nt_char_3467": "clarity_nt_char_3467"
   },
   "3468": {
-    "料理　デザート": ""
+    "料理　デザート": "Making Dessert"
   },
   "3469": {
-    "料理　丼": ""
+    "料理　丼": "Making Rice"
   },
   "3470": {
     "clarity_nt_char_3470": "clarity_nt_char_3470"
   },
   "3471": {
-    "料理　パスタ": ""
+    "料理　パスタ": "Making Pasta"
   },
   "3472": {
     "clarity_nt_char_3472": "clarity_nt_char_3472"
   },
   "3473": {
-    "料理　ピラフ": ""
+    "料理　ピラフ": "Making Pilaf"
   },
   "3474": {
     "clarity_nt_char_3474": "clarity_nt_char_3474"
   },
   "3475": {
-    "料理　卵": ""
+    "料理　卵": "Making Eggs"
   },
   "3476": {
     "clarity_nt_char_3476": "clarity_nt_char_3476"
   },
   "3477": {
-    "料理　ステーキ": ""
+    "料理　ステーキ": "Making Steak"
   },
   "3478": {
-    "料理　魚": ""
+    "料理　魚": "Making Fish"
   },
   "3479": {
     "clarity_nt_char_3479": "clarity_nt_char_3479"
   },
   "3480": {
-    "料理　シチュー白": ""
+    "料理　シチュー白": "Making White Stew"
   },
   "3481": {
     "clarity_nt_char_3481": "clarity_nt_char_3481"
   },
   "3482": {
-    "料理　シチュー茶": ""
+    "料理　シチュー茶": "Making Brown Stew"
   },
   "3483": {
     "clarity_nt_char_3483": "clarity_nt_char_3483"
   },
   "3484": {
-    "料理　サンドイッチ": ""
+    "料理　サンドイッチ": "Making Sandwich"
   },
   "3485": {
     "マジカルチョコ": "Magical Chocolate"
@@ -10494,7 +10494,7 @@
     "グレイブホール": "Grave Hole"
   },
   "3499": {
-    "あなうめ": ""
+    "あなうめ": "Fill Hole"
   },
   "3500": {
     "clarity_nt_char_3500": "clarity_nt_char_3500"
@@ -10515,7 +10515,7 @@
     "くちふうじ踊り": "Silence Dance"
   },
   "3506": {
-    "ＢＢＱスティンガー": ""
+    "ＢＢＱスティンガー": "BBQ Stinger"
   },
   "3507": {
     "のろいの言霊": ""
@@ -10545,10 +10545,10 @@
     "clarity_nt_char_3515": "clarity_nt_char_3515"
   },
   "3516": {
-    "アクアガイザー": ""
+    "アクアガイザー": "Aqua Geyser"
   },
   "3517": {
-    "潮風のララバイ": ""
+    "潮風のララバイ": "Sea Breeze Lullaby"
   },
   "3518": {
     "海魔神の怒り": "Sea God's Wrath"
@@ -10557,7 +10557,7 @@
     "clarity_nt_char_3519": "clarity_nt_char_3519"
   },
   "3520": {
-    "突撃": ""
+    "突撃": "Charge"
   },
   "3521": {
     "clarity_nt_char_3521": "clarity_nt_char_3521"
@@ -10578,13 +10578,13 @@
     "clarity_nt_char_3526": "clarity_nt_char_3526"
   },
   "3527": {
-    "分身": ""
+    "分身": "Avatar"
   },
   "3528": {
     "clarity_nt_char_3528": "clarity_nt_char_3528"
   },
   "3529": {
-    "咆哮": ""
+    "咆哮": "Roar"
   },
   "3530": {
     "clarity_nt_char_3530": "clarity_nt_char_3530"
@@ -10611,7 +10611,7 @@
     "みかわし草": ""
   },
   "3538": {
-    "魔力の葉っぱ": ""
+    "魔力の葉っぱ": "Magical Leaf"
   },
   "3539": {
     "clarity_nt_char_3539": "clarity_nt_char_3539"
@@ -10629,7 +10629,7 @@
     "clarity_nt_char_3543": "clarity_nt_char_3543"
   },
   "3544": {
-    "ヒップアタック": ""
+    "ヒップアタック": "Hip Attack"
   },
   "3545": {
     "プチっとかくせい": "Channel Tantrum"
@@ -10653,7 +10653,7 @@
     "clarity_nt_char_3551": "clarity_nt_char_3551"
   },
   "3552": {
-    "メガどくどくガス": ""
+    "メガどくどくガス": "Mega Toxic Gas"
   },
   "3553": {
     "clarity_nt_char_3553": "clarity_nt_char_3553"
@@ -10662,7 +10662,7 @@
     "妖毒陣": ""
   },
   "3555": {
-    "なげきのさけび": ""
+    "なげきのさけび": "Cry of Pain"
   },
   "3556": {
     "ベリンダバスター": "Belinda Buster"
@@ -10674,16 +10674,16 @@
     "恐怖の縛鎖": ""
   },
   "3559": {
-    "どくどくガス": ""
+    "どくどくガス": "Toxic Gas"
   },
   "3560": {
     "clarity_nt_char_3560": "clarity_nt_char_3560"
   },
   "3561": {
-    "ラブリースピン": ""
+    "ラブリースピン": "Lovely Spin"
   },
   "3562": {
-    "熱血！ダイカイテン！": ""
+    "熱血！ダイカイテン！": "Woo! Big Spin!"
   },
   "3563": {
     "clarity_nt_char_3563": "clarity_nt_char_3563"
@@ -10710,22 +10710,22 @@
     "clarity_nt_char_3570": "clarity_nt_char_3570"
   },
   "3571": {
-    "本気出す": ""
+    "本気出す": "Get Serious"
   },
   "3572": {
     "clarity_nt_char_3572": "clarity_nt_char_3572"
   },
   "3573": {
-    "やるきのキノコ": ""
+    "やるきのキノコ": "Motivating Mushroom"
   },
   "3574": {
-    "プーちゃん風船": ""
+    "プーちゃん風船": "Pu-chan Balloon"
   },
   "3575": {
-    "クーちゃん風船": ""
+    "クーちゃん風船": "Ku-chan Balloon"
   },
   "3576": {
-    "リポちゃん風船": ""
+    "リポちゃん風船": "Lipo-chan Balloon"
   },
   "3577": {
     "ふしぎな小箱": "Mysterious Box"
@@ -10734,13 +10734,13 @@
     "clarity_nt_char_3578": "clarity_nt_char_3578"
   },
   "3579": {
-    "やるきのイチゴ": ""
+    "やるきのイチゴ": "Motivating Strawberry"
   },
   "3580": {
-    "痺れ糸": ""
+    "痺れ糸": "Numb Yarn"
   },
   "3581": {
-    "闇の炎": ""
+    "闇の炎": "Dark Fire"
   },
   "3582": {
     "魔女の舞踏会": ""
@@ -10812,7 +10812,7 @@
     "ロマネスクなカラー": ""
   },
   "3605": {
-    "ルネッサンスウェーブ": ""
+    "ルネッサンスウェーブ": "Renaissance Wave"
   },
   "3606": {
     "clarity_nt_char_3606": "clarity_nt_char_3606"
@@ -10830,7 +10830,7 @@
     "clarity_nt_char_3610": "clarity_nt_char_3610"
   },
   "3611": {
-    "レッドホットミスト": ""
+    "レッドホットミスト": "Red Hot Mist"
   },
   "3612": {
     "カプサイシンドローム": "Capsai Syndrome"
@@ -10851,13 +10851,13 @@
     "clarity_nt_char_3617": "clarity_nt_char_3617"
   },
   "3618": {
-    "おかし": ""
+    "おかし": "Sweets"
   },
   "3619": {
     "最後の審判": "Last Judgment"
   },
   "3620": {
-    "ラムネシャワー": ""
+    "ラムネシャワー": "Ramune Shower"
   },
   "3621": {
     "りゅうせいよび": "Call Meteor"
@@ -10872,10 +10872,10 @@
     "clarity_nt_char_3624": "clarity_nt_char_3624"
   },
   "3625": {
-    "ブレイクブレス": ""
+    "ブレイクブレス": "Break Breath"
   },
   "3626": {
-    "グラビティハンマー": ""
+    "グラビティハンマー": "Gravity Hammer"
   },
   "3627": {
     "祝福の光": ""
@@ -10920,7 +10920,7 @@
     "英雄王の領域・設置": ""
   },
   "3641": {
-    "ガラクタボックス": ""
+    "ガラクタボックス": "Box o' Junk"
   },
   "3642": {
     "clarity_nt_char_3642": "clarity_nt_char_3642"
@@ -11031,7 +11031,7 @@
     "clarity_nt_char_3677": "clarity_nt_char_3677"
   },
   "3678": {
-    "ワールドチェンジ": ""
+    "ワールドチェンジ": "World Change"
   },
   "3679": {
     "clarity_nt_char_3679": "clarity_nt_char_3679"
@@ -11142,7 +11142,7 @@
     "clarity_nt_char_3714": "clarity_nt_char_3714"
   },
   "3715": {
-    "ベタン": ""
+    "ベタン": "Donk"
   },
   "3716": {
     "闇のたつまき": ""
@@ -11172,7 +11172,7 @@
     "clarity_nt_char_3724": "clarity_nt_char_3724"
   },
   "3725": {
-    "リモートリペア": ""
+    "リモートリペア": "Remote Repair"
   },
   "3726": {
     "ダークネスショット": "Darkness Shot"
@@ -11187,7 +11187,7 @@
     "ギガスロー": "Gigathrow"
   },
   "3730": {
-    "刺突": ""
+    "刺突": "Thrust"
   },
   "3731": {
     "clarity_nt_char_3731": "clarity_nt_char_3731"
@@ -11211,7 +11211,7 @@
     "プラネットレーザー": "Planet Laser"
   },
   "3738": {
-    "コスモパワー": ""
+    "コスモパワー": "Cosmo Power"
   },
   "3739": {
     "clarity_nt_char_3739": "clarity_nt_char_3739"
@@ -11235,7 +11235,7 @@
     "スフィンクスの咆哮": "Sphinx's Roar"
   },
   "3746": {
-    "ファラオの召喚": ""
+    "ファラオの召喚": "Summon Pharaoh"
   },
   "3747": {
     "太陽神の鉄槌": ""
@@ -11244,7 +11244,7 @@
     "clarity_nt_char_3748": "clarity_nt_char_3748"
   },
   "3749": {
-    "ダークダウンブレス": ""
+    "ダークダウンブレス": "Dark Down Breath"
   },
   "3750": {
     "竜閃砲": ""
@@ -11271,25 +11271,25 @@
     "パパのメガザル": "Papa's Kerplunk"
   },
   "3758": {
-    "パパのジゴスパ": ""
+    "パパのジゴスパ": "Papa's Lightning"
   },
   "3759": {
     "パパのはげおた": ""
   },
   "3760": {
-    "パパのキャノン砲": ""
+    "パパのキャノン砲": "Papa's Cannon Shot"
   },
   "3761": {
     "clarity_nt_char_3761": "clarity_nt_char_3761"
   },
   "3762": {
-    "パパのビーム攻撃": ""
+    "パパのビーム攻撃": "Papa's Beam Attack"
   },
   "3763": {
     "clarity_nt_char_3763": "clarity_nt_char_3763"
   },
   "3764": {
-    "本気モード": ""
+    "本気モード": "Serious Mode"
   },
   "3765": {
     "もうどくブルース": "Poisonous Blues"
@@ -11424,7 +11424,7 @@
     "clarity_nt_char_3808": "clarity_nt_char_3808"
   },
   "3809": {
-    "マンガを読む": ""
+    "マンガを読む": "Read Manga"
   },
   "3810": {
     "clarity_nt_char_3810": "clarity_nt_char_3810"
@@ -11553,7 +11553,7 @@
     "clarity_nt_char_3851": "clarity_nt_char_3851"
   },
   "3852": {
-    "シュリンクブレス": ""
+    "シュリンクブレス": "Shrink Breath"
   },
   "3853": {
     "clarity_nt_char_3853": "clarity_nt_char_3853"
@@ -11574,7 +11574,7 @@
     "ネクロゴンド大波動": ""
   },
   "3859": {
-    "ブラザーダンス": ""
+    "ブラザーダンス": "Brother Dance"
   },
   "3860": {
     "瞬撃の赤光": ""
@@ -11595,7 +11595,7 @@
     "邪竜の秘紋": "Dragon Crest"
   },
   "3866": {
-    "ハッピーイルージョン": ""
+    "ハッピーイルージョン": "Happy Illusion"
   },
   "3867": {
     "clarity_nt_char_3867": "clarity_nt_char_3867"
@@ -11613,7 +11613,7 @@
     "clarity_nt_char_3871": "clarity_nt_char_3871"
   },
   "3872": {
-    "ほほう": ""
+    "ほほう": "Hoho.."
   },
   "3873": {
     "この私を": ""
@@ -11625,19 +11625,19 @@
     "柱移動": ""
   },
   "3876": {
-    "魔法の矢": ""
+    "魔法の矢": "Magic Arrow"
   },
   "3877": {
     "clarity_nt_char_3877": "clarity_nt_char_3877"
   },
   "3878": {
-    "いくぞ": ""
+    "いくぞ": "Let's go!"
   },
   "3879": {
-    "ディバインフェザー": ""
+    "ディバインフェザー": "Divine Phaser"
   },
   "3880": {
-    "ミラージュボディ": ""
+    "ミラージュボディ": "Mirage Body"
   },
   "3881": {
     "clarity_nt_char_3881": "clarity_nt_char_3881"
@@ -11679,7 +11679,7 @@
     "罪の色差し": ""
   },
   "3894": {
-    "ダークノーズブレス": ""
+    "ダークノーズブレス": "Dark Nose Breath"
   },
   "3895": {
     "ヒップインパクト": ""
@@ -11718,7 +11718,7 @@
     "clarity_nt_char_3906": "clarity_nt_char_3906"
   },
   "3907": {
-    "宝珠な香水": ""
+    "宝珠な香水": "Jewel Perfume"
   },
   "3908": {
     "サファイアハント": "Sapphire Hunt"
@@ -11751,7 +11751,7 @@
     "陽炎旋風剣": ""
   },
   "3918": {
-    "ミスティカルボム": ""
+    "ミスティカルボム": "Mystical Bomb"
   },
   "3919": {
     "clarity_nt_char_3919": "clarity_nt_char_3919"
@@ -11811,16 +11811,16 @@
     "clarity_nt_char_3937": "clarity_nt_char_3937"
   },
   "3938": {
-    "大地揺らし": ""
+    "大地揺らし": "Earth Tremor"
   },
   "3939": {
-    "スタイルチェンジ": ""
+    "スタイルチェンジ": "Style Change"
   },
   "3940": {
     "clarity_nt_char_3940": "clarity_nt_char_3940"
   },
   "3941": {
-    "スタイルリセット": ""
+    "スタイルリセット": "Style Reset"
   },
   "3942": {
     "clarity_nt_char_3942": "clarity_nt_char_3942"
@@ -11901,7 +11901,7 @@
     "トラマナミスト": "Safe Passage Mist"
   },
   "3968": {
-    "ジャイアントパワー": ""
+    "ジャイアントパワー": "Giant Power"
   },
   "3969": {
     "ちいさくなる": ""
@@ -11940,7 +11940,7 @@
     "対人型ウェーブ": ""
   },
   "3981": {
-    "キッスデス": ""
+    "キッスデス": "Death Kiss"
   },
   "3982": {
     "マグマ放出": "Magma Release"
@@ -12012,7 +12012,7 @@
     "clarity_nt_char_4004": "clarity_nt_char_4004"
   },
   "4005": {
-    "パワーチャージ": ""
+    "パワーチャージ": "Power Charge"
   },
   "4006": {
     "真・大地揺らし": ""
@@ -12042,7 +12042,7 @@
     "スケープガード": "Scape Guard"
   },
   "4015": {
-    "タロットのひき直し": ""
+    "タロットのひき直し": "Redraw Tarot"
   },
   "4016": {
     "アルカナ占い": "Arcana Divination"
@@ -12159,13 +12159,13 @@
     "女帝のタロット": "The Empress"
   },
   "4054": {
-    "バンド仲間呼び": ""
+    "バンド仲間呼び": "Call Bandmates"
   },
   "4055": {
-    "いやしの歌": ""
+    "いやしの歌": "Healing Song"
   },
   "4056": {
-    "狙う": ""
+    "狙う": "Aim"
   },
   "4057": {
     "clarity_nt_char_4057": "clarity_nt_char_4057"
@@ -12186,7 +12186,7 @@
     "clarity_nt_char_4062": "clarity_nt_char_4062"
   },
   "4063": {
-    "セレブアップ": ""
+    "セレブアップ": "Celebrity Status"
   },
   "4064": {
     "clarity_nt_char_4064": "clarity_nt_char_4064"
@@ -12207,7 +12207,7 @@
     "霜白の氷塊": ""
   },
   "4070": {
-    "シャイニングブレス": ""
+    "シャイニングブレス": "Shining Breath"
   },
   "4071": {
     "ダークネスブレス": "Beastly Breath"
@@ -12222,7 +12222,7 @@
     "clarity_nt_char_4074": "clarity_nt_char_4074"
   },
   "4075": {
-    "ウイングダイブ": ""
+    "ウイングダイブ": "Wing Dive"
   },
   "4076": {
     "裁きの雷槌": ""
@@ -12243,16 +12243,16 @@
     "天光大裂斬": ""
   },
   "4082": {
-    "ビッグインパクト": ""
+    "ビッグインパクト": "Big Impact"
   },
   "4083": {
     "clarity_nt_char_4083": "clarity_nt_char_4083"
   },
   "4084": {
-    "弱体の魔陣": "Weak Demon"
+    "弱体の魔陣": "Weakness Circle"
   },
   "4085": {
-    "ほる": ""
+    "ほる": "Throw"
   },
   "4086": {
     "clarity_nt_char_4086": "clarity_nt_char_4086"
@@ -12261,13 +12261,13 @@
     "ジャイラインパクト": "Jyra Impact"
   },
   "4088": {
-    "バーストグラビティ": ""
+    "バーストグラビティ": "Gravity Burst"
   },
   "4089": {
-    "鉄壁の魔陣": ""
+    "鉄壁の魔陣": "Ironclad Circle"
   },
   "4090": {
-    "眠りの魔陣": "Sleeping Demon"
+    "眠りの魔陣": "Sleeping Circle"
   },
   "4091": {
     "白夜の氷刃": ""
@@ -12279,7 +12279,7 @@
     "clarity_nt_char_4093": "clarity_nt_char_4093"
   },
   "4094": {
-    "スパークリベンジ": ""
+    "スパークリベンジ": "Revenge Spark"
   },
   "4095": {
     "clarity_nt_char_4095": "clarity_nt_char_4095"
@@ -12288,10 +12288,10 @@
     "ポワポワダンス": "Gentle Dance"
   },
   "4097": {
-    "スラ・シャイニング": ""
+    "スラ・シャイニング": "Shine Slime"
   },
   "4098": {
-    "スラ・ギガブレイク": ""
+    "スラ・ギガブレイク": "Googagash"
   },
   "4099": {
     "裂空斬": "Rift Cut"
@@ -12312,7 +12312,7 @@
     "あれくるういなずま": ""
   },
   "4105": {
-    "ダークミサイル": ""
+    "ダークミサイル": "Dark Missile"
   },
   "4106": {
     "リミッター解除": ""
@@ -12327,7 +12327,7 @@
     "プクになる": ""
   },
   "4110": {
-    "死へのいざない": ""
+    "死へのいざない": "Deathbed"
   },
   "4111": {
     "回復の邪法": ""
@@ -12354,13 +12354,13 @@
     "じしん": ""
   },
   "4119": {
-    "フルスイング": ""
+    "フルスイング": "Full Swing"
   },
   "4120": {
     "clarity_nt_char_4120": "clarity_nt_char_4120"
   },
   "4121": {
-    "アイスクラッシュ": ""
+    "アイスクラッシュ": "Ice Crash"
   },
   "4122": {
     "clarity_nt_char_4122": "clarity_nt_char_4122"
@@ -12372,7 +12372,7 @@
     "clarity_nt_char_4124": "clarity_nt_char_4124"
   },
   "4125": {
-    "クリスタル召喚": ""
+    "クリスタル召喚": "Summon Crystal"
   },
   "4126": {
     "状態異常回復": ""
@@ -12390,7 +12390,7 @@
     "clarity_nt_char_4130": "clarity_nt_char_4130"
   },
   "4131": {
-    "クロニクルガード": ""
+    "クロニクルガード": "Chronicle Guard"
   },
   "4132": {
     "clarity_nt_char_4132": "clarity_nt_char_4132"
@@ -12408,7 +12408,7 @@
     "炎の友情ダンス": ""
   },
   "4137": {
-    "男気アイテム": ""
+    "男気アイテム": "Manly Item"
   },
   "4138": {
     "clarity_nt_char_4138": "clarity_nt_char_4138"
@@ -12417,7 +12417,7 @@
     "きのこを食べる": "Eat Mushroom"
   },
   "4140": {
-    "デイブレイカー": ""
+    "デイブレイカー": "Daybreaker"
   },
   "4141": {
     "悪夢の晩さん": ""
@@ -12504,7 +12504,7 @@
     "clarity_nt_char_4168": "clarity_nt_char_4168"
   },
   "4169": {
-    "マホトゾーン": ""
+    "マホトゾーン": "Seal Zone"
   },
   "4170": {
     "clarity_nt_char_4170": "clarity_nt_char_4170"
@@ -12573,10 +12573,10 @@
     "clarity_nt_char_4191": "clarity_nt_char_4191"
   },
   "4192": {
-    "ダイヤモンドダスト": ""
+    "ダイヤモンドダスト": "Diamond Dust"
   },
   "4193": {
-    "リミットオーバー": ""
+    "リミットオーバー": "Over Limit"
   },
   "4194": {
     "clarity_nt_char_4194": "clarity_nt_char_4194"
@@ -12627,7 +12627,7 @@
     "黒死の呪爆": ""
   },
   "4210": {
-    "キャンディドロップ": ""
+    "キャンディドロップ": "Candy Drop"
   },
   "4211": {
     "三竜陣召喚": ""
@@ -12639,7 +12639,7 @@
     "clarity_nt_char_4213": "clarity_nt_char_4213"
   },
   "4214": {
-    "グレネードボム": ""
+    "グレネードボム": "Grenade Bomb"
   },
   "4215": {
     "風竜の陣": ""
@@ -12657,13 +12657,13 @@
     "おとし玉大連弾": ""
   },
   "4220": {
-    "ミラーリング": ""
+    "ミラーリング": "Mirroring"
   },
   "4221": {
     "clarity_nt_char_4221": "clarity_nt_char_4221"
   },
   "4222": {
-    "シールドチャージ": ""
+    "シールドチャージ": "Shield Charge"
   },
   "4223": {
     "clarity_nt_char_4223": "clarity_nt_char_4223"
@@ -12675,7 +12675,7 @@
     "clarity_nt_char_4225": "clarity_nt_char_4225"
   },
   "4226": {
-    "リビルド": ""
+    "リビルド": "Rebuild"
   },
   "4227": {
     "clarity_nt_char_4227": "clarity_nt_char_4227"
@@ -12711,22 +12711,22 @@
     "みだれ撃ち": ""
   },
   "4238": {
-    "ハンマートルネード": ""
+    "ハンマートルネード": "Hammer Tornado"
   },
   "4239": {
-    "ハンマークエイク": ""
+    "ハンマークエイク": "Hammer Quake"
   },
   "4240": {
     "clarity_nt_char_4240": "clarity_nt_char_4240"
   },
   "4241": {
-    "エレキテルマイン": ""
+    "エレキテルマイン": "Electric Mine"
   },
   "4242": {
     "clarity_nt_char_4242": "clarity_nt_char_4242"
   },
   "4243": {
-    "Ｑミサイル": ""
+    "Ｑミサイル": "Q Missile"
   },
   "4244": {
     "妖呪の紫閃": ""
@@ -12768,7 +12768,7 @@
     "clarity_nt_char_4256": "clarity_nt_char_4256"
   },
   "4257": {
-    "マカロンエンハンス": ""
+    "マカロンエンハンス": "Enhance Macaron"
   },
   "4258": {
     "雷鳴の死化粧": ""
@@ -12816,7 +12816,7 @@
     "学園　CP＋小": ""
   },
   "4273": {
-    "ペット呼び": ""
+    "ペット呼び": "Call Pet"
   },
   "4274": {
     "執事呼び": ""
@@ -12825,7 +12825,7 @@
     "clarity_nt_char_4275": "clarity_nt_char_4275"
   },
   "4276": {
-    "アースクエイク": ""
+    "アースクエイク": "Earthquake"
   },
   "4277": {
     "マシマシびーむ": ""
@@ -12855,7 +12855,7 @@
     "clarity_nt_char_4285": "clarity_nt_char_4285"
   },
   "4286": {
-    "ベビーマダンテ": ""
+    "ベビーマダンテ": "Imp Burst"
   },
   "4287": {
     "ぼうぎょバリア": "Defend Barrier"

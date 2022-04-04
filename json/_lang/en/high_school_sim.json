@@ -30,7 +30,7 @@
     "ねこまどう": "Meowgician"
   },
   "11": {
-    "あザードマン": ""
+    "リザードマン": "Mandrake Major"
   },
   "12": {
     "clarity_nt_char_12": "clarity_nt_char_12"
@@ -1668,7 +1668,7 @@
     "こごえるふぶき": "Snowstorm"
   },
   "557": {
-    "かがやくいき": "Shining Breath"
+    "かがやくいき": "C-c-cold Breath"
   },
   "558": {
     "clarity_nt_char_558": "clarity_nt_char_558"
@@ -3624,7 +3624,7 @@
     "ＭＰ消費しない率+5%": "Don't Use MP Rate +5%"
   },
   "1209": {
-    "瀕死時徐々にＭＰ回復": "MP Over Time on Death"
+    "瀕死時徐々にＭＰ回復": "MP Over Time On Death"
   },
   "1210": {
     "clarity_nt_char_1210": "clarity_nt_char_1210"
@@ -3633,7 +3633,7 @@
     "味方死亡時たまにためる": "Rarely Tension If Ally Dies"
   },
   "1212": {
-    "攻撃時ＨＰ回復": "Recover HP on Attack"
+    "攻撃時ＨＰ回復": "Recover HP On Attack"
   },
   "1213": {
     "瀕死時身かわし率アップ": "Dodge Rate Up On Death"
@@ -3702,7 +3702,7 @@
     "装備時こうげき力+15": "Attack +15"
   },
   "1235": {
-    "装備時かいしん率+5%": "Crit Rate +5%"
+    "装備時かいしん率+5%": "Critical Rate +5%"
   },
   "1236": {
     "装備時こうげき力+25": "Attack +25"
@@ -3732,7 +3732,7 @@
     "装備時ＭＰ吸収率+5%": "MP Absorb Rate +5%"
   },
   "1245": {
-    "装備時こうげき魔力+60": "Mag. Might +60"
+    "装備時こうげき魔力+60": "Magical Might +60"
   },
   "1246": {
     "clarity_nt_char_1246": "clarity_nt_char_1246"
@@ -4521,7 +4521,7 @@
     "ツメ装備時に|敵の攻撃を　かわしやすくなった！": "It's now easier to dodge when equipped|with Claws!"
   },
   "1508": {
-    "ツメ装備で　マシン系モンスターを|攻撃時の威力が　さらに　あがった！": "Attack damage versus Machine types further|increased when equipped with Claws!"
+    "ツメ装備で　マシン系モンスターを|攻撃時の威力が　さらに　あがった！": "Damage versus Machine types further|increased when equipped with Claws!"
   },
   "1509": {
     "clarity_nt_char_1509": "clarity_nt_char_1509"
@@ -4647,7 +4647,7 @@
     "スラ・スパークの威力が　あがった！": "Zasplattles's power increased!"
   },
   "1550": {
-    "片手剣装備で　ドラゴン系モンスターを|攻撃時の威力が　あがった！": "Damage done to Dragon-types while a Sword is|equipped has increased!"
+    "片手剣装備で　ドラゴン系モンスターを|攻撃時の威力が　あがった！": "Damage versus Dragon-types increased when|equipped with a Sword!"
   },
   "1551": {
     "clarity_nt_char_1551": "clarity_nt_char_1551"
@@ -4656,13 +4656,13 @@
     "ギガスラッシュの特技を　おぼえた！": "You learned Gigaslash!"
   },
   "1553": {
-    "片手剣装備で　ドラゴン系モンスターを|攻撃時の威力が　さらに　あがった！": "Damage done to Dragon-types while a Sword is|equipped has further increased!"
+    "片手剣装備で　ドラゴン系モンスターを|攻撃時の威力が　さらに　あがった！": "Damage versus Dragon-types further increased|when equipped with a Sword!"
   },
   "1554": {
     "clarity_nt_char_1554": "clarity_nt_char_1554"
   },
   "1555": {
-    "片手剣装備時の　こうげき力が　３０　増えた！": "Attack +30 when a Sword is equipped!"
+    "片手剣装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when equipped|with a Sword!"
   },
   "1556": {
     "clarity_nt_char_1556": "clarity_nt_char_1556"
@@ -4812,7 +4812,7 @@
     "両手杖での攻撃時に　吸収できるＭＰが　増えた！": "MP absorbed when attack with a Staff is|increased!"
   },
   "1605": {
-    "両手杖装備で　悪魔系モンスターを|攻撃時の威力が　さらに　あがった！": "Damage versus Demon-types is further increased|when equipped with a Staff!"
+    "両手杖装備で　悪魔系モンスターを|攻撃時の威力が　さらに　あがった！": "Damage versus Demon-types further increased|when equipped with a Staff!"
   },
   "1606": {
     "clarity_nt_char_1606": "clarity_nt_char_1606"
@@ -4950,16 +4950,16 @@
     "clarity_nt_char_1650": "clarity_nt_char_1650"
   },
   "1651": {
-    "オノ装備で　植物系モンスターを|攻撃時の威力が　あがった！": ""
+    "オノ装備で　植物系モンスターを|攻撃時の威力が　あがった！": "Damage versus Plant-types increased when|equipped with an Axe!"
   },
   "1652": {
-    "鉄甲斬の特技を　おぼえた！": ""
+    "鉄甲斬の特技を　おぼえた！": "You learned Scrap Axe!"
   },
   "1653": {
-    "オノ装備で　植物系モンスターを|攻撃時の威力が　さらに　あがった！": ""
+    "オノ装備で　植物系モンスターを|攻撃時の威力が　さらに　あがった！": "Damage versus Plant-types further increased|when equipped with an Axe!"
   },
   "1654": {
-    "オノ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when Axe equipped!"
+    "オノ装備時の　こうげき力が　３０　増えた！": "Attack increased by 30 when equipped|with an Axe!"
   },
   "1655": {
     "真・オノむそうの特技を　おぼえた！": "You learned Axes of True Evil!"
@@ -4971,31 +4971,31 @@
     "clarity_nt_char_1657": "clarity_nt_char_1657"
   },
   "1658": {
-    "もぐらタタキの特技を　おぼえた！": ""
+    "もぐらタタキの特技を　おぼえた！": "You learned Mole Assault!"
   },
   "1659": {
     "clarity_nt_char_1659": "clarity_nt_char_1659"
   },
   "1660": {
-    "鉱石さがしを　おぼえた！": ""
+    "鉱石さがしを　おぼえた！": "You learned Ore Search!"
   },
   "1661": {
     "clarity_nt_char_1661": "clarity_nt_char_1661"
   },
   "1662": {
-    "いたずラッシュの特技を　おぼえた！": ""
+    "いたずラッシュの特技を　おぼえた！": "You learned Naughty Rush!"
   },
   "1663": {
-    "もぐらタタキの威力が　あがった！": ""
+    "もぐらタタキの威力が　あがった！": "Mole Assault's power increased!"
   },
   "1664": {
     "clarity_nt_char_1664": "clarity_nt_char_1664"
   },
   "1665": {
-    "いたずラッシュの威力が　あがった！": ""
+    "いたずラッシュの威力が　あがった！": "Naughty Rush's power increased!"
   },
   "1666": {
-    "ためるの特技を　おぼえた！": ""
+    "ためるの特技を　おぼえた！": "You learned Psyche Up!"
   },
   "1667": {
     "超ちからための特技を　おぼえた！": "You learned Super Strength!"
@@ -5004,10 +5004,10 @@
     "clarity_nt_char_1668": "clarity_nt_char_1668"
   },
   "1669": {
-    "行動時に　たまにテンションが|上がるようになった！": ""
+    "行動時に　たまにテンションが|上がるようになった！": "You will now sometimes gain tension after|using an action!"
   },
   "1670": {
-    "棍装備で　ゾンビ系モンスターを|攻撃時の威力が　あがった！": ""
+    "棍装備で　ゾンビ系モンスターを|攻撃時の威力が　あがった！": "Damage versus Zombie-types increased when|equipped with a Rod!"
   },
   "1671": {
     "連撃なぎはらいの特技を　おぼえた！": ""
@@ -5067,7 +5067,7 @@
     "こごえるふぶきの特技を　おぼえた！": ""
   },
   "1690": {
-    "かがやくいきの特技を　おぼえた！": ""
+    "かがやくいきの特技を　おぼえた！": "You learned C-c-cold Breath!"
   },
   "1691": {
     "clarity_nt_char_1691": "clarity_nt_char_1691"

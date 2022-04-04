@@ -978,7 +978,7 @@
     "たまに　攻撃時ＭＰ回復(試合無効)": "Rarely Recover MP On Attack (No PvP)"
   },
   "327": {
-    "左手の攻撃力アップ": ""
+    "左手の攻撃力アップ": "Left Hand Attack Up"
   },
   "328": {
     "気配を消して 魔物から身をかくす": ""
@@ -1029,7 +1029,7 @@
     "clarity_nt_char_343": "clarity_nt_char_343"
   },
   "344": {
-    "転びガード +100%": "Fall Guard+100%"
+    "転びガード +100%": "Fall Guard +100%"
   },
   "345": {
     "しばりガード +100%": "Restraint Guard +100%"
@@ -1098,7 +1098,7 @@
     "clarity_nt_char_366": "clarity_nt_char_366"
   },
   "367": {
-    "錬金開始時に 時々 集中力が 30アップする": ""
+    "錬金開始時に 時々 集中力が 30アップする": "Chance for +30 Focus on alchemy start"
   },
   "368": {
     "clarity_nt_char_368": "clarity_nt_char_368"
@@ -2499,13 +2499,13 @@
     "全ての光攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Light Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "834": {
-    "敵の攻撃対象になりやすくなる": ""
+    "敵の攻撃対象になりやすくなる": "Enemies will target you more often"
   },
   "835": {
     "clarity_nt_char_835": "clarity_nt_char_835"
   },
   "836": {
-    "敵の攻撃対象になりづらくなる": ""
+    "敵の攻撃対象になりづらくなる": "Enemies will target you less often"
   },
   "837": {
     "clarity_nt_char_837": "clarity_nt_char_837"
@@ -7695,7 +7695,7 @@
     "clarity_nt_char_2565": "clarity_nt_char_2565"
   },
   "2566": {
-    "特技の回復量 +<%sB_renkin1>": ""
+    "特技の回復量 +<%sB_renkin1>": "Skill Recovery +<%sB_renkin1>"
   },
   "2567": {
     "かえん斬りの威力 +<%sB_renkin1>%": "Flame Slash Power +<%sB_renkin1>%"
@@ -7725,7 +7725,7 @@
     "clarity_nt_char_2575": "clarity_nt_char_2575"
   },
   "2576": {
-    "ブレードガード効果時間 +<%sB_renkin1>秒": ""
+    "ブレードガード効果時間 +<%sB_renkin1>秒": "Greatsword Guard Time +<%sB_renkin1>s"
   },
   "2577": {
     "フリーズブレードの威力 +<%sB_renkin1>%": "Frost Fangs Power +<%sB_renkin1>%"

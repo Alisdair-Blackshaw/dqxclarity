@@ -1191,7 +1191,7 @@
     "ほのおのせんし": "Flamethrower"
   },
   "398": {
-    "ブあザードマン": ""
+    "ブリザードマン": "Blizzybody"
   },
   "399": {
     "スパーキー": "Sparky"
@@ -2169,7 +2169,7 @@
     "clarity_nt_char_723": "clarity_nt_char_723"
   },
   "724": {
-    "あザードマン": ""
+    "リザードマン": "Mandrake Major"
   },
   "725": {
     "clarity_nt_char_725": "clarity_nt_char_725"
@@ -4368,7 +4368,7 @@
     "プチバラモスゾンビ": "Bones of Baramos"
   },
   "1457": {
-    "プチバラモスブロス": "Frail Baramos Bros."
+    "プチバラモスブロス": "Frail Soul of Baramos"
   },
   "1458": {
     "プチデュラン": "Frail Dhuran"
@@ -4806,7 +4806,7 @@
     "clarity_nt_char_1602": "clarity_nt_char_1602"
   },
   "1603": {
-    "バラモスブロス強": "Apex Baramos Bros."
+    "バラモスブロス強": "Apex Soul of Baramos"
   },
   "1604": {
     "clarity_nt_char_1604": "clarity_nt_char_1604"
@@ -4818,7 +4818,7 @@
     "clarity_nt_char_1606": "clarity_nt_char_1606"
   },
   "1607": {
-    "バラモスブロス闘": "Baramos Bros. Fight"
+    "バラモスブロス闘": "Soul of Baramos Fight"
   },
   "1608": {
     "clarity_nt_char_1608": "clarity_nt_char_1608"
@@ -4863,7 +4863,7 @@
     "clarity_nt_char_1621": "clarity_nt_char_1621"
   },
   "1622": {
-    "サイキョーＶロン": "Psycho Vron"
+    "サイキョーＶロン": "Strongest Vron"
   },
   "1623": {
     "clarity_nt_char_1623": "clarity_nt_char_1623"
@@ -7116,13 +7116,13 @@
     "clarity_nt_char_2372": "clarity_nt_char_2372"
   },
   "2373": {
-    "爆裂石": ""
+    "爆裂石": "Bomb"
   },
   "2374": {
-    "キラーシーカー": ""
+    "キラーシーカー": "Killing Seeker"
   },
   "2375": {
-    "スラマシンＺ": ""
+    "スラマシンＺ": "Slimeborg Z"
   },
   "2376": {
     "clarity_nt_char_2376": "clarity_nt_char_2376"
@@ -7161,10 +7161,10 @@
     "ハナちゃん": "Flower-chan"
   },
   "2388": {
-    "グリーンボーン": ""
+    "グリーンボーン": "Greenbone"
   },
   "2389": {
-    "悪神　三闘士": ""
+    "悪神　三闘士": "Fiend Triad"
   },
   "2390": {
     "clarity_nt_char_2390": "clarity_nt_char_2390"
@@ -7245,7 +7245,7 @@
     "暗黒の魔造兵強": "Apex Dark Golem"
   },
   "2416": {
-    "妄執のグリンデア": ""
+    "妄執のグリンデア": "Delusion Grindea"
   },
   "2417": {
     "clarity_nt_char_2417": "clarity_nt_char_2417"
@@ -7260,7 +7260,7 @@
     "魔想念レギルラッゾ": "Demonic Thought Legirrazzo"
   },
   "2421": {
-    "魔天海フォルネー": ""
+    "魔天海フォルネー": "Sea Demon Folnay"
   },
   "2422": {
     "clarity_nt_char_2422": "clarity_nt_char_2422"
@@ -7365,7 +7365,7 @@
     "clarity_nt_char_2455": "clarity_nt_char_2455"
   },
   "2456": {
-    "魔天鬼グーラ": ""
+    "魔天鬼グーラ": "Demon Geira"
   },
   "2457": {
     "clarity_nt_char_2457": "clarity_nt_char_2457"
@@ -7596,13 +7596,13 @@
     "clarity_nt_char_2532": "clarity_nt_char_2532"
   },
   "2533": {
-    "魔天竜ブーネイ": ""
+    "魔天竜ブーネイ": "Dragon Burnay"
   },
   "2534": {
-    "魔天鬼シャーラ": ""
+    "魔天鬼シャーラ": "Demon Sharla"
   },
   "2535": {
-    "呪炎の柱": ""
+    "呪炎の柱": "Flame Pillar"
   },
   "2536": {
     "clarity_nt_char_2536": "clarity_nt_char_2536"
@@ -7650,10 +7650,10 @@
     "ハルバルド船長": "Halbard Ship Captain"
   },
   "2551": {
-    "怨讐のゲーダム": ""
+    "怨讐のゲーダム": "Resentful Gerdam"
   },
   "2552": {
-    "海邪のしもべ": ""
+    "海邪のしもべ": "Seaslave"
   },
   "2553": {
     "clarity_nt_char_2553": "clarity_nt_char_2553"
@@ -7689,7 +7689,7 @@
     "マージマタンゴ": "Mushroom Mage"
   },
   "2564": {
-    "岩のり童子": ""
+    "岩のり童子": "Rockafeller"
   },
   "2565": {
     "死のさそり": "Death Scorpion"
@@ -7740,7 +7740,7 @@
     "グレンデル": "Thwarthog"
   },
   "2581": {
-    "ガニメデス": ""
+    "ガニメデス": "Ganymede"
   },
   "2582": {
     "むくろカサゴ": ""
@@ -7824,7 +7824,7 @@
     "clarity_nt_char_2608": "clarity_nt_char_2608"
   },
   "2609": {
-    "原始獣フォドラス": ""
+    "原始獣フォドラス": "Primitive Beast Fodras"
   },
   "2610": {
     "clarity_nt_char_2610": "clarity_nt_char_2610"
@@ -7884,7 +7884,7 @@
     "復活薬": "ReviveMed"
   },
   "2629": {
-    "邪王の操り人形": ""
+    "邪王の操り人形": "Evil King's Puppet"
   },
   "2630": {
     "時増しの門番": "Time Gatekeeper"
@@ -7971,7 +7971,7 @@
     "闇の根源の呪縛": "Dark Source Curse"
   },
   "2658": {
-    "強化の書": ""
+    "強化の書": "Enhance Book"
   },
   "2659": {
     "clarity_nt_char_2659": "clarity_nt_char_2659"
@@ -7992,22 +7992,22 @@
     "ドーナツ遠": "Donut Far"
   },
   "2665": {
-    "球": ""
+    "球": "Bal"
   },
   "2666": {
-    "カプセル": ""
+    "カプセル": "Capsule"
   },
   "2667": {
     "clarity_nt_char_2667": "clarity_nt_char_2667"
   },
   "2668": {
-    "ジャッジメントフレア": ""
+    "ジャッジメントフレア": "Judgment Flare"
   },
   "2669": {
     "clarity_nt_char_2669": "clarity_nt_char_2669"
   },
   "2670": {
-    "カラポッポ": ""
+    "カラポッポ": "Bird Cage"
   },
   "2671": {
     "あまからぼう": "Rumble Bee"
@@ -9138,7 +9138,7 @@
     "アームライオン・強": "Evil Hellion"
   },
   "3047": {
-    "あザードマン・強": ""
+    "リザードマン・強": "Evil Mandrake Major"
   },
   "3048": {
     "clarity_nt_char_3048": "clarity_nt_char_3048"
@@ -9984,7 +9984,7 @@
     "clarity_nt_char_3328": "clarity_nt_char_3328"
   },
   "3329": {
-    "魔天士ダンタール": ""
+    "魔天士ダンタール": "Sorceror Gantal"
   },
   "3330": {
     "clarity_nt_char_3330": "clarity_nt_char_3330"

@@ -756,7 +756,7 @@
     "clarity_nt_char_252": "clarity_nt_char_252"
   },
   "253": {
-    "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
+    "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}C-c-cold Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
   },
   "254": {
     "{color=skyblue}ザキ{color=default}　　　　　　<%sM_Target_1>の息の根をとめる": "{color=skyblue}Whack{color=default}　Instant Death to <%sM_Target_1>"
@@ -933,7 +933,7 @@
     "clarity_nt_char_311": "clarity_nt_char_311"
   },
   "312": {
-    "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
+    "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}C-c-cold Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
   },
   "313": {
     "テールスイング　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Tail Swing　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -954,7 +954,7 @@
     "clarity_nt_char_318": "clarity_nt_char_318"
   },
   "319": {
-    "{color=purple}ひかりのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Light Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+    "{color=purple}ひかりのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Blessed Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "320": {
     "clarity_nt_char_320": "clarity_nt_char_320"
@@ -1320,7 +1320,7 @@
     "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Air Pollution{color=default}　<%sM_Target_1> Attack Down (-10)"
   },
   "441": {
-    "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+    "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}C-c-cold Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "442": {
     "clarity_nt_char_442": "clarity_nt_char_442"
@@ -1395,7 +1395,7 @@
     "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Call Meteor　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "466": {
-    "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+    "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}C-c-cold Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "467": {
     "clarity_nt_char_467": "clarity_nt_char_467"
@@ -1773,7 +1773,7 @@
     "clarity_nt_char_591": "clarity_nt_char_591"
   },
   "592": {
-    "かがやくいき！": "Shining Breath!"
+    "かがやくいき！": "C-c-cold Breath!"
   },
   "593": {
     "ザキ！": "Whack!"
@@ -1872,7 +1872,7 @@
     "連続こうげき！": "Barrage Attack!"
   },
   "625": {
-    "ひかりのブレス！": "Light Breath!"
+    "ひかりのブレス！": "Blessed Breath!"
   },
   "626": {
     "clarity_nt_char_626": "clarity_nt_char_626"
