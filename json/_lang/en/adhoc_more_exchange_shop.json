@@ -5799,10 +5799,10 @@
     "「アイテム交換するNPCです。|　よろしくです。|<bw_break>": "NP to exchange items... Good...<bw_break>"
   },
   "1934": {
-    "「夫から受け取った　大嵐メダルを|　私が　お役に立ちそうなものと|　交換させていただきます。|<bw_break>": ""
+    "「夫から受け取った　大嵐メダルを|　私が　お役に立ちそうなものと|　交換させていただきます。|<bw_break>": "I would like to exchange the Storm Medals you|received from my husband for something I think|will be of use to you.|<bw_break>"
   },
   "1935": {
-    "「こちらで　大嵐メダルを|　お役に立ちそうなものと　交換できます。|　どのような　ご用件がありますか？|<break>": ""
+    "「こちらで　大嵐メダルを|　お役に立ちそうなものと　交換できます。|　どのような　ご用件がありますか？|<break>": "You can exchange your Storm Medals for|something useful here. How can we help you?|<break>"
   },
   "1936": {
     "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -5817,13 +5817,13 @@
     "「それでは　次の中から　お選びください。|　ただし　青い文字の品物は|　一度きりの交換になります。<break>": "Now, please choose one of the following...|However, items marked in blue are a one-time|only exchange...<break>"
   },
   "1940": {
-    "「<%sL_GOODS_ITEM>を|　大嵐メダル　<%nL_KOUKAN_NUM>枚と|　交換してよろしいですか？|<yesno><break>": ""
+    "「<%sL_GOODS_ITEM>を|　大嵐メダル　<%nL_KOUKAN_NUM>枚と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to exchange <%dL_KOUKAN_NUM> Storm|Medals for <%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "1941": {
-    "「<%sL_GOODS_ITEM>を|　大嵐メダル　<%nL_KOUKAN_NUM>枚と|　交換してよろしいですか？|<yesno><break>": ""
+    "「<%sL_GOODS_ITEM>を|　大嵐メダル　<%nL_KOUKAN_NUM>枚と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to exchange <%dL_KOUKAN_NUM> Storm|Medals for <%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "1942": {
-    "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　大嵐メダル　<%nL_KOUKAN_NUM>枚と|　交換してよろしいですか？|<yesno><break>": ""
+    "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　大嵐メダル　<%nL_KOUKAN_NUM>枚と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to exchange <%nL_KOUKAN_NUM> Storm|Medals for <%nL_GET_NUM> <%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "1943": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -5868,13 +5868,13 @@
     "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
   },
   "1957": {
-    "「<%sL_GOODS_ITEM>を　交換するには|　大嵐メダルが　足りないようですね。|<bw_break>": ""
+    "「<%sL_GOODS_ITEM>を　交換するには|　大嵐メダルが　足りないようですね。|<bw_break>": "Looks like you don't have enough Storm Medals|to exchange for <%sL_GOODS_ITEM>.|<bw_break>"
   },
   "1958": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
   },
   "1959": {
-    "「……必要な大嵐メダルを|　持っていないようですね。|<turn_end>": ""
+    "「……必要な大嵐メダルを|　持っていないようですね。|<turn_end>": "...You don't seem to have the required Storm|Medals.|<turn_end>"
   },
   "1960": {
     "「今の職業だと装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession.|Is that all right with you?<yesno><break>"

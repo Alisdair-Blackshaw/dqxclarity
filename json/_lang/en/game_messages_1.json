@@ -4392,9 +4392,9 @@
     "探索の極意を選び直して 冒険者ジグロウから さずけてもらった！": ""
   },
   "1465": {
-    "大嵐メダル　<%dM_POINT> 枚と <%sM_item> <%dM_GET_NUM>個を 交換した！": ""
+    "大嵐メダル　<%dM_POINT> 枚と <%sM_item> <%dM_GET_NUM>個を 交換した！": "You exchanged <%dM_POINT> Storm Medals for|<%dM_GET_NUM> <%sM_item>!"
   },
   "1466": {
-    "大嵐メダル　<%dM_POINT> 枚と  <%sM_item>を 交換した！": ""
+    "大嵐メダル　<%dM_POINT> 枚と  <%sM_item>を 交換した！": "You exchanged <%dM_POINT> Storm Medals for|<%sM_item>!"
   }
 }
