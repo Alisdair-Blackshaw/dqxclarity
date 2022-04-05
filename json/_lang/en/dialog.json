@@ -8979,7 +8979,7 @@
     "clarity_nt_char_2993": "clarity_nt_char_2993"
   },
   "2994": {
-    "<speed=0>参加するにはレベル<%dL_LEVEL>以上が|必要になります。": ""
+    "<speed=0>参加するにはレベル<%dL_LEVEL>以上が|必要になります。": "<speed=0>You must be at least level <%dL_LEVEL>|to participate."
   },
   "2995": {
     "<speed=0>|このマイコーデには　性別が合わない装備品が|含まれているので　装備できません！": ""
