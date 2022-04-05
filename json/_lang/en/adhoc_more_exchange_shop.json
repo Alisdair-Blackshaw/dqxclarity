@@ -5835,10 +5835,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1946": {
-    "「では　<%sL_GOODS_ITEM>を|　お受け取りください。|<end>": ""
+    "「では　<%sL_GOODS_ITEM>を|　お受け取りください。|<end>": "Then please accept your|<%sL_GOODS_ITEM>.|<end>"
   },
   "1947": {
-    "「では　<%sL_GOODS_ITEM>を|　お受け取りください。|<end>": ""
+    "「では　<%sL_GOODS_ITEM>を|　お受け取りください。|<end>": "Then please accept your|<%sL_GOODS_ITEM>.|<end>"
   },
   "1948": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -5850,7 +5850,7 @@
     "「少しでも　お役に立てたでしょうか？|　よろしければ　また　お越しください。|<turn_end>": ""
   },
   "1951": {
-    "「お役に立てなかったようで　すみません。|　よろしければ　また　お越しください。|<turn_end>": ""
+    "「お役に立てなかったようで　すみません。|　よろしければ　また　お越しください。|<turn_end>": "Sorry I could not be of more help.|Please visit us again if you like.|<turn_end>"
   },
   "1952": {
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
