@@ -198,10 +198,10 @@
     "「錬金効果が　セットできたよ！|　気に入ってくれると　うれしいな！": "I've set up the alchemical effects! I hope|you like it!"
   },
   "67": {
-    "「ここは　改造屋だよ。|　あたしに　何か用はあるのかな？|<select_se_off>|錬金効果を付ける|進化や変換をする|説明を聞く|<select_end>|<close>": "This place has been remodeled. Is there|something you want from me?|<select_se_off>|Add alchemy effect|Evolution and conversion|Listen to the explanation|<select_end>|<close>"
+    "「ここは　改造屋だよ。|　あたしに　何か用はあるのかな？|<select_se_off>|錬金効果を付ける|進化や変換をする|説明を聞く|<select_end>|<close>": "his is the Remodeling Shop. What can I do|for you?|<select_se_off>|Add Alchemy Effects|Evolve/Convert|Explanation|<select_end>|<break>"
   },
   "68": {
-    "「他に　何か用はあるのかな？|<select_se_off>|錬金効果を付ける|進化や変換をする|説明を聞く|<select_end>|<close>": ""
+    "「他に　何か用はあるのかな？|<select_se_off>|錬金効果を付ける|進化や変換をする|説明を聞く|<select_end>|<close>": "Anything else I can do?|<select_se_off>|Add Alchemy Effects|Evolve/Convert|Explanation|<select_end>|<close>"
   },
   "69": {
     "「錬金効果をセットするんだね。|　どの装備に　付けたいのかな？　|<end>": "Set the alchemy effect... Which one do you|want to put on your equipment?<end>"
