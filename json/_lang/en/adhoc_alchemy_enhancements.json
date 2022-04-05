@@ -1,1595 +1,1595 @@
 {
   "1": {
-    "特技のダメージ 強化 Lv4": ""
+    "特技のダメージ 強化 Lv4": "Skill Damage Boost Lv4"
   },
   "2": {
     "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
-    "橙の錬金効果３": ""
+    "橙の錬金効果３": "Orange Effect 3"
   },
   "4": {
-    "ぶんまわしの型": ""
+    "ぶんまわしの型": "Helichopter Mold"
   },
   "5": {
-    "橙の錬金効果５": ""
+    "橙の錬金効果５": "Orange Effect 5"
   },
   "6": {
-    "呪文のダメージ 強化 Lv4": ""
+    "呪文のダメージ 強化 Lv4": "Spell Damage Boost Lv4"
   },
   "7": {
     "clarity_nt_char_7": "clarity_nt_char_7"
   },
   "8": {
-    "緑の錬金効果３": ""
+    "緑の錬金効果３": "Green Effect 3"
   },
   "9": {
-    "渾身斬りの型": ""
+    "渾身斬りの型": "Cutting Edge Mold"
   },
   "10": {
     "clarity_nt_char_10": "clarity_nt_char_10"
   },
   "11": {
-    "緑の錬金効果５": ""
+    "緑の錬金効果５": "Green Effect 5"
   },
   "12": {
-    "ドラゴン系ダメージ強化 Lv4": ""
+    "ドラゴン系ダメージ強化 Lv4": "Dragon Damage Boost Lv4"
   },
   "13": {
-    "虫系ダメージ強化 Lv4": ""
+    "虫系ダメージ強化 Lv4": "Insect Damage Boost Lv4"
   },
   "14": {
     "clarity_nt_char_14": "clarity_nt_char_14"
   },
   "15": {
-    "青の錬金効果３": ""
+    "青の錬金効果３": "Blue Effect 3"
   },
   "16": {
-    "獣系ダメージ強化 Lv4": ""
+    "獣系ダメージ強化 Lv4": "Beast Damage Boost Lv4"
   },
   "17": {
     "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "18": {
-    "青の錬金効果５": ""
+    "青の錬金効果５": "Blue Effect 5"
   },
   "19": {
-    "黄の錬金効果１": ""
+    "黄の錬金効果１": "Yellow Effect 1"
   },
   "20": {
-    "黄の錬金効果２": ""
+    "黄の錬金効果２": "Yellow Effect 2"
   },
   "21": {
-    "黄の錬金効果３": ""
+    "黄の錬金効果３": "Yellow Effect 3"
   },
   "22": {
-    "ゾンビ系ダメージ強化 Lv4": ""
+    "ゾンビ系ダメージ強化 Lv4": "Zombie Damage Boost Lv4"
   },
   "23": {
     "clarity_nt_char_23": "clarity_nt_char_23"
   },
   "24": {
-    "赤の錬金効果１": ""
+    "赤の錬金効果１": "Red Effect 1"
   },
   "25": {
-    "赤の錬金効果２": ""
+    "赤の錬金効果２": "Red Effect 2"
   },
   "26": {
-    "赤の錬金効果３": ""
+    "赤の錬金効果３": "Red Effect 3"
   },
   "27": {
-    "打成一片の型・壱": ""
+    "打成一片の型・壱": "Become One Mold 1"
   },
   "28": {
     "clarity_nt_char_28": "clarity_nt_char_28"
   },
   "29": {
-    "赤の錬金効果５": ""
+    "赤の錬金効果５": "Red Effect 5"
   },
   "30": {
-    "植物系ダメージ強化 Lv4": ""
+    "植物系ダメージ強化 Lv4": "Plant Damage Boost Lv4"
   },
   "31": {
-    "フリーズブレードの型": ""
+    "フリーズブレードの型": "Frost Fangs Mold"
   },
   "32": {
     "clarity_nt_char_32": "clarity_nt_char_32"
   },
   "33": {
-    "怪人系ダメージ強化 Lv4": ""
+    "怪人系ダメージ強化 Lv4": "Humanoid Damage Boost Lv4"
   },
   "34": {
-    "無心こうげきの型": ""
+    "無心こうげきの型": "Blind Man's Biff Mold"
   },
   "35": {
     "clarity_nt_char_35": "clarity_nt_char_35"
   },
   "36": {
-    "悪魔系ダメージ強化 Lv4": ""
+    "悪魔系ダメージ強化 Lv4": "Demon Damage Boost Lv4"
   },
   "37": {
-    "エレ系ダメージ強化 Lv4": ""
+    "エレ系ダメージ強化 Lv4": "Element Damage Boost Lv4"
   },
   "38": {
-    "鳥系ダメージ強化 Lv4": ""
+    "鳥系ダメージ強化 Lv4": "Bird Damage Boost Lv4"
   },
   "39": {
     "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "40": {
-    "こうげき力アップ Lv1": ""
+    "こうげき力アップ Lv1": "Attack Plus Lv1"
   },
   "41": {
     "clarity_nt_char_41": "clarity_nt_char_41"
   },
   "42": {
-    "かいしん率アップ Lv1": ""
+    "かいしん率アップ Lv1": "Critical Plus Lv1"
   },
   "43": {
     "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "44": {
-    "こうげき力アップ Lv2": ""
+    "こうげき力アップ Lv2": "Attack Plus Lv2"
   },
   "45": {
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "46": {
-    "物質系ダメージ強化 Lv4": ""
+    "物質系ダメージ強化 Lv4": "Material Damage Boost Lv4"
   },
   "47": {
-    "かいしん率アップ Lv2": ""
+    "かいしん率アップ Lv2": "Critical Plus Lv2"
   },
   "48": {
     "clarity_nt_char_48": "clarity_nt_char_48"
   },
   "49": {
-    "スラ系ダメージ強化 Lv4": ""
+    "スラ系ダメージ強化 Lv4": "Slime Damage Boost Lv4"
   },
   "50": {
-    "マシン系ダメージ強化 Lv4": ""
+    "マシン系ダメージ強化 Lv4": "Machine Damage Boost Lv4"
   },
   "51": {
     "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "52": {
-    "水系ダメージ強化 Lv4": ""
+    "水系ダメージ強化 Lv4": "Water Damage Boost Lv4"
   },
   "53": {
     "clarity_nt_char_53": "clarity_nt_char_53"
   },
   "54": {
-    "特技のダメージ 強化 Lv3": ""
+    "特技のダメージ 強化 Lv3": "Skill Damage Boost Lv3"
   },
   "55": {
     "clarity_nt_char_55": "clarity_nt_char_55"
   },
   "56": {
-    "呪文のダメージ 強化 Lv3": ""
+    "呪文のダメージ 強化 Lv3": "Spell Damage Boost Lv3"
   },
   "57": {
     "clarity_nt_char_57": "clarity_nt_char_57"
   },
   "58": {
-    "ドラゴン系ダメージ強化 Lv3": ""
+    "ドラゴン系ダメージ強化 Lv3": "Dragon Damage Boost Lv3"
   },
   "59": {
-    "虫系ダメージ強化 Lv3": ""
+    "虫系ダメージ強化 Lv3": "Insect Damage Boost Lv3"
   },
   "60": {
     "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "61": {
-    "こうげき力アップ Lv3": ""
+    "こうげき力アップ Lv3": "Attack Plus Lv3"
   },
   "62": {
     "clarity_nt_char_62": "clarity_nt_char_62"
   },
   "63": {
-    "かいしん率アップ Lv3": ""
+    "かいしん率アップ Lv3": "Critical Plus Lv3"
   },
   "64": {
     "clarity_nt_char_64": "clarity_nt_char_64"
   },
   "65": {
-    "獣系ダメージ強化 Lv3": ""
+    "獣系ダメージ強化 Lv3": "Beast Damage Boost Lv3"
   },
   "66": {
     "clarity_nt_char_66": "clarity_nt_char_66"
   },
   "67": {
-    "ゾンビ系ダメージ強化 Lv3": ""
+    "ゾンビ系ダメージ強化 Lv3": "Zombie Damage Boost Lv3"
   },
   "68": {
     "clarity_nt_char_68": "clarity_nt_char_68"
   },
   "69": {
-    "植物系ダメージ強化 Lv3": ""
+    "植物系ダメージ強化 Lv3": "Plant Damage Boost Lv3"
   },
   "70": {
-    "怪人系ダメージ強化 Lv3": ""
+    "怪人系ダメージ強化 Lv3": "Humanoid Damage Boost Lv3"
   },
   "71": {
-    "ほのおのつるぎの型": ""
+    "ほのおのつるぎの型": "Fire Blade Mold"
   },
   "72": {
-    "かえん斬りの強化": ""
+    "かえん斬りの強化": "Flame Slash Boost"
   },
   "73": {
     "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "74": {
-    "炎の攻撃ダメージ 強化": ""
+    "炎の攻撃ダメージ 強化": "Fire Damage Boost"
   },
   "75": {
-    "封印ガード": ""
+    "封印ガード": "Blind Guard"
   },
   "76": {
-    "身かわし率アップ Lv２": ""
+    "身かわし率アップ Lv２": "Dodge Plus Lv2"
   },
   "77": {
     "clarity_nt_char_77": "clarity_nt_char_77"
   },
   "78": {
-    "斬夜の太刀の型": ""
+    "斬夜の太刀の型": "Nightcleaver Mold"
   },
   "79": {
-    "カンフーキャップの型": ""
+    "カンフーキャップの型": "Kung Fu Cap Mold"
   },
   "80": {
     "clarity_nt_char_80": "clarity_nt_char_80"
   },
   "81": {
-    "瀕死時 身かわし率+30%": ""
+    "瀕死時 身かわし率+30%": "Dodge +30% On Death"
   },
   "82": {
-    "トラップジャマー": ""
+    "トラップジャマー": "Trap Jammer"
   },
   "83": {
     "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "84": {
-    "どうぐ倍化術": ""
+    "どうぐ倍化術": "Double Dose"
   },
   "85": {
     "clarity_nt_char_85": "clarity_nt_char_85"
   },
   "86": {
-    "ギガボンバー": ""
+    "ギガボンバー": "Giga Bomber"
   },
   "87": {
     "clarity_nt_char_87": "clarity_nt_char_87"
   },
   "88": {
-    "てなづける": ""
+    "てなづける": "Win Over"
   },
   "89": {
-    "メイクアップ": ""
+    "メイクアップ": "Extreme Makeover"
   },
   "90": {
     "clarity_nt_char_90": "clarity_nt_char_90"
   },
   "91": {
-    "ためる参": ""
+    "ためる参": "Psyche 3"
   },
   "92": {
     "clarity_nt_char_92": "clarity_nt_char_92"
   },
   "93": {
-    "いやしの雨": ""
+    "いやしの雨": "Right as Rain"
   },
   "94": {
-    "つるぎの舞": ""
+    "つるぎの舞": "Swords Dance"
   },
   "95": {
-    "打成一片Ⅱ": ""
+    "打成一片Ⅱ": "Become One Ⅱ"
   },
   "96": {
-    "悪魔系ダメージ強化 Lv3": ""
+    "悪魔系ダメージ強化 Lv3": "Demon Damage Boost Lv3"
   },
   "97": {
-    "エレ系ダメージ強化 Lv3": ""
+    "エレ系ダメージ強化 Lv3": "Element Damage Boost Lv3"
   },
   "98": {
-    "鳥系ダメージ強化 Lv3": ""
+    "鳥系ダメージ強化 Lv3": "Bird Damage Boost Lv3"
   },
   "99": {
     "clarity_nt_char_99": "clarity_nt_char_99"
   },
   "100": {
-    "物質系ダメージ強化 Lv3": ""
+    "物質系ダメージ強化 Lv3": "Material Damage Boost Lv3"
   },
   "101": {
-    "渾身斬りの強化 Lv3": ""
+    "渾身斬りの強化 Lv3": "Cutting Edge Boost Lv3"
   },
   "102": {
-    "ぶんまわしの強化 Lv3": ""
+    "ぶんまわしの強化 Lv3": "Helichopter Boost Lv3"
   },
   "103": {
     "clarity_nt_char_103": "clarity_nt_char_103"
   },
   "104": {
-    "無心こうげきの強化 Lv3": ""
+    "無心こうげきの強化 Lv3": "Blind Man's Biff Boost Lv3"
   },
   "105": {
-    "大ぼうぎょ": ""
+    "大ぼうぎょ": "Defending Champ"
   },
   "106": {
-    "聖女の守り": ""
+    "聖女の守り": "Alma Mater"
   },
   "107": {
-    "ホーリーライト": ""
+    "ホーリーライト": "Divine Restitution"
   },
   "108": {
-    "女神の祝福": ""
+    "女神の祝福": "Divine Blessing"
   },
   "109": {
-    "グランドネビュラ": ""
+    "グランドネビュラ": "Solar Flair"
   },
   "110": {
     "clarity_nt_char_110": "clarity_nt_char_110"
   },
   "111": {
-    "古今無双Ⅱ": ""
+    "古今無双Ⅱ": "Kokon Musou Ⅱ"
   },
   "112": {
-    "煉獄魔斬Ⅲ": ""
+    "煉獄魔斬Ⅲ": "Demon Edge Ⅲ"
   },
   "113": {
-    "ビーストファングⅡ": ""
+    "ビーストファングⅡ": "Beast Fang Ⅱ"
   },
   "114": {
-    "ケルベロスロンドⅢ": ""
+    "ケルベロスロンドⅢ": "Cerberus Rondo Ⅲ"
   },
   "115": {
-    "メラガイアー": ""
+    "メラガイアー": "Kafrizzle"
   },
   "116": {
     "clarity_nt_char_116": "clarity_nt_char_116"
   },
   "117": {
-    "マヒャデドス": ""
+    "マヒャデドス": "Kacrackle"
   },
   "118": {
     "clarity_nt_char_118": "clarity_nt_char_118"
   },
   "119": {
-    "バギムーチョ": ""
+    "バギムーチョ": "Kaswooshle"
   },
   "120": {
     "clarity_nt_char_120": "clarity_nt_char_120"
   },
   "121": {
-    "ギラグレイドⅢ": ""
+    "ギラグレイドⅢ": "Kasizzle Ⅲ"
   },
   "122": {
-    "イオマータⅡ": ""
+    "イオマータⅡ": "Kablam Ⅱ"
   },
   "123": {
     "clarity_nt_char_123": "clarity_nt_char_123"
   },
   "124": {
-    "ドルマドン": ""
+    "ドルマドン": "Kazammle"
   },
   "125": {
-    "ザキ": ""
+    "ザキ": "Whack"
   },
   "126": {
     "clarity_nt_char_126": "clarity_nt_char_126"
   },
   "127": {
-    "ベホマⅢ": ""
+    "ベホマⅢ": "Fullheal Ⅲ"
   },
   "128": {
     "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "129": {
-    "ラリホー": ""
+    "ラリホー": "Snooze"
   },
   "130": {
     "clarity_nt_char_130": "clarity_nt_char_130"
   },
   "131": {
-    "ねむりのダンス": ""
+    "ねむりのダンス": "Dance of Sleep"
   },
   "132": {
-    "マヌーサ": ""
+    "マヌーサ": "Dazzle"
   },
   "133": {
     "clarity_nt_char_133": "clarity_nt_char_133"
   },
   "134": {
-    "スキャンダル": ""
+    "スキャンダル": "Scandal Eyes"
   },
   "135": {
     "clarity_nt_char_135": "clarity_nt_char_135"
   },
   "136": {
-    "ヴェレーノ": ""
+    "ヴェレーノ": "Toxle"
   },
   "137": {
-    "もうどくブルース": ""
+    "もうどくブルース": "Poisonous Blues"
   },
   "138": {
     "clarity_nt_char_138": "clarity_nt_char_138"
   },
   "139": {
-    "おたけび": ""
+    "おたけび": "War Cry"
   },
   "140": {
     "clarity_nt_char_140": "clarity_nt_char_140"
   },
   "141": {
-    "クモノ": ""
+    "クモノ": "Web Trap"
   },
   "142": {
-    "なめまわし": ""
+    "なめまわし": "Tongue Lash"
   },
   "143": {
-    "ボケ": ""
+    "ボケ": "Bonk"
   },
   "144": {
     "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
-    "ボミオス": ""
+    "ボミオス": "Deceleratle"
   },
   "146": {
     "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "147": {
-    "メダパニ": ""
+    "メダパニ": "Fuddle"
   },
   "148": {
     "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "149": {
-    "こんらんのダンス": ""
+    "こんらんのダンス": "Dance of Confusion"
   },
   "150": {
     "clarity_nt_char_150": "clarity_nt_char_150"
   },
   "151": {
-    "マホトーン": ""
+    "マホトーン": "Fizzle"
   },
   "152": {
-    "ブレスクラッシュ": ""
+    "ブレスクラッシュ": "Breath Breaker"
   },
   "153": {
     "clarity_nt_char_153": "clarity_nt_char_153"
   },
   "154": {
-    "ぶきみな閃光Ⅲ": ""
+    "ぶきみな閃光Ⅲ": "Eerie Gleam Ⅲ"
   },
   "155": {
-    "灼熱とうこん討ちⅢ": ""
+    "灼熱とうこん討ちⅢ": "Scorched Earth Ⅲ"
   },
   "156": {
-    "戦鬼の乱れ舞": ""
+    "戦鬼の乱れ舞": "Demon's Dance"
   },
   "157": {
     "clarity_nt_char_157": "clarity_nt_char_157"
   },
   "158": {
-    "チャージタックル": ""
+    "チャージタックル": "Charge Tackle"
   },
   "159": {
     "clarity_nt_char_159": "clarity_nt_char_159"
   },
   "160": {
-    "ロストブレイクⅢ": ""
+    "ロストブレイクⅢ": "Lost Break Ⅲ"
   },
   "161": {
     "clarity_nt_char_161": "clarity_nt_char_161"
   },
   "162": {
-    "めいそう": ""
+    "めいそう": "Meditation"
   },
   "163": {
     "clarity_nt_char_163": "clarity_nt_char_163"
   },
   "164": {
-    "不撓不屈": ""
+    "不撓不屈": "Mens Sana"
   },
   "165": {
     "clarity_nt_char_165": "clarity_nt_char_165"
   },
   "166": {
-    "アイスフォース": ""
+    "アイスフォース": "Frost Fource"
   },
   "167": {
-    "ダークフォース": ""
+    "ダークフォース": "Funereal Fource"
   },
   "168": {
-    "ロイヤルステップ": ""
+    "ロイヤルステップ": "Royal Step"
   },
   "169": {
     "clarity_nt_char_169": "clarity_nt_char_169"
   },
   "170": {
-    "ストームフォース": ""
+    "ストームフォース": "Gale Fource"
   },
   "171": {
     "clarity_nt_char_171": "clarity_nt_char_171"
   },
   "172": {
-    "ビーナスステップ": ""
+    "ビーナスステップ": "Venus Step"
   },
   "173": {
     "clarity_nt_char_173": "clarity_nt_char_173"
   },
   "174": {
-    "スラ系ダメージ強化 Lv3": ""
+    "スラ系ダメージ強化 Lv3": "Slime Damage Boost Lv3"
   },
   "175": {
-    "マシン系ダメージ強化 Lv3": ""
+    "マシン系ダメージ強化 Lv3": "Machine Damage Boost Lv3"
   },
   "176": {
     "clarity_nt_char_176": "clarity_nt_char_176"
   },
   "177": {
-    "水系ダメージ強化 Lv3": ""
+    "水系ダメージ強化 Lv3": "Water Damage Boost Lv3"
   },
   "178": {
     "clarity_nt_char_178": "clarity_nt_char_178"
   },
   "179": {
-    "炎の攻撃ダメージ 強化 Lv4": ""
+    "炎の攻撃ダメージ 強化 Lv4": "Fire Attack Boost Lv4"
   },
   "180": {
-    "氷の攻撃ダメージ 強化 Lv4": ""
+    "氷の攻撃ダメージ 強化 Lv4": "Ice Attack Boost Lv4"
   },
   "181": {
-    "風の攻撃ダメージ 強化 Lv4": ""
+    "風の攻撃ダメージ 強化 Lv4": "Wind Attack Boost Lv4"
   },
   "182": {
-    "雷の攻撃ダメージ 強化 Lv4": ""
+    "雷の攻撃ダメージ 強化 Lv4": "Thunder Attack Boost Lv4"
   },
   "183": {
-    "土の攻撃ダメージ 強化 Lv4": ""
+    "土の攻撃ダメージ 強化 Lv4": "Earth Attack Boost Lv4"
   },
   "184": {
-    "闇の攻撃ダメージ 強化 Lv4": ""
+    "闇の攻撃ダメージ 強化 Lv4": "Dark Attack Boost Lv4"
   },
   "185": {
-    "光の攻撃ダメージ 強化 Lv4": ""
+    "光の攻撃ダメージ 強化 Lv4": "Light Attack Boost Lv4"
   },
   "186": {
-    "炎の攻撃ダメージ 強化 Lv3": ""
+    "炎の攻撃ダメージ 強化 Lv3": "Fire Attack Boost Lv3"
   },
   "187": {
-    "氷の攻撃ダメージ 強化 Lv3": ""
+    "氷の攻撃ダメージ 強化 Lv3": "Ice Attack Boost Lv3"
   },
   "188": {
-    "風の攻撃ダメージ 強化 Lv3": ""
+    "風の攻撃ダメージ 強化 Lv3": "Wind Attack Boost Lv3"
   },
   "189": {
-    "雷の攻撃ダメージ 強化 Lv3": ""
+    "雷の攻撃ダメージ 強化 Lv3": "Thunder Attack Boost Lv3"
   },
   "190": {
-    "土の攻撃ダメージ 強化 Lv3": ""
+    "土の攻撃ダメージ 強化 Lv3": "Earth Attack Boost Lv3"
   },
   "191": {
-    "闇の攻撃ダメージ 強化 Lv3": ""
+    "闇の攻撃ダメージ 強化 Lv3": "Dark Attack Boost Lv3"
   },
   "192": {
-    "光の攻撃ダメージ 強化 Lv3": ""
+    "光の攻撃ダメージ 強化 Lv3": "Light Attack Boost Lv3"
   },
   "193": {
-    "ブレス系ダメージ減 Lv4": ""
+    "ブレス系ダメージ減 Lv4": "Breath Resist Boost Lv4"
   },
   "194": {
-    "呪文ダメージ減 Lv4": ""
+    "呪文ダメージ減 Lv4": "Spell Resistance Lv4"
   },
   "195": {
-    "炎ダメージ減 Lv4": ""
+    "炎ダメージ減 Lv4": "Fire Resistance Lv4"
   },
   "196": {
     "clarity_nt_char_196": "clarity_nt_char_196"
   },
   "197": {
-    "氷ダメージ減 Lv4": ""
+    "氷ダメージ減 Lv4": "Ice Resistance Lv4"
   },
   "198": {
     "clarity_nt_char_198": "clarity_nt_char_198"
   },
   "199": {
-    "風ダメージ減 Lv4": ""
+    "風ダメージ減 Lv4": "Wind Resistance Lv4"
   },
   "200": {
     "clarity_nt_char_200": "clarity_nt_char_200"
   },
   "201": {
-    "雷ダメージ減 Lv4": ""
+    "雷ダメージ減 Lv4": "Thunder Resistance Lv4"
   },
   "202": {
     "clarity_nt_char_202": "clarity_nt_char_202"
   },
   "203": {
-    "土ダメージ減 Lv4": ""
+    "土ダメージ減 Lv4": "Earth Resistance Lv4"
   },
   "204": {
     "clarity_nt_char_204": "clarity_nt_char_204"
   },
   "205": {
-    "闇ダメージ減 Lv4": ""
+    "闇ダメージ減 Lv4": "Dark Resistance Lv4"
   },
   "206": {
     "clarity_nt_char_206": "clarity_nt_char_206"
   },
   "207": {
-    "光ダメージ減 Lv4": ""
+    "光ダメージ減 Lv4": "Light Resistance Lv4"
   },
   "208": {
     "clarity_nt_char_208": "clarity_nt_char_208"
   },
   "209": {
-    "ブレス系ダメージ減 Lv3": ""
+    "ブレス系ダメージ減 Lv3": "Breath Resistance Lv3"
   },
   "210": {
-    "呪文ダメージ減 Lv3": ""
+    "呪文ダメージ減 Lv3": "Spell Resistance Lv3"
   },
   "211": {
-    "炎ダメージ減 Lv3": ""
+    "炎ダメージ減 Lv3": "Fire Resistance Lv3"
   },
   "212": {
     "clarity_nt_char_212": "clarity_nt_char_212"
   },
   "213": {
-    "氷ダメージ減 Lv3": ""
+    "氷ダメージ減 Lv3": "Ice Resistance Lv3"
   },
   "214": {
     "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "215": {
-    "フリーズブレードの強化 Lv3": ""
+    "フリーズブレードの強化 Lv3": "Frost Fangs Boost Lv3"
   },
   "216": {
-    "めいどうふうまの強化 Lv3": ""
+    "めいどうふうまの強化 Lv3": "King Fissure Boost Lv3"
   },
   "217": {
     "clarity_nt_char_217": "clarity_nt_char_217"
   },
   "218": {
-    "打成一片Ⅱの強化 Lv3": ""
+    "打成一片Ⅱの強化 Lv3": "Become One Boost Lv3"
   },
   "219": {
     "clarity_nt_char_219": "clarity_nt_char_219"
   },
   "220": {
-    "マグマの強化 Lv3": ""
+    "マグマの強化 Lv3": "Magma Boost Lv3"
   },
   "221": {
     "clarity_nt_char_221": "clarity_nt_char_221"
   },
   "222": {
-    "マヒャデドスの強化 Lv3": ""
+    "マヒャデドスの強化 Lv3": "Kacrackle Boost Lv3"
   },
   "223": {
-    "風ダメージ減 Lv3": ""
+    "風ダメージ減 Lv3": "Wind Resistance Lv3"
   },
   "224": {
     "clarity_nt_char_224": "clarity_nt_char_224"
   },
   "225": {
-    "雷ダメージ減 Lv3": ""
+    "雷ダメージ減 Lv3": "Thunder Resistance Lv3"
   },
   "226": {
     "clarity_nt_char_226": "clarity_nt_char_226"
   },
   "227": {
-    "土ダメージ減 Lv3": ""
+    "土ダメージ減 Lv3": "Earth Resistance Lv3"
   },
   "228": {
     "clarity_nt_char_228": "clarity_nt_char_228"
   },
   "229": {
-    "闇ダメージ減 Lv3": ""
+    "闇ダメージ減 Lv3": "Dark Resistance Lv3"
   },
   "230": {
     "clarity_nt_char_230": "clarity_nt_char_230"
   },
   "231": {
-    "光ダメージ減 Lv3": ""
+    "光ダメージ減 Lv3": "Light Resistance Lv3"
   },
   "232": {
     "clarity_nt_char_232": "clarity_nt_char_232"
   },
   "233": {
-    "眠りガード Lv4": ""
+    "眠りガード Lv4": "Sleep Guard Lv4"
   },
   "234": {
-    "マヒガード Lv4": ""
+    "マヒガード Lv4": "Paralyze Guard Lv4"
   },
   "235": {
-    "混乱ガード Lv4": ""
+    "混乱ガード Lv4": "Confuse Guard Lv4"
   },
   "236": {
-    "封印ガード Lv4": ""
+    "封印ガード Lv4": "Seal Guard Lv4"
   },
   "237": {
-    "幻惑ガード Lv4": ""
+    "幻惑ガード Lv4": "Blind Guard Lv4"
   },
   "238": {
-    "呪いガード Lv4": ""
+    "呪いガード Lv4": "Curse Guard Lv4"
   },
   "239": {
-    "毒ガード Lv4": ""
+    "毒ガード Lv4": "Poison Guard Lv4"
   },
   "240": {
     "clarity_nt_char_240": "clarity_nt_char_240"
   },
   "241": {
-    "ＭＰ吸収ガード Lv4": ""
+    "ＭＰ吸収ガード Lv4": "MP Absorb Guard Lv4"
   },
   "242": {
-    "即死ガード Lv4": ""
+    "即死ガード Lv4": "Death Guard Lv4"
   },
   "243": {
-    "魅了ガード Lv4": ""
+    "魅了ガード Lv4": "Charm Guard Lv4"
   },
   "244": {
-    "眠りガード Lv3": ""
+    "眠りガード Lv3": "Sleep Guard Lv3"
   },
   "245": {
-    "マヒガード Lv3": ""
+    "マヒガード Lv3": "Paralyze Guard Lv3"
   },
   "246": {
-    "混乱ガード Lv3": ""
+    "混乱ガード Lv3": "Confuse Guard Lv3"
   },
   "247": {
-    "封印ガード Lv3": ""
+    "封印ガード Lv3": "Seal Guard Lv3"
   },
   "248": {
-    "幻惑ガード Lv3": ""
+    "幻惑ガード Lv3": "Blind Guard Lv3"
   },
   "249": {
-    "呪いガード Lv3": ""
+    "呪いガード Lv3": "Curse Guard Lv3"
   },
   "250": {
-    "武器ガード率アップ Lv3": ""
+    "武器ガード率アップ Lv3": "Parry Plus Lv3"
   },
   "251": {
-    "行動時 ためる Lv3": ""
+    "行動時 ためる Lv3": "Tension On Action Lv3"
   },
   "252": {
-    "攻撃時 猛毒 Lv3": ""
+    "攻撃時 猛毒 Lv3": "Poison Attack Lv3"
   },
   "253": {
     "clarity_nt_char_253": "clarity_nt_char_253"
   },
   "254": {
-    "攻撃時 眠り Lv3": ""
+    "攻撃時 眠り Lv3": "Sleep Attack Lv3"
   },
   "255": {
     "clarity_nt_char_255": "clarity_nt_char_255"
   },
   "256": {
-    "攻撃時 マヒ Lv3": ""
+    "攻撃時 マヒ Lv3": "Paralyze Attack Lv3"
   },
   "257": {
     "clarity_nt_char_257": "clarity_nt_char_257"
   },
   "258": {
-    "攻撃時 混乱 Lv3": ""
+    "攻撃時 混乱 Lv3": "Confuse Attack Lv3"
   },
   "259": {
     "clarity_nt_char_259": "clarity_nt_char_259"
   },
   "260": {
-    "攻撃時 幻惑 Lv3": ""
+    "攻撃時 幻惑 Lv3": "Blind Attack Lv3"
   },
   "261": {
     "clarity_nt_char_261": "clarity_nt_char_261"
   },
   "262": {
-    "攻撃時 魅了 Lv3": ""
+    "攻撃時 魅了 Lv3": "Charm Attack Lv3"
   },
   "263": {
     "clarity_nt_char_263": "clarity_nt_char_263"
   },
   "264": {
-    "攻撃時 ヘナトス Lv3": ""
+    "攻撃時 ヘナトス Lv3": "Blunt Attack Lv3"
   },
   "265": {
     "clarity_nt_char_265": "clarity_nt_char_265"
   },
   "266": {
-    "攻撃時 ルカニ Lv3": ""
+    "攻撃時 ルカニ Lv3": "Sap Attack Lv3"
   },
   "267": {
-    "攻撃時 呪文威力低下 Lv3": ""
+    "攻撃時 呪文威力低下 Lv3": "Spell Down Attack Lv3"
   },
   "268": {
     "clarity_nt_char_268": "clarity_nt_char_268"
   },
   "269": {
-    "紫の錬金効果１": ""
+    "紫の錬金効果１": "Purple Effect 1"
   },
   "270": {
-    "メラガイアーの強化 Lv3": ""
+    "メラガイアーの強化 Lv3": "Kafrizzle Boost Lv3"
   },
   "271": {
-    "毒ガード Lv3": ""
+    "毒ガード Lv3": "Poison Guard Lv3"
   },
   "272": {
     "clarity_nt_char_272": "clarity_nt_char_272"
   },
   "273": {
-    "ＭＰ吸収ガード Lv3": ""
+    "ＭＰ吸収ガード Lv3": "MP Absorb Guard Lv3"
   },
   "274": {
-    "即死ガード Lv3": ""
+    "即死ガード Lv3": "Death Guard Lv3"
   },
   "275": {
-    "魅了ガード Lv3": ""
+    "魅了ガード Lv3": "Charm Guard Lv3"
   },
   "276": {
-    "不死鳥天舞の型": ""
+    "不死鳥天舞の型": "Phoenix Dance Mold"
   },
   "277": {
-    "ギガスラッシュの型": ""
+    "ギガスラッシュの型": "Gigaslash Mold"
   },
   "278": {
-    "つるぎの舞の型": ""
+    "つるぎの舞の型": "Swords Dance Mold"
   },
   "279": {
-    "ギラグレイドの型": ""
+    "ギラグレイドの型": "Kasizzle Mold"
   },
   "280": {
     "clarity_nt_char_280": "clarity_nt_char_280"
   },
   "281": {
-    "もろば斬りの型": ""
+    "もろば斬りの型": "Double-Edged Mold"
   },
   "282": {
-    "ベギラマの型": ""
+    "ベギラマの型": "Sizzle Mold"
   },
   "283": {
     "clarity_nt_char_283": "clarity_nt_char_283"
   },
   "284": {
-    "はやぶさ斬りの型": ""
+    "はやぶさ斬りの型": "Falcon Slash Mold"
   },
   "285": {
     "clarity_nt_char_285": "clarity_nt_char_285"
   },
   "286": {
-    "こうげき力アップ Lv4": ""
+    "こうげき力アップ Lv4": "Attack Plus Lv4"
   },
   "287": {
     "clarity_nt_char_287": "clarity_nt_char_287"
   },
   "288": {
-    "かいしん率アップ Lv4": ""
+    "かいしん率アップ Lv4": "Critical Plus Lv4"
   },
   "289": {
     "clarity_nt_char_289": "clarity_nt_char_289"
   },
   "290": {
-    "バギマの型": ""
+    "バギマの型": "Swoosh Mold"
   },
   "291": {
-    "ジバリーナの型": ""
+    "ジバリーナの型": "Mountainmover Mold"
   },
   "292": {
-    "バギムーチョの型": ""
+    "バギムーチョの型": "Kaswooshle Mold"
   },
   "293": {
     "clarity_nt_char_293": "clarity_nt_char_293"
   },
   "294": {
-    "メラガイアーの型・壱": ""
+    "メラガイアーの型・壱": "Kafrizzle Mold 1"
   },
   "295": {
     "clarity_nt_char_295": "clarity_nt_char_295"
   },
   "296": {
-    "オオカミアタックの型": ""
+    "オオカミアタックの型": "Wolf Whistle Mold"
   },
   "297": {
     "clarity_nt_char_297": "clarity_nt_char_297"
   },
   "298": {
-    "はやぶさ斬りの強化 Lv4": ""
+    "はやぶさ斬りの強化 Lv4": "Falcon Slash Boost Lv4"
   },
   "299": {
-    "もろば斬りの強化 Lv4": ""
+    "もろば斬りの強化 Lv4": "Double-Edged Boost Lv4"
   },
   "300": {
     "clarity_nt_char_300": "clarity_nt_char_300"
   },
   "301": {
-    "ギガスラッシュの強化 Lv4": ""
+    "ギガスラッシュの強化 Lv4": "Gigaslash Boost Lv4"
   },
   "302": {
     "clarity_nt_char_302": "clarity_nt_char_302"
   },
   "303": {
-    "ベギラゴンの強化 Lv4": ""
+    "ベギラゴンの強化 Lv4": "Kasizz Boost Lv4"
   },
   "304": {
     "clarity_nt_char_304": "clarity_nt_char_304"
   },
   "305": {
-    "つるぎの舞の強化 Lv4": ""
+    "つるぎの舞の強化 Lv4": "Swords Dance Boost Lv4"
   },
   "306": {
     "clarity_nt_char_306": "clarity_nt_char_306"
   },
   "307": {
-    "グランドネビュラの強化 Lv4": ""
+    "グランドネビュラの強化 Lv4": "Solar Flair Boost Lv4"
   },
   "308": {
-    "不死鳥天舞Ⅲの強化 Lv4": ""
+    "不死鳥天舞Ⅲの強化 Lv4": "Phoenix Dance Boost Lv4"
   },
   "309": {
-    "ギガブレイクの強化 Lv4": ""
+    "ギガブレイクの強化 Lv4": "Gigagash Boost Lv4"
   },
   "310": {
-    "ギラグレイドⅢの強化 Lv4": ""
+    "ギラグレイドⅢの強化 Lv4": "Kasizz Ⅲ Boost Lv4"
   },
   "311": {
     "clarity_nt_char_311": "clarity_nt_char_311"
   },
   "312": {
-    "はやぶさ斬りの強化 Lv3": ""
+    "はやぶさ斬りの強化 Lv3": "Falcon Slash Boost Lv4"
   },
   "313": {
-    "もろば斬りの強化 Lv3": ""
+    "もろば斬りの強化 Lv3": "Double-Edged Boost Lv3"
   },
   "314": {
     "clarity_nt_char_314": "clarity_nt_char_314"
   },
   "315": {
-    "ベギラゴンの強化 Lv3": ""
+    "ベギラゴンの強化 Lv3": "Kasizz Boost Lv3"
   },
   "316": {
     "clarity_nt_char_316": "clarity_nt_char_316"
   },
   "317": {
-    "つるぎの舞の強化 Lv3": ""
+    "つるぎの舞の強化 Lv3": "Swords Dance Boost Lv3"
   },
   "318": {
     "clarity_nt_char_318": "clarity_nt_char_318"
   },
   "319": {
-    "こうげき魔力 アップ Lv1": ""
+    "こうげき魔力 アップ Lv1": "Magical Might Plus Lv1"
   },
   "320": {
     "clarity_nt_char_320": "clarity_nt_char_320"
   },
   "321": {
-    "呪文ぼうそう率アップ Lv1": ""
+    "呪文ぼうそう率アップ Lv1": "Haywire Plus Lv1"
   },
   "322": {
     "clarity_nt_char_322": "clarity_nt_char_322"
   },
   "323": {
-    "こうげき魔力 アップ Lv2": ""
+    "こうげき魔力 アップ Lv2": "Magical Might Plus Lv2"
   },
   "324": {
     "clarity_nt_char_324": "clarity_nt_char_324"
   },
   "325": {
-    "呪文ぼうそう率アップ Lv2": ""
+    "呪文ぼうそう率アップ Lv2": "Haywire Plus Lv2"
   },
   "326": {
     "clarity_nt_char_326": "clarity_nt_char_326"
   },
   "327": {
-    "こうげき魔力 アップ Lv3": ""
+    "こうげき魔力 アップ Lv3": "Magical Might Plus Lv3"
   },
   "328": {
     "clarity_nt_char_328": "clarity_nt_char_328"
   },
   "329": {
-    "呪文ぼうそう率アップ Lv3": ""
+    "呪文ぼうそう率アップ Lv3": "Haywire Plus Lv3"
   },
   "330": {
     "clarity_nt_char_330": "clarity_nt_char_330"
   },
   "331": {
-    "ギラグレイドⅢの強化 Lv3": ""
+    "ギラグレイドⅢの強化 Lv3": "Kasizz Ⅲ Boost Lv3"
   },
   "332": {
     "clarity_nt_char_332": "clarity_nt_char_332"
   },
   "333": {
-    "武器ガード率アップ Lv4": ""
+    "武器ガード率アップ Lv4": "Parry Plus Lv4"
   },
   "334": {
-    "行動時 ためる Lv4": ""
+    "行動時 ためる Lv4": "Tension On Action Lv4"
   },
   "335": {
-    "無心こうげきの強化": ""
+    "無心こうげきの強化": "Blind Man's Biff Boost"
   },
   "336": {
-    "オオカミアタックの強化 Lv3": ""
+    "オオカミアタックの強化 Lv3": "Wolf Whistle Boost Lv3"
   },
   "337": {
-    "バギクロスの強化 Lv3": ""
+    "バギクロスの強化 Lv3": "Kaswoosh Boost Lv3"
   },
   "338": {
     "clarity_nt_char_338": "clarity_nt_char_338"
   },
   "339": {
-    "メラゾーマの強化 Lv3": ""
+    "メラゾーマの強化 Lv3": "Kafrizz Boost Lv3"
   },
   "340": {
     "clarity_nt_char_340": "clarity_nt_char_340"
   },
   "341": {
-    "バギムーチョの強化 Lv3": ""
+    "バギムーチョの強化 Lv3": "Kaswooshle Boost Lv3"
   },
   "342": {
-    "攻撃時 猛毒 Lv4": ""
+    "攻撃時 猛毒 Lv4": "Poison Attack Lv4"
   },
   "343": {
     "clarity_nt_char_343": "clarity_nt_char_343"
   },
   "344": {
-    "攻撃時 眠り Lv4": ""
+    "攻撃時 眠り Lv4": "Sleep Attack Lv4"
   },
   "345": {
     "clarity_nt_char_345": "clarity_nt_char_345"
   },
   "346": {
-    "攻撃時 マヒ Lv4": ""
+    "攻撃時 マヒ Lv4": "Paralyze Attack Lv4"
   },
   "347": {
     "clarity_nt_char_347": "clarity_nt_char_347"
   },
   "348": {
-    "攻撃時 混乱 Lv4": ""
+    "攻撃時 混乱 Lv4": "Confuse Attack Lv4"
   },
   "349": {
     "clarity_nt_char_349": "clarity_nt_char_349"
   },
   "350": {
-    "攻撃時 幻惑 Lv4": ""
+    "攻撃時 幻惑 Lv4": "Blind Attack Lv4"
   },
   "351": {
     "clarity_nt_char_351": "clarity_nt_char_351"
   },
   "352": {
-    "攻撃時 魅了 Lv4": ""
+    "攻撃時 魅了 Lv4": "Charm Attack Lv4"
   },
   "353": {
     "clarity_nt_char_353": "clarity_nt_char_353"
   },
   "354": {
-    "攻撃時 ヘナトス Lv4": ""
+    "攻撃時 ヘナトス Lv4": "Blunt Attack Lv4"
   },
   "355": {
     "clarity_nt_char_355": "clarity_nt_char_355"
   },
   "356": {
-    "光の攻撃ダメージ 強化": ""
+    "光の攻撃ダメージ 強化": "Light Attack Boost"
   },
   "357": {
-    "攻撃時 ルカニ Lv4": ""
+    "攻撃時 ルカニ Lv4": "Sap Attack Lv4"
   },
   "358": {
-    "攻撃時 呪文威力低下 Lv4": ""
+    "攻撃時 呪文威力低下 Lv4": "Spell Down Attack Lv4"
   },
   "359": {
     "clarity_nt_char_359": "clarity_nt_char_359"
   },
   "360": {
-    "打成一片の型・弐": ""
+    "打成一片の型・弐": "Become One Mold 2"
   },
   "361": {
     "clarity_nt_char_361": "clarity_nt_char_361"
   },
   "362": {
-    "ビッグバンの型": ""
+    "ビッグバンの型": "Big Banga Mold"
   },
   "363": {
-    "呪文発動速度アップ Lv3": ""
+    "呪文発動速度アップ Lv3": "Spellcast Speed Plus Lv3"
   },
   "364": {
-    "ＭＰ消費しない率アップ Lv3": ""
+    "ＭＰ消費しない率アップ Lv3": "Don't Use MP Plus Lv3"
   },
   "365": {
-    "ビッグシールドの型": ""
+    "ビッグシールドの型": "Immense Defence Mold"
   },
   "366": {
-    "まもりのたての型": ""
+    "まもりのたての型": "Holy Impregnable Mold"
   },
   "367": {
     "clarity_nt_char_367": "clarity_nt_char_367"
   },
   "368": {
-    "ファランクスの型": ""
+    "ファランクスの型": "Phalanx Mold"
   },
   "369": {
     "clarity_nt_char_369": "clarity_nt_char_369"
   },
   "370": {
-    "スペルガードの型": ""
+    "スペルガードの型": "Spell Guard Mold"
   },
   "371": {
     "clarity_nt_char_371": "clarity_nt_char_371"
   },
   "372": {
-    "ファイアフォース": ""
+    "ファイアフォース": "Fire Fource"
   },
   "373": {
     "clarity_nt_char_373": "clarity_nt_char_373"
   },
   "374": {
-    "ライトフォース": ""
+    "ライトフォース": "Life Fource"
   },
   "375": {
-    "ドラゴンステップ": ""
+    "ドラゴンステップ": "Dragon Step"
   },
   "376": {
     "clarity_nt_char_376": "clarity_nt_char_376"
   },
   "377": {
-    "ジバルンバ": ""
+    "ジバルンバ": "Ridgeraiser"
   },
   "378": {
-    "こうげき力＋１０": ""
+    "こうげき力＋１０": "Attack +10"
   },
   "379": {
     "clarity_nt_char_379": "clarity_nt_char_379"
   },
   "380": {
-    "こうげき魔力＋２０": ""
+    "こうげき魔力＋２０": "Magical Might +20"
   },
   "381": {
-    "しゅび力＋９": ""
+    "しゅび力＋９": "Defense +9"
   },
   "382": {
     "clarity_nt_char_382": "clarity_nt_char_382"
   },
   "383": {
-    "魅了ガード＋５０％": ""
+    "魅了ガード＋５０％": "Charm Guard +50%"
   },
   "384": {
-    "魔物を倒すと１００％でためる": ""
+    "魔物を倒すと１００％でためる": "Tension On Enemy Defeat 100%"
   },
   "385": {
     "clarity_nt_char_385": "clarity_nt_char_385"
   },
   "386": {
-    "かいふく魔力＋１００": ""
+    "かいふく魔力＋１００": "Magical Mending +100"
   },
   "387": {
     "clarity_nt_char_387": "clarity_nt_char_387"
   },
   "388": {
-    "戦闘勝利時にＨＰが１０回復": ""
+    "戦闘勝利時にＨＰが１０回復": "Recover 10 HP On Victory"
   },
   "389": {
-    "しゅび力＋２５": ""
+    "しゅび力＋２５": "Defense +25"
   },
   "390": {
-    "致死ダメージ時５％で生存": ""
+    "致死ダメージ時５％で生存": "Survive Lethal Damage 5%"
   },
   "391": {
     "clarity_nt_char_391": "clarity_nt_char_391"
   },
   "392": {
-    "致死ダメージ時１０％で生存": ""
+    "致死ダメージ時１０％で生存": "Survive Lethal Damage 10%"
   },
   "393": {
-    "こうげき力＋７０": ""
+    "こうげき力＋７０": "Attack +70"
   },
   "394": {
     "clarity_nt_char_394": "clarity_nt_char_394"
   },
   "395": {
-    "こうげき魔力 ＋１４０": ""
+    "こうげき魔力 ＋１４０": "Magical Might +140"
   },
   "396": {
-    "即死ガード＋５０％": ""
+    "即死ガード＋５０％": "Death Guard +50%"
   },
   "397": {
-    "渾身斬りの強化 Lv4": ""
+    "渾身斬りの強化 Lv4": "Cutting Edge Boost Lv4"
   },
   "398": {
-    "ぶんまわしの強化 Lv4": ""
+    "ぶんまわしの強化 Lv4": "Helichopter Boost Lv4"
   },
   "399": {
     "clarity_nt_char_399": "clarity_nt_char_399"
   },
   "400": {
-    "無心こうげきの強化 Lv4": ""
+    "無心こうげきの強化 Lv4": "Blind Man's Biff Boost Lv4"
   },
   "401": {
-    "フリーズブレードの強化 Lv4": ""
+    "フリーズブレードの強化 Lv4": "Frost Fangs Boost Lv4"
   },
   "402": {
-    "めいどうふうまの強化 Lv4": ""
+    "めいどうふうまの強化 Lv4": "King Fissure Boost Lv4"
   },
   "403": {
     "clarity_nt_char_403": "clarity_nt_char_403"
   },
   "404": {
-    "打成一片Ⅱの強化 Lv4": ""
+    "打成一片Ⅱの強化 Lv4": "Become One Ⅱ Boost Lv4"
   },
   "405": {
     "clarity_nt_char_405": "clarity_nt_char_405"
   },
   "406": {
-    "マグマの強化 Lv4": ""
+    "マグマの強化 Lv4": "Magma Boost Lv4"
   },
   "407": {
     "clarity_nt_char_407": "clarity_nt_char_407"
   },
   "408": {
-    "れんごく火炎Ⅲの強化 Lv4": ""
+    "れんごく火炎Ⅲの強化 Lv4": "Hellfire Ⅲ Boost Lv4"
   },
   "409": {
     "clarity_nt_char_409": "clarity_nt_char_409"
   },
   "410": {
-    "ビッグバンの強化 Lv4": ""
+    "ビッグバンの強化 Lv4": "Big Banga Boost Lv4"
   },
   "411": {
     "clarity_nt_char_411": "clarity_nt_char_411"
   },
   "412": {
-    "マヒャデドスの強化 Lv4": ""
+    "マヒャデドスの強化 Lv4": "Kacrackle Boost Lv4"
   },
   "413": {
-    "眠りガード＋５０％": ""
+    "眠りガード＋５０％": "Sleep Guard +50%"
   },
   "414": {
-    "幻惑ガード＋５０％": ""
+    "幻惑ガード＋５０％": "Blind Guard +50%"
   },
   "415": {
-    "どくガード＋５０％": ""
+    "どくガード＋５０％": "Poison Guard +50%"
   },
   "416": {
-    "呪いガード＋５０％": ""
+    "呪いガード＋５０％": "Curse Guard +50%"
   },
   "417": {
-    "マヒガード＋５０％": ""
+    "マヒガード＋５０％": "Paralyze Guard +50%"
   },
   "418": {
-    "混乱ガード＋５０％": ""
+    "混乱ガード＋５０％": "Confuse Guard +50%"
   },
   "419": {
-    "戦闘勝利時にＭＰが５回復": ""
+    "戦闘勝利時にＭＰが５回復": "Restore 5 MP On Victory"
   },
   "420": {
     "clarity_nt_char_420": "clarity_nt_char_420"
   },
   "421": {
-    "封印ガード＋５０％": ""
+    "封印ガード＋５０％": "Seal Guard +50%"
   },
   "422": {
-    "こうげき魔力 ＋１００": ""
+    "こうげき魔力 ＋１００": "Magical Might +100"
   },
   "423": {
-    "こうげき力＋５０": ""
+    "こうげき力＋５０": "Attack +50"
   },
   "424": {
     "clarity_nt_char_424": "clarity_nt_char_424"
   },
   "425": {
-    "さいだいＨＰ＋１８": ""
+    "さいだいＨＰ＋１８": "Max HP +18"
   },
   "426": {
-    "さいだいＭＰ＋１８": ""
+    "さいだいＭＰ＋１８": "Max MP +18"
   },
   "427": {
-    "開戦時２０％で天使の守り": ""
+    "開戦時２０％で天使の守り": "Goddess' Grace Trigger 20%"
   },
   "428": {
     "clarity_nt_char_428": "clarity_nt_char_428"
   },
   "429": {
-    "氷ダメージ１５％減": ""
+    "氷ダメージ１５％減": "Ice Resistance +15%"
   },
   "430": {
-    "闇ダメージ１５％減": ""
+    "闇ダメージ１５％減": "Dark Resistance +15%"
   },
   "431": {
-    "風ダメージ１５％減": ""
+    "風ダメージ１５％減": "Wind Resistance +15%"
   },
   "432": {
-    "雷ダメージ１５％減": ""
+    "雷ダメージ１５％減": "Thunder Resistance +15%"
   },
   "433": {
-    "炎ダメージ１５％減": ""
+    "炎ダメージ１５％減": "Fire Resistance +15%"
   },
   "434": {
-    "光ダメージ１５％減": ""
+    "光ダメージ１５％減": "Light Resistance +15%"
   },
   "435": {
-    "さいだいＨＰアップ Lv１": ""
+    "さいだいＨＰアップ Lv１": "HP Plus Lv1"
   },
   "436": {
-    "さいだいＭＰアップ Lv１": ""
+    "さいだいＭＰアップ Lv１": "MP Plus Lv1"
   },
   "437": {
-    "しゅび力アップ Lv１": ""
+    "しゅび力アップ Lv１": "Defense Plus Lv1"
   },
   "438": {
-    "さいだいＨＰアップ Lv２": ""
+    "さいだいＨＰアップ Lv２": "HP Plus Lv2"
   },
   "439": {
-    "さいだいＭＰアップ Lv２": ""
+    "さいだいＭＰアップ Lv２": "MP Plus Lv2"
   },
   "440": {
-    "しゅび力アップ Lv２": ""
+    "しゅび力アップ Lv２": "Defense Plus Lv2"
   },
   "441": {
-    "さいだいＨＰアップ Lv３": ""
+    "さいだいＨＰアップ Lv３": "HP Plus Lv3"
   },
   "442": {
-    "さいだいＭＰアップ Lv３": ""
+    "さいだいＭＰアップ Lv３": "MP Plus Lv3"
   },
   "443": {
-    "しゅび力アップ Lv３": ""
+    "しゅび力アップ Lv３": "Defense Plus Lv3"
   },
   "444": {
-    "まふうじの杖の型": ""
+    "まふうじの杖の型": "Staff of Antimagic Mold"
   },
   "445": {
     "clarity_nt_char_445": "clarity_nt_char_445"
   },
   "446": {
-    "こうげき魔力 アップ Lv１": ""
+    "こうげき魔力 アップ Lv１": "Magical Might Plus Lv1"
   },
   "447": {
     "clarity_nt_char_447": "clarity_nt_char_447"
   },
   "448": {
-    "闇の攻撃ダメージ 強化": ""
+    "闇の攻撃ダメージ 強化": "Dark Attack Boost"
   },
   "449": {
-    "こうげき魔力 アップ Lv２": ""
+    "こうげき魔力 アップ Lv２": "Magical Might Plus Lv2"
   },
   "450": {
     "clarity_nt_char_450": "clarity_nt_char_450"
   },
   "451": {
-    "こうげき魔力 アップ Lv３": ""
+    "こうげき魔力 アップ Lv３": "Magical Might Plus Lv3"
   },
   "452": {
     "clarity_nt_char_452": "clarity_nt_char_452"
   },
   "453": {
-    "こうげき力アップ Lv１": ""
+    "こうげき力アップ Lv１": "Attack Plus Lv1"
   },
   "454": {
     "clarity_nt_char_454": "clarity_nt_char_454"
   },
   "455": {
-    "こうげき力アップ Lv２": ""
+    "こうげき力アップ Lv２": "Attack Plus Lv2"
   },
   "456": {
     "clarity_nt_char_456": "clarity_nt_char_456"
   },
   "457": {
-    "こうげき力アップ Lv３": ""
+    "こうげき力アップ Lv３": "Attack Plus Lv3"
   },
   "458": {
     "clarity_nt_char_458": "clarity_nt_char_458"
   },
   "459": {
-    "黄の錬金効果５": ""
+    "黄の錬金効果５": "Yellow Effect 5"
   },
   "460": {
-    "かいしん率アップ Lv１": ""
+    "かいしん率アップ Lv１": "Critical Plus Lv1"
   },
   "461": {
     "clarity_nt_char_461": "clarity_nt_char_461"
   },
   "462": {
-    "呪文ぼうそう率アップ Lv１": ""
+    "呪文ぼうそう率アップ Lv１": "Haywire Plus Lv1"
   },
   "463": {
     "clarity_nt_char_463": "clarity_nt_char_463"
   },
   "464": {
-    "かいしん率アップ Lv２": ""
+    "かいしん率アップ Lv２": "Critical Plus Lv2"
   },
   "465": {
     "clarity_nt_char_465": "clarity_nt_char_465"
   },
   "466": {
-    "呪文ぼうそう率アップ Lv２": ""
+    "呪文ぼうそう率アップ Lv２": "Haywire Plus Lv2"
   },
   "467": {
     "clarity_nt_char_467": "clarity_nt_char_467"
   },
   "468": {
-    "かいしん率アップ Lv３": ""
+    "かいしん率アップ Lv３": "Critical Plus Lv3"
   },
   "469": {
     "clarity_nt_char_469": "clarity_nt_char_469"
   },
   "470": {
-    "呪文ぼうそう率アップ Lv３": ""
+    "呪文ぼうそう率アップ Lv３": "Haywire Plus Lv3"
   },
   "471": {
     "clarity_nt_char_471": "clarity_nt_char_471"
   },
   "472": {
-    "身かわし率アップ Lv１": ""
+    "身かわし率アップ Lv１": "Dodge Plus Lv1"
   },
   "473": {
     "clarity_nt_char_473": "clarity_nt_char_473"
   },
   "474": {
-    "身かわし率アップ Lv３": ""
+    "身かわし率アップ Lv３": "Dodge Plus Lv3"
   },
   "475": {
     "clarity_nt_char_475": "clarity_nt_char_475"
   },
   "476": {
-    "橙の錬金効果２": ""
+    "橙の錬金効果２": "Orange Effect 2"
   },
   "477": {
-    "緑の錬金効果２": ""
+    "緑の錬金効果２": "Green Effect 2"
   },
   "478": {
-    "青の錬金効果２": ""
+    "青の錬金効果２": "Blue Effect 2"
   },
   "479": {
-    "行動時ためる": ""
+    "行動時ためる": "Tension On Action"
   },
   "480": {
     "clarity_nt_char_480": "clarity_nt_char_480"
   },
   "481": {
-    "ミリオンスマイル": ""
+    "ミリオンスマイル": "Million Smile"
   },
   "482": {
     "clarity_nt_char_482": "clarity_nt_char_482"
   },
   "483": {
-    "赤の錬金効果４": ""
+    "赤の錬金効果４": "Red Effect 4"
   },
   "484": {
-    "イオグランデの型": ""
+    "イオグランデの型": "Kaboomle Mold"
   },
   "485": {
     "clarity_nt_char_485": "clarity_nt_char_485"
   },
   "486": {
-    "メラガイアーの型・弐": ""
+    "メラガイアーの型・弐": "Kafrizzle Mold 2"
   },
   "487": {
     "clarity_nt_char_487": "clarity_nt_char_487"
   },
   "488": {
-    "ケルベロスロンドの型": ""
+    "ケルベロスロンドの型": "Cerberus Rondo Mold"
   },
   "489": {
     "clarity_nt_char_489": "clarity_nt_char_489"
   },
   "490": {
-    "こうげき魔力 アップ Lv4": ""
+    "こうげき魔力 アップ Lv4": "Magical Might Plus Lv4"
   },
   "491": {
     "clarity_nt_char_491": "clarity_nt_char_491"
   },
   "492": {
-    "呪文ぼうそう率アップ Lv4": ""
+    "呪文ぼうそう率アップ Lv4": "Haywire Plus Lv4"
   },
   "493": {
     "clarity_nt_char_493": "clarity_nt_char_493"
   },
   "494": {
-    "みかわしの服上の型": ""
+    "みかわしの服上の型": "Evasion Cloak Mold"
   },
   "495": {
-    "オオカミアタックの強化 Lv4": ""
+    "オオカミアタックの強化 Lv4": "Wolf Whistle Boost Lv4"
   },
   "496": {
-    "フェンリルアタックの強化 Lv4": ""
+    "フェンリルアタックの強化 Lv4": "Fenrir Whistle Boost Lv4"
   },
   "497": {
     "clarity_nt_char_497": "clarity_nt_char_497"
   },
   "498": {
-    "ケルベロスロンドⅢの強化 Lv4": ""
+    "ケルベロスロンドⅢの強化 Lv4": "Cerberus Rondo Ⅲ Boost Lv4"
   },
   "499": {
     "clarity_nt_char_499": "clarity_nt_char_499"
   },
   "500": {
-    "バギクロスの強化 Lv4": ""
+    "バギクロスの強化 Lv4": "Kaswoosh Boost Lv4"
   },
   "501": {
     "clarity_nt_char_501": "clarity_nt_char_501"
   },
   "502": {
-    "メラゾーマの強化 Lv4": ""
+    "メラゾーマの強化 Lv4": "Kafrizz Boost Lv4"
   },
   "503": {
     "clarity_nt_char_503": "clarity_nt_char_503"
   },
   "504": {
-    "イオナズンの強化 Lv4": ""
+    "イオナズンの強化 Lv4": "Kaboom Boost Lv4"
   },
   "505": {
     "clarity_nt_char_505": "clarity_nt_char_505"
   },
   "506": {
-    "バギムーチョの強化 Lv4": ""
+    "バギムーチョの強化 Lv4": "Kaswooshle Boost Lv4"
   },
   "507": {
-    "メラガイアーの強化 Lv4": ""
+    "メラガイアーの強化 Lv4": "Kafrizzle Boost Lv4"
   },
   "508": {
-    "イオグランデの強化 Lv4": ""
+    "イオグランデの強化 Lv4": "Kaboomle Boost Lv4"
   },
   "509": {
-    "マダンテの強化 Lv4": ""
+    "マダンテの強化 Lv4": "Magic Burst Boost Lv4"
   },
   "510": {
-    "呪文発動速度アップ Lv4": ""
+    "呪文発動速度アップ Lv4": "Spellcast Speed Plus Lv4"
   },
   "511": {
-    "ＭＰ消費しない率アップ Lv4": ""
+    "ＭＰ消費しない率アップ Lv4": "Don't Use MP Plus Lv4"
   },
   "512": {
-    "聖騎士の堅陣の型": ""
+    "聖騎士の堅陣の型": "Paladin's Palisade Mold"
   },
   "513": {
     "clarity_nt_char_513": "clarity_nt_char_513"
   },
   "514": {
-    "ちからの盾の型": ""
+    "ちからの盾の型": "Power Shield Mold"
   },
   "515": {
-    "さいだいＨＰアップ Lv４": ""
+    "さいだいＨＰアップ Lv４": "HP Plus Lv4"
   },
   "516": {
-    "さいだいＭＰアップ Lv４": ""
+    "さいだいＭＰアップ Lv４": "MP Plus Lv4"
   },
   "517": {
-    "しゅび力アップ Lv４": ""
+    "しゅび力アップ Lv４": "Defense Plus Lv4"
   },
   "518": {
-    "こうげき魔力 アップ Lv４": ""
+    "こうげき魔力 アップ Lv４": "Magical Might Plus Lv4"
   },
   "519": {
     "clarity_nt_char_519": "clarity_nt_char_519"
   },
   "520": {
-    "こうげき力アップ Lv４": ""
+    "こうげき力アップ Lv４": "Attack Plus Lv4"
   },
   "521": {
     "clarity_nt_char_521": "clarity_nt_char_521"
   },
   "522": {
-    "かいしん率アップ Lv４": ""
+    "かいしん率アップ Lv４": "Critical Plus Lv4"
   },
   "523": {
     "clarity_nt_char_523": "clarity_nt_char_523"
   },
   "524": {
-    "呪文ぼうそう率アップ Lv４": ""
+    "呪文ぼうそう率アップ Lv４": "Haywire Plus Lv4"
   },
   "525": {
     "clarity_nt_char_525": "clarity_nt_char_525"
   },
   "526": {
-    "身かわし率アップ Lv４": ""
+    "身かわし率アップ Lv４": "Dodge Plus Lv4"
   },
   "527": {
     "clarity_nt_char_527": "clarity_nt_char_527"
   },
   "528": {
-    "橙の錬金効果４": ""
+    "橙の錬金効果４": "Orange Effect 4"
   },
   "529": {
-    "緑の錬金効果４": ""
+    "緑の錬金効果４": "Green Effect 4"
   },
   "530": {
-    "青の錬金効果４": ""
+    "青の錬金効果４": "Blue Effect 4"
   },
   "531": {
-    "黄の錬金効果４": ""
+    "黄の錬金効果４": "Yellow Effect 4"
   }
 }
