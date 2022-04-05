@@ -6,16 +6,16 @@
     "「私は　強化屋だよ。|　お持ちの装備を同じ種類の　少し強い装備に|　強化することが　できるんだ。|<br>|「でも　強化してあげられるのは　|　会うたびに　１回だけなの。|　よく考えて　選んでね。それじゃ……|<bw_break>": "I can enhance... I can enhance your equipment|with a slightly stronger version of the same|type... But I can only enhance it once every|<br>|time I see you. You'll have to choose...|Okay, well...<bw_break>"
   },
   "3": {
-    "「ここは　改造屋だよ。|　あたしに　何か用はあるのかな？|<select_se_off>|武器か盾を改造する|防具を改造する|アクセサリーを改造する|説明を聞く|<select_end>|<break>": "This place has been remodeled. Is there|something you want from me?|<select_se_off>|Modify a weapon or shield|Modify armor|Modify accessories|Listen to the explanation|<select_end>|<break>"
+    "「ここは　改造屋だよ。|　あたしに　何か用はあるのかな？|<select_se_off>|武器か盾を改造する|防具を改造する|アクセサリーを改造する|説明を聞く|<select_end>|<break>": "This is the Remodeling Shop. What can I do|for you?|<select_se_off>|Modify Weapon/Shield|Modify Armor|Modify Accessories|Explanation|<select_end>|<break>"
   },
   "4": {
-    "「他に　何か用はあるのかな？|<select_se_off>|武器か盾を改造する|防具を改造する|アクセサリーを改造する|説明を聞く|<select_end>|<break>": "Is there anything else I can do for you?|<select_se_off>|Modify a weapon or shield|Modify armor|Modify accessories|Listen to the explanation|<select_end>|<break>"
+    "「他に　何か用はあるのかな？|<select_se_off>|武器か盾を改造する|防具を改造する|アクセサリーを改造する|説明を聞く|<select_end>|<break>": "Anything else I can do for you?|<select_se_off>|Modify Weapon/Shield|Modify Armor|Modify Accessories|Explanation|<select_end>|<break>"
   },
   "5": {
-    "「あら？　装備品を　持っていないみたいね。|　装備品を　手に入れたら　また来てね。|<end>": "What? You don't seem to have any equipment.|I'll get you your gear, and then we'll...<end>"
+    "「あら？　装備品を　持っていないみたいね。|　装備品を　手に入れたら　また来てね。|<end>": "What? You don't seem to have any equipment.|Come back when you get some.<end>"
   },
   "6": {
-    "「何について　聞きたいのかな？|<select_se_off>|改造屋って？|装備の錬金効果枠|錬金効果枠の種類|進化と変換|<select_end>|<break>": ""
+    "「何について　聞きたいのかな？|<select_se_off>|改造屋って？|装備の錬金効果枠|錬金効果枠の種類|進化と変換|<select_end>|<break>": "What do you want to ask me?|<select_se_off>|Remodeling?|Alchemy Slots|Slot Types|Evolve/Convert|<select_end>|<break>"
   },
   "7": {
     "「付けられる　錬金効果には|　装備しているあいだ　追加のスキルを|　覚えることが　できるものが　あるんだ。|<br>|「付けられるスロットは　決まってるけど|　ひとつの効果で　いくつかのスキルを|　覚えられるものもあるよ。|<br>|「どんなスキルを覚えるかは|　錬金効果を付けるときに　確認できるから|　自分にあったものを　探してみてね。|<bw_break>": "Some of the alchemical effects you can add|will allow you to learn additional skills|while equipped. The number of slots you can|<br>|add is limited, but you can learn several|skills with a single effect. You can check|what skills you can learn when you attach an|<br>|alchemy effect, so you can find the one that|suits you best.<bw_break>"
@@ -36,13 +36,13 @@
     "「仮テキスト|<bw_break>": "dummy text|<bw_break>"
   },
   "13": {
-    "「改造する　ベース装備を選択しろ。|<break>": "Modify Select base equipment...<break>"
+    "「改造する　ベース装備を選択しろ。|<break>": "Select the base equipment to modify.<break>"
   },
   "14": {
-    "「ちょっと！　この装備品は|　ロックされているみたいだよ。|　解除するか　別の装備を選んでね。|<end>": "Hey! This piece of equipment appears to be|locked. Either unlock it or select another|piece of equipment...<end>"
+    "「ちょっと！　この装備品は|　ロックされているみたいだよ。|　解除するか　別の装備を選んでね。|<end>": "Wait! This piece of equipment appears to be|locked. Either unlock it, or select another|piece of equipment.<end>"
   },
   "15": {
-    "「あら？　<%sL_BASE_ITEM><%sM_plusnum>は|　これ以上　強化できないみたい。|　別の装備を　選んでね。|<end>": "Huh? <%sL_BASE_ITEM><%sM_plusnum> can't be|enhanced any further... I'm going to have to|choose another piece of equipment.<end>"
+    "「あら？　<%sL_BASE_ITEM><%sM_plusnum>は|　これ以上　強化できないみたい。|　別の装備を　選んでね。|<end>": "Huh? <%sL_BASE_ITEM><%sM_plusnum> can't be|enhanced any further. You'll have to choose|another piece of equipment.<end>"
   },
   "16": {
     "「この　アイテムはあたしには|　改造できないよ。|<break>": "I don't think I can modify this item.<break>"
@@ -51,52 +51,52 @@
     "「<%sL_SENTAKU_ITEM>だな。|　どのメニューにするんだ？|<select_se_off>|スキル（セット）を付与する|錬金を付与する|装備を進化させる|装備を変形させる|<select_end>|<break>": "<%sL_SENTAKU_ITEM... Which menu are you going|to use?|<select_se_off>|Grant skills (sets)|Granting alchemy|Evolve your equipment|Transforming equipment|<select_end>|<break>"
   },
   "18": {
-    "「これはできないな　今は。|<break>": "I can't do this...<break>"
+    "「これはできないな　今は。|<break>": "I can't do this now.<break>"
   },
   "19": {
-    "「あら？　お金が足りないみたい。|　ゴールドを準備してから　また来てね。|<end>": "What? There's not enough money... I'll get|the gold ready, and then we'll...<end>"
+    "「あら？　お金が足りないみたい。|　ゴールドを準備してから　また来てね。|<end>": "Huh? You're short on money. Come back when|you get more Gold.<end>"
   },
   "20": {
-    "「あら？　素材が足りないみたい。|　素材を準備してから　また来てね。|<end>": "What? We're running low on materials. I'll|get the materials and then we'll...<end>"
+    "「あら？　素材が足りないみたい。|　素材を準備してから　また来てね。|<end>": "Huh? You're short on materials. Come back|when you get more.<end>"
   },
   "21": {
     "「これにするんだな。|<break>": "I'll take this...<break>"
   },
   "22": {
-    "「この効果を　セットするけど|　本当に　いいかな？|<yesno_2><break>": "I'm going to set this effect. Are you sure|you want to do this?<yesno_2><break>"
+    "「この効果を　セットするけど|　本当に　いいかな？|<yesno_2><break>": "I'll set this effect. Are you sure|you want to do this?<yesno_2><break>"
   },
   "23": {
-    "「わかったわ。|　そこで　少し待っててちょうだい……。|　ふんふんふふん！！|<se Joutyu_SE 40>|<break>": "I don't know... I need you to wait right|there... Mmm-hmm!<se Joutyu_SE 40>|<break>"
+    "「わかったわ。|　そこで　少し待っててちょうだい……。|　ふんふんふふん！！|<se Joutyu_SE 40>|<break>": "Got it. Just give me one second...|Mmm-hmm-hmmmmm!<se Joutyu_SE 40>|<break>"
   },
   "24": {
-    "<pipipi_off>|<%sL_BASE_ITEM>に|<%sL_RENKIN>が　付いた！|<se_nots System 7>|<end>": "<pipipi_off><%sL_BASE_ITEM> now has <%sL_RENKIN>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<%sL_BASE_ITEM>に|<%sL_RENKIN>が　付いた！|<se_nots System 7>|<end>": "<pipipi_off><%sL_BASE_ITEM>|now has <%sL_RENKIN>!|<se_nots System 7>|<end>"
   },
   "25": {
     "<pipipi_off>|<%sL_BASE_ITEM><%sM_plusnum>が|<%sL_MORAU_ITEM><%sM_plusnum2>に　進化した！|<se_nots System 7>|<end>": "<pipipi_off><%sL_BASE_ITEM><%sM_plusnum> has evolved into|<%sL_MORAU_ITEM><%sM_plusnum2>!|<se_nots System 7>|<end>"
   },
   "26": {
-    "<pipipi_off>|<%sL_BASE_ITEM><%sM_plusnum>を|<%sL_MORAU_ITEM><%sM_plusnum2>に　変換した！|<se_nots System 7>|<end>": "<pipipi_off>Converted <%sL_BASE_ITEM><%sM_plusnum> to|<%sL_MORAU_ITEM><%sM_plusnum2>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<%sL_BASE_ITEM><%sM_plusnum>を|<%sL_MORAU_ITEM><%sM_plusnum2>に　変換した！|<se_nots System 7>|<end>": "<pipipi_off>Converted <%sL_BASE_ITEM><%sM_plusnum> into|<%sL_MORAU_ITEM><%sM_plusnum2>!|<se_nots System 7>|<end>"
   },
   "27": {
-    "「そうそう　今回は　特別うまくできたから|　ゴールドは　無料にしておいたよ！|<end>": "Yeah, yeah, I got it extra good this time, so|I'm giving you the gold for free!<end>"
+    "「そうそう　今回は　特別うまくできたから|　ゴールドは　無料にしておいたよ！|<end>": "Oh yeah! I did super well this time! The|Gold cost is on me!|<end>"
   },
   "28": {
-    "「どうも　ありがとう！|　また来てくれたら　うれしいな。|<end>": "Thank you, thank you! I'd love it if you came|back...<end>"
+    "「どうも　ありがとう！|　また来てくれたら　うれしいな。|<end>": "Thank you very much! I'd be happy to see|you again.<end>"
   },
   "29": {
-    "「やめとくの？|　気が変わったら　また話しかけてね。|<end>": "You're not gonna do that? If you change your|mind, we can talk again...<end>"
+    "「やめとくの？|　気が変わったら　また話しかけてね。|<end>": "Don't want to? Feel free to come back if|you change your mind.<end>"
   },
   "30": {
     "「あら？　<%sL_BASE_ITEM><%sM_plusnum>は|　今　装備しているもの　みたいだけど|　本当に　これを変換しても　いいの？|<yesno2><close>": "Oh? It looks like|<%sL_BASE_ITEM><%sM_plusnum> is what you're|currently equipped with, but are you sure you|<br>|want to convert this?<yesno2><close>"
   },
   "31": {
-    "「<%sL_BASE_ITEM><%sM_plusnum>から|　<%sL_MORAU_ITEM><%sM_plusnum2>だね。|　変換すると　こんな感じになるよ。|<end>": "<%sL_BASE_ITEM><%sM_plusnum> to|<%sL_MORAU_ITEM><%sM_plusnum2... When|converted, it looks like this...<end>"
+    "「<%sL_BASE_ITEM><%sM_plusnum>から|　<%sL_MORAU_ITEM><%sM_plusnum2>だね。|　変換すると　こんな感じになるよ。|<end>": "<%sL_BASE_ITEM><%sM_plusnum> into|<%sL_MORAU_ITEM><%sM_plusnum2>? After|being converted, it'll look like this.<end>"
   },
   "32": {
-    "「本当に　作り変えて　いいかな？|<yesno_2><break>": "Are you sure you don't want me to remake it?<yesno_2><break>"
+    "「本当に　作り変えて　いいかな？|<yesno_2><break>": "You want me to evolve this?|<yesno_2><break>"
   },
   "33": {
-    "「錬金スロットは　そのまま継承するぞ。|<break>": "The alchemy slot is inherited...<break>"
+    "「錬金スロットは　そのまま継承するぞ。|<break>": "The alchemy slot will be inherited.|<break>"
   },
   "34": {
     "「この装備は　錬金スロットの形が違うから|　そのまま　錬金効果の継承は　できないよ。|　移したい効果を　選んでね。|<break>": "This equipment has a different shape of|alchemy slot, so it can't inherit alchemy|effects. Select the effect you want to|<br>|transfer...<break>"
@@ -117,10 +117,10 @@
     "予備": ""
   },
   "40": {
-    "「この　アイテムは進化できないよ。|<break>": "This item can evolve...<break>"
+    "「この　アイテムは進化できないよ。|<break>": "I can't evolve this.<break>"
   },
   "41": {
-    "「この　アイテムは変化できないよ。|<break>": "This item can change...<break>"
+    "「この　アイテムは変化できないよ。|<break>": "I can't convert this.<break>"
   },
   "42": {
     "「塔の中の装備品には　いろんな種類の|　『錬金効果枠』が　ついてるの。|<br>|「装備品ごとに　錬金効果枠は　決まっていて|　同じ装備品なら　錬金効果枠の|　種類と数は　同じだよ。|<br>|「例えば　戦士の剣の錬金効果枠は　戦士の剣なら|　どれも同じ。戦士の剣と　はじゃのつるぎでは|　錬金効果枠の　種類が違うんだ。|<br>|「錬金効果枠の　種類とレベルにより　付与できる|　錬金効果は　決まっていて　レベルが|　高いほど　より強い錬金効果を　選べるよ。|<bw_break>": ""
@@ -156,7 +156,7 @@
     "「この効果を　セットするけど|　本当に　いいかな？|<yesno2><close>": "I'm going to set this effect. Are you sure|you want to do this?<yesno2><close>"
   },
   "53": {
-    "「本当に　変換しても　いいかな？|<yesno2><close>": "Are you sure you don't want me to convert|you?<yesno2><close>"
+    "「本当に　変換しても　いいかな？|<yesno2><close>": "You'd like me to convert this?|<yesno2><close>"
   },
   "54": {
     "「上手く　進化できたよ！|　進化した装備は　今よりも良い錬金効果を|　つけ直せるから　確認してみてね！|<bw_break>": "I was able to evolve it successfully! You can|reapply better alchemical effects to your|evolved equipment, so please check it out!<bw_break>"
@@ -171,10 +171,10 @@
     "「まだ　未選択のスロットが　あるみたいだよ。|　全てのスロットで　継承する効果を　選んでね。|<end>": "It looks like there are still some slots|unselected. I'm trying to choose which|effects to inherit for all slots.<end>"
   },
   "58": {
-    "「ここは　改造屋だよ。|　あたしに　何か用はあるのかな？|<select_se_off>|スキルをつける|錬金効果をつける|進化や変換をする|説明を聞く|<select_end>|<close>": "This place has been remodeled. Is there|something you want from me?|<select_se_off>|add skills|Add alchemy effect|Evolution and conversion|Listen to the explanation|<select_end>|<close>"
+    "「ここは　改造屋だよ。|　あたしに　何か用はあるのかな？|<select_se_off>|スキルをつける|錬金効果をつける|進化や変換をする|説明を聞く|<select_end>|<close>": "This is the Remodeling Shop. What can I do|for you?|<select_se_off>|Add Skills|Add Alchemy Effects|Evolve/Convert|Explanation|<select_end>|<close>"
   },
   "59": {
-    "「他に　何か用はあるのかな？|<select_se_off>|スキルをつける|錬金効果をつける|進化や変換をする|説明を聞く|<select_end>|<close>": "Is there anything else I can do for you?|<select_se_off>|add skills|Add alchemy effect|Evolution and conversion|Listen to the explanation|<select_end>|<close>"
+    "「他に　何か用はあるのかな？|<select_se_off>|スキルをつける|錬金効果をつける|進化や変換をする|説明を聞く|<select_end>|<close>": "Is there anything else I can do for you?|<select_se_off>|Add Skills|Add Alchemy Effects|Evolve/Convert|Explanation|<select_end>|<close>"
   },
   "60": {
     "「あら？　そこはスキル専用のスロットだから|　錬金効果は　つけられないみたい。|　他の場所を　選んでね。|<br_break>": "Huh? That's a dedicated slot for skills, so|you can't add alchemical effects there.|You'll have to choose another location...<br_break>"
@@ -216,16 +216,16 @@
     "「あら？　<%sL_BASE_ITEM><%sM_plusnum>には|　錬金効果を付けることが　できないみたい。|　別の装備を　選んでね。|<end>": "Huh? You can't add alchemical effects to|<%sL_BASE_ITEM><%sM_plusnum>... I'll have to|pick another one...<end>"
   },
   "73": {
-    "「錬金効果を付けたい　場所を選んでね。|　一度　効果を付けても　素材があれば|　何度でも　付け直しできるよ。|<break>": ""
+    "「錬金効果を付けたい　場所を選んでね。|　一度　効果を付けても　素材があれば|　何度でも　付け直しできるよ。|<break>": "Choose which slot to apply the alchemy effect.|You can use the same effect multiple times so|long as you have the needed materials.|<break>"
   },
   "74": {
-    "「ここで　装備していくのかな？|<yesno><break>": "Is this where we're going to rig it?<yesno><break>"
+    "「ここで　装備していくのかな？|<yesno><break>": "Equip this here?|<yesno><break>"
   },
   "75": {
-    "<speed=0><pc>は|<%sL_MORAU_ITEM><%sM_plusnum2>を　装備した！|<end>": "<speed=0><pc> is now equipped with|<%sL_MORAU_ITEM><%sM_plusnum2>!<end>"
+    "<speed=0><pc>は|<%sL_MORAU_ITEM><%sM_plusnum2>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_MORAU_ITEM><%sM_plusnum2>!<end>"
   },
   "76": {
-    "「<%sL_BASE_ITEM><%sM_plusnum>から|　<%sL_MORAU_ITEM><%sM_plusnum2>だね。|　進化すると　こんな感じになるよ。|<end>": "From <%sL_BASE_ITEM><%sM_plusnum> to|<%sL_MORAU_ITEM><%sM_plusnum2... When it|evolves, it looks like this...<end>"
+    "「<%sL_BASE_ITEM><%sM_plusnum>から|　<%sL_MORAU_ITEM><%sM_plusnum2>だね。|　進化すると　こんな感じになるよ。|<end>": "From <%sL_BASE_ITEM><%sM_plusnum> into|<%sL_MORAU_ITEM><%sM_plusnum2>? When it|evolves, it looks like this...<end>"
   },
   "77": {
     "「本当に　進化させて　いいかな？|<yesno2><close>": "Are you sure you want me to evolve?<yesno2><close>"

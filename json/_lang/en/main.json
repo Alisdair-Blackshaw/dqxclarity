@@ -21087,7 +21087,7 @@
     "clarity_nt_char_7029": "clarity_nt_char_7029"
   },
   "7030": {
-    "未登録": ""
+    "未登録": "Empty"
   },
   "7031": {
     "<%sM_pc>の最高記録：<%.1fM_fishsize>cm": "High Score <%sM_pc>: <%.1fM_fishsize>cm"
@@ -30225,10 +30225,10 @@
     "clarity_nt_char_10075": "clarity_nt_char_10075"
   },
   "10076": {
-    "セット可能": ""
+    "セット可能": "Settable"
   },
   "10077": {
-    "せんれき未登録": ""
+    "せんれき未登録": "Not in Records"
   },
   "10078": {
     "位置変更モードへ": "Change Position"
@@ -32100,7 +32100,7 @@
     "clarity_nt_char_10700": "clarity_nt_char_10700"
   },
   "10701": {
-    "<%dM_floor>階": "<%dM_floor>F"
+    "<%dM_floor>階": "<%dM_floor> F"
   },
   "10702": {
     "clarity_nt_char_10702": "clarity_nt_char_10702"
@@ -32139,7 +32139,7 @@
     "clarity_nt_char_10713": "clarity_nt_char_10713"
   },
   "10714": {
-    "錬金に必要な素材": ""
+    "錬金に必要な素材": "Mats. Needed"
   },
   "10715": {
     "clarity_nt_char_10715": "clarity_nt_char_10715"

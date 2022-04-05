@@ -24,7 +24,7 @@
     "clarity_nt_char_8": "clarity_nt_char_8"
   },
   "9": {
-    "巨大な火柱で|敵１体を|焼きつくす": ""
+    "巨大な火柱で|敵１体を|焼きつくす": "Burns an enemy in|a huge pillar|of fire."
   },
   "10": {
     "氷のやいばで|敵１体を攻撃": ""
@@ -39,7 +39,7 @@
     "周囲を巻き込む|大きな氷の柱が|敵に突きささる": ""
   },
   "14": {
-    "周囲を巻き込む|巨大な氷の柱が|敵に突きささる": ""
+    "周囲を巻き込む|巨大な氷の柱が|敵に突きささる": "A huge ice pillar|engulfs nearby|enemies."
   },
   "15": {
     "小さな光の爆発で|自分の周りの|敵を攻撃": ""
@@ -60,7 +60,7 @@
     "clarity_nt_char_20": "clarity_nt_char_20"
   },
   "21": {
-    "想像を絶する光の|大爆発で自分の|周りの敵を攻撃": ""
+    "想像を絶する光の|大爆発で自分の|周りの敵を攻撃": "A huge explosion|of light hits|nearby enemies."
   },
   "22": {
     "clarity_nt_char_22": "clarity_nt_char_22"
@@ -81,7 +81,7 @@
     "clarity_nt_char_27": "clarity_nt_char_27"
   },
   "28": {
-    "周囲を巻き込む|巨大な竜巻が|敵を切り刻む": ""
+    "周囲を巻き込む|巨大な竜巻が|敵を切り刻む": "A huge tornado|that chops up|nearby enemies."
   },
   "29": {
     "闇のチカラで|敵１体を攻撃": ""
@@ -96,7 +96,7 @@
     "破滅的な|闇のチカラが|敵１体をおそう": ""
   },
   "33": {
-    "神もおそれる|闇のチカラが|敵１体をおそう": ""
+    "神もおそれる|闇のチカラが|敵１体をおそう": "An overwhelming|darkness attack|to one enemy."
   },
   "34": {
     "周囲を巻き込む|いなずまが|敵のもとへ落ちる": ""
@@ -135,7 +135,7 @@
     "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "46": {
-    "一定時間が経つと|大地が超爆裂する|結界を地面に描く": ""
+    "一定時間が経つと|大地が超爆裂する|結界を地面に描く": "Earth explodes|from the ground|after a time."
   },
   "47": {
     "clarity_nt_char_47": "clarity_nt_char_47"
@@ -150,7 +150,7 @@
     "周囲を巻き込む|強い呪いの言葉が|敵を死へいざなう": ""
   },
   "51": {
-    "ＭＰをすべて使い|敵を打ち滅ぼす|最強の光の呪文": ""
+    "ＭＰをすべて使い|敵を打ち滅ぼす|最強の光の呪文": "Uses all MP in a|giant blast of|light."
   },
   "52": {
     "clarity_nt_char_52": "clarity_nt_char_52"
@@ -222,7 +222,7 @@
     "仲間ひとりを|生き返らせるが|失敗する時もある": ""
   },
   "75": {
-    "仲間ひとりを|確実に|生き返らせる": ""
+    "仲間ひとりを|確実に|生き返らせる": "Revive one|companion|without fail."
   },
   "76": {
     "自分の命をかけて|仲間全員を|完全に復活させる": ""
@@ -324,22 +324,22 @@
     "clarity_nt_char_108": "clarity_nt_char_108"
   },
   "109": {
-    "敵１体を|混乱させる": ""
+    "敵１体を|混乱させる": "Confuses an|enemy."
   },
   "110": {
     "clarity_nt_char_110": "clarity_nt_char_110"
   },
   "111": {
-    "範囲内の敵を|混乱させる": ""
+    "範囲内の敵を|混乱させる": "Confuse all|nearby enemies."
   },
   "112": {
     "clarity_nt_char_112": "clarity_nt_char_112"
   },
   "113": {
-    "敵１体を|眠りにさそう": ""
+    "敵１体を|眠りにさそう": "Puts an enemy|to sleep."
   },
   "114": {
-    "範囲内の敵を|深い眠りにさそう": ""
+    "範囲内の敵を|深い眠りにさそう": "Puts nearby|enemies into|a deep sleep."
   },
   "115": {
     "敵１体の|呪文を封じる": ""
@@ -378,46 +378,46 @@
     "clarity_nt_char_126": "clarity_nt_char_126"
   },
   "127": {
-    "炎のチカラを|剣に宿して|敵を斬りつける": ""
+    "炎のチカラを|剣に宿して|敵を斬りつける": "Deals a slash|with the power|of fire."
   },
   "128": {
     "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "129": {
-    "敵を斬りつけ|自らのキズも|いやす秘剣": ""
+    "敵を斬りつけ|自らのキズも|いやす秘剣": "A slash that|heals some damage|you deal."
   },
   "130": {
-    "はやぶさのごとき|高速の２回攻撃": ""
+    "はやぶさのごとき|高速の２回攻撃": "Strikes an enemy|twice quickly."
   },
   "131": {
     "clarity_nt_char_131": "clarity_nt_char_131"
   },
   "132": {
-    "光の刃を剣にかえ|周囲をなぎはらう|剣の奥義": ""
+    "光の刃を剣にかえ|周囲をなぎはらう|剣の奥義": "Deals a light|attack to all|nearby enemies."
   },
   "133": {
     "clarity_nt_char_133": "clarity_nt_char_133"
   },
   "134": {
-    "ドラゴン系の敵に|威力を発揮する|竜殺しのひと振り": ""
+    "ドラゴン系の敵に|威力を発揮する|竜殺しのひと振り": "A slash that's|more effective|versus Dragons."
   },
   "135": {
-    "武器ガード率が|大幅に上がる|両手剣のかまえ": ""
+    "武器ガード率が|大幅に上がる|両手剣のかまえ": "Claymore stance|that increases|parry rate."
   },
   "136": {
     "clarity_nt_char_136": "clarity_nt_char_136"
   },
   "137": {
-    "振りまわした剣で|周囲の敵を|なぎはらう": ""
+    "振りまわした剣で|周囲の敵を|なぎはらう": "Spin around to|damage nearby|enemies."
   },
   "138": {
     "clarity_nt_char_138": "clarity_nt_char_138"
   },
   "139": {
-    "頭上から|敵１体を斬りつけ|大ダメージ": ""
+    "頭上から|敵１体を斬りつけ|大ダメージ": "Slash one enemy|from above for|heavy damage."
   },
   "140": {
-    "周囲の敵を|凍てつく氷で|こごえさせる": ""
+    "周囲の敵を|凍てつく氷で|こごえさせる": "Freeze nearby|enemies with|ice power."
   },
   "141": {
     "ダメージを|大幅に減らす": ""
@@ -426,55 +426,55 @@
     "clarity_nt_char_142": "clarity_nt_char_142"
   },
   "143": {
-    "スティックを|グルグル回して|敵を混乱させる": ""
+    "スティックを|グルグル回して|敵を混乱させる": "Twiddle wand|and confuse|nearby enemies."
   },
   "144": {
     "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
-    "マジでステキに|みりょくアップ": ""
+    "マジでステキに|みりょくアップ": "Greatly increases|an ally's Charm."
   },
   "146": {
-    "悪魔系の敵に|威力を発揮し|たまに魅了もする": ""
+    "悪魔系の敵に|威力を発揮し|たまに魅了もする": "Extra damage|to Demons with a|chance to charm."
   },
   "147": {
     "clarity_nt_char_147": "clarity_nt_char_147"
   },
   "148": {
-    "キラキラパワーで|悪い効果から|仲間の身を守る": ""
+    "キラキラパワーで|悪い効果から|仲間の身を守る": "Use glitter power|to protect allies|from bad effects."
   },
   "149": {
-    "悪魔系の敵に|威力を発揮し|さらにマヒさせる": ""
+    "悪魔系の敵に|威力を発揮し|さらにマヒさせる": "Extra damage and|paralysis to|Demon-types."
   },
   "150": {
     "clarity_nt_char_150": "clarity_nt_char_150"
   },
   "151": {
-    "仲間ひとりの|ＨＰをそこそこ|回復する": ""
+    "仲間ひとりの|ＨＰをそこそこ|回復する": "Restores|moderate HP to|a single ally."
   },
   "152": {
-    "いつもより|すばやく呪文を|唱えられる": ""
+    "いつもより|すばやく呪文を|唱えられる": "Your spells will|cast faster for|a while."
   },
   "153": {
-    "はやぶさをこえる|神速の４回攻撃": ""
+    "はやぶさをこえる|神速の４回攻撃": "Deals four, super|fast attacks."
   },
   "154": {
     "clarity_nt_char_154": "clarity_nt_char_154"
   },
   "155": {
-    "光の刃で周囲の|敵を撃ち滅ぼす|究極の剣技": ""
+    "光の刃で周囲の|敵を撃ち滅ぼす|究極の剣技": "Destroys nearby|enemies with a|blade of light."
   },
   "156": {
-    "周囲の敵を|炎の大爆発で|焼きつくす": ""
+    "周囲の敵を|炎の大爆発で|焼きつくす": "Burn nearby|enemies with a|fiery explosion."
   },
   "157": {
     "clarity_nt_char_157": "clarity_nt_char_157"
   },
   "158": {
-    "フルパワーで|敵１体を斬りつけ|大ダメージ": ""
+    "フルパワーで|敵１体を斬りつけ|大ダメージ": "Slash an enemy|at full power|for huge damage."
   },
   "159": {
-    "仲間ひとりの|テンションを|１段階アップする": ""
+    "仲間ひとりの|テンションを|１段階アップする": "Raise Tension|for one ally|by 1 level."
   },
   "160": {
     "clarity_nt_char_160": "clarity_nt_char_160"
@@ -486,7 +486,7 @@
     "clarity_nt_char_162": "clarity_nt_char_162"
   },
   "163": {
-    "与えるダメージを|アップする": ""
+    "与えるダメージを|アップする": "Increases your|damage dealt."
   },
   "164": {
     "clarity_nt_char_164": "clarity_nt_char_164"
@@ -513,7 +513,7 @@
     "鬼神のごとく|鉄球をなげつける": ""
   },
   "172": {
-    "敵１体に|ダメージを与え|テンションダウン": ""
+    "敵１体に|ダメージを与え|テンションダウン": "Damage an enemy|and lower|their tension."
   },
   "173": {
     "行動せずに仲間の|ダメージを受ける": ""
@@ -525,10 +525,10 @@
     "敵を攻撃しつつ|攻撃力も下げる": ""
   },
   "176": {
-    "ダメージを受けて|ＭＰ回復": ""
+    "ダメージを受けて|ＭＰ回復": "Restore MP|from damage|taken."
   },
   "177": {
-    "仲間ひとりの|呪いを解く": ""
+    "仲間ひとりの|呪いを解く": "Removes the|curse status."
   },
   "178": {
     "clarity_nt_char_178": "clarity_nt_char_178"
@@ -546,10 +546,10 @@
     "回復呪文の効果を|かなり高める": ""
   },
   "183": {
-    "魔法の結界で|攻撃呪文から|自分の身を守る": ""
+    "魔法の結界で|攻撃呪文から|自分の身を守る": "Raise your spell|resistance with|a magic ward."
   },
   "184": {
-    "敵１体を|攻撃呪文に|弱くする": ""
+    "敵１体を|攻撃呪文に|弱くする": "Lowers an enemy's|spell resistance."
   },
   "185": {
     "動きを止めて|ＭＰを徐々に回復": ""
@@ -558,7 +558,7 @@
     "呪文のダメージを|大幅に上げる": ""
   },
   "187": {
-    "雑念をはらい|ブレスダメージに|強くなる": ""
+    "雑念をはらい|ブレスダメージに|強くなる": "Become more|resistant to|breath damage."
   },
   "188": {
     "clarity_nt_char_188": "clarity_nt_char_188"
@@ -567,13 +567,13 @@
     "自分の悪い効果を|はらいのける": ""
   },
   "190": {
-    "周囲の敵を|大声でおどかし|動けなくする": ""
+    "周囲の敵を|大声でおどかし|動けなくする": "Yell and attempt|to frighten|nearby enemies."
   },
   "191": {
     "clarity_nt_char_191": "clarity_nt_char_191"
   },
   "192": {
-    "めいそうして|ＨＰを大幅に回復": ""
+    "めいそうして|ＨＰを大幅に回復": "Meditate to|restore HP."
   },
   "193": {
     "チカラを一気に|２回ためる": ""
@@ -585,13 +585,13 @@
     "clarity_nt_char_195": "clarity_nt_char_195"
   },
   "196": {
-    "バナナをしかけて|転ばせられるぞ": ""
+    "バナナをしかけて|転ばせられるぞ": "Place a banana|that can be|tripped on."
   },
   "197": {
     "clarity_nt_char_197": "clarity_nt_char_197"
   },
   "198": {
-    "敵１体の正体を|討伐モンスター|リストに書き込む": ""
+    "敵１体の正体を|討伐モンスター|リストに書き込む": "Write an enemy's|secret details to|the Bestiary."
   },
   "199": {
     "clarity_nt_char_199": "clarity_nt_char_199"
@@ -600,13 +600,13 @@
     "宝箱に魔物が|潜んでいないか|じっと見きわめる": ""
   },
   "201": {
-    "死んだふりで|敵をあざむき|しっかりＨＰ回復": ""
+    "死んだふりで|敵をあざむき|しっかりＨＰ回復": "Pretend to be|dead and recover|HP."
   },
   "202": {
     "clarity_nt_char_202": "clarity_nt_char_202"
   },
   "203": {
-    "巨大なバクダンで|敵をふっとばす": ""
+    "巨大なバクダンで|敵をふっとばす": "A huge explosion|engulfs enemies."
   },
   "204": {
     "clarity_nt_char_204": "clarity_nt_char_204"
@@ -615,7 +615,7 @@
     "近くの宝の場所を|地図上でしらせる": "Reveal nearby|treasures on|your map."
   },
   "206": {
-    "ボケたおして|周囲の敵を|わらわせる": "Bonk your head to|make nearby|enemies laugh."
+    "ボケたおして|周囲の敵を|わらわせる": "Bonk your head|to make nearby|enemies laugh."
   },
   "207": {
     "clarity_nt_char_207": "clarity_nt_char_207"
@@ -636,10 +636,10 @@
     "嵐のごとく|玉をなげつける": ""
   },
   "213": {
-    "周囲の仲間の|ＨＰを７０～回復": ""
+    "周囲の仲間の|ＨＰを７０～回復": "Nearby allies|recover about|70 HP."
   },
   "214": {
-    "ダメージを与えて|テンションアップ": ""
+    "ダメージを与えて|テンションアップ": "Raise tension|when you|take damage."
   },
   "215": {
     "守りを捨てて|攻撃力を上げる": ""
@@ -696,7 +696,7 @@
     "モンスターを|魅了する": ""
   },
   "233": {
-    "優しい心で|弱い敵を|逃がしてあげる": ""
+    "優しい心で|弱い敵を|逃がしてあげる": "Let weak enemies|escape from|battle."
   },
   "234": {
     "clarity_nt_char_234": "clarity_nt_char_234"
@@ -714,7 +714,7 @@
     "clarity_nt_char_238": "clarity_nt_char_238"
   },
   "239": {
-    "やいばに|全身を包んで|自分の身を守る": ""
+    "やいばに|全身を包んで|自分の身を守る": "Wrap yourself in|spikes to damage|attackers."
   },
   "240": {
     "自分の重さを|大幅アップする": ""
@@ -726,7 +726,7 @@
     "周りの仲間を|身体をはって守る": ""
   },
   "243": {
-    "ＨＰの３０％を|仲間ひとりに|分け与える": ""
+    "ＨＰの３０％を|仲間ひとりに|分け与える": "Transfer 30% HP|to a single|companion."
   },
   "244": {
     "clarity_nt_char_244": "clarity_nt_char_244"
@@ -1137,13 +1137,13 @@
     "死霊を召喚し|使役する": ""
   },
   "380": {
-    "デスパワー１段階|消費で聖女の守り|呪文と回復も強化": ""
+    "デスパワー１段階|消費で聖女の守り|呪文と回復も強化": "Grants Spell Up/|Alma Mater. Costs|1 Death Power."
   },
   "381": {
     "clarity_nt_char_381": "clarity_nt_char_381"
   },
   "382": {
-    "死霊を一定時間|強化して|デスパワー全消費": ""
+    "死霊を一定時間|強化して|デスパワー全消費": "Consume all death|power to boost|your spirit."
   },
   "383": {
     "選んだ対象を|死霊が攻撃する": ""
@@ -1152,10 +1152,10 @@
     "clarity_nt_char_384": "clarity_nt_char_384"
   },
   "385": {
-    "選んだ味方に|死霊が付き従い|ダメージ軽減効果": ""
+    "選んだ味方に|死霊が付き従い|ダメージ軽減効果": "Your spirit|protects an ally,|reducing damage."
   },
   "386": {
-    "死霊を爆発させ|デスパワーを獲得|周囲にダメージ": ""
+    "死霊を爆発させ|デスパワーを獲得|周囲にダメージ": "Explode your|spirit for damage|and death power."
   },
   "387": {
     "clarity_nt_char_387": "clarity_nt_char_387"
@@ -1263,16 +1263,16 @@
     "敵１体に強力な|闇の３連撃": ""
   },
   "422": {
-    "呪文がかなり|暴走しやすくなる|魔法陣を作る": ""
+    "呪文がかなり|暴走しやすくなる|魔法陣を作る": "A magic circle|that increases|haywire rate."
   },
   "423": {
     "clarity_nt_char_423": "clarity_nt_char_423"
   },
   "424": {
-    "炎耐性をさげる|魔力を解き放つ": ""
+    "炎耐性をさげる|魔力を解き放つ": "A magic power|that lowers fire|resistance."
   },
   "425": {
-    "仲間ひとりの|悪い効果を|解除させる": ""
+    "仲間ひとりの|悪い効果を|解除させる": "Cures one bad|status effect|from an ally."
   },
   "426": {
     "clarity_nt_char_426": "clarity_nt_char_426"
@@ -1296,34 +1296,34 @@
     "clarity_nt_char_432": "clarity_nt_char_432"
   },
   "433": {
-    "身を守りつつ|敵１体を攻撃する": ""
+    "身を守りつつ|敵１体を攻撃する": "Attack an enemy|while defending."
   },
   "434": {
-    "盾ガード率が|大幅に上がる|守りのかまえ": ""
+    "盾ガード率が|大幅に上がる|守りのかまえ": "A stance that|greatly increases|Block Rate."
   },
   "435": {
     "clarity_nt_char_435": "clarity_nt_char_435"
   },
   "436": {
-    "聖なる光で|悪い効果から|自分の身を守る": ""
+    "聖なる光で|悪い効果から|自分の身を守る": "Protect yourself|from bad effects|with holy light."
   },
   "437": {
     "clarity_nt_char_437": "clarity_nt_char_437"
   },
   "438": {
-    "守りをかためて|痛恨のいちげきの|ダメージを軽減": ""
+    "守りをかためて|痛恨のいちげきの|ダメージを軽減": "Defend and reduce|critical damage|taken."
   },
   "439": {
     "clarity_nt_char_439": "clarity_nt_char_439"
   },
   "440": {
-    "与えるダメージと|ひきかえに受ける|ダメージを減らす": ""
+    "与えるダメージと|ひきかえに受ける|ダメージを減らす": "Reduces your|damage dealt|and damage taken."
   },
   "441": {
     "clarity_nt_char_441": "clarity_nt_char_441"
   },
   "442": {
-    "自分に１回だけ|呪文をかき消す|バリアを張る": ""
+    "自分に１回だけ|呪文をかき消す|バリアを張る": "Nullify a spell|against you|one time."
   },
   "443": {
     "clarity_nt_char_443": "clarity_nt_char_443"
