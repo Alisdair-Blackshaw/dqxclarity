@@ -73,7 +73,7 @@ def sanitized_dialog_translate(
             item = re.sub("<select_se_off>", "|<select_se_off>", item)
             item = re.sub("<select_se_off 2>", "|<select_se_off 2>", item)
             item = re.sub("<select_se_off 3>", "|<select_se_off 3>", item)
-            item = re.sub("<select_se_off 5>", |"<select_se_off 5>", item)
+            item = re.sub("<select_se_off 5>", "|<select_se_off 5>", item)
             item = re.sub("<se_nots System 7>", "|<se_nots System 7>", item)
             item = re.sub("<se_nots System 17>", "|<se_nots System 17>", item)
             final_string += item
