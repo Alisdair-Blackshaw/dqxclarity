@@ -4,7 +4,6 @@ import random
 import re
 import requests
 from alive_progress import alive_bar
-from keys import api_keys
 
 
 def deepl_translate(dialog_text, is_pro, api_key, region_code):
@@ -74,6 +73,7 @@ def sanitized_dialog_translate(
             item = re.sub("<select_se_off>", "|<select_se_off>", item)
             item = re.sub("<select_se_off 2>", "|<select_se_off 2>", item)
             item = re.sub("<select_se_off 3>", "|<select_se_off 3>", item)
+            item = re.sub("<select_se_off 5>", |"<select_se_off 5>", item)
             item = re.sub("<se_nots System 7>", "|<se_nots System 7>", item)
             item = re.sub("<se_nots System 17>", "|<se_nots System 17>", item)
             final_string += item
@@ -95,6 +95,9 @@ def sanitized_dialog_translate(
                 sanitized = re.sub(
                     "...。", "...", sanitized
                 )  # don't add japanese period to ascii period
+                sanitized = re.sub(
+                    "。", ".", sanitized
+                )
                 sanitized = re.sub(
                     "\|", " ", sanitized
                 )  # we need these, but they mess up the translation. put them back later
@@ -144,6 +147,11 @@ def sanitized_dialog_translate(
                         sanitized = re.sub(
                             "(…+)", "...", sanitized
                         )  # elipsis doesn't look natural with english
+                        sanitized = re.sub(
+                            "。", ".", sanitized
+                        )
+                        # replace japanese period with ascii period
+                        
                         # post process after translation
                         translation = translate(
                             translation_service, is_pro, sanitized, api_key, region_code
@@ -167,6 +175,7 @@ def sanitized_dialog_translate(
 
             # make sure there is a space between the player's name and the next word
             final_string = re.sub("<pc>", "<pc> ", final_string)
+            final_string = re.sub("<cspchero>", "<cspchero> ", final_string)
 
             # make sure end of string doesn't end with line break
             final_string = re.sub("\|<br>$", "", final_string)
@@ -197,7 +206,7 @@ def utf8_len(a_string):
 
 service = "deepl"
 pro = False
-api_key = api_keys  # list of api keys
+api_key = "your api key here"
 region_code = "en"
 
 file_list = ["adhoc_carriage_dialog"]
@@ -216,7 +225,7 @@ for the_file in file_list:
             bar()
             key, value = list(data[item].items())[0]
             if value == "" and utf8_len(key) > 8:
-                deepl_api_key = random.choice(api_key)
+                deepl_api_key = api_key
                 dialog = sanitized_dialog_translate(
                     service, pro, key, deepl_api_key, region_code
                 )
