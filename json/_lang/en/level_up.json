@@ -207,13 +207,13 @@
     ")": ")"
   },
   "70": {
-    "<%sC_badge>を　手に入れた！": "You received <%sC_badge>!"
+    "<%sC_badge>を　手に入れた！": "Received <%sC_badge>!"
   },
   "71": {
-    "バッジを　持っていません！": "I don't have a badge!"
+    "バッジを　持っていません！": "You don't have any badges!"
   },
   "72": {
-    "そのスロットには　装備できません！": "You can't equip it in that slot!"
+    "そのスロットには　装備できません！": "You can't equip that in that slot!"
   },
   "73": {
     "同じ種類のバッジを　複数装備できません！": "You can't have more than one of the same type of badge!"
@@ -228,10 +228,10 @@
     "clarity_nt_char_76": "clarity_nt_char_76"
   },
   "77": {
-    "この戦いからは まだにげられない！": "We're not out of this fight yet!"
+    "この戦いからは まだにげられない！": "Can't escape from this fight!"
   },
   "78": {
-    "にげるときは 安息の領域に駆け込もう！": "When it's time to flee, run to the realm of repose!"
+    "にげるときは 安息の領域に駆け込もう！": "When you're able to flee, run to the Realm of Repose!"
   },
   "79": {
     "あたらしい 特技を おぼえた！": "You learned a new skill!"
