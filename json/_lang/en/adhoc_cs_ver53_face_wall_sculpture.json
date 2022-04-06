@@ -1,53 +1,53 @@
 {
-  "1": {
-    "「やる気　出ないわー。|　お前の顔を彫るって　約束はしたんだけどー。|　やる気が　出ないんだわー。": ""
-  },
-  "2": {
-    "<cs_pchero>は　マカイ・マカロンの箱を|そっと　差し出した。": ""
-  },
-  "3": {
-    "「……ん！？|　こっ　これは……！": ""
-  },
-  "4": {
-    "「スライムのように　愛らしいフォルム！|　魔界で　唯一無二の　ふわサク感！|　優しい甘さに　くさった死体も　涙を流す……": ""
-  },
-  "5": {
-    "「ゼクレス王家も御用達　マカイ・マカロン！|　こいつを　ワシに　くれるってのか！？": ""
-  },
-  "6": {
-    "「あ…甘い物とか|　べつに　好きじゃないけど……|　もらっといてやる！": ""
-  },
-  "7": {
-    "モヒペンコは　<cs_pchero>から|マカイ・マカロンを　いそいそと　受け取った。": ""
-  },
-  "8": {
-    "「……ありがと。": ""
-  },
-  "9": {
-    "「フンっ！|　なかなか　やるじゃない！": ""
-  },
-  "10": {
-    "「……仕方ねえなー。|　あんだけ硬い　幻獣のツノも　初めてだったし。|　お前の顔を　彫ってやるか！": ""
-  },
-  "11": {
-    "「まあ……　それでも |　ここに並ぶ　４人の大魔王に比べたら|　まだまだ　ひよっこだけどな！": ""
-  },
-  "12": {
-    "「特に　ネロドスなんか　本当にいい男だったぜ。|　１０００年前に　死んじまったがな。|　お前じゃ　ネロドスの足元にも……": ""
-  },
-  "13": {
-    "「……は？|　ネロドスに勝った？　お前が！？": ""
-  },
-  "14": {
-    "「この　大ウソつきめ！|　ちょっとばかし強いからって　お前ごときが|　不死の魔王ネロドスに　勝てるわけあるか！": ""
-  },
-  "15": {
-    "「ネロドスの顔を彫ったのは　ワシだ。 |　そして　ワシは　自分の作品から　そのモデルの|　ありし日の幻影を　生みだすことができる！": ""
-  },
-  "16": {
-    "「こいつは　本物の　ネロドスとちがって |　不死のチカラこそないが　本物なみに　強いぞ。": ""
-  },
-  "17": {
-    "「お前が　ネロドスに勝てるほど|　強いというなら　証明してみせろ！|　そうすりゃ　お前の顔も　彫ってやるよ！": ""
-  }
+    "1": {
+        "「やる気　出ないわー。|　お前の顔を彫るって　約束はしたんだけどー。|　やる気が　出ないんだわー。": "I'm not motivated. I promised I'd carve your|face, but... I just don't feel like it."
+    },
+    "2": {
+        "<cs_pchero>は　マカイ・マカロンの箱を|そっと　差し出した。": "<cs_pchero>The \"Mere Old Man\" gently holds out a box of|makai macarons..."
+    },
+    "3": {
+        "「……ん！？|　こっ　これは……！": "... Hm! This is...!"
+    },
+    "4": {
+        "「スライムのように　愛らしいフォルム！|　魔界で　唯一無二の　ふわサク感！|　優しい甘さに　くさった死体も　涙を流す……": "It's as adorable as a slime! The one and only|fluffiness in the demon world! The sweetness|of the cake will make even the most stinking|<br>|corpse weep..."
+    },
+    "5": {
+        "「ゼクレス王家も御用達　マカイ・マカロン！|　こいつを　ワシに　くれるってのか！？": "The royal house of Zecres is proud to present|the Makai Macaroon! You're giving this to me?"
+    },
+    "6": {
+        "「あ…甘い物とか|　べつに　好きじゃないけど……|　もらっといてやる！": "Uh... I'm not into sweets, it's not like...|I'll take it!"
+    },
+    "7": {
+        "モヒペンコは　<cs_pchero>から|マカイ・マカロンを　いそいそと　受け取った。": ""
+    },
+    "8": {
+        "「……ありがと。": "...あ..."
+    },
+    "9": {
+        "「フンっ！|　なかなか　やるじゃない！": "Hmph! You're pretty good at that!"
+    },
+    "10": {
+        "「……仕方ねえなー。|　あんだけ硬い　幻獣のツノも　初めてだったし。|　お前の顔を　彫ってやるか！": "... I don't have a choice... I've never seen|a phantom horn that hard before. I'm gonna|carve your face!"
+    },
+    "11": {
+        "「まあ……　それでも |　ここに並ぶ　４人の大魔王に比べたら|　まだまだ　ひよっこだけどな！": "Well... Still, compared to the four demons|lined up here, I'm still just a little kid!"
+    },
+    "12": {
+        "「特に　ネロドスなんか　本当にいい男だったぜ。|　１０００年前に　死んじまったがな。|　お前じゃ　ネロドスの足元にも……": "Especially Nerodos. He's a really nice guy...|He died a thousand years ago... You're not|even close to Nerodos."
+    },
+    "13": {
+        "「……は？|　ネロドスに勝った？　お前が！？": "... Huh? Beat Nerodos? You!"
+    },
+    "14": {
+        "「この　大ウソつきめ！|　ちょっとばかし強いからって　お前ごときが|　不死の魔王ネロドスに　勝てるわけあるか！": "You big, fat liar! Just because you're a|little stronger doesn't mean you can beat the|Immortal Demon King Nerodos!"
+    },
+    "15": {
+        "「ネロドスの顔を彫ったのは　ワシだ。 |　そして　ワシは　自分の作品から　そのモデルの|　ありし日の幻影を　生みだすことができる！": "Nerodos' face was carved by... And I can|create visions of the model's past from my|work!"
+    },
+    "16": {
+        "「こいつは　本物の　ネロドスとちがって |　不死のチカラこそないが　本物なみに　強いぞ。": "Unlike the real Nerodos, this one doesn't|have immortality, but it's just as good as|the real thing..."
+    },
+    "17": {
+        "「お前が　ネロドスに勝てるほど|　強いというなら　証明してみせろ！|　そうすりゃ　お前の顔も　彫ってやるよ！": "If you are strong enough to beat Nerodos,|prove it! Then I'll carve your face on it!"
+    }
 }
