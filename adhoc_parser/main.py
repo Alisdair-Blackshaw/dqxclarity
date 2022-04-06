@@ -206,10 +206,10 @@ def utf8_len(a_string):
 
 service = "deepl"
 pro = False
-api_key = "ac30cb20-ebc1-6a32-8069-954e28f7ffb8:fx"
+api_key = "your api key here"
 region_code = "en"
 
-file_list = ["adhoc_cs_ver53_face_wall_sculpture", "adhoc_cs_ver55_source_of_darkness_part_1", "adhoc_cs_ver55_source_of_darkness_part_2", "adhoc_cs_ver60_golden_trials", "adhoc_cs_ver60_holy_ground", "adhoc_cs_ver60_white_ash_trials"]
+file_list = ["adhoc_carriage_dialog"]
 
 for the_file in file_list:
     cur_file = the_file
