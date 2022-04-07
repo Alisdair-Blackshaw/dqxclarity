@@ -125,15 +125,12 @@ def sanitized_dialog_translate(
                     width_var = 45
                 '''
 
-                translation.replace("<pc>", "placeholderName1")
-                translation.replace("<cs_pchero>", "placeholderName2")
+                translation = re.sub("<pc>", "placeholderName1", translation)
+                translation = re.sub("<cs_pchero>", "placeholderName2", translation)
                 
                 translation = textwrap.fill(
                     translation, width=45, replace_whitespace=False
                 )
-                
-                translation.replace("placeholderName1", "<pc>")
-                translation.replace("placeholderName2", "<cs_pchero>")
 
                 # figure out where to put <br> to break up text
                 count = 1
@@ -194,8 +191,9 @@ def sanitized_dialog_translate(
             final_string = final_string.replace("\n", "|")
 
             # make sure there is a space between the player's name and the next word
-            final_string = re.sub("<pc>", "<pc> ", final_string)
-            final_string = re.sub("<cs_pchero>", "<cs_pchero> ", final_string)
+            # and replace the placeholder tags inserted earlier with the proper tags
+            final_string = re.sub("placeholderName1", "<pc> ", final_string)
+            final_string = re.sub("placeholderName2", "<cs_pchero> ", final_string)
 
             # make sure end of string doesn't end with line break
             final_string = re.sub("\|<br>$", "", final_string)
@@ -226,10 +224,10 @@ def utf8_len(a_string):
 
 service = "deepl"
 pro = False
-api_key = "d0de6520-4900-0820-453b-d5a195f374f2:fx"
+api_key = ""
 region_code = "en"
 
-file_list = ["adhoc_cs_ver61_celestial_city"]
+file_list = ["adhoc_file_goes_here"]
 
 for the_file in file_list:
     cur_file = the_file
