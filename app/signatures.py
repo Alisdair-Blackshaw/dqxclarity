@@ -73,22 +73,29 @@ loading_offsets = [0x8, 0x38, 0x4, 0x4, 0x4, 0x104]
 cutscene_pattern = rb'\x6F\x72\x69\x67\x69\x6E\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x6E\x61\x6D\x65'
 
 # pattern for npc/monsters to rename.
-# monster: C0 A1 ?? ?? ?? ?? ?? ?? 28 9A ?? ?? E3
-# npc:     74 B3 ?? ?? ?? ?? ?? ?? 28 9A ?? ?? E3
-# ai:      28 A4 ?? ?? ?? ?? ?? ?? 28 9A ?? ?? E3
-npc_monster_byte_pattern = rb'[\xC0\x74\x28][\xA1\xB3\xA4]......\x28\x9A..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+# monster: F0 A1 ?? ?? ?? ?? ?? ?? 58 9A ?? ?? E3
+# npc:     A4 B3 ?? ?? ?? ?? ?? ?? 58 9A ?? ?? E3
+# ai:      58 A4 ?? ?? ?? ?? ?? ?? 58 9A ?? ?? E3
+npc_monster_byte_pattern = rb'[\xF0\xA4\x58][\xA1\xB3\xA4]......\x58\x9A..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 #                                ^ monster     ^
 #                                    ^   npc       ^
 #                                        ^     ai      ^
 
 # pattern for player names to rename.
-# 00 00 00 00 00 18 07 ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
-player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x18\x07.\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-#
+# 00 00 00 00 00 58 07 ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E3
+player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x58\x07.\x01.......\x01\xE3'
+
+# pattern for comm names to rename.
+# ?? ?0 00 00 00 ?? ?? ?? 0? E3
+# comm_name_byte_pattern = rb'[\x2E\x2F\x44\x45\x46\x47\x48\x49\x4A][\x10\x20\x30]\x00\x00\x00...[\x00\x0A\x0B]\xE3'
 
 # pattern for menu ai to rename.
-# 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ?? 1B ?? ?? ?? ?? ?? 00 ?? ?? ?? 00 00 00 ?? ?? E?
-menu_ai_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00.\x1B.....\x00...\x00\x00\x00..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'                                                   
+# 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ?? 1B ?? ?? ?? ?? ?? 00 ?? ?? ?? 00 00 00 ?? ?? E3
+menu_ai_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00.\x1B.....\x00...\x00\x00\x00..\xE3'                                                   
+
+#pattern for projector names to rename.
+# 20 00 00 00 ?? ?? ?? 0A E?
+# projector_name_byte_pattern = rb'\x20\x00\x00\x00...\x0A[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 
 # Main walkthrough text that loads on login. I can't figure out what function loads this on login,
 # so scanning for this for now. AC is also preventing this from just being accessible via hooks.

@@ -43,9 +43,9 @@ from signatures import (
     npc_monster_byte_pattern,
     menu_ai_name_byte_pattern,
     player_name_byte_pattern,
+  # comm_name_byte_pattern,
     walkthrough_pattern
 )
-
 
 def generate_hex(file):
     '''Parses a nested json file to convert strings to hex.'''
@@ -223,135 +223,6 @@ def write_adhoc_entry(start_addr: int, hex_str: str) -> dict:
         results['file'] = filename
         return results
 
-def scan_for_npc_names():
-    '''
-    Continuously scans the DQXGame process for known addresses
-    that are related to a specific pattern to translate names.
-    '''
-    
-    kks = pykakasi.kakasi()
-    
-    npc_data = read_json_file('json/_lang/en/npc_names.json')
-    monster_data = read_json_file('json/_lang/en/monsters.json')
-
-    logger.info('Starting NPC/monster name scanning.')
-
-    while True:
-        try:
-            index_list = pattern_scan(pattern=npc_monster_byte_pattern, return_multiple=True)
-
-            if index_list == []:
-                continue
-
-            for address in index_list:
-                if read_bytes(address, 2) == b'\xC0\xA1':  # monsters
-                    data = monster_data
-                    name_addr = address + 12  # jump to name
-                    end_addr = address + 12
-                elif read_bytes(address, 2) == b'\x74\xB3':  # npcs
-                    data = npc_data
-                    name_addr = address + 12  # jump to name
-                    end_addr = address + 12
-                elif read_bytes(address, 2) == b'\x28\xA4':  # AI
-                    data = 'AI_NAME'
-                    name_addr = address + 12  # jump to name
-                    end_addr = address + 12
-                else:
-                    continue
-
-                name_hex = bytearray()
-                result = ''
-                while result != b'\x00':
-                    result = read_bytes(end_addr, 1)
-                    end_addr = end_addr + 1
-                    if result == b'\x00':
-                        end_addr = end_addr - 1   # Remove the last 00
-
-                    name_hex += result
-
-                name_hex = name_hex.rstrip(b'\x00')
-                try:
-                    name = name_hex.decode('utf-8')
-                except UnicodeDecodeError:
-                    continue
-                
-                if data == "AI_NAME":
-                    romaji_name = kks.convert(name)[0]['hepburn'].capitalize()
-                    write_bytes(name_addr, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
-                else:
-                    for item in data:
-                        key, value = list(data[item].items())[0]
-                        if re.search(f'^{name}+$', key):
-                            if value:
-                                write_bytes(name_addr, str.encode(value) + b'\x00')
-            
-            time.sleep(.01)
-        except TypeError:
-            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
-            sys.exit()
-
-def scan_for_player_names():
-    '''
-    Continuously scans the DQXGame process for known addresses
-    that are related to a specific pattern to translate player names.
-    '''
-    kks = pykakasi.kakasi()
-
-    logger.info('Starting player name scanning.')
-
-    while True:
-        try:
-            player_list = pattern_scan(pattern=player_name_byte_pattern, return_multiple=True)
-            if player_list == []:
-                continue
-
-            for address in player_list:
-                player_name_address = address + 17
-                try:
-                    ja_player_name = read_string(player_name_address)
-                except UnicodeDecodeError:
-                    continue
-
-                romaji_name = kks.convert(ja_player_name)[0]['hepburn'].capitalize()
-                write_bytes(player_name_address, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
-                
-            time.sleep(.01)
-        except TypeError:
-            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
-            sys.exit()
-        
-    
-    
-def scan_for_menu_ai_names():
-    '''
-    Continuously scans the DQXGame process for known addresses
-    that are related to a specific pattern to translate player names.
-    '''
-    kks = pykakasi.kakasi()
-
-    logger.info('Starting menu ai name scanning.')
-
-    while True:
-        try:
-            name_list = pattern_scan(pattern=menu_ai_name_byte_pattern, return_multiple=True)
-            if name_list == []:
-                continue
-
-            for address in name_list:
-                ai_name_address = address + 56
-                try:
-                    ja_ai_name = read_string(ai_name_address)
-                except UnicodeDecodeError:
-                    continue
-
-                romaji_ai_name = kks.convert(ja_ai_name)[0]['hepburn'].capitalize()
-                write_bytes(ai_name_address, romaji_ai_name.encode('utf-8') + b'\x00')
-                
-            time.sleep(.01)
-        except TypeError:
-            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
-            sys.exit()
-
 def scan_for_adhoc_files():
     '''
     Scans for specific adhoc files that have yet to have a hook written for them.
@@ -415,6 +286,219 @@ def scan_for_adhoc_files():
         except:
             logger.warning('Cannot find DQX process. Must have closed? Exiting.')
             sys.exit()
+
+def scan_for_overworld_names():
+    '''
+    Continuously scans the DQXGame process for known addresses
+    that are related to a specific pattern to translate player,
+    NPC, and monster names.
+    '''
+    player_names = False
+    npc_names = False
+    with open('defaults.pref') as f:
+        if 'p' in f.read():
+            player_names = True
+            logger.info('Player names enabled.')
+    with open('defaults.pref') as f:
+        if 'n' in f.read():
+            npc_names = True
+            logger.info('NPC names enabled.')
+
+    if player_names:
+        kks = pykakasi.kakasi()
+    if npc_names:
+        npc_data = read_json_file('json/_lang/en/npc_names.json')
+        monster_data = read_json_file('json/_lang/en/monsters.json')
+            
+    while True:
+        # Communication window name scanning
+        # if player_names:
+            # try:
+                # comm_list = pattern_scan(pattern=comm_name_byte_pattern, return_multiple=True)
+                # if comm_list == []:                
+                    # for address in comm_list:
+                        # comm_name_address = address + 9
+                        # try:
+                            # ja_comm_name = read_string(comm_name_address)
+                        # except UnicodeDecodeError:
+                            # continue
+                
+                        # romaji_name = kks.convert(ja_comm_name)[0]['hepburn'].capitalize()
+                        # if ja_comm_name == "サーバー０１":
+                            # romaji_name = "Server 01"
+                        # if ja_comm_name == "サーバー０２":
+                            # romaji_name = "Server 02"
+                        # if ja_comm_name == "サーバー０３":
+                            # romaji_name = "Server 03"
+                        # if ja_comm_name == "サーバー０４":
+                            # romaji_name = "Server 04"
+                        # if ja_comm_name == "サーバー０５":
+                            # romaji_name = "Server 05"
+                        # if ja_comm_name == "サーバー０６":
+                            # romaji_name = "Server 06"
+                        # if ja_comm_name == "サーバー０７":
+                            # romaji_name = "Server 07"
+                        # if ja_comm_name == "サーバー０８":
+                            # romaji_name = "Server 08"
+                        # if ja_comm_name == "サーバー０９":
+                            # romaji_name = "Server 09"
+                        # if ja_comm_name == "サーバー１０":
+                            # romaji_name = "Server 10"
+                        # if ja_comm_name == "サーバー１１":
+                            # romaji_name = "Server 11"
+                        # if ja_comm_name == "サーバー１２":
+                            # romaji_name = "Server 12"
+                        # if ja_comm_name == "サーバー１３":
+                            # romaji_name = "Server 13"
+                        # if ja_comm_name == "サーバー１４":
+                            # romaji_name = "Server 14"
+                        # if ja_comm_name == "サーバー１５":
+                            # romaji_name = "Server 15"
+                        # if ja_comm_name == "サーバー１６":
+                            # romaji_name = "Server 16"
+                        # if ja_comm_name == "サーバー１７":
+                            # romaji_name = "Server 17"
+                        # if ja_comm_name == "サーバー１８":
+                            # romaji_name = "Server 18"
+                        # if ja_comm_name == "サーバー１９":
+                            # romaji_name = "Server 19"
+                        # if ja_comm_name == "サーバー２０":
+                            # romaji_name = "Server 20"
+                        # if ja_comm_name == "サーバー２１":
+                            # romaji_name = "Server 21"
+                        # if ja_comm_name == "サーバー２２":
+                            # romaji_name = "Server 22"
+                        # if ja_comm_name == "サーバー２３":
+                            # romaji_name = "Server 23"
+                        # if ja_comm_name == "サーバー２４":
+                            # romaji_name = "Server 24"
+                        # if ja_comm_name == "サーバー２５":
+                            # romaji_name = "Server 25"
+                        # if ja_comm_name == "サーバー２６":
+                            # romaji_name = "Server 26"
+                        # if ja_comm_name == "サーバー２７":
+                            # romaji_name = "Server 27"
+                        # if ja_comm_name == "サーバー２８":
+                            # romaji_name = "Server 28"
+                        # if ja_comm_name == "サーバー２９":
+                            # romaji_name = "Server 29"
+                        # if ja_comm_name == "サーバー３０":
+                            # romaji_name = "Server 30"
+                        # if ja_comm_name == "サーバー３１":
+                            # romaji_name = "Server 31"
+                        # if ja_comm_name == "サーバー３２":
+                            # romaji_name = "Server 32"
+                        # if ja_comm_name == "サーバー３３":
+                            # romaji_name = "Server 33"
+                        # if ja_comm_name == "プレイエリア":
+                            # romaji_name = "Play Area"
+                        # if ja_comm_name == "カジノ":
+                            # romaji_name = "Casino"
+                        # write_bytes(comm_name_address, romaji_name.encode('utf-8') + b'\x00')                       
+            # except TypeError:
+                # logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+                # sys.exit()    
+
+        # Player name scanning
+        if player_names:
+            try:
+                player_list = pattern_scan(pattern=player_name_byte_pattern, return_multiple=True)
+                if player_list != []:
+                    for address in player_list:
+                        player_name_address = address + 17
+                        try:
+                            ja_player_name = read_string(player_name_address)
+                        except UnicodeDecodeError:
+                            continue
+
+                        romaji_name = kks.convert(ja_player_name)[0]['hepburn'].capitalize()
+                        write_bytes(player_name_address, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
+            except TypeError:
+                logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+                sys.exit()
+
+        # NPC name scanning
+        if npc_names:
+            try:
+                index_list = pattern_scan(pattern=npc_monster_byte_pattern, return_multiple=True)
+
+                if index_list != []:
+                    for address in index_list:
+                        if read_bytes(address, 2) == b'\xF0\xA1':  # monsters
+                            data = monster_data
+                            name_addr = address + 12  # jump to name
+                            end_addr = address + 12
+                        elif read_bytes(address, 2) == b'\xA4\xB3':  # npcs
+                            data = npc_data
+                            name_addr = address + 12  # jump to name
+                            end_addr = address + 12
+                        elif read_bytes(address, 2) == b'\x58\xA4':  # AI
+                            data = 'AI_NAME'
+                            name_addr = address + 12  # jump to name
+                            end_addr = address + 12
+                        else:
+                            continue
+
+                        name_hex = bytearray()
+                        result = ''
+                        while result != b'\x00':
+                            result = read_bytes(end_addr, 1)
+                            end_addr = end_addr + 1
+                            if result == b'\x00':
+                                end_addr = end_addr - 1   # Remove the last 00
+
+                            name_hex += result
+
+                        name_hex = name_hex.rstrip(b'\x00')
+                        try:
+                            name = name_hex.decode('utf-8')
+                        except UnicodeDecodeError:
+                            continue
+                
+                        if data == "AI_NAME":
+                            romaji_name = kks.convert(name)[0]['hepburn'].capitalize()
+                            write_bytes(name_addr, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
+                        else:
+                            for item in data:
+                                key, value = list(data[item].items())[0]
+                                if re.search(f'^{name}+$', key):
+                                    if value:
+                                        write_bytes(name_addr, str.encode(value) + b'\x00')
+            except TypeError:
+                logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+                sys.exit()
+
+        time.sleep(.01)
+
+def scan_for_menu_ai_names():
+    '''
+    Scans for the walkthrough address and translates when found, then translates menu AI names.
+    '''
+    kks = pykakasi.kakasi()
+    ai_addresses_found = False
+    
+    while True:
+        # Menu AI name scanning
+        try:
+            if not ai_addresses_found:
+                if ai_list := pattern_scan(pattern=menu_ai_name_byte_pattern, return_multiple=True):
+                    ai_addresses_found = True
+            if ai_addresses_found:
+                for address in ai_list:
+                    ai_name_address = address + 56
+                    try:
+                        if ja_ai_name := read_string(ai_name_address):
+                            romaji_ai_name = kks.convert(ja_ai_name)[0]['hepburn'].capitalize()
+                            write_bytes(ai_name_address, romaji_ai_name.encode('utf-8') + b'\x00')
+                        else:
+                            continue
+                    except UnicodeDecodeError:
+                        continue
+        except TypeError:
+            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+            sys.exit()
+
+        time.sleep(.5)
 
 def scan_for_walkthrough():
     '''
