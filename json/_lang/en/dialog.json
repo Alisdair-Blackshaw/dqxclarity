@@ -99,7 +99,7 @@
     "<speed=0><%sM_pc>を　仲間から　はずして|よろしいですか？<yesno><close>": "<speed=0>Remove <%sM_pc> from the party?<yesno><close>"
   },
   "34": {
-    "<speed=0>いまは　<%sM_pc>は|パーティリーダーに　なれません。": "<speed=0><%sM_pc> cannot be a party leader."
+    "<speed=0>いまは　<%sM_pc>は|パーティリーダーに　なれません。": "<speed=0><%sM_pc> cannot be a party leader|right now."
   },
   "35": {
     "<speed=0><%sM_pc>が　パーティリーダーになった！": "<speed=0><%sM_pc> became the party leader!"
@@ -213,7 +213,7 @@
     "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
-    "<speed=0>仲間に参加しているので|ひとりプレイ中に　変更できません！": "<speed=0>Cannot be changed while playing alone!"
+    "<speed=0>仲間に参加しているので|ひとりプレイ中に　変更できません！": "<speed=0>Cannot change to playing alone|while in a party!"
   },
   "73": {
     "clarity_nt_char_73": "clarity_nt_char_73"
@@ -231,7 +231,7 @@
     "<speed=0>それを　捨てるなんて　とんでもない！": "<speed=0>You can't just throw that away!"
   },
   "78": {
-    "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_item>を|使えない！": "<speed=0>I can't use <%sM_item> for|<%sM_target> because we're not|in the same fight!"
+    "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_item>を|使えない！": "<speed=0>Couldn't use <%sM_item> on|<%sM_target> because you're not|in the same battle!"
   },
   "79": {
     "clarity_nt_char_79": "clarity_nt_char_79"
@@ -240,19 +240,19 @@
     "<speed=0><%sM_target>は　戦いに　参加していない！": "<speed=0><%sM_target> is not in the fight!"
   },
   "81": {
-    "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>は　できない！": "<speed=0>I can't <%sM_action> on <%sM_target>|because we're not in the same fight!"
+    "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>は　できない！": "<speed=0>Couldn't use <%sM_action>|on <%sM_target> because|you're not in the same battle!"
   },
   "82": {
     "clarity_nt_char_82": "clarity_nt_char_82"
   },
   "83": {
-    "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>を|かけられない！": "<speed=0>I'm not in the same fight, so|I can't put <%sM_action>|on <%sM_target>!"
+    "<speed=0>同じ戦いに　参加していないので|<%sM_target>に　<%sM_action>を|かけられない！": "<speed=0>Couldn't use <%sM_action>|on <%sM_target> because|you're not in the same battle!"
   },
   "84": {
     "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "85": {
-    "<speed=0>戦闘中の　とくぎを　覚えていない！": "<speed=0>I can't remember any tricks in battle!"
+    "<speed=0>戦闘中の　とくぎを　覚えていない！": "<speed=0>You don't know any battle skills!"
   },
   "86": {
     "clarity_nt_char_86": "clarity_nt_char_86"
@@ -261,10 +261,10 @@
     "<speed=0>戦闘中の　じゅもんを　覚えていない！": "<speed=0>You don't know any battle spells!"
   },
   "88": {
-    "<speed=0><%sM_action>は　<%sM_item_syurui>を|右手に装備していないと　使えない！": "<speed=0><%sM_action> won't work unless you have|<%sM_item_syurui> in your right hand!"
+    "<speed=0><%sM_action>は　<%sM_item_syurui>を|右手に装備していないと　使えない！": "<speed=0><%sM_action> won't work unless|<%sM_item_syurui> is in your right hand!"
   },
   "89": {
-    "<speed=0><%sM_action>は　素手でないと　使えない！": "<speed=0><%sM_action> will only work with bare hands!"
+    "<speed=0><%sM_action>は　素手でないと　使えない！": "<speed=0><%sM_action> will only work bare-handed!"
   },
   "90": {
     "冒険を中断して|ゲームを|終了します": "Abort the|adventure and|exit the game."
@@ -384,7 +384,7 @@
     "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "129": {
-    "持ち物が いっぱいだった。": "I had a lot of stuff with me."
+    "持ち物が いっぱいだった。": "You're full on belongings."
   },
   "130": {
     "<%sM_pc>は <%dM_gold>ゴールドを見つけたが|これ以上持てないので 元に戻した。": ""
@@ -402,7 +402,7 @@
     "clarity_nt_char_134": "clarity_nt_char_134"
   },
   "135": {
-    "<speed=0>手に入れるのを　あきらめますか？<yesno>": "<speed=0>Would you give up trying to get it? <yesno>"
+    "<speed=0>手に入れるのを　あきらめますか？<yesno>": "<speed=0>Would you give up trying to get it?<yesno>"
   },
   "136": {
     "clarity_nt_char_136": "clarity_nt_char_136"
@@ -420,7 +420,7 @@
     "clarity_nt_char_140": "clarity_nt_char_140"
   },
   "141": {
-    "<speed=0><%sM_pc>は　<%sM_item>を見つけた！": ""
+    "<speed=0><%sM_pc>は　<%sM_item>を見つけた！": "<speed=0><%sM_pc> found <%sM_item>!"
   },
   "142": {
     "<speed=0><%sM_pc>は　本の間に|<%sM_item>を見つけたが|これ以上持てないので　元に戻した。": ""
@@ -483,7 +483,7 @@
     "<speed=0>戦闘中に　<%sM_item>は　使えない！": "<speed=0>You can't use <%sM_item> in combat!"
   },
   "162": {
-    "<speed=0>名前が　入力されていません！": "<speed=0>No name entered!"
+    "<speed=0>名前が　入力されていません！": "<speed=0>No name was entered!"
   },
   "163": {
     "あなたの職業を選びます": "Choose your profession."
@@ -528,7 +528,7 @@
     "clarity_nt_char_176": "clarity_nt_char_176"
   },
   "177": {
-    "<speed=0><%sM_pc>は　いまは|パーティリーダーに　なれない！": "<speed=0><%sM_pc> can't be a party leader right now!"
+    "<speed=0><%sM_pc>は　いまは|パーティリーダーに　なれない！": "<speed=0><%sM_pc> can't be a party leader|right now!"
   },
   "178": {
     "clarity_nt_char_178": "clarity_nt_char_178"
@@ -675,7 +675,7 @@
     "フレンドに関する|コマンドを|選べます": "Select commands|about your|friends."
   },
   "226": {
-    "<speed=0>|装備品は　最初に装備した人が|その装備の使用者となります！<br>|一度　使用者が決まった装備品は|他の人に　渡すことができなくなりますが|この装備品を　装備しても　よろしいですか？|<yesno><close>": ""
+    "<speed=0>|装備品は　最初に装備した人が|その装備の使用者となります！<br>|一度　使用者が決まった装備品は|他の人に　渡すことができなくなりますが|この装備品を　装備しても　よろしいですか？|<yesno><close>": "The first person to equip a piece of equipment|will own it!|<br>|Once owned, it can't be given to other|players. Do you want to equip this?|<yesno><close>"
   },
   "227": {
     "clarity_nt_char_227": "clarity_nt_char_227"
@@ -702,7 +702,7 @@
     "clarity_nt_char_234": "clarity_nt_char_234"
   },
   "235": {
-    "<speed=0>サポート仲間を　全滅させますか？<yesno><close>": "<speed=0>Would you like to leave your support crew? <yesno><close>"
+    "<speed=0>サポート仲間を　全滅させますか？<yesno><close>": "<speed=0>Leave all of your support party members?<yesno><close>"
   },
   "236": {
     "ポイントを|うしなったまま|ふっかつします": ""
@@ -747,7 +747,7 @@
     "clarity_nt_char_249": "clarity_nt_char_249"
   },
   "250": {
-    "<speed=0>性別が合わないため　装備できない！": "<speed=0>Cannot equip due to gender mismatch!"
+    "<speed=0>性別が合わないため　装備できない！": "<speed=0>Your current gender can't equip this!"
   },
   "251": {
     "clarity_nt_char_251": "clarity_nt_char_251"
@@ -786,10 +786,10 @@
     "セリフを２つ選び|コマンド位置を|入れ替えます": "Select two lines|and swap their|command position."
   },
   "263": {
-    "<speed=0>リレミト効果が　消滅していて|脱出できなかった！": ""
+    "<speed=0>リレミト効果が　消滅していて|脱出できなかった！": "<speed=0>Evac's effect disappeared and you couldn't|escape!"
   },
   "264": {
-    "<speed=0>リレミト効果から　はなれすぎていて|脱出できなかった！": ""
+    "<speed=0>リレミト効果から　はなれすぎていて|脱出できなかった！": "<speed=0>Too far away from the Evac effect to escape!"
   },
   "265": {
     "clarity_nt_char_265": "clarity_nt_char_265"
@@ -807,13 +807,13 @@
     "clarity_nt_char_269": "clarity_nt_char_269"
   },
   "270": {
-    "アタマ装備を　『表示する』から『非表示』に|変更しますか？　守備力は　変わりません。<yesno><close>": "Do you want to change your headgear from 'Show' to 'Hide'?<yesno><close>"
+    "アタマ装備を　『表示する』から『非表示』に|変更しますか？　守備力は　変わりません。<yesno><close>": "Do you want to change your headgear from|'Show' to 'Hide'?<yesno><close>"
   },
   "271": {
     "clarity_nt_char_271": "clarity_nt_char_271"
   },
   "272": {
-    "アタマ装備を　『非表示』から『表示する』に|変更しますか？<yesno><close>": "Do you want to change your headgear from 'Hide' to 'Show'?<yesno><close>"
+    "アタマ装備を　『非表示』から『表示する』に|変更しますか？<yesno><close>": "Do you want to change your headgear from|'Hide' to 'Show'?<yesno><close>"
   },
   "273": {
     "守備力はそのまま|装備の表示状態を|切り替えます": ""
@@ -972,7 +972,7 @@
     "ふたつの言葉から|自由にかたがきを|自作します": "Create your own|title from two|words."
   },
   "325": {
-    "<speed=0><%sM_pc>への　仲間のさそいを　取り消した！": "<speed=0>Party invite to <%sM_pc> was cancelled!"
+    "<speed=0><%sM_pc>への　仲間のさそいを　取り消した！": "<speed=0>Party invite to <%sM_pc> was|cancelled!"
   },
   "326": {
     "clarity_nt_char_326": "clarity_nt_char_326"
@@ -993,7 +993,7 @@
     "<speed=0>いまは　<%sM_pc>を|仲間から　はずせません。": "<speed=0><%sM_pc> can't be removed from the party|right now."
   },
   "332": {
-    "<speed=0><%sM_pc>は　すでに　仲間に入っています。": ""
+    "<speed=0><%sM_pc>は　すでに　仲間に入っています。": "<speed=0><%sM_pc> is already in the party."
   },
   "333": {
     "<speed=0>仲間に　さそっている相手は　いません。": ""
@@ -1005,7 +1005,7 @@
     "<speed=0>パーティリーダーにできる人が　いません！": ""
   },
   "336": {
-    "<speed=0><%sM_pc>は　戦っているため|いまは　仲間から　はずせません。": "<speed=0>You can't remove <%sM_pc> because|they're in the middle of a battle."
+    "<speed=0><%sM_pc>は　戦っているため|いまは　仲間から　はずせません。": "<speed=0>Couldn't remove <%sM_pc> because|they're in the middle of a battle."
   },
   "337": {
     "<speed=0>ここでは　仲間から抜けられません！": "<speed=0>You can't leave the party here!"
@@ -1029,10 +1029,10 @@
     "兄弟キャラの姿は　これで　よろしいですか？": "Finalize your sibling's appearance?"
   },
   "344": {
-    "<speed=0>どちらのキャラクターを　作り直しますか？<select_se_off>|あなたのキャラクター|兄弟キャラクター|<select_end>|<close>": ""
+    "<speed=0>どちらのキャラクターを　作り直しますか？<select_se_off>|あなたのキャラクター|兄弟キャラクター|<select_end>|<close>": "<speed=0>Which character would you like to edit?<select_se_off>|Your Character|Sibling Character|<select_end>|<close>"
   },
   "345": {
-    "これから　あなた自身のキャラと|あなたと共に暮らす兄弟（姉妹）キャラの|ふたりのキャラを　作ります。": "From now on, you will create two characters:|your own character and a brother or sister|who lives with you."
+    "これから　あなた自身のキャラと|あなたと共に暮らす兄弟（姉妹）キャラの|ふたりのキャラを　作ります。": "From here, you will create two characters:|your own character and a brother or sister|who lives with you."
   },
   "346": {
     "clarity_nt_char_346": "clarity_nt_char_346"
@@ -1044,7 +1044,7 @@
     "clarity_nt_char_348": "clarity_nt_char_348"
   },
   "349": {
-    "<%dM_gold>ゴールド　失った……。": "Lost <%dM_gold> gold..."
+    "<%dM_gold>ゴールド　失った……。": "Lost <%dM_gold> Gold..."
   },
   "350": {
     "<%sM_item>を 手に入れた！": "Received <%sM_item>!"
@@ -1053,7 +1053,7 @@
     "clarity_nt_char_351": "clarity_nt_char_351"
   },
   "352": {
-    "<speed=0>フレンドに　さそえる相手が　近くにいません。": "<speed=0>There's nobody nearby to ask."
+    "<speed=0>フレンドに　さそえる相手が　近くにいません。": "<speed=0>There's nobody nearby to invite."
   },
   "353": {
     "<speed=0>ブラックリストに　加えられる相手が|近くにいません。": "<speed=0>There's nobody nearby to add|to your blacklist."
@@ -1074,7 +1074,7 @@
     "clarity_nt_char_358": "clarity_nt_char_358"
   },
   "359": {
-    "<speed=0>本当に　<%sM_item>を使いますか？<yesno><close>": "<speed=0>Are you sure you want to use <%sM_item>?<yesno><close>"
+    "<speed=0>本当に　<%sM_item>を使いますか？<yesno><close>": "<speed=0>Are you sure you want to use|<%sM_item>?<yesno><close>"
   },
   "360": {
     "clarity_nt_char_360": "clarity_nt_char_360"
@@ -1101,13 +1101,13 @@
     "clarity_nt_char_367": "clarity_nt_char_367"
   },
   "368": {
-    "<speed=0>この戦闘は　逃げられないため|全滅しなければ　戦闘は終了できません。|サポート仲間の　HPを0にしますか？<yesno 2><close>": ""
+    "<speed=0>この戦闘は　逃げられないため|全滅しなければ　戦闘は終了できません。|サポート仲間の　HPを0にしますか？<yesno 2><close>": "<speed=0>Since you cannot escape from this battle, it|can't be ended until all players die. Reduce|your support party's HP to 0?<yesno 2><close>"
   },
   "369": {
     "clarity_nt_char_369": "clarity_nt_char_369"
   },
   "370": {
-    "<speed=0>サポート仲間の　HPを0にします。|本当に　よろしいですか？<yesno 2><close>": "<speed=0>A support party member's HP is 0. Is|this okay?<yesno 2><close>"
+    "<speed=0>サポート仲間の　HPを0にします。|本当に　よろしいですか？<yesno 2><close>": "<speed=0>Really reduce your support party's HP to 0?<yesno 2><close>"
   },
   "371": {
     "強制的に戦闘終了|逃げても仲間から|はずれません": "End this battle.|You'll stay|in the party."
@@ -1155,16 +1155,16 @@
     "clarity_nt_char_385": "clarity_nt_char_385"
   },
   "386": {
-    "<%sM_pc>だ。|今は　手を出さない方が　よさそうだ……。": "<%sM_pc>.|It's probably best not to mess with it right now."
+    "<%sM_pc>だ。|今は　手を出さない方が　よさそうだ……。": "That's <%sM_pc>.|Probably best not to mess with them right|now..."
   },
   "387": {
-    "<speed=0><%sM_target>は　<%sM_pc>が使える|ルーラストーンを　持っていなかった！": "<speed=0><%sM_target> doesn't have a Zoomstone you can use!"
+    "<speed=0><%sM_target>は　<%sM_pc>が使える|ルーラストーンを　持っていなかった！": "<speed=0><%sM_target> doesn't have a Zoomstone|you can use!"
   },
   "388": {
     "clarity_nt_char_388": "clarity_nt_char_388"
   },
   "389": {
-    "<speed=0>ルーラストーンを使って　過去と現在を|行き来することは　できません！": "<speed=0>You can't use a Zoomstone to travel between the past|and present!"
+    "<speed=0>ルーラストーンを使って　過去と現在を|行き来することは　できません！": "<speed=0>You can't use a Zoomstone to travel between|the past and present!"
   },
   "390": {
     "<pipipi_mid><%sM_FreeText><break>": ""
@@ -1179,31 +1179,31 @@
     "clarity_nt_char_393": "clarity_nt_char_393"
   },
   "394": {
-    "『地の民　ドワーフ』": "People of Earth Dwarf"
+    "『地の民　ドワーフ』": "Dwarf, People of Earth"
   },
   "395": {
     "clarity_nt_char_395": "clarity_nt_char_395"
   },
   "396": {
-    "『水の民　ウェディ』": "People of Water Weddie"
+    "『水の民　ウェディ』": "Weddie, People of Water"
   },
   "397": {
     "clarity_nt_char_397": "clarity_nt_char_397"
   },
   "398": {
-    "『花の民　プクリポ』": "People of Flowers Pukulipo"
+    "『花の民　プクリポ』": "Pukulipo, People of Flowers"
   },
   "399": {
     "clarity_nt_char_399": "clarity_nt_char_399"
   },
   "400": {
-    "『炎の民　オーガ』": "People of Fire Ogre"
+    "『炎の民　オーガ』": "Ogre, People of Fire"
   },
   "401": {
-    "『風の民　エルフ』": "People of Wind Elf"
+    "『風の民　エルフ』": "Elf, People of Wind"
   },
   "402": {
-    "『<%sM_pc>』": ""
+    "『<%sM_pc>』": "<%sM_pc>"
   },
   "403": {
     "clarity_nt_char_403": "clarity_nt_char_403"
@@ -1299,13 +1299,13 @@
     "clarity_nt_char_433": "clarity_nt_char_433"
   },
   "434": {
-    "<%sM_pc>だ。|強そうだ……。": ""
+    "<%sM_pc>だ。|強そうだ……。": "That's <%sM_pc>.|They seem strong..."
   },
   "435": {
     "clarity_nt_char_435": "clarity_nt_char_435"
   },
   "436": {
-    "しかし 持ち物が いっぱいだった！": "But your bag was full."
+    "しかし 持ち物が いっぱいだった！": "But your bag was full!"
   },
   "437": {
     "<speed=0>みやぶれるものが　近くにありません。": "There's nothing nearby to see through."
@@ -1341,7 +1341,7 @@
     "clarity_nt_char_447": "clarity_nt_char_447"
   },
   "448": {
-    "<%sM_pc>は 天井に あたまをぶつけた。": "<%sM_pc> hit their head against the ceiling!"
+    "<%sM_pc>は 天井に あたまをぶつけた。": "<%sM_pc> hit their head against|the ceiling!"
   },
   "449": {
     "<speed=0>仲間のＭＰが　足りない！": "<speed=0>Party member doesn't have enough MP!"
