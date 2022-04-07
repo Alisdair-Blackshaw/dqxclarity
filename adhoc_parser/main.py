@@ -112,6 +112,7 @@ def sanitized_dialog_translate(
                 )  # translation sometimes comes back with a strange number of spaces
                 translation = re.sub("  ", " ", translation)
                 
+                '''
                 tag_1 = output.count("<cs_pchero>")
                 tag_2 = output.count("<pc>")
                 if tag_1 == 1:
@@ -122,11 +123,17 @@ def sanitized_dialog_translate(
                 
                 else:
                     width_var = 45
+                '''
+
+                translation.replace("<pc>", "placeholderName1")
+                translation.replace("<cs_pchero>", "placeholderName2")
                 
                 translation = textwrap.fill(
-                    translation, width=width_var, replace_whitespace=False
+                    translation, width=45, replace_whitespace=False
                 )
                 
+                translation.replace("placeholderName1", "<pc>")
+                translation.replace("placeholderName2", "<cs_pchero>")
 
                 # figure out where to put <br> to break up text
                 count = 1
@@ -219,10 +226,10 @@ def utf8_len(a_string):
 
 service = "deepl"
 pro = False
-api_key = "your api key here"
+api_key = "d0de6520-4900-0820-453b-d5a195f374f2:fx"
 region_code = "en"
 
-file_list = ["adhoc_cs_tbd_115"]
+file_list = ["adhoc_cs_ver61_celestial_city"]
 
 for the_file in file_list:
     cur_file = the_file
