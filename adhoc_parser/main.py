@@ -111,9 +111,22 @@ def sanitized_dialog_translate(
                     "   ", " ", translation
                 )  # translation sometimes comes back with a strange number of spaces
                 translation = re.sub("  ", " ", translation)
+                
+                tag_1 = output.count("<cs_pchero>")
+                tag_2 = output.count("<pc>")
+                if tag_1 == 1:
+                    width_var = 30
+                
+                elif tag_2 == 1:
+                    width_var = 30
+                
+                else:
+                    width_var = 45
+                
                 translation = textwrap.fill(
-                    translation, width=45, replace_whitespace=False
+                    translation, width=width_var, replace_whitespace=False
                 )
+                
 
                 # figure out where to put <br> to break up text
                 count = 1
@@ -175,7 +188,7 @@ def sanitized_dialog_translate(
 
             # make sure there is a space between the player's name and the next word
             final_string = re.sub("<pc>", "<pc> ", final_string)
-            final_string = re.sub("<cspchero>", "<cspchero> ", final_string)
+            final_string = re.sub("<cs_pchero>", "<cs_pchero> ", final_string)
 
             # make sure end of string doesn't end with line break
             final_string = re.sub("\|<br>$", "", final_string)
@@ -209,7 +222,7 @@ pro = False
 api_key = "your api key here"
 region_code = "en"
 
-file_list = ["adhoc_carriage_dialog"]
+file_list = ["adhoc_cs_tbd_115"]
 
 for the_file in file_list:
     cur_file = the_file
