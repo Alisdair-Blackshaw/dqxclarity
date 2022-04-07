@@ -112,22 +112,6 @@ def sanitized_dialog_translate(
                 )  # translation sometimes comes back with a strange number of spaces
                 translation = re.sub("  ", " ", translation)
                 
-                '''
-                tag_1 = output.count("<cs_pchero>")
-                tag_2 = output.count("<pc>")
-                if tag_1 == 1:
-                    width_var = 30
-                
-                elif tag_2 == 1:
-                    width_var = 30
-                
-                else:
-                    width_var = 45
-                '''
-
-                translation = re.sub("<pc>", "placeholderName1", translation)
-                translation = re.sub("<cs_pchero>", "placeholderName2", translation)
-                
                 translation = textwrap.fill(
                     translation, width=45, replace_whitespace=False
                 )
@@ -192,8 +176,8 @@ def sanitized_dialog_translate(
 
             # make sure there is a space between the player's name and the next word
             # and replace the placeholder tags inserted earlier with the proper tags
-            final_string = re.sub("placeholderName1", "<pc> ", final_string)
-            final_string = re.sub("placeholderName2", "<cs_pchero> ", final_string)
+            final_string = re.sub("<pc>", "<pc> ", final_string)
+            final_string = re.sub("<cs_pchero>", "<cs_pchero> ", final_string)
 
             # make sure end of string doesn't end with line break
             final_string = re.sub("\|<br>$", "", final_string)
@@ -224,10 +208,10 @@ def utf8_len(a_string):
 
 service = "deepl"
 pro = False
-api_key = ""
+api_key = "Your API key goes here"
 region_code = "en"
 
-file_list = ["adhoc_file_goes_here"]
+file_list = ["adhoc_files_go_here"]
 
 for the_file in file_list:
     cur_file = the_file
