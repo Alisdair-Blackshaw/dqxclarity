@@ -5898,7 +5898,7 @@
     "clarity_nt_char_1966": "clarity_nt_char_1966"
   },
   "1967": {
-    "<speed=0>入力されていない項目があります。|名前と　キャラＩＤを　正しく入力してください。": ""
+    "<speed=0>入力されていない項目があります。|名前と　キャラＩＤを　正しく入力してください。": "<speed=0>Some fields were not filled in. Please enter|both a Name and ID and try again."
   },
   "1968": {
     "しかし　ここに載っているレシピを|<%sM_pc>は　すでに覚えていた。": "However, you already know the recipe listed|here."
@@ -5940,10 +5940,10 @@
     "ベータテスト版": ""
   },
   "1981": {
-    "「": ""
+    "「": " "
   },
   "1982": {
-    "<%nM_lv>～": ""
+    "<%nM_lv>～": "<%dM_lv>～"
   },
   "1983": {
     "<%sM_pc>は|<%sM_item>を　読んだ。<bw_break>": "<%sM_pc> read the|<%sM_item>.<bw_break>"
