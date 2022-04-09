@@ -1359,7 +1359,7 @@
     "花を背負う": "Flowers"
   },
   "454": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　ダイスをふった。　→　<%dL_VALUE>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e rolled a die. 　→ <%dL_VALUE>"
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　ダイスをふった。　→　<%dL_VALUE>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e rolled a die. → <%dL_VALUE>"
   },
   "455": {
     "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e flipped a coin.　→　<%sL_STRING>"
@@ -1461,7 +1461,7 @@
     "clarity_nt_char_487": "clarity_nt_char_487"
   },
   "488": {
-    "道に迷いました……": "I got lost...…"
+    "道に迷いました……": "I got lost..."
   },
   "489": {
     "ドンマイ": "Never mind."
@@ -1563,7 +1563,7 @@
     "集まって！": "Gather Around!"
   },
   "522": {
-    "<%nL_VALUE>！": "<%nL_VALUE>!"
+    "<%nL_VALUE>！": "<%dL_VALUE>!"
   },
   "523": {
     "clarity_nt_char_523": "clarity_nt_char_523"
@@ -1599,19 +1599,19 @@
     "clarity_nt_char_533": "clarity_nt_char_533"
   },
   "534": {
-    "スペードの<%nL_VALUE>": "<%nL_VALUE> of Spades"
+    "スペードの<%nL_VALUE>": "<%dL_VALUE> of Spades"
   },
   "535": {
     "clarity_nt_char_535": "clarity_nt_char_535"
   },
   "536": {
-    "ハートの<%nL_VALUE>": "<%nL_VALUE> of Hearts"
+    "ハートの<%nL_VALUE>": "<%dL_VALUE> of Hearts"
   },
   "537": {
-    "ダイヤの<%nL_VALUE>": "<%nL_VALUE> of Diamonds"
+    "ダイヤの<%nL_VALUE>": "<%dL_VALUE> of Diamonds"
   },
   "538": {
-    "クローバーの<%nL_VALUE>": "<%nL_VALUE> of Clubs"
+    "クローバーの<%nL_VALUE>": "<%dL_VALUE> of Clubs"
   },
   "539": {
     "Ａ": "A"
@@ -1740,13 +1740,13 @@
     "ヨッ！": "Yo!"
   },
   "581": {
-    "シグナルハート": ""
+    "シグナルハート": "Heart Signal"
   },
   "582": {
-    "シグナルスター": ""
+    "シグナルスター": "Star Signal"
   },
   "583": {
-    "シグナルクラウン": ""
+    "シグナルクラウン": "Crown Signal"
   },
   "584": {
     "clarity_nt_char_584": "clarity_nt_char_584"
@@ -1761,7 +1761,7 @@
     "にゃにゃん": "Meow"
   },
   "588": {
-    "どうぐ最適術": ""
+    "どうぐ最適術": "Item Optimize"
   },
   "589": {
     "clarity_nt_char_589": "clarity_nt_char_589"
@@ -1779,7 +1779,7 @@
     "ブレイクソーダ": "Break Soda"
   },
   "594": {
-    "自撮り": ""
+    "自撮り": "Selfie"
   },
   "595": {
     "ネタ「メタキン」": "Metal King Trick"
@@ -1788,21 +1788,21 @@
     "clarity_nt_char_596": "clarity_nt_char_596"
   },
   "597": {
-    "ドラけしシャワー": ""
+    "ドラけしシャワー": "Eraser Shower"
   },
   "598": {
     "clarity_nt_char_598": "clarity_nt_char_598"
   },
   "599": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは グーを出した。": ""
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは グーを出した。": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e throws out rock."
   },
   "600": {
     "clarity_nt_char_600": "clarity_nt_char_600"
   },
   "601": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。": ""
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e throws out scissors."
   },
   "602": {
-    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは パーを出した。": ""
+    "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは パーを出した。": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e throws out paper."
   }
 }
