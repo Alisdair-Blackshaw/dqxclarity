@@ -49,6 +49,9 @@ def sanitized_dialog_translate(
     splitting the text up into chunks.
     """
     output = re.sub("<br>", " ", dialog_text)
+    output = re.sub("<pc>", "PlaceholdernamesPC", output)
+    output = re.sub("<cs_pchero>", "PlaceholdernamesCS", output)
+    output = re.sub("<kyodai>", "PlaceholdernamesKY", output)
     output = re.split("(<(?!%).+?>)", output)
     final_string = ""
     for item in output:
@@ -110,8 +113,7 @@ def sanitized_dialog_translate(
                 translation = re.sub(
                     "   ", " ", translation
                 )  # translation sometimes comes back with a strange number of spaces
-                translation = re.sub("  ", " ", translation)
-                
+                translation = re.sub("  ", " ", translation)                
                 translation = textwrap.fill(
                     translation, width=45, replace_whitespace=False
                 )
@@ -176,9 +178,12 @@ def sanitized_dialog_translate(
 
             # make sure there is a space between the player's name and the next word
             # and replace the placeholder tags inserted earlier with the proper tags
-            final_string = re.sub("<pc>", "<pc> ", final_string)
-            final_string = re.sub("<cs_pchero>", "<cs_pchero> ", final_string)
-
+            final_string = re.sub("PlaceholdernamesPC", " <pc> ", final_string)
+            final_string = re.sub("PlaceholdernamesP", " <pc> ", final_string)
+            final_string = re.sub("PlaceholdernamesCS", " <cs_pchero> ", final_string)
+            final_string = re.sub("PlaceholdernamesC", " <cs_pchero> ", final_string)
+            final_string = re.sub("PlaceholdernamesKY", " <kyodai> ", final_string)
+            final_string = re.sub("PlaceholdernamesK", " <kyodai> ", final_string)
             # make sure end of string doesn't end with line break
             final_string = re.sub("\|<br>$", "", final_string)
 
@@ -208,10 +213,10 @@ def utf8_len(a_string):
 
 service = "deepl"
 pro = False
-api_key = "Your API key goes here"
+api_key = "Your API Key Here"
 region_code = "en"
 
-file_list = ["adhoc_files_go_here"]
+file_list = ["adhoc_cs_tbd_115"]
 
 for the_file in file_list:
     cur_file = the_file
