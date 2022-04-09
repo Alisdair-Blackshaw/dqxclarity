@@ -330,7 +330,7 @@
     "clarity_nt_char_110": "clarity_nt_char_110"
   },
   "111": {
-    "盾": "SHD"
+    "盾": "Shd"
   },
   "112": {
     "からだ下": "Legs"
@@ -2151,13 +2151,13 @@
     "<%dM_cal_YYYY>／<%sM_cal_MM>／<%sM_cal_DD>　<%sM_Hankaku><%dM_hh>：<%sM_mm>": "<%sM_cal_MM>/<%sM_cal_DD>/<%dM_cal_YYYY>　<%sM_Hankaku><%dM_hh>:<%sM_mm>"
   },
   "718": {
-    "<%3dM_hhh>時間<%02dM_mm>分": "<%3dM_hhh>h. <%02dM_mm>m."
+    "<%3dM_hhh>時間<%02dM_mm>分": "<%3dM_hhh> h. <%02dM_mm> m."
   },
   "719": {
     "<%dM_ninzuu>人": "<%dM_ninzuu>"
   },
   "720": {
-    "<%dM_hhh>時間<%sM_mm>分<%sM_ss>秒": "<%dM_hhh>h. <%sM_mm>m. <%sM_ss>s."
+    "<%dM_hhh>時間<%sM_mm>分<%sM_ss>秒": "<%dM_hhh> h. <%sM_mm> m. <%sM_ss> s."
   },
   "721": {
     "契約履歴": ""
@@ -5046,7 +5046,7 @@
     "clarity_nt_char_1682": "clarity_nt_char_1682"
   },
   "1683": {
-    "<%nL_MONTH>月<%nL_DAY>日<%nL_H>時<%nL_M>分": "<%dL_MONTH>/<%dL_DAY> <%dL_H>:<%dL_M>"
+    "<%nL_MONTH>月<%nL_DAY>日<%nL_H>時<%nL_M>分": "<%dL_MONTH>/<%dL_DAY> <%dL_H>:<%02dL_M>"
   },
   "1684": {
     "clarity_nt_char_1684": "clarity_nt_char_1684"
@@ -5082,7 +5082,7 @@
     "<%sM_standby>": ""
   },
   "1695": {
-    "ID": ""
+    "ID": "ID"
   },
   "1696": {
     "clarity_nt_char_1696": "clarity_nt_char_1696"
@@ -8301,7 +8301,7 @@
     "通常時じゅもん": "Edit Field Skills"
   },
   "2768": {
-    "どの職業？": "Which class?"
+    "どの職業？": "Which job?"
   },
   "2769": {
     "バトル時とくぎ": "Edit Skills"
@@ -16638,7 +16638,7 @@
     "clarity_nt_char_5546": "clarity_nt_char_5546"
   },
   "5547": {
-    "交換したくない装備を　ロックしてください。": ""
+    "交換したくない装備を　ロックしてください。": "Lock any equipment you don't want to exchange."
   },
   "5548": {
     "達人クエストについて": "About Master Quests"
@@ -22203,7 +22203,7 @@
     "clarity_nt_char_7401": "clarity_nt_char_7401"
   },
   "7402": {
-    "<%dM_cal_YYYY>年<%dM_cal_MM>月<%dM_cal_DD>日（<%sM_00>） ～ <%dM_cal_YYYY2>年<%dM_cal_MM2>月<%dM_cal_DD2>日（<%sM_01>）": "<%dM_cal_MM>/<%dM_cal_DD>/<%dM_cal_YYYY> - <%dM_cal_MM2>/<%dM_cal_DD2>/<%dM_cal_YYYY2>"
+    "<%dM_cal_YYYY>年<%dM_cal_MM>月<%dM_cal_DD>日（<%sM_00>） ～ <%dM_cal_YYYY2>年<%dM_cal_MM2>月<%dM_cal_DD2>日（<%sM_01>）": "<%dM_cal_MM>/<%dM_cal_DD>/<%dM_cal_YYYY> （<%sM_00>） - <%dM_cal_MM2>/<%dM_cal_DD2>/<%dM_cal_YYYY2> （<%sM_01>）"
   },
   "7403": {
     "clarity_nt_char_7403": "clarity_nt_char_7403"
@@ -22773,10 +22773,10 @@
     "clarity_nt_char_7591": "clarity_nt_char_7591"
   },
   "7592": {
-    "討伐タイム": ""
+    "討伐タイム": "Subj. Time"
   },
   "7593": {
-    "すべて非表示": ""
+    "すべて非表示": "Hide All"
   },
   "7594": {
     "clarity_nt_char_7594": "clarity_nt_char_7594"
@@ -23001,13 +23001,13 @@
     "clarity_nt_char_7667": "clarity_nt_char_7667"
   },
   "7668": {
-    "とても大きい": "Very large"
+    "とても大きい": "Very Large"
   },
   "7669": {
     "clarity_nt_char_7669": "clarity_nt_char_7669"
   },
   "7670": {
-    "大きい": ""
+    "大きい": "Large"
   },
   "7671": {
     "小さい": "Small"
@@ -24195,7 +24195,7 @@
     "なかま対戦": "Party Battle"
   },
   "8066": {
-    "<%2dM_hh1>：<%02dM_mm1>～<%2dM_hh2>：<%02dM_mm2>": ""
+    "<%2dM_hh1>：<%02dM_mm1>～<%2dM_hh2>：<%02dM_mm2>": "<%2dM_hh1>：<%02dM_mm1>～<%2dM_hh2>：<%02dM_mm2>"
   },
   "8067": {
     "<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": "<%2dM_hh1>：<%02dM_mm1>～<%2dM_hh2>：<%02dM_mm2>"
@@ -24393,16 +24393,16 @@
     "お別れする": "Say Goodbye"
   },
   "8132": {
-    "名前を変える": ""
+    "名前を変える": "Change Name"
   },
   "8133": {
     "clarity_nt_char_8133": "clarity_nt_char_8133"
   },
   "8134": {
-    "渡した順に": ""
+    "渡した順に": "By Given"
   },
   "8135": {
-    "捕まえた順に": ""
+    "捕まえた順に": "By Captured"
   },
   "8136": {
     "clarity_nt_char_8136": "clarity_nt_char_8136"
@@ -24477,10 +24477,10 @@
     "釣り堀のさかな": "View Fish"
   },
   "8160": {
-    "～<%dM_cal_YYYY2>/<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": ""
+    "～<%dM_cal_YYYY2>/<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": "～<%2dM_cal_MM2>/<%2dM_cal_DD2>/<%dM_cal_YYYY2> <%2dM_hh2>:<%02dM_mm2>"
   },
   "8161": {
-    "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～": ""
+    "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>～"
   },
   "8162": {
     "clarity_nt_char_8162": "clarity_nt_char_8162"
@@ -24531,7 +24531,7 @@
     "さかなを入れる": "Put Fish"
   },
   "8178": {
-    "投げ入れるもの": ""
+    "投げ入れるもの": "Choose Items"
   },
   "8179": {
     "すべて見る": "View All"
@@ -30513,7 +30513,7 @@
     "clarity_nt_char_10171": "clarity_nt_char_10171"
   },
   "10172": {
-    "結晶を取りだす": "Extract Gear"
+    "結晶を取りだす": "Extract Gems"
   },
   "10173": {
     "錬金付与": "Alch. Grant"
