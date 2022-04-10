@@ -300,10 +300,10 @@
     "「ただいま　ニコロイ。|　さみしかったでしょう……。ごめんなさいね。": "I'm back! Nicolai, I know you missed me...|I'm sorry..."
   },
   "101": {
-    "「ううん。|　母上の病気を　治すためだもん。|　ボク　ガマンできたよ！": "Your illness is cured! You got it under control!"
+    "「ううん。|　母上の病気を　治すためだもん。|　ボク　ガマンできたよ！": "Your illness is cured! You got it under|control!"
   },
   "102": {
-    "「でも　よかった！|　来月の　お父さまの誕生日に　間に合って。|　一緒に　お祝いできるね！": "But thank God! Just in time for father's|birthday next month... We can celebrate it|together!"
+    "「でも　よかった！|　来月の　お父さまの誕生日に　間に合って。|　一緒に　お祝いできるね！": "But thank God! Just in time for father's|birthday... We can celebrate it|together!"
   },
   "103": {
     "「ええ……。": "Yeah, um..."
@@ -399,7 +399,7 @@
     "「母上の　ご遺志の通り　暗黒大樹の葉を|　この玉座の間に　納めさせていただきます。": "In accordance with your wishes, I have placed|the leaves of the Dark Tree in this throne|room..."
   },
   "134": {
-    "「わわっ　なんだ！？": "Whoa, what the!?"
+    "「わわっ　なんだ！？": "Whoah, what the!?"
   },
   "135": {
     "「こ……　ここは……？": "This... Is this...?"
