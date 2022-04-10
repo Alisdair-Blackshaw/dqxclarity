@@ -33,7 +33,7 @@
     "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "12": {
-    "<speed=0><%sM_pc>は|<%sM_item>を　道具として|使ってみた。<br>|しかし　今は　何もおこらなかった……。": ""
+    "<speed=0><%sM_pc>は|<%sM_item>を　道具として|使ってみた。<br>|しかし　今は　何もおこらなかった……。": "<speed=0><%sM_pc> tried using <%sM_item>|as an item.<br>|But nothing happened..."
   },
   "13": {
     "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった！": "<speed=0><%sM_pc> used <%sM_item>.<br>|But nothing happened!"
@@ -48,7 +48,7 @@
     "clarity_nt_char_16": "clarity_nt_char_16"
   },
   "17": {
-    "錬金で作れる": ""
+    "錬金で作れる": "Alchemizable"
   },
   "18": {
     "clarity_nt_char_18": "clarity_nt_char_18"
@@ -60,7 +60,7 @@
     "clarity_nt_char_20": "clarity_nt_char_20"
   },
   "21": {
-    "<%sL_PC>が 釜錬金で作った。": ""
+    "<%sL_PC>が 釜錬金で作った。": "<%sL_PC> alchemized."
   },
   "22": {
     "clarity_nt_char_22": "clarity_nt_char_22"
@@ -96,7 +96,7 @@
     "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|栽培に　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it for cultivating!"
   },
   "33": {
-    "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|染色の　素材として　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>. <br>|But nothing happened.|Try using it to dye something!"
+    "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|染色の　素材として　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it to dye something!"
   },
   "34": {
     "clarity_nt_char_34": "clarity_nt_char_34"
@@ -168,7 +168,7 @@
     "人形ポーズ": "Doll Pose"
   },
   "57": {
-    "<%sL_PC>が まとめ屋から もらった。": "Received from a Summary Shop."
+    "<%sL_PC>が まとめ屋から もらった。": "<%sL_PC> received from a Summary|Shop."
   },
   "58": {
     "clarity_nt_char_58": "clarity_nt_char_58"
@@ -255,7 +255,7 @@
     "clarity_nt_char_85": "clarity_nt_char_85"
   },
   "86": {
-    "<%sL_PC>が バトルトリニティで手に入れた。": ""
+    "<%sL_PC>が バトルトリニティで手に入れた。": "<%sL_PC> received from Battle Trinity."
   },
   "87": {
     "表情": "Face"
@@ -264,7 +264,7 @@
     "clarity_nt_char_88": "clarity_nt_char_88"
   },
   "89": {
-    "しかし　表情「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Face Expression is|already learned!"
+    "しかし　表情「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Face Expression is|already known!"
   },
   "90": {
     "<%sM_pc>は 表情「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!"
@@ -300,7 +300,7 @@
     "clarity_nt_char_100": "clarity_nt_char_100"
   },
   "101": {
-    "<%sL_PC>が ふくびきの景品で|手に入れた。": ""
+    "<%sL_PC>が ふくびきの景品で|手に入れた。": "<%sL_PC> received as a Draw Prize."
   },
   "102": {
     "<speed=0><pc>は|<%sM_item>を　開封して|トランプケースに入れた。<se_nots System 7>": ""
@@ -330,7 +330,7 @@
     "clarity_nt_char_110": "clarity_nt_char_110"
   },
   "111": {
-    "フィッシングコンテスト": ""
+    "フィッシングコンテスト": "Fishing Contest"
   },
   "112": {
     "バトルトリニティ": "Battle Trinity"
@@ -453,7 +453,7 @@
     "トロフィー屋で再入手。　第<%nL_TITLE_NUM>回<%sL_TITLE>|マイデッキで　<%nL_RANKING_NUM>位となった。": ""
   },
   "152": {
-    "バトエン大会": ""
+    "バトエン大会": "Batoen Tournament"
   },
   "153": {
     "clarity_nt_char_153": "clarity_nt_char_153"
