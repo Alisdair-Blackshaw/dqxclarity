@@ -8,7 +8,7 @@
     "3": {
         "「私……気球に乗るのが　夢だったのよ。|　だから　期間限定で　気球に乗れるって聞いて|　思わず　予約しちゃったの。": "I dreamed of getting this balloon. It was a|limited time offer, so I made a reservation|for the two of us to go on a ride in|<br>|the sky!"
     "4": {
-        "「それと　前から　あなたと|　のんびり　過ごしてみたかったから……|　一緒に　どうかな……と思って。": "I've always wanted to spend some time alone|with you and was wondering if we could do|it together after everything we've|br|been through.."
+        "「それと　前から　あなたと|　のんびり　過ごしてみたかったから……|　一緒に　どうかな……と思って。": "I've always wanted to spend some time alone|with you and was wondering if we could do|it together after everything we've|<br>|been through.."
     },
     "5": {
         "「……うふふ。|　それじゃ　さっそく　乗りましょう！": "Now, let's get on the balloon!"
@@ -212,7 +212,7 @@
         "「……ようやく　目覚めたか。|　待ちくたびれたぞ。": "... I'm finally awake... I've waited so|long..."
     },
     "72": {
-        "「どうした　ほうけたカオをして。|　何か　身体に異常でも　あったか？<yesno><close>": ""
+        "「どうした　ほうけたカオをして。|　何か　身体に異常でも　あったか？<yesno><close>": "What's the matter? Is there something wrong|with your body?<yesno><close>"
     },
     "73": {
         "「……そうか。なるほど　なるほど。|　ならば　血の契約は　うまくいったようだな。": "...... Okay, so... Then the blood pact|worked..."
@@ -221,7 +221,7 @@
         "「テキスト削除": "text deletion"
     },
     "75": {
-        "「……俺の名は　ユシュカ。|　見ての通り　魔族の旅人だ。": "... My name is Yu... As you can see, I'm a|demon."
+        "「……俺の名は　ユシュカ。|　見ての通り　魔族の旅人だ。": "My name is Yushka As you can see, I'm a|demon."
     },
     "76": {
         "「で　ここは　魔界。|　俺たち　魔族が暮らしている　麗しき世界だ。": "And this is... We, the demon tribe, live in a|beautiful..."
