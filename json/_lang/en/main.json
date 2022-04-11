@@ -18435,7 +18435,7 @@
     "手に入れたスキルノート": "Received Skill Book"
   },
   "6146": {
-    "おぼえるスキル": "Learn Skills"
+    "おぼえるスキル": "View Skills"
   },
   "6147": {
     "習得中のスキル": ""
@@ -32799,7 +32799,7 @@
     "clarity_nt_char_10933": "clarity_nt_char_10933"
   },
   "10934": {
-    "おぼえるスキルはありません": "No skills to learn."
+    "おぼえるスキルはありません": "There are no skills."
   },
   "10935": {
     "総資産": "Assets"

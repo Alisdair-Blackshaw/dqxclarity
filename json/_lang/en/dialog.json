@@ -3387,7 +3387,7 @@
     "<speed=0>|『公開しない』にすると　まちかど掲示板に|チームの情報は　表示されません。|『公開しない』に　変更しますか？|<yesno><close>": "<speed=0>|Setting to \"Hidden\" will hide your Team|information on the Town Bulletin Board.|Set to \"Hidden\"?|<yesno><close>"
   },
   "1130": {
-    "<select>|コメントを全てみる|<select_end><break>": "<select>See all comments|<select_end><break>"
+    "<select>|コメントを全てみる|<select_end><break>": "<select>|View All Comments|<select_end><break>"
   },
   "1131": {
     "clarity_nt_char_1131": "clarity_nt_char_1131"
@@ -3462,7 +3462,7 @@
     "特別な称号から|立ちかたを|変更します": "Changes your|idle standing|pose."
   },
   "1155": {
-    "<speed=0>パーティ同盟を組んで　この先に進みますか？<yesno><close>": ""
+    "<speed=0>パーティ同盟を組んで　この先に進みますか？<yesno><close>": "<speed=0>Form a party alliance and continue?<yesno><close>"
   },
   "1156": {
     "clarity_nt_char_1156": "clarity_nt_char_1156"
@@ -3483,10 +3483,10 @@
     "<%sM_pc>は　仲間にしたモンスターを|<%sM_monster_name>と　名付けた。": ""
   },
   "1162": {
-    "申し訳ありませんが|その名前には　変更できません。": ""
+    "申し訳ありませんが|その名前には　変更できません。": "Sorry, but you can't change to that|name."
   },
   "1163": {
-    "<speed=0><%sM_monster>は　かなしそうに|去っていった……。|": ""
+    "<speed=0><%sM_monster>は　かなしそうに|去っていった……。|": "<speed=0><%sM_monster> looked sad, and|left..."
   },
   "1164": {
     "連れていく|仲間モンスターを|選びます": "Choose a monster|companion to|take."
@@ -3534,7 +3534,7 @@
     "<speed=0>ここでは　コロシアムに参加できない。|街に戻り　へんじをしよう。": ""
   },
   "1179": {
-    "このクエストは　リプレイすることができません！": ""
+    "このクエストは　リプレイすることができません！": "This quest cannot be replayed!"
   },
   "1180": {
     "<speed=0>エラーが発生しました。|もう一度　お試しください。": ""
@@ -3594,7 +3594,7 @@
     "clarity_nt_char_1198": "clarity_nt_char_1198"
   },
   "1199": {
-    "<speed=0>このモンスターは　これ以上呼べない！": ""
+    "<speed=0>このモンスターは　これ以上呼べない！": "<speed=0>Can't call this monster anymore!"
   },
   "1200": {
     "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！": "<%sM_pc> learned how to recruit|<%sM_monster>!"
@@ -3633,13 +3633,13 @@
     "clarity_nt_char_1211": "clarity_nt_char_1211"
   },
   "1212": {
-    "<speed=0><%sM_omekashi>は　まだ作成していない！": ""
+    "<speed=0><%sM_omekashi>は　まだ作成していない！": "<speed=0><%sM_omekashi> hasn't been created yet!"
   },
   "1213": {
-    "<speed=0><%sM_otomo>が　死んでいるため　使えない！": "<speed=0><%sM_otomo> is dead and cannot be used!"
+    "<speed=0><%sM_otomo>が　死んでいるため　使えない！": "<speed=0><%sM_otomo> is dead and cannot be|used!"
   },
   "1214": {
-    "<%sM_send>を　モンスター酒場に　送ります。|よろしいですか？<yesno><close>": ""
+    "<%sM_send>を　モンスター酒場に　送ります。|よろしいですか？<yesno><close>": "Send <%sM_send> to the|Monster Tavern?<yesno><close>"
   },
   "1215": {
     "<color_yellow>※『さくせん』コマンドの『仲間モンスター』で|装備やスキルを　確認できます。<color_white>": ""
@@ -3660,46 +3660,46 @@
     "clarity_nt_char_1220": "clarity_nt_char_1220"
   },
   "1221": {
-    "<speed=0><%sM_otomo>は　死んでいるため|スキルポイントを　振れない！": ""
+    "<speed=0><%sM_otomo>は　死んでいるため|スキルポイントを　振れない！": "<speed=0><%sM_otomo> is dead and|cannot have skill points assigned!"
   },
   "1222": {
     "clarity_nt_char_1222": "clarity_nt_char_1222"
   },
   "1223": {
-    "<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party on standby!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
+    "<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party on standby!<me 61>|<br><color_yellow>※You can't take any more monsters|with you!<color_white>"
   },
   "1224": {
-    "<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
+    "<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party!<me 61>|<br><color_yellow>※You can't take any more monsters|with you!<color_white>"
   },
   "1225": {
     "clarity_nt_char_1225": "clarity_nt_char_1225"
   },
   "1226": {
-    "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party on|standby!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
+    "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party on|standby!<me 61>|<br><color_yellow>※You can't take any more monsters|with you!<color_white>"
   },
   "1227": {
-    "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
+    "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party!<me 61>|<br><color_yellow>※You can't take any more monsters|with you!<color_white>"
   },
   "1228": {
     "clarity_nt_char_1228": "clarity_nt_char_1228"
   },
   "1229": {
-    "<%sM_send>を　仲間にして|モンスター酒場に 送った！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> became a companion|and was sent to the Monster Tavern!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
+    "<%sM_send>を　仲間にして|モンスター酒場に 送った！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> became a companion|and was sent to the Monster Tavern!<me 61>|<br><color_yellow>※You can't take any more monsters|with you!<color_white>"
   },
   "1230": {
     "clarity_nt_char_1230": "clarity_nt_char_1230"
   },
   "1231": {
-    "<%sM_pc>は　ヒスイのカギを使って|宝箱を開けた。|ヒスイのカギは　光と共に砕け散った！<se Joutyu_SE 121>": ""
+    "<%sM_pc>は　ヒスイのカギを使って|宝箱を開けた。|ヒスイのカギは　光と共に砕け散った！<se Joutyu_SE 121>": "<%sM_pc> used a Jade Key to|open the treasure chest. The key shattered|in a flash!<se Joutyu_SE 121>"
   },
   "1232": {
-    "<%sM_pc>は|ヒスイのカギを使うのを　あきらめた。": ""
+    "<%sM_pc>は|ヒスイのカギを使うのを　あきらめた。": "<%sM_pc> didn't use a Jade Key."
   },
   "1233": {
     "clarity_nt_char_1233": "clarity_nt_char_1233"
   },
   "1234": {
-    "この宝箱を開けるには　ヒスイのカギが|必要なようだ。|<br>|ヒスイのカギを　ひとつ失いますが|宝箱を　開けますか？<yesno><close>": "It seems you need the Jade Key to open this|treasure chest.|<br>|You will lose a jade key, but will you open|the treasure chest?<yesno><close>"
+    "この宝箱を開けるには　ヒスイのカギが|必要なようだ。|<br>|ヒスイのカギを　ひとつ失いますが|宝箱を　開けますか？<yesno><close>": "It seems you need the Jade Key to open this|treasure chest.|<br>|You will lose a Jade Key, but will you open|the treasure chest?<yesno><close>"
   },
   "1235": {
     "<speed=0>迷宮に入る前にいた場所に　戻りますか？|ゴールドは　失いません。<yesno2><close>": "<speed=0>Would you like to leave the Magic Maze?|Your collected Gold will not be lost.<yesno2><close>"
@@ -3735,7 +3735,7 @@
     "ロード中表示する|かきおきメモの|設定をします": "Set the memo to|be displayed|while loading."
   },
   "1246": {
-    "フレンドや|チームメンバーの|かきおきを見る": "View your friends|and team members|write-ups."
+    "フレンドや|チームメンバーの|かきおきを見る": "View your friends|and team member's|notes."
   },
   "1247": {
     "clarity_nt_char_1247": "clarity_nt_char_1247"
@@ -3747,7 +3747,7 @@
     "clarity_nt_char_1249": "clarity_nt_char_1249"
   },
   "1250": {
-    "チームメンバーが|書いたかきおきを|読みます": "Read the notes|written by my|team members."
+    "チームメンバーが|書いたかきおきを|読みます": "Read the notes|written by your|team members."
   },
   "1251": {
     "clarity_nt_char_1251": "clarity_nt_char_1251"
@@ -3759,7 +3759,7 @@
     "フレンドみんなに|かきおきメモを|書きます": "Write a note|for your|friends to see."
   },
   "1254": {
-    "フレンドが|書いたかきおきを|読みます": "Read the|notes my friends|have written."
+    "フレンドが|書いたかきおきを|読みます": "Read the notes|your friends|have written."
   },
   "1255": {
     "<speed=0>フレンドのかきおきメモが　ありません。": "<speed=0>There are no friend notes."
@@ -3978,13 +3978,13 @@
     "<speed=0><%sM_action>の対象が　近くにありません！": "<speed=0><%sM_action>'s target is too far away!"
   },
   "1327": {
-    "しかし 勇気の輝きが足りなかった。": "But the Spark of Courage was not enough."
+    "しかし 勇気の輝きが足りなかった。": "But you don't have enough Sparks of Courage."
   },
   "1328": {
     "勇気の輝きを <%dC_KAGAYAKI_NUM>使って　闇を祓った！": "Used <%dC_KAGAYAKI_NUM> Spark of Courage to exorcise the darkness!"
   },
   "1329": {
-    "<select_se_off>|クローバーズチケット|ドレスアップ無料券|<select_end><break>": "<select_se_off>|Clover's Ticket|Free Dress Up Ticket<select_end><break>"
+    "<select_se_off>|クローバーズチケット|ドレスアップ無料券|<select_end><break>": "<select_se_off>|Clover's Ticket|Free Dress Up Ticket|<select_end><break>"
   },
   "1330": {
     "clarity_nt_char_1330": "clarity_nt_char_1330"
@@ -4002,13 +4002,13 @@
     "clarity_nt_char_1334": "clarity_nt_char_1334"
   },
   "1335": {
-    "<speed=0>勇気の輝きが　足りません！": "<speed=0>The Spark of Courage was not enough!"
+    "<speed=0>勇気の輝きが　足りません！": "<speed=0>Not enough Sparks of Courage!"
   },
   "1336": {
     "clarity_nt_char_1336": "clarity_nt_char_1336"
   },
   "1337": {
-    "勇気の輝きを|使ってこの場所で|復活します": "I will use the Spark of Courage to resurrect you here."
+    "勇気の輝きを|使ってこの場所で|復活します": "Use Sparks of|Courage to|revive here."
   },
   "1338": {
     "<speed=0>勇気の輝きを　<%nM_kagayaki>使って|この場で　復活できます。|勇気の輝きを使って　復活しますか？<yesno2><close>": "<speed=0>You can use <%dM_kagayaki> Sparks of Courage to revive|here. Would you like to use your Sparks of|Courage?<yesno2><close>"
@@ -4278,7 +4278,7 @@
     "<speed=0>同じように　続けていく仲間は|仲間の状態が　維持されます。|このまま　今戦ったボスとの戦いに行きますか？<yesno><close>": "<speed=0>You will stay with your current party.|Do you want to fight the same boss|again?<yesno><close>"
   },
   "1427": {
-    "<speed=0>ボスモンスターとの戦いに行くのを|やめますか？<yesno><close>": ""
+    "<speed=0>ボスモンスターとの戦いに行くのを|やめますか？<yesno><close>": "<speed=0>Stop going to fight the boss?<yesno><close>"
   },
   "1428": {
     "clarity_nt_char_1428": "clarity_nt_char_1428"
@@ -4299,7 +4299,7 @@
     "clarity_nt_char_1433": "clarity_nt_char_1433"
   },
   "1434": {
-    "生きている仲間の|呪文で復活します": ""
+    "生きている仲間の|呪文で復活します": "Revive from a|live ally's|spell."
   },
   "1435": {
     "<speed=0>|撮影枚数が　いっぱいです。|写真を保存すると　一番古い写真が|上書きされますが　よろしいですか？|<yesno><close>": "<speed=0>|Your Photo Album is full. If you save this|photo, the oldest photo will be overwritten.|Is this okay?|<yesno><close>"
@@ -4386,7 +4386,7 @@
     "<speed=0>|まとめアイテムの使い方を　説明します。|まとめアイテムで　『そうび』を選ぶと|変身できる装備の一覧が　表示されます。|<br>|変身できる装備の一覧から　お好みの装備を選ぶと|まとめアイテムが　その装備に変身します。|変身は　何度でも可能なので　お気軽にどうぞ！": "<speed=0>|This will explain \"Summary Items\". If you|select the item and then choose \"Equip\", it|will transform into any item in the list.|<br>|You can use Summary Items as many times as|you like. You also don't need to keep the|original if it exists in the list of items!"
   },
   "1463": {
-    "<speed=0>この写真は　現在操作できません。|アルバムを拡張すれば|操作できるようになります。": ""
+    "<speed=0>この写真は　現在操作できません。|アルバムを拡張すれば|操作できるようになります。": "<speed=0>This photo cannot be selected. It can be|selected once again if the album is|expanded."
   },
   "1464": {
     "clarity_nt_char_1464": "clarity_nt_char_1464"
@@ -4455,19 +4455,19 @@
     "登録した|モンスターを|解除します": "Cancel your|monster's|registration."
   },
   "1486": {
-    "<speed=0>既に装備しているバッジは　複数装備できません！": ""
+    "<speed=0>既に装備しているバッジは　複数装備できません！": "<speed=0>Cannot equip more than one of the same badge!"
   },
   "1487": {
     "clarity_nt_char_1487": "clarity_nt_char_1487"
   },
   "1488": {
-    "<speed=0>いまは　サポート仲間の|さくせんを　変更できません！": ""
+    "<speed=0>いまは　サポート仲間の|さくせんを　変更できません！": "<speed=0>Can't change your monsters' Tactics right now!"
   },
   "1489": {
     "<speed=0>ここでは　さくせんを　変えられない！": "<speed=0>You can't change tactics here!"
   },
   "1490": {
-    "<%sM_action>を　おぼえる": "Learn <%sM_action>"
+    "<%sM_action>を　おぼえる": "Learn \"<%sM_action>\""
   },
   "1491": {
     "clarity_nt_char_1491": "clarity_nt_char_1491"
@@ -4479,7 +4479,7 @@
     "clarity_nt_char_1493": "clarity_nt_char_1493"
   },
   "1494": {
-    "<%sM_delete>は　バトルロードの|パーティに　登録されているため|お別れできません。": ""
+    "<%sM_delete>は　バトルロードの|パーティに　登録されているため|お別れできません。": "<%sM_delete> is registered in|a Battle Road party and cannot be parted|with."
   },
   "1495": {
     "装備を登録したり|モンスターの|装備を変更します": "Register or|change monster|equipment."
@@ -4524,7 +4524,7 @@
     "clarity_nt_char_1508": "clarity_nt_char_1508"
   },
   "1509": {
-    "<speed=0><pc>は　<%sM_item>を|勢いよく　開けた！": ""
+    "<speed=0><pc>は　<%sM_item>を|勢いよく　開けた！": "<speed=0><pc> excitedly opened the|<%sM_item>!"
   },
   "1510": {
     "clarity_nt_char_1510": "clarity_nt_char_1510"
@@ -4539,7 +4539,7 @@
     "<speed=0>しかし　<%sM_Badge>バッジを|これ以上持てなかったため|<%sM_Badge>は　コインに変化した！|<br>|バトルロードコインを　<%dM_CoinNum>枚　手に入れた！|<se_nots System 7>": "<speed=0>However, you can't hold any more|<%sM_Badge>, so it changed into coins instead!|<br>|You received <%dM_CoinNum> Battle Road Coins!|<se_nots System 7>"
   },
   "1514": {
-    "<%sM_Badge>バッジを　手に入れた！": ""
+    "<%sM_Badge>バッジを　手に入れた！": "Received the <%sM_Badge> Badge!"
   },
   "1515": {
     "clarity_nt_char_1515": "clarity_nt_char_1515"
@@ -4551,40 +4551,40 @@
     "clarity_nt_char_1517": "clarity_nt_char_1517"
   },
   "1518": {
-    "<%sM_item><%sM_plusnum>を　装備した。": "You equipped the <%sM_item> <%sM_plusnum>."
+    "<%sM_item><%sM_plusnum>を　装備した。": "Equipped the <%sM_item> <%sM_plusnum>."
   },
   "1519": {
     "clarity_nt_char_1519": "clarity_nt_char_1519"
   },
   "1520": {
-    "<%sM_item><%sM_plusnum>の登録を　更新した。": "Reg. of <%sM_item> <%sM_plusnum> updated."
+    "<%sM_item><%sM_plusnum>の登録を　更新した。": "<%sM_item> <%sM_plusnum> registration updated."
   },
   "1521": {
-    "<%sM_item><%sM_plusnum>を　登録した。": "You registered the <%sM_item> <%sM_plusnum>."
+    "<%sM_item><%sM_plusnum>を　登録した。": "Registered the <%sM_item> <%sM_plusnum>."
   },
   "1522": {
     "clarity_nt_char_1522": "clarity_nt_char_1522"
   },
   "1523": {
-    "<%sM_item><%sM_plusnum>を　解除した。": ""
+    "<%sM_item><%sM_plusnum>を　解除した。": "Unregistered the "<%sM_item> <%sM_plusnum>."
   },
   "1524": {
     "clarity_nt_char_1524": "clarity_nt_char_1524"
   },
   "1525": {
-    "<%sM_item>バッジを　装備した。": "You equipped the <%sM_item> badge."
+    "<%sM_item>バッジを　装備した。": "Equipped the <%sM_item> Badge."
   },
   "1526": {
     "clarity_nt_char_1526": "clarity_nt_char_1526"
   },
   "1527": {
-    "<%sM_item>バッジを　はずした。": "You removed the <%sM_item> badge."
+    "<%sM_item>バッジを　はずした。": "Removed the <%sM_item> Badge."
   },
   "1528": {
     "clarity_nt_char_1528": "clarity_nt_char_1528"
   },
   "1529": {
-    "いれかえる　そうびひんを　選んでください。": ""
+    "いれかえる　そうびひんを　選んでください。": "Please select the equipment you want to|replace."
   },
   "1530": {
     "同じ種類のバッジを　複数装備できません！": "You can't have more than one of the same type of badge!"
@@ -4593,25 +4593,25 @@
     "clarity_nt_char_1531": "clarity_nt_char_1531"
   },
   "1532": {
-    "<speed=0>降参して　モンスター格闘場に|もどりますか？|<yesno 2><close>": ""
+    "<speed=0>降参して　モンスター格闘場に|もどりますか？|<yesno 2><close>": "<speed=0>Give up and return to the arena?|<yesno 2><close>"
   },
   "1533": {
     "clarity_nt_char_1533": "clarity_nt_char_1533"
   },
   "1534": {
-    "降参して|元の場所に|もどります": ""
+    "降参して|元の場所に|もどります": "Surrender and|return."
   },
   "1535": {
     "clarity_nt_char_1535": "clarity_nt_char_1535"
   },
   "1536": {
-    "その条件のバッジは　もっていません！": ""
+    "その条件のバッジは　もっていません！": "Don't have any badges for that|condition!"
   },
   "1537": {
     "clarity_nt_char_1537": "clarity_nt_char_1537"
   },
   "1538": {
-    "「そうびひんの登録を　更新しますか？": ""
+    "「そうびひんの登録を　更新しますか？": "Do you wish to update your registered|equipment?"
   },
   "1539": {
     "clarity_nt_char_1539": "clarity_nt_char_1539"
@@ -4623,22 +4623,22 @@
     "clarity_nt_char_1541": "clarity_nt_char_1541"
   },
   "1542": {
-    "登録に失敗しました…。|再度　登録してみてください。": ""
+    "登録に失敗しました…。|再度　登録してみてください。": "Registration failed...|Please try again."
   },
   "1543": {
     "clarity_nt_char_1543": "clarity_nt_char_1543"
   },
   "1544": {
-    "そうびぶくろから　なくなっている装備品です。|元に戻せませんが　登録を解除しますか？": ""
+    "そうびぶくろから　なくなっている装備品です。|元に戻せませんが　登録を解除しますか？": "This equipment is no longer in your equipment|bag. Deregister this? This cannot be undone."
   },
   "1545": {
     "clarity_nt_char_1545": "clarity_nt_char_1545"
   },
   "1546": {
-    "<%sL_MONSTER>が　そうびしていますが|登録を解除しますか？": ""
+    "<%sL_MONSTER>が　そうびしていますが|登録を解除しますか？": "<%sL_MONSTER> is currently|equipped. Deregister them?"
   },
   "1547": {
-    "<%sM_item><%sM_plusnum>の|登録を　解除しますか？": "Do you want to cancel registering|<%sM_item> <%sM_plusnum>?"
+    "<%sM_item><%sM_plusnum>の|登録を　解除しますか？": "Do you want to cancel registering|<%sM_item><%sM_plusnum>?"
   },
   "1548": {
     "clarity_nt_char_1548": "clarity_nt_char_1548"
@@ -4650,13 +4650,13 @@
     "clarity_nt_char_1550": "clarity_nt_char_1550"
   },
   "1551": {
-    "<%sL_MONSTER>は|<%sM_item><%sM_plusnum>を　装備できない！": ""
+    "<%sL_MONSTER>は|<%sM_item><%sM_plusnum>を　装備できない！": "<%sL_MONSTER> can't equip the|<%sM_item><%sM_plusnum>!"
   },
   "1552": {
-    "<%sL_MONSTER>が　装備していた|装備品が　はずれました": ""
+    "<%sL_MONSTER>が　装備していた|装備品が　はずれました": "The equipment that <%sL_MONSTER>|was wearing has been removed."
   },
   "1553": {
-    "<%sL_MONSTER>が　装備していたバッジが　はずれました": ""
+    "<%sL_MONSTER>が　装備していたバッジが　はずれました": "The badge that <%sL_MONSTER>|was wearing has been removed."
   },
   "1554": {
     "clarity_nt_char_1554": "clarity_nt_char_1554"
@@ -4668,10 +4668,10 @@
     "clarity_nt_char_1556": "clarity_nt_char_1556"
   },
   "1557": {
-    "新品の装備品です！登録すると|新品ではなくなりますが　よろしいですか？": "This is brand new equipment!|Once registered, it will no longer be new.|Is this okay?"
+    "新品の装備品です！登録すると|新品ではなくなりますが　よろしいですか？": "This is brand new equipment!|Once registered, it will no longer be new.|Proceed?"
   },
   "1558": {
-    "<speed=0>星の大樹広場の教会に　戻りますか？|ゴールドは　失いません。<yesno2><close>": ""
+    "<speed=0>星の大樹広場の教会に　戻りますか？|ゴールドは　失いません。<yesno2><close>": "<speed=0>Return to the church in the Star Tree Plaza?|You won't lose any Gold.<yesno2><close>"
   },
   "1559": {
     "clarity_nt_char_1559": "clarity_nt_char_1559"
@@ -4695,7 +4695,7 @@
     "clarity_nt_char_1565": "clarity_nt_char_1565"
   },
   "1566": {
-    "登録を終了します。錬金などで効果がついた時は|再度　登録しなおして　更新してください。": ""
+    "登録を終了します。錬金などで効果がついた時は|再度　登録しなおして　更新してください。": "Registration finished. When effects such as by|alchemy are added, please re-register to|update."
   },
   "1567": {
     "ひっさつ「<%sM_action>」": "Special \"<%sM_action>\""
@@ -4815,7 +4815,7 @@
     "いろいろな|ランキングを|確認できます": "Check the various|rankings."
   },
   "1606": {
-    "トップ１０記事に|おひねり！　で|ふくびき券５枚": ""
+    "トップ１０記事に|おひねり！　で|ふくびき券５枚": "Tip a Top 10 Post|for 5 Lottery|Tickets."
   },
   "1607": {
     "clarity_nt_char_1607": "clarity_nt_char_1607"
@@ -4827,7 +4827,7 @@
     "<speed=0>|妖精の姿見の　説明です！|<br>|この鏡を使うと　実際に着替えなくても|様々な装備を身につけた|自分の姿を　確認することができます。|<br>|また　カラーリングした時に|それぞれの装備が　どのような見た目になるのかも|合わせて　確認することができます。|<br>|おしゃれな装備品　創意工夫をこらした|独自のコーディネイトを　探す際に|ぜひとも　ご活用ください。": ""
   },
   "1610": {
-    "<speed=0><%sM_WeaponCategory>は　右手に片手剣かハンマーが|装備されていないと　左手に装備できません。": "<speed=0><%sM_WeaponCategory> cannot be equipped in the left|hand unless the right hand is equipped with|a Hammer or a Sword."
+    "<speed=0><%sM_WeaponCategory>は　右手に片手剣かハンマーが|装備されていないと　左手に装備できません。": "<speed=0><%sM_WeaponCategory> cannot be equipped in the left|hand unless the right hand is equipped with|a hammer or a sword."
   },
   "1611": {
     "<speed=0><%sM_WeaponCategory>は　右手に短剣かスティックか扇が|装備されていないと　左手に装備できません。": "<speed=0><%sM_WeaponCategory> cannot be equipped in the left hand|unless a dagger, wand, or fan is equipped|in the right hand."
@@ -4881,7 +4881,7 @@
     "clarity_nt_char_1627": "clarity_nt_char_1627"
   },
   "1628": {
-    "<speed=0>入り口の近くにいないか　町や城の中ではないため|さそいを　受けられません。": ""
+    "<speed=0>入り口の近くにいないか　町や城の中ではないため|さそいを　受けられません。": "<speed=0>You must be near the entrance or not in a|town or castle to receive this invitation."
   },
   "1629": {
     "clarity_nt_char_1629": "clarity_nt_char_1629"
