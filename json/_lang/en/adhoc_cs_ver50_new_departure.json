@@ -17,13 +17,13 @@
         "<pc>と　アンルシアは|気球に　乗り込んだ！": "<pc> and Anlucia got into the balloon!"
     },
     "7": {
-        "「おお　そなた　無事だったか！|　アンルシア姫も　よくやってくれた！": "Oh, you're all right! You've done well,|Princess Anduleia!"
+        "「おお　そなた　無事だったか！|　アンルシア姫も　よくやってくれた！": "Oh, you're all right! good job,|Princess Anlucia!"
     },
     "8": {
         "「……ええ　危機一髪のところでした。|　ルシェンダさまの　おかげです。|　けれど……　ピュージュを逃してしまいました。": "... Yes, it was a close call... Lady|Lushenda's help. But... I missed Pugee..."
     },
     "9": {
-        "「そうだ！　ルシェンダさま。|　彼女の荷物は　無事ですか？|　ピュージュが　狙っていたようでしたが……。": "Yes! Lucien... Is her luggage safe? It looked|like Pudge was trying to kill her."
+        "「そうだ！　ルシェンダさま。|　彼女の荷物は　無事ですか？|　ピュージュが　狙っていたようでしたが……。": "Yes! Lushenda, Is her luggage safe? It looked|like Pyuju was trying to kill her."
     },
     "10": {
         "「荷物自体は　無事のようだが……|　何かを　盗られた　恐れがあるのか？|　ならば　調べてみるがいい。": "The package itself appears to be intact,|but... Is there any reason to believe that|something was stolen? I'll check it out."
@@ -539,6 +539,6 @@
         "「ねえ！　いいこと　思いついたよ～♪|　彼のむくろを　この儀式の　供物にしよう♪": "Hey! I've got an idea I'll make his mucous an|offering for this ritual"
     },
     "181": {
-        "「アストルティアを　我らが掌中に！": "Astridia is ours!"
+        "「アストルティアを　我らが掌中に！": "Astolia is ours for the taking!"
     }
 }
