@@ -1,29 +1,30 @@
 {
     "1": {
-        "「あらっ　もう　来てくれていたのね！": "Oh, You're already here!"
+        "「あらっ　もう　来てくれていたのね！": "Oh, my God! You're already here!"
     },
     "2": {
-        "「……待たせちゃったかしら？|　急な　お誘いだったのに|　来てくれて　ありがとう……。うれしいわ！": "Sorry to keep you waiting! Thanks for coming|on such short notice! I really appreciate it!"
+        "「……待たせちゃったかしら？|　急な　お誘いだったのに|　来てくれて　ありがとう……。うれしいわ！": "I... I hope I didn't keep you waiting too|long. Thank you for coming on such short|notice. I'm so happy."
     },
     "3": {
-        "「私……気球に乗るのが　夢だったのよ。|　だから　期間限定で　気球に乗れるって聞いて|　思わず　予約しちゃったの。": "I dreamed of getting this balloon. It was a|limited time offer, so I made a reservation|for the two of us to go on a ride in|<br>|the sky!"
+        "「私……気球に乗るのが　夢だったのよ。|　だから　期間限定で　気球に乗れるって聞いて|　思わず　予約しちゃったの。": "I... I've always wanted to go on a balloon|ride. So when I heard that I could ride in a|balloon for a limited time, I made a|<br>|reservation..."
+    },
     "4": {
-        "「それと　前から　あなたと|　のんびり　過ごしてみたかったから……|　一緒に　どうかな……と思って。": "I've always wanted to spend some time alone|with you and was wondering if we could do|it together after everything we've|<br>|been through.."
+        "「それと　前から　あなたと|　のんびり　過ごしてみたかったから……|　一緒に　どうかな……と思って。": "Also, I've always wanted to spend some|quality time with you. I was wondering if you|wanted to... I just..."
     },
     "5": {
-        "「……うふふ。|　それじゃ　さっそく　乗りましょう！": "Now, let's get on the balloon!"
+        "「……うふふ。|　それじゃ　さっそく　乗りましょう！": "...... Let's go for a ride!"
     },
     "6": {
-        "<pc>と　アンルシアは|気球に　乗り込んだ！": "<pc> and Anlucia got into the balloon!"
+        "<pc>と　アンルシアは|気球に　乗り込んだ！": "<pc> And Anrushia got into the balloon!"
     },
     "7": {
-        "「おお　そなた　無事だったか！|　アンルシア姫も　よくやってくれた！": "Oh, you're all right! good job,|Princess Anlucia!"
+        "「おお　そなた　無事だったか！|　アンルシア姫も　よくやってくれた！": "Oh, you're all right! You've done well,|Princess Anduleia!"
     },
     "8": {
         "「……ええ　危機一髪のところでした。|　ルシェンダさまの　おかげです。|　けれど……　ピュージュを逃してしまいました。": "... Yes, it was a close call... Lady|Lushenda's help. But... I missed Pugee..."
     },
     "9": {
-        "「そうだ！　ルシェンダさま。|　彼女の荷物は　無事ですか？|　ピュージュが　狙っていたようでしたが……。": "Yes! Lushenda, Is her luggage safe? It looked|like Pyuju was trying to kill her."
+        "「そうだ！　ルシェンダさま。|　彼女の荷物は　無事ですか？|　ピュージュが　狙っていたようでしたが……。": "Yes! Lucien... Is her luggage safe? It looked|like Pudge was trying to kill her."
     },
     "10": {
         "「荷物自体は　無事のようだが……|　何かを　盗られた　恐れがあるのか？|　ならば　調べてみるがいい。": "The package itself appears to be intact,|but... Is there any reason to believe that|something was stolen? I'll check it out."
@@ -32,7 +33,7 @@
         "<pc>は　急いで　荷物をしらべた……。": "<pc> I was in a hurry to check the luggage..."
     },
     "12": {
-        "<pc>の　だいじなものの中から|時元神キュロノスが　落とした|戦禍のタネが　なくなっていた！": "<pc> The seeds of war, dropped from Cyronos, the|God of Time and Origin, was missing!"
+        "<pc>の　だいじなものの中から|時元神キュロノスが　落とした|戦禍のタネが　なくなっていた！": ""
     },
     "13": {
         "「……なに？　戦禍のタネだと？|　それを　奪われたというのか。": "... What? The seeds of war? You said it was|taken from you."
@@ -65,7 +66,7 @@
         "「そんなことが　あったなんて……。|　でも　ピュージュは　なんのために……？": "I didn't know that was possible... But what's|Puge for?"
     },
     "23": {
-        "「そういえば……地獄の扉が　開かれて|　災いが　あふれ出す……と|　ピュージュは　言っていました。": "Speaking of which... The doors of hell will|open and the plagues will pour forth...|That's what Pyuju said."
+        "「そういえば……地獄の扉が　開かれて|　災いが　あふれ出す……と|　ピュージュは　言っていました。": "Speaking of which... \"The doors of hell will|open and the plagues will pour forth...|That's what Puget said."
     },
     "24": {
         "「……そして　こうも言っていましたね。|　これで　必要な分が　そろった。|　まもなく　大願が　かなう……と。": "... And he also said... We've got everything|we need... Soon, my great wish will come|true: ...."
@@ -113,16 +114,16 @@
         "「私は　万が一の事態にそなえ|　スピンドル兵士長と共に　ガートラントへ向かい|　応援を　連れてこよう。": "I'm going to head to the Gartland with|Captain Spindle to get backup in case|something goes wrong."
     },
     "39": {
-        "「地獄の扉が開く……か。": "The Doors of Hell Open...."
+        "「地獄の扉が開く……か。": "The Doors of Hell Open: ...."
     },
     "40": {
         "「ゲルト海峡に浮かぶ小島……ガミルゴの盾島では|　島に空いた　大きな穴を　石化した巨人が|　ふさいでいるというが……": "A small island in the Gelt Strait On the Shield Island of Gamilgo| A petrified giant made a big hole in the island| You say it's blocked"
     },
     "41": {
-        "「それは　約５００年前の　ガミルゴという術士が|　その大穴……魔界へと通じるという穴を|　封じるために　命に代えて　変身した姿なのだ。": "500 years ago, the sorceror Gamilgo,|sacrificed his own life in order to|seal the great hole that leads|<br>|into the Demon World."
+        "「それは　約５００年前の　ガミルゴという術士が|　その大穴……魔界へと通じるという穴を|　封じるために　命に代えて　変身した姿なのだ。": ""
     },
     "42": {
-        "「術士ガミルゴは　他でもない　私の先祖でな。|　なぜだか　無性に　胸騒ぎがするのだ。": "Gamilgo, the sorcerer, is my ancestor.. I|don't know why, but my heart is beating|wildly..."
+        "「術士ガミルゴは　他でもない　私の先祖でな。|　なぜだか　無性に　胸騒ぎがするのだ。": "Gamilgo, the sorcerer, is my predecessor... I|don't know why, but my heart is beating|wildly..."
     },
     "43": {
         "「我が身に流れる　父祖の血が|　危機を知らせているような……。": "It's as if the blood of my fathers is running|through my veins, telling me of a crisis."
@@ -212,7 +213,7 @@
         "「……ようやく　目覚めたか。|　待ちくたびれたぞ。": "... I'm finally awake... I've waited so|long..."
     },
     "72": {
-        "「どうした　ほうけたカオをして。|　何か　身体に異常でも　あったか？<yesno><close>": "What's the matter? Is there something wrong|with your body?<yesno><close>"
+        "「どうした　ほうけたカオをして。|　何か　身体に異常でも　あったか？<yesno><close>": ""
     },
     "73": {
         "「……そうか。なるほど　なるほど。|　ならば　血の契約は　うまくいったようだな。": "...... Okay, so... Then the blood pact|worked..."
@@ -221,7 +222,7 @@
         "「テキスト削除": "text deletion"
     },
     "75": {
-        "「……俺の名は　ユシュカ。|　見ての通り　魔族の旅人だ。": "My name is Yushka As you can see, I'm a|demon."
+        "「……俺の名は　ユシュカ。|　見ての通り　魔族の旅人だ。": "... My name is Yu... As you can see, I'm a|demon."
     },
     "76": {
         "「で　ここは　魔界。|　俺たち　魔族が暮らしている　麗しき世界だ。": "And this is... We, the demon tribe, live in a|beautiful..."
@@ -377,22 +378,22 @@
         "「わあーっ　すごい！": "Wow! Amazing!"
     },
     "127": {
-        "「ほら　見て！|　大風車塔が　もう　あんなに遠くに！": "Look! The windmill tower is so far away!"
+        "「ほら　見て！|　大風車塔が　もう　あんなに遠くに！": "Look! Look! The big windmill tower is already|so far away!"
     },
     "128": {
-        "「……ねえ。|　思えば　私たち　一緒に|　たくさんの冒険を　してきたわよね。": "You know, we've had so many adventures|together.."
+        "「……ねえ。|　思えば　私たち　一緒に|　たくさんの冒険を　してきたわよね。": "..... Looking back, we've had a lot of|adventures together..."
     },
     "129": {
-        "「いろいろと　つらいことも　あったけれど|　あなたが　いてくれたから|　いつも　乗り越えることが　できたのよ。": "Every hardship that we faced. I was able to|overcome them since you were always by my|side.."
+        "「いろいろと　つらいことも　あったけれど|　あなたが　いてくれたから|　いつも　乗り越えることが　できたのよ。": "I've been through a lot, but because of you,|I've always been able to get through..."
     },
     "130": {
-        "「私　気づいたら　あなたのことばかり|　考えているわ……。": "I'm always.. constantly thinking about you|..and us."
+        "「私　気づいたら　あなたのことばかり|　考えているわ……。": "I find myself thinking about you all the|time..."
     },
     "131": {
-        "「ねえ……。|　あなたのことは　勇者と盟友の関係以上に|　……特別な人だと　思っているの。": "You've become more than just a special|person to me than a brave hero and|ally. I really mean that from|<br>|the heart."
+        "「ねえ……。|　あなたのことは　勇者と盟友の関係以上に|　……特別な人だと　思っているの。": "Hey... I thought you were more than just a|hero and an ally. I thought you were someone|special."
     },
     "132": {
-        "「……あなたにとって　私との関係は|　勇者と盟友……　だけなのかな？|　それとも……　特別な人　なのかな？|<select_nc>|特別な人|勇者と盟友|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "Is our relationship just a brave hero and|ally? Or is it something special?|<select_nc>|Special|Just Allies|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+        "「……あなたにとって　私との関係は|　勇者と盟友……　だけなのかな？|　それとも……　特別な人　なのかな？|<select_nc>|特別な人|勇者と盟友|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "... To you, my relationship is that of hero|and ally... Is that it? Or... Or are you|someone special?|<select_nc>|Special People|Brave men and allies|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
     },
     "133": {
         "「そんな　ひどい……。": "Oh, no, no, no, no."
@@ -539,6 +540,6 @@
         "「ねえ！　いいこと　思いついたよ～♪|　彼のむくろを　この儀式の　供物にしよう♪": "Hey! I've got an idea I'll make his mucous an|offering for this ritual"
     },
     "181": {
-        "「アストルティアを　我らが掌中に！": "Astolia is ours for the taking!"
+        "「アストルティアを　我らが掌中に！": "Astridia is ours!"
     }
 }
