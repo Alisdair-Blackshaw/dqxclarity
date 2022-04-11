@@ -1302,7 +1302,7 @@
     "clarity_nt_char_434": "clarity_nt_char_434"
   },
   "435": {
-    "鉄壁の魅了ガード": "Ironclad Charm Guard"
+    "鉄壁の魅了ガード": "Ironclad Enthrall Guard"
   },
   "436": {
     "clarity_nt_char_436": "clarity_nt_char_436"
@@ -4113,7 +4113,7 @@
     "clarity_nt_char_1371": "clarity_nt_char_1371"
   },
   "1372": {
-    "魅了ガード+2%": "Charm Guard +2%"
+    "魅了ガード+2%": "Enthrall Guard +2%"
   },
   "1373": {
     "clarity_nt_char_1373": "clarity_nt_char_1373"
@@ -6141,19 +6141,19 @@
     "開戦時５％で移動速度アップ": "Fast Speed Trigger 5%"
   },
   "2048": {
-    "蘇生時のＨＰ回復量が１％アップ": "HP Recovered When Revived +1%"
+    "蘇生時のＨＰ回復量が１％アップ": "HP Recovery When Revived +1%"
   },
   "2049": {
-    "蘇生時のＨＰ回復量が２％アップ": "HP Recovered When Revived +2%"
+    "蘇生時のＨＰ回復量が２％アップ": "HP Recovery When Revived +2%"
   },
   "2050": {
-    "蘇生時のＨＰ回復量が３％アップ": "HP Recovered When Revived +3%"
+    "蘇生時のＨＰ回復量が３％アップ": "HP Recovery When Revived +3%"
   },
   "2051": {
-    "蘇生時のＨＰ回復量が４％アップ": "HP Recovered When Revived +4%"
+    "蘇生時のＨＰ回復量が４％アップ": "HP Recovery When Revived +4%"
   },
   "2052": {
-    "蘇生時のＨＰ回復量が５％アップ": "HP Recovered When Revived +5%"
+    "蘇生時のＨＰ回復量が５％アップ": "HP Recovery When Revived +5%"
   },
   "2053": {
     "死亡時３％でテンションが残る": "Keep Tension 3%"
@@ -7281,31 +7281,31 @@
     "笑いガード＋１０％": "Laugh Guard +10%"
   },
   "2428": {
-    "魅了ガード＋２％": "Charm Guard +2%"
+    "魅了ガード＋２％": "Enthrall Guard +2%"
   },
   "2429": {
     "clarity_nt_char_2429": "clarity_nt_char_2429"
   },
   "2430": {
-    "魅了ガード＋４％": "Charm Guard +4%"
+    "魅了ガード＋４％": "Enthrall Guard +4%"
   },
   "2431": {
     "clarity_nt_char_2431": "clarity_nt_char_2431"
   },
   "2432": {
-    "魅了ガード＋６％": "Charm Guard +6%"
+    "魅了ガード＋６％": "Enthrall Guard +6%"
   },
   "2433": {
     "clarity_nt_char_2433": "clarity_nt_char_2433"
   },
   "2434": {
-    "魅了ガード＋８％": "Charm Guard +8%"
+    "魅了ガード＋８％": "Enthrall Guard +8%"
   },
   "2435": {
     "clarity_nt_char_2435": "clarity_nt_char_2435"
   },
   "2436": {
-    "魅了ガード＋１０％": "Charm Guard +10%"
+    "魅了ガード＋１０％": "Enthrall Guard +10%"
   },
   "2437": {
     "呪いガード＋２％": "Curse Guard +2%"
@@ -10731,7 +10731,7 @@
     "笑いガード＋１２％": "Laugh Guard +12%"
   },
   "3578": {
-    "魅了ガード＋１２％": "Charm Guard +12%"
+    "魅了ガード＋１２％": "Enthrall Guard +12%"
   },
   "3579": {
     "呪いガード＋１２％": "Curse Guard +12%"
@@ -18009,28 +18009,28 @@
     "笑いガード+12%": "Laugh Guard +12%"
   },
   "6004": {
-    "魅了ガード+4%": "Charm Guard +4%"
+    "魅了ガード+4%": "Enthrall Guard +4%"
   },
   "6005": {
     "clarity_nt_char_6005": "clarity_nt_char_6005"
   },
   "6006": {
-    "魅了ガード+6%": "Charm Guard +6%"
+    "魅了ガード+6%": "Enthrall Guard +6%"
   },
   "6007": {
     "clarity_nt_char_6007": "clarity_nt_char_6007"
   },
   "6008": {
-    "魅了ガード+8%": "Charm Guard +8%"
+    "魅了ガード+8%": "Enthrall Guard +8%"
   },
   "6009": {
     "clarity_nt_char_6009": "clarity_nt_char_6009"
   },
   "6010": {
-    "魅了ガード+10%": "Charm Guard +10%"
+    "魅了ガード+10%": "Enthrall Guard +10%"
   },
   "6011": {
-    "魅了ガード+12%": "Charm Guard +12%"
+    "魅了ガード+12%": "Enthrall Guard +12%"
   },
   "6012": {
     "呪いガード+4%": "Curse Guard +4%"

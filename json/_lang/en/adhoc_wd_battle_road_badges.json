@@ -5775,7 +5775,7 @@
     "即死ガード +100%": "Death Guard +100%"
   },
   "1926": {
-    "風属性攻撃": "Wind Attribute"
+    "風属性攻撃": "Wind Element"
   },
   "1927": {
     "封印ガード +60%": "Seal Guard +60%"
@@ -5907,19 +5907,19 @@
     "開戦時 50%で盾ガード率上昇": "Block Rate Up Trigger 50%"
   },
   "1970": {
-    "魅了ガード +30%": "Charm Guard +30%"
+    "魅了ガード +30%": "Enthrall Guard +30%"
   },
   "1971": {
     "clarity_nt_char_1971": "clarity_nt_char_1971"
   },
   "1972": {
-    "魅了ガード +40%": "Charm Guard +40%"
+    "魅了ガード +40%": "Enthrall Guard +40%"
   },
   "1973": {
     "clarity_nt_char_1973": "clarity_nt_char_1973"
   },
   "1974": {
-    "魅了ガード +50%": "Charm Guard +50%"
+    "魅了ガード +50%": "Enthrall Guard +50%"
   },
   "1975": {
     "clarity_nt_char_1975": "clarity_nt_char_1975"
@@ -6099,7 +6099,7 @@
     "clarity_nt_char_2033": "clarity_nt_char_2033"
   },
   "2034": {
-    "炎属性攻撃": "Fire Attribute"
+    "炎属性攻撃": "Fire Element"
   },
   "2035": {
     "ブレス耐性 +15%": "Breath Resist +15%"
@@ -6249,1321 +6249,1321 @@
     "clarity_nt_char_2083": "clarity_nt_char_2083"
   },
   "2084": {
-    "闇属性攻撃": "Dark Attribute"
+    "闇属性攻撃": "Dark Element"
   },
   "2085": {
-    "開戦時 15%で聖なる祈り": ""
+    "開戦時 15%で聖なる祈り": "Care Prayer Trigger 15%"
   },
   "2086": {
-    "開戦時 30%で聖なる祈り": ""
+    "開戦時 30%で聖なる祈り": "Care Prayer Trigger 30%"
   },
   "2087": {
-    "開戦時 50%で聖なる祈り": ""
+    "開戦時 50%で聖なる祈り": "Care Prayer Trigger 50%"
   },
   "2088": {
-    "ドルマ系効果 +15%": ""
+    "ドルマ系効果 +15%": "Zam-type +15%"
   },
   "2089": {
-    "ドルマ系効果 +20%": ""
+    "ドルマ系効果 +20%": "Zam-type +20%"
   },
   "2090": {
-    "ブレス耐性 +10%": ""
+    "ブレス耐性 +10%": "Breath Resist +10%"
   },
   "2091": {
     "clarity_nt_char_2091": "clarity_nt_char_2091"
   },
   "2092": {
-    "ブレス耐性 +20%": ""
+    "ブレス耐性 +20%": "Breath Resist +20%"
   },
   "2093": {
     "clarity_nt_char_2093": "clarity_nt_char_2093"
   },
   "2094": {
-    "ブレス耐性 +30%": ""
+    "ブレス耐性 +30%": "Breath Resist +30%"
   },
   "2095": {
     "clarity_nt_char_2095": "clarity_nt_char_2095"
   },
   "2096": {
-    "ヒャド系効果 +10%": ""
+    "ヒャド系効果 +10%": "Crack-type +10%"
   },
   "2097": {
-    "ヒャド系効果 +15%": ""
+    "ヒャド系効果 +15%": "Crack-type +15%"
   },
   "2098": {
-    "ヒャド系効果 +20%": ""
+    "ヒャド系効果 +20%": "Crack-type +20%"
   },
   "2099": {
-    "雷特技の攻撃ダメージ +10%": ""
+    "雷特技の攻撃ダメージ +10%": "Thunder Skill Damage +10%"
   },
   "2100": {
-    "雷特技の攻撃ダメージ +15%": ""
+    "雷特技の攻撃ダメージ +15%": "Thunder Skill Damage +15%"
   },
   "2101": {
-    "雷特技の攻撃ダメージ +20%": ""
+    "雷特技の攻撃ダメージ +20%": "Thunder Skill Damage +20%"
   },
   "2102": {
-    "かいしん率 +6%": ""
+    "かいしん率 +6%": "Critical Rate +6%"
   },
   "2103": {
-    "雷属性攻撃": ""
+    "雷属性攻撃": "Thunder Element"
   },
   "2104": {
-    "氷属性攻撃": ""
+    "氷属性攻撃": "Ice Element"
   },
   "2105": {
-    "開戦時 50%でバイシオン": ""
+    "開戦時 50%でバイシオン": "Oomph Trigger 50%"
   },
   "2106": {
-    "開戦時 60%でバイシオン": ""
+    "開戦時 60%でバイシオン": "Oomph Trigger 60%"
   },
   "2107": {
-    "光特技の攻撃ダメージ +10%": ""
+    "光特技の攻撃ダメージ +10%": "Light Skill Damage +10%"
   },
   "2108": {
-    "光特技の攻撃ダメージ +15%": ""
+    "光特技の攻撃ダメージ +15%": "Light Skill Damage +15%"
   },
   "2109": {
-    "光特技の攻撃ダメージ +20%": ""
+    "光特技の攻撃ダメージ +20%": "Light Skill Damage +20%"
   },
   "2110": {
-    "氷特技の攻撃ダメージ +10%": ""
+    "氷特技の攻撃ダメージ +10%": "Ice Skill Damage +10%"
   },
   "2111": {
-    "氷特技の攻撃ダメージ +15%": ""
+    "氷特技の攻撃ダメージ +15%": "Ice Skill Damage +15%"
   },
   "2112": {
-    "氷特技の攻撃ダメージ +20%": ""
+    "氷特技の攻撃ダメージ +20%": "Ice Skill Damage +20%"
   },
   "2113": {
-    "眠りガード +60%": ""
+    "眠りガード +60%": "Sleep Guard +60%"
   },
   "2114": {
     "clarity_nt_char_2114": "clarity_nt_char_2114"
   },
   "2115": {
-    "眠りガード +80%": ""
+    "眠りガード +80%": "Sleep Guard +80%"
   },
   "2116": {
     "clarity_nt_char_2116": "clarity_nt_char_2116"
   },
   "2117": {
-    "眠りガード +100%": ""
+    "眠りガード +100%": "Sleep Guard +100%"
   },
   "2118": {
-    "必殺チャージ率 1%アップ": ""
+    "必殺チャージ率 1%アップ": "Special Charge +1%"
   },
   "2119": {
-    "必殺チャージ率 2%アップ": ""
+    "必殺チャージ率 2%アップ": "Special Charge +2%"
   },
   "2120": {
-    "必殺チャージ率 3%アップ": ""
+    "必殺チャージ率 3%アップ": "Special Charge +3%"
   },
   "2121": {
-    "呪文発動速度 +12%": ""
+    "呪文発動速度 +12%": "Spellcast Speed +12%"
   },
   "2122": {
-    "呪文発動速度 +15%": ""
+    "呪文発動速度 +15%": "Spellcast Speed +15%"
   },
   "2123": {
-    "攻撃時 10%で眠り": ""
+    "攻撃時 10%で眠り": "Sleep Attack 10%"
   },
   "2124": {
     "clarity_nt_char_2124": "clarity_nt_char_2124"
   },
   "2125": {
-    "攻撃時 15%で眠り": ""
+    "攻撃時 15%で眠り": "Sleep Attack 15%"
   },
   "2126": {
     "clarity_nt_char_2126": "clarity_nt_char_2126"
   },
   "2127": {
-    "土属性攻撃": ""
+    "土属性攻撃": "Earth Element"
   },
   "2128": {
-    "氷耐性 +10%": ""
+    "氷耐性 +10%": "Ice R. +10%"
   },
   "2129": {
     "clarity_nt_char_2129": "clarity_nt_char_2129"
   },
   "2130": {
-    "氷耐性 +15%": ""
+    "氷耐性 +15%": "Ice R. +15%"
   },
   "2131": {
     "clarity_nt_char_2131": "clarity_nt_char_2131"
   },
   "2132": {
-    "氷耐性 +20%": ""
+    "氷耐性 +20%": "Ice R. +20%"
   },
   "2133": {
     "clarity_nt_char_2133": "clarity_nt_char_2133"
   },
   "2134": {
-    "光属性攻撃": ""
+    "光属性攻撃": "Light Element"
   },
   "2135": {
-    "致死ダメージ時 10%で生存": ""
+    "致死ダメージ時 10%で生存": "Survive Lethal Damage 10%"
   },
   "2136": {
     "clarity_nt_char_2136": "clarity_nt_char_2136"
   },
   "2137": {
-    "致死ダメージ時 15%で生存": ""
+    "致死ダメージ時 15%で生存": "Survive Lethal Damage 15%"
   },
   "2138": {
     "clarity_nt_char_2138": "clarity_nt_char_2138"
   },
   "2139": {
-    "攻撃時たまにＭＰ回復": ""
+    "攻撃時たまにＭＰ回復": "Chance Recover MP on Attack"
   },
   "2140": {
     "clarity_nt_char_2140": "clarity_nt_char_2140"
   },
   "2141": {
-    "開戦時 25%で聖女の守り": ""
+    "開戦時 25%で聖女の守り": "Alma Mater Trigger 25%"
   },
   "2142": {
-    "開戦時 50%で聖女の守り": ""
+    "開戦時 50%で聖女の守り": "Alma Mater Trigger 50%"
   },
   "2143": {
-    "風耐性 +20%": ""
+    "風耐性 +20%": "Wind R. +20%"
   },
   "2144": {
     "clarity_nt_char_2144": "clarity_nt_char_2144"
   },
   "2145": {
-    "攻撃ダメージの 10%回復": ""
+    "攻撃ダメージの 10%回復": "Recover 10% Damage as HP"
   },
   "2146": {
-    "悪魔系ダメージ +10%": ""
+    "悪魔系ダメージ +10%": "Demon-type Damage +10%"
   },
   "2147": {
     "clarity_nt_char_2147": "clarity_nt_char_2147"
   },
   "2148": {
-    "悪魔系ダメージ +20%": ""
+    "悪魔系ダメージ +20%": "Demon-type Damage +20%"
   },
   "2149": {
     "clarity_nt_char_2149": "clarity_nt_char_2149"
   },
   "2150": {
-    "悪魔系ダメージ +30%": ""
+    "悪魔系ダメージ +30%": "Demon-type Damage +30%"
   },
   "2151": {
     "clarity_nt_char_2151": "clarity_nt_char_2151"
   },
   "2152": {
-    "攻撃時 10%で魔導の書": ""
+    "攻撃時 10%で魔導の書": "Magic Book Attack 10%"
   },
   "2153": {
     "clarity_nt_char_2153": "clarity_nt_char_2153"
   },
   "2154": {
-    "攻撃時 15%で魔導の書": ""
+    "攻撃時 15%で魔導の書": "Magic Book Attack 15%"
   },
   "2155": {
     "clarity_nt_char_2155": "clarity_nt_char_2155"
   },
   "2156": {
-    "攻撃時 20%で魔導の書": ""
+    "攻撃時 20%で魔導の書": "Magic Book Attack 20%"
   },
   "2157": {
     "clarity_nt_char_2157": "clarity_nt_char_2157"
   },
   "2158": {
-    "開戦時 25%でキラキラポーン": ""
+    "開戦時 25%でキラキラポーン": "Snap Crackle Poof Trigger 25%"
   },
   "2159": {
-    "開戦時 40%でキラキラポーン": ""
+    "開戦時 40%でキラキラポーン": "Snap Crackle Poof Trigger 40%"
   },
   "2160": {
-    "開戦時 50%でキラキラポーン": ""
+    "開戦時 50%でキラキラポーン": "Snap Crackle Poof Trigger 50%"
   },
   "2161": {
-    "とくぎ パペットシャワー の強化": ""
+    "とくぎ パペットシャワー の強化": "Skill \"Puppet Shower\" Boost"
   },
   "2162": {
     "clarity_nt_char_2162": "clarity_nt_char_2162"
   },
   "2163": {
-    "とくぎ メガトンパンチ の強化": ""
+    "とくぎ メガトンパンチ の強化": "Skill \"Megaton Punch\" Boost"
   },
   "2164": {
-    "毒ガード +100%": ""
+    "毒ガード +100%": "Poison Guard +100%"
   },
   "2165": {
     "clarity_nt_char_2165": "clarity_nt_char_2165"
   },
   "2166": {
-    "とくぎ マホトラハット の強化": ""
+    "とくぎ マホトラハット の強化": "Skill \"Magical Hat\" Boost"
   },
   "2167": {
-    "とくぎ フワフワダンス の強化": ""
+    "とくぎ フワフワダンス の強化": "Skill \"Fluffle Dance\" Boost"
   },
   "2168": {
-    "とくぎ 冥府のひかり の強化": ""
+    "とくぎ 冥府のひかり の強化": "Skill \"Light of Hades\" Boost"
   },
   "2169": {
     "clarity_nt_char_2169": "clarity_nt_char_2169"
   },
   "2170": {
-    "魅了ガード +90%": ""
+    "魅了ガード +90%": "Enthrall Guard +90%"
   },
   "2171": {
     "clarity_nt_char_2171": "clarity_nt_char_2171"
   },
   "2172": {
-    "開戦時 90%でヘヴィチャージ": ""
+    "開戦時 90%でヘヴィチャージ": "Heavy Charge Trigger 90%"
   },
   "2173": {
-    "とくぎ チーズキャノン の強化": ""
+    "とくぎ チーズキャノン の強化": "Skill \"Cheese Cannon\" Boost"
   },
   "2174": {
-    "とくぎ かげぬい の強化": ""
+    "とくぎ かげぬい の強化": "Skill \"Shade Stitch\" Boost"
   },
   "2175": {
     "clarity_nt_char_2175": "clarity_nt_char_2175"
   },
   "2176": {
-    "とくぎ スピンアタック の強化": ""
+    "とくぎ スピンアタック の強化": "Skill \"Spin Attack\" Boost"
   },
   "2177": {
-    "とくぎ 毛づくろい の強化": ""
+    "とくぎ 毛づくろい の強化": "Skill \"Kagroom\" Boost"
   },
   "2178": {
-    "とくぎ しんくう斬り の強化": ""
+    "とくぎ しんくう斬り の強化": "Skill \"Gust Slash\" Boost"
   },
   "2179": {
     "clarity_nt_char_2179": "clarity_nt_char_2179"
   },
   "2180": {
-    "味方死亡時 50%で聖なる祈り": ""
+    "味方死亡時 50%で聖なる祈り": "Care Prayer Revenge 50%"
   },
   "2181": {
-    "とくぎ おとなのじゅもん の強化": ""
+    "とくぎ おとなのじゅもん の強化": "Skill \"Grown-up Spell\" Boost"
   },
   "2182": {
     "clarity_nt_char_2182": "clarity_nt_char_2182"
   },
   "2183": {
-    "とくぎ スタンアロー の強化": ""
+    "とくぎ スタンアロー の強化": "Skill \"Stun Arrow\" Boost"
   },
   "2184": {
     "clarity_nt_char_2184": "clarity_nt_char_2184"
   },
   "2185": {
-    "とくぎ たんすマグナム の強化": ""
+    "とくぎ たんすマグナム の強化": "Skill \"Dresser Magnum\" Boost"
   },
   "2186": {
-    "とくぎ おうえん の強化": ""
+    "とくぎ おうえん の強化": "Skill \"Egg On\" Boost"
   },
   "2187": {
     "clarity_nt_char_2187": "clarity_nt_char_2187"
   },
   "2188": {
-    "とくぎ ぽかぽかニャー の強化": ""
+    "とくぎ ぽかぽかニャー の強化": "Skill \"Warm Meow\" Boost"
   },
   "2189": {
-    "とくぎ ライガークラッシュ の強化": ""
+    "とくぎ ライガークラッシュ の強化": "Skill \"Wild Animaul\" Boost"
   },
   "2190": {
-    "味方死亡時 50%でテンションアップ": ""
+    "味方死亡時 50%でテンションアップ": "Tension Revenge 50%"
   },
   "2191": {
     "clarity_nt_char_2191": "clarity_nt_char_2191"
   },
   "2192": {
-    "死亡時 75%でテンション残り": ""
+    "死亡時 75%でテンション残り": "Keep Tension On Death 75%"
   },
   "2193": {
-    "とくぎ 呪縛 の強化": ""
+    "とくぎ 呪縛 の強化": "Skill \"Curse\" Boost"
   },
   "2194": {
     "clarity_nt_char_2194": "clarity_nt_char_2194"
   },
   "2195": {
-    "とくぎ 火ふき芸 の強化": ""
+    "とくぎ 火ふき芸 の強化": "Skill \"Flame Breath\" Boost"
   },
   "2196": {
     "clarity_nt_char_2196": "clarity_nt_char_2196"
   },
   "2197": {
-    "とくぎ かげしばり の強化": ""
+    "とくぎ かげしばり の強化": "Skill \"Shadow Bind\" Boost"
   },
   "2198": {
-    "とくぎ スーパーアーマー の強化": ""
+    "とくぎ スーパーアーマー の強化": "Skill \"Super Armor\" Boost"
   },
   "2199": {
     "clarity_nt_char_2199": "clarity_nt_char_2199"
   },
   "2200": {
-    "とくぎ たいあたり の強化": ""
+    "とくぎ たいあたり の強化": "Skill \"Body Slam\" Boost"
   },
   "2201": {
-    "とくぎ フローズンバード の強化": ""
+    "とくぎ フローズンバード の強化": "Skill \"Icebird Throw\" Boost"
   },
   "2202": {
     "clarity_nt_char_2202": "clarity_nt_char_2202"
   },
   "2203": {
-    "とくぎ ラブリーフェイス の強化": ""
+    "とくぎ ラブリーフェイス の強化": "Skill \"Minacious Allure\" Boost"
   },
   "2204": {
     "clarity_nt_char_2204": "clarity_nt_char_2204"
   },
   "2205": {
-    "とくぎ 真マヒャド斬り の強化": ""
+    "とくぎ 真マヒャド斬り の強化": "Skill \"Kacrackle Slash\" Boost"
   },
   "2206": {
-    "とくぎ ビッグシールド の強化": ""
+    "とくぎ ビッグシールド の強化": "Skill \"Immense Defence\" Boost"
   },
   "2207": {
-    "マヒガード +100%": ""
+    "マヒガード +100%": "Paralyze Guard +100%"
   },
   "2208": {
-    "とくぎ テールアタック の強化": ""
+    "とくぎ テールアタック の強化": "Skill \"Tail Attack\" Boost"
   },
   "2209": {
-    "とくぎ スピニングピラー の強化": ""
+    "とくぎ スピニングピラー の強化": "Skill \"Spinning Pillar\" Boost"
   },
   "2210": {
     "clarity_nt_char_2210": "clarity_nt_char_2210"
   },
   "2211": {
-    "とくぎ 魔力ダンス の強化": ""
+    "とくぎ 魔力ダンス の強化": "Skill \"Spell Dance\" Boost"
   },
   "2212": {
-    "とくぎ オーバーヒート の強化": ""
+    "とくぎ オーバーヒート の強化": "Skill \"Overheat\" Boost"
   },
   "2213": {
-    "とくぎ もぐらタタキ の強化": ""
+    "とくぎ もぐらタタキ の強化": "Skill \"Mole Assault\" Boost"
   },
   "2214": {
     "clarity_nt_char_2214": "clarity_nt_char_2214"
   },
   "2215": {
-    "とくぎ スタンブロー の強化": ""
+    "とくぎ スタンブロー の強化": "Skill \"Stun Blow\" Boost"
   },
   "2216": {
     "clarity_nt_char_2216": "clarity_nt_char_2216"
   },
   "2217": {
-    "とくぎ クイックリペア の強化": ""
+    "とくぎ クイックリペア の強化": "Skill \"Quick Repair\" Boost"
   },
   "2218": {
-    "とくぎ スラ・ストライク の強化": ""
+    "とくぎ スラ・ストライク の強化": "Skill \"Slime Spank\" Boost"
   },
   "2219": {
     "clarity_nt_char_2219": "clarity_nt_char_2219"
   },
   "2220": {
-    "会心＆暴走時 追加ダメージ +100": ""
+    "会心＆暴走時 追加ダメージ +100": "All Critical Damage +100"
   },
   "2221": {
     "clarity_nt_char_2221": "clarity_nt_char_2221"
   },
   "2222": {
-    "とくぎ 裂空斬 の強化": ""
+    "とくぎ 裂空斬 の強化": "Skill \"Rift Cut\" Boost"
   },
   "2223": {
-    "とくぎ マホトラ斬り の強化": ""
+    "とくぎ マホトラ斬り の強化": "Skill \"Draining Slash\" Boost"
   },
   "2224": {
     "clarity_nt_char_2224": "clarity_nt_char_2224"
   },
   "2225": {
-    "とくぎ スラ・スラッシュ の強化": ""
+    "とくぎ スラ・スラッシュ の強化": "Skill \"Slime Slash\" Boost"
   },
   "2226": {
     "clarity_nt_char_2226": "clarity_nt_char_2226"
   },
   "2227": {
-    "とくぎ バードカッター の強化": ""
+    "とくぎ バードカッター の強化": "Skill \"Birdcutter\" Boost"
   },
   "2228": {
-    "とくぎ りゅうせいよび の強化": ""
+    "とくぎ りゅうせいよび の強化": "Skill \"Meteor Rain\" Boost"
   },
   "2229": {
-    "とくぎ ためる の強化": ""
+    "とくぎ ためる の強化": "Skill \"Psyche Up\" Boost"
   },
   "2230": {
-    "とくぎ 宝石ジャグリング の強化": ""
+    "とくぎ 宝石ジャグリング の強化": "Skill \"Jewel Juggling\" Boost"
   },
   "2231": {
     "clarity_nt_char_2231": "clarity_nt_char_2231"
   },
   "2232": {
-    "とくぎ フェザーストーム の強化": ""
+    "とくぎ フェザーストーム の強化": "Skill \"Featherstorm\" Boost"
   },
   "2233": {
     "clarity_nt_char_2233": "clarity_nt_char_2233"
   },
   "2234": {
-    "とくぎ 回転たたき の強化": ""
+    "とくぎ 回転たたき の強化": "Skill \"Spinning Slap\" Boost"
   },
   "2235": {
-    "とくぎ ウルトラパワー の強化": ""
+    "とくぎ ウルトラパワー の強化": "Skill \"Ultra Power\" Boost"
   },
   "2236": {
-    "とくぎ スラ・シャイニング の強化": ""
+    "とくぎ スラ・シャイニング の強化": "Skill \"Shine Slime\" Boost"
   },
   "2237": {
-    "とくぎ 鉄甲斬 の強化": ""
+    "とくぎ 鉄甲斬 の強化": "Skill \"Scrap Axe\" Boost"
   },
   "2238": {
-    "とくぎ マジックソード の強化": ""
+    "とくぎ マジックソード の強化": "Skill \"Magic Sword\" Boost"
   },
   "2239": {
-    "ふっとびガード +100%": ""
+    "ふっとびガード +100%": "Knockback Guard +100%"
   },
   "2240": {
-    "受けるダメージを 25 軽減する": ""
+    "受けるダメージを 25 軽減する": "Damage Taken -25"
   },
   "2241": {
     "clarity_nt_char_2241": "clarity_nt_char_2241"
   },
   "2242": {
-    "死亡時 90%で攻撃力アップ残り": ""
+    "死亡時 90%で攻撃力アップ残り": "Keep Attack Up Effect 90%"
   },
   "2243": {
     "clarity_nt_char_2243": "clarity_nt_char_2243"
   },
   "2244": {
-    "行動間隔0.5秒短縮": ""
+    "行動間隔0.5秒短縮": "Action Interval -0.5 sec"
   },
   "2245": {
     "clarity_nt_char_2245": "clarity_nt_char_2245"
   },
   "2246": {
-    "とくぎ マジカルブレイク の強化": ""
+    "とくぎ マジカルブレイク の強化": "Skill \"Magical Break\" Boost"
   },
   "2247": {
     "clarity_nt_char_2247": "clarity_nt_char_2247"
   },
   "2248": {
-    "とくぎ ピンクタイフーン の強化": ""
+    "とくぎ ピンクタイフーン の強化": "Skill \"Pink Typhoon\" Boost"
   },
   "2249": {
     "clarity_nt_char_2249": "clarity_nt_char_2249"
   },
   "2250": {
-    "開戦時 90%でキラキラポーン": ""
+    "開戦時 90%でキラキラポーン": "Snap Crackle Poof Trigger 90%"
   },
   "2251": {
-    "蘇生呪文の射程距離 +8m": ""
+    "蘇生呪文の射程距離 +8m": "Revive Spell Range +8m"
   },
   "2252": {
-    "死亡時 100%で呪文威力アップ残り": ""
+    "死亡時 100%で呪文威力アップ残り": "Keep Spell Up Effect 100%"
   },
   "2253": {
     "clarity_nt_char_2253": "clarity_nt_char_2253"
   },
   "2254": {
-    "土攻撃ダメージ +15%": ""
+    "土攻撃ダメージ +15%": "Earth Damage +15%"
   },
   "2255": {
     "clarity_nt_char_2255": "clarity_nt_char_2255"
   },
   "2256": {
-    "行動時 25%でバイシオン": ""
+    "行動時 25%でバイシオン": "Oomph On Action 25%"
   },
   "2257": {
-    "開戦時 90%で聖女の守り": ""
+    "開戦時 90%で聖女の守り": "Alma Mater Trigger 90%"
   },
   "2258": {
-    "ガード時 50%でルカニ": ""
+    "ガード時 50%でルカニ": "Sap On Block 50%"
   },
   "2259": {
     "clarity_nt_char_2259": "clarity_nt_char_2259"
   },
   "2260": {
-    "味方死亡時 25%で早詠みの杖": ""
+    "味方死亡時 25%で早詠みの杖": "Faster Caster Revenge 25%"
   },
   "2261": {
-    "50%でテンションリンク": ""
+    "50%でテンションリンク": "Tension Link 50%"
   },
   "2262": {
     "clarity_nt_char_2262": "clarity_nt_char_2262"
   },
   "2263": {
-    "味方死亡時 90%でバイシオン": ""
+    "味方死亡時 90%でバイシオン": "Oomph Revenge 90%"
   },
   "2264": {
-    "75%で被ダメージの5%ＭＰ回復": ""
+    "75%で被ダメージの5%ＭＰ回復": "Recover 5% Damage As MP 75%"
   },
   "2265": {
     "clarity_nt_char_2265": "clarity_nt_char_2265"
   },
   "2266": {
-    "闇攻撃ダメージ +15%": ""
+    "闇攻撃ダメージ +15%": "Dark Damage +15%"
   },
   "2267": {
     "clarity_nt_char_2267": "clarity_nt_char_2267"
   },
   "2268": {
-    "20%の確率で2回行動する": ""
+    "20%の確率で2回行動する": "Double Action 20%"
   },
   "2269": {
-    "呪文と特技の回復1.3倍": ""
+    "呪文と特技の回復1.3倍": "Spell/Skill Recovery 1.3x"
   },
   "2270": {
     "clarity_nt_char_2270": "clarity_nt_char_2270"
   },
   "2271": {
-    "会心完全ガード +50%": ""
+    "会心完全ガード +50%": "Desperate Measures +50%"
   },
   "2272": {
     "clarity_nt_char_2272": "clarity_nt_char_2272"
   },
   "2273": {
-    "風攻撃ダメージ +25%": ""
+    "風攻撃ダメージ +25%": "Wind Damage +25%"
   },
   "2274": {
     "clarity_nt_char_2274": "clarity_nt_char_2274"
   },
   "2275": {
-    "蘇生時のＨＰ回復量アップ": ""
+    "蘇生時のＨＰ回復量アップ": "HP Recovery On Revival Up"
   },
   "2276": {
     "clarity_nt_char_2276": "clarity_nt_char_2276"
   },
   "2277": {
-    "いてつくはどうガード +100%": ""
+    "いてつくはどうガード +100%": "Disruptive Wave Guard +100%"
   },
   "2278": {
     "clarity_nt_char_2278": "clarity_nt_char_2278"
   },
   "2279": {
-    "光攻撃ダメージ +15%": ""
+    "光攻撃ダメージ +15%": "Light Damage +15%"
   },
   "2280": {
     "clarity_nt_char_2280": "clarity_nt_char_2280"
   },
   "2281": {
-    "身かわし率 +3%": ""
+    "身かわし率 +3%": "Dodge Rate +3%"
   },
   "2282": {
-    "攻撃ダメージの 5%回復": ""
+    "攻撃ダメージの 5%回復": "Recover 5% Damage Dealt"
   },
   "2283": {
     "clarity_nt_char_2283": "clarity_nt_char_2283"
   },
   "2284": {
-    "攻撃ダメージの 15%回復": ""
+    "攻撃ダメージの 15%回復": "Recover 15% Damage Dealt"
   },
   "2285": {
-    "開戦時 50%でタップダンス": ""
+    "開戦時 50%でタップダンス": "Tap Dance Trigger 50%"
   },
   "2286": {
     "clarity_nt_char_2286": "clarity_nt_char_2286"
   },
   "2287": {
-    "開戦時 100%でタップダンス": ""
+    "開戦時 100%でタップダンス": "Tap Dance Trigger 100%"
   },
   "2288": {
-    "開戦時 50%でマホキテ": ""
+    "開戦時 50%でマホキテ": "Absorb Magic Trigger 50%"
   },
   "2289": {
     "clarity_nt_char_2289": "clarity_nt_char_2289"
   },
   "2290": {
-    "開戦時 100%でマホキテ": ""
+    "開戦時 100%でマホキテ": "Absorb Magic Trigger 100%"
   },
   "2291": {
-    "開戦時 100%でピオラ": ""
+    "開戦時 100%でピオラ": "Accel Trigger 100%"
   },
   "2292": {
     "clarity_nt_char_2292": "clarity_nt_char_2292"
   },
   "2293": {
-    "開戦時 50%でピオラ": ""
+    "開戦時 50%でピオラ": "Accel Trigger 50%"
   },
   "2294": {
-    "攻撃時 15%で幻惑": ""
+    "攻撃時 15%で幻惑": "Blind Attack 15%"
   },
   "2295": {
     "clarity_nt_char_2295": "clarity_nt_char_2295"
   },
   "2296": {
-    "攻撃時 12%で幻惑": ""
+    "攻撃時 12%で幻惑": "Blind Attack 12%"
   },
   "2297": {
     "clarity_nt_char_2297": "clarity_nt_char_2297"
   },
   "2298": {
-    "攻撃時 20%でぶきみなひかり": ""
+    "攻撃時 20%でぶきみなひかり": "Spooky Aura Attack 20%"
   },
   "2299": {
-    "開戦時 80%で早詠み": ""
+    "開戦時 80%で早詠み": "Faster Caster Trigger 80%"
   },
   "2300": {
-    "マヒガード +80%": ""
+    "マヒガード +80%": "Paralyze Guard +80%"
   },
   "2301": {
     "clarity_nt_char_2301": "clarity_nt_char_2301"
   },
   "2302": {
-    "盾ガード時 50%で眠り": ""
+    "盾ガード時 50%で眠り": "Sleep On Shield Block 50%"
   },
   "2303": {
     "clarity_nt_char_2303": "clarity_nt_char_2303"
   },
   "2304": {
-    "攻撃時 5%で眠り": ""
+    "攻撃時 5%で眠り": "Sleep Attack 5%"
   },
   "2305": {
-    "開戦時 100%でしんぴのさとり": ""
+    "開戦時 100%でしんぴのさとり": "Caster Sugar Trigger 100%"
   },
   "2306": {
     "clarity_nt_char_2306": "clarity_nt_char_2306"
   },
   "2307": {
-    "開戦時 100%で早詠み": ""
+    "開戦時 100%で早詠み": "Faster Caster Trigger 100%"
   },
   "2308": {
     "clarity_nt_char_2308": "clarity_nt_char_2308"
   },
   "2309": {
-    "開戦時 50%で心頭滅却": ""
+    "開戦時 50%で心頭滅却": "Clear Mind Trigger 50%"
   },
   "2310": {
     "clarity_nt_char_2310": "clarity_nt_char_2310"
   },
   "2311": {
-    "いてつくはどうガード +20%": ""
+    "いてつくはどうガード +20%": "Disruptive Wave Guard +20%"
   },
   "2312": {
-    "たまに　2回攻撃できる": ""
+    "たまに　2回攻撃できる": "Sometimes Attack Twice"
   },
   "2313": {
-    "ブレス系効果 +30%": ""
+    "ブレス系効果 +30%": "Breath-type +30%"
   },
   "2314": {
-    "開戦時 25%でバイキルト": ""
+    "開戦時 25%でバイキルト": "Oomphle Trigger 25%"
   },
   "2315": {
-    "攻撃時 5%で いてつくはどう": ""
+    "攻撃時 5%で いてつくはどう": "Disruptive Wave Attack 5%"
   },
   "2316": {
-    "開戦時 80%でピオラ": ""
+    "開戦時 80%でピオラ": "Accel Trigger 80%"
   },
   "2317": {
-    "たまに　同じ呪文が2回唱えられる": ""
+    "たまに　同じ呪文が2回唱えられる": "Sometimes Doublecast Spell"
   },
   "2318": {
     "clarity_nt_char_2318": "clarity_nt_char_2318"
   },
   "2319": {
-    "土特技の攻撃ダメージ +10%": ""
+    "土特技の攻撃ダメージ +10%": "Earth Skill Damage +10%"
   },
   "2320": {
-    "土特技の攻撃ダメージ +15%": ""
+    "土特技の攻撃ダメージ +15%": "Earth Skill Damage +15%"
   },
   "2321": {
-    "土特技の攻撃ダメージ +20%": ""
+    "土特技の攻撃ダメージ +20%": "Earth Skill Damage +20%"
   },
   "2322": {
-    "攻撃時 50%テンション下げ": ""
+    "攻撃時 50%テンション下げ": "Tension Down Attack 50%"
   },
   "2323": {
     "clarity_nt_char_2323": "clarity_nt_char_2323"
   },
   "2324": {
-    "闇特技の攻撃ダメージ +10%": ""
+    "闇特技の攻撃ダメージ +10%": "Dark Skill Damage +10%"
   },
   "2325": {
-    "闇特技の攻撃ダメージ +15%": ""
+    "闇特技の攻撃ダメージ +15%": "Dark Skill Damage +10%"
   },
   "2326": {
-    "闇特技の攻撃ダメージ +20%": ""
+    "闇特技の攻撃ダメージ +20%": "Dark Skill Damage +20%"
   },
   "2327": {
-    "獣系ダメージ +30%": ""
+    "獣系ダメージ +30%": "Beast-type Damage +30%"
   },
   "2328": {
-    "毒ガード +60%": ""
+    "毒ガード +60%": "Poison Guard +60%"
   },
   "2329": {
-    "毒ガード +80%": ""
+    "毒ガード +80%": "Poison Guard +80%"
   },
   "2330": {
-    "開戦時 100%テンションバーン": ""
+    "開戦時 100%テンションバーン": "Feel the Burn Trigger 100%"
   },
   "2331": {
     "clarity_nt_char_2331": "clarity_nt_char_2331"
   },
   "2332": {
-    "開戦時 25%でメイクアップ": ""
+    "開戦時 25%でメイクアップ": "Extreme Makeover Trigger 25%"
   },
   "2333": {
     "clarity_nt_char_2333": "clarity_nt_char_2333"
   },
   "2334": {
-    "開戦時 50%でメイクアップ": ""
+    "開戦時 50%でメイクアップ": "Extreme Makeover Trigger 50%"
   },
   "2335": {
     "clarity_nt_char_2335": "clarity_nt_char_2335"
   },
   "2336": {
-    "開戦時 80%でメイクアップ": ""
+    "開戦時 80%でメイクアップ": "Extreme Makeover Trigger 80%"
   },
   "2337": {
     "clarity_nt_char_2337": "clarity_nt_char_2337"
   },
   "2338": {
-    "行動間隔1秒短縮": ""
+    "行動間隔1秒短縮": "Action Interval -1 sec"
   },
   "2339": {
     "clarity_nt_char_2339": "clarity_nt_char_2339"
   },
   "2340": {
-    "開戦時 40%で天使の守り": ""
+    "開戦時 40%で天使の守り": "Goddess' Grace Trigger 40%"
   },
   "2341": {
-    "攻撃時 10%で いてつくはどう": ""
+    "攻撃時 10%で いてつくはどう": "Disruptive Wave Attack 10%"
   },
   "2342": {
     "clarity_nt_char_2342": "clarity_nt_char_2342"
   },
   "2343": {
-    "開戦時 60%で盾ガード率上昇": ""
+    "開戦時 60%で盾ガード率上昇": "Shield Block Up Trigger 60%"
   },
   "2344": {
-    "とくぎ スピンブレイク の強化": ""
+    "とくぎ スピンブレイク の強化": "Skill \"Spin Break\" Boost"
   },
   "2345": {
-    "とくぎ ファイナルブロー の強化": ""
+    "とくぎ ファイナルブロー の強化": "Skill \"Lights Out\" Boost"
   },
   "2346": {
     "clarity_nt_char_2346": "clarity_nt_char_2346"
   },
   "2347": {
-    "とくぎ ハットイルージョン の強化": ""
+    "とくぎ ハットイルージョン の強化": "Skill \"Hat Illusion\" Boost"
   },
   "2348": {
-    "とくぎ ポワポワダンス の強化": ""
+    "とくぎ ポワポワダンス の強化": "Skill \"Gentle Dance\" Boost"
   },
   "2349": {
-    "とくぎ 怨念の霧 の強化": ""
+    "とくぎ 怨念の霧 の強化": "Skill \"Grudge's Fog\" Boost"
   },
   "2350": {
     "clarity_nt_char_2350": "clarity_nt_char_2350"
   },
   "2351": {
-    "開戦時 50%でラリホー": ""
+    "開戦時 50%でラリホー": "Snooze Trigger 50%"
   },
   "2352": {
     "clarity_nt_char_2352": "clarity_nt_char_2352"
   },
   "2353": {
-    "開戦時 100%で移動速度アップ": ""
+    "開戦時 100%で移動速度アップ": "Spellcast Speed Up Trigger 100%"
   },
   "2354": {
     "clarity_nt_char_2354": "clarity_nt_char_2354"
   },
   "2355": {
-    "とくぎ もぐもぐタイム の強化": ""
+    "とくぎ もぐもぐタイム の強化": "Skill \"Chewin' Time\" Boost"
   },
   "2356": {
-    "とくぎ ニードルレイン の強化": ""
+    "とくぎ ニードルレイン の強化": "Skill \"Needle Rain\" Boost"
   },
   "2357": {
-    "とくぎ ばくれつけん の強化": ""
+    "とくぎ ばくれつけん の強化": "Skill \"Multifists\" Boost"
   },
   "2358": {
     "clarity_nt_char_2358": "clarity_nt_char_2358"
   },
   "2359": {
-    "とくぎ にくきゅうパンチ の強化": ""
+    "とくぎ にくきゅうパンチ の強化": "Skill \"Curiosity Kills\" Boost"
   },
   "2360": {
     "clarity_nt_char_2360": "clarity_nt_char_2360"
   },
   "2361": {
-    "とくぎ いなずま斬り の強化": ""
+    "とくぎ いなずま斬り の強化": "Skill \"Lightning Slash\" Boost"
   },
   "2362": {
     "clarity_nt_char_2362": "clarity_nt_char_2362"
   },
   "2363": {
-    "とくぎ ベビーマダンテ の強化": ""
+    "とくぎ ベビーマダンテ の強化": "Skill \"Wimpy Burst\" Boost"
   },
   "2364": {
-    "とくぎ ブラストビーム の強化": ""
+    "とくぎ ブラストビーム の強化": "Skill \"Blast Beam\" Boost"
   },
   "2365": {
-    "とくぎ チェストー の強化": ""
+    "とくぎ チェストー の強化": "Skill \"Chesto\" Boost"
   },
   "2366": {
-    "とくぎ さみだれ突き の強化": ""
+    "とくぎ さみだれ突き の強化": "Skill \"Multi Thrust\" Boost"
   },
   "2367": {
     "clarity_nt_char_2367": "clarity_nt_char_2367"
   },
   "2368": {
-    "とくぎ タマげたニャー の強化": ""
+    "とくぎ タマげたニャー の強化": "Skill \"Meow Bomb\" Boost"
   },
   "2369": {
-    "味方死亡時 50%でスカラ": ""
+    "味方死亡時 50%でスカラ": "Buff Revenge 50%"
   },
   "2370": {
-    "とくぎ 嘆きの霧 の強化": ""
+    "とくぎ 嘆きの霧 の強化": "Skill \"Fog of Grief\" Boost"
   },
   "2371": {
     "clarity_nt_char_2371": "clarity_nt_char_2371"
   },
   "2372": {
-    "とくぎ いてつく一発芸 の強化": ""
+    "とくぎ いてつく一発芸 の強化": "Skill \"Freezing Trick"\ Boost"
   },
   "2373": {
-    "とくぎ ダークレイン の強化": ""
+    "とくぎ ダークレイン の強化": "Skill \"Dark Rain\" Boost"
   },
   "2374": {
     "clarity_nt_char_2374": "clarity_nt_char_2374"
   },
   "2375": {
-    "とくぎ シールドカウンター の強化": ""
+    "とくぎ シールドカウンター の強化": "Skill \"Shield Counter\" Boost"
   },
   "2376": {
-    "とくぎ ビックリたんす の強化": ""
+    "とくぎ ビックリたんす の強化": "Skill \"Wowdrobe\" Boost"
   },
   "2377": {
-    "とくぎ デュアルブレイカー の強化": ""
+    "とくぎ デュアルブレイカー の強化": "Skill \"Double Down\" Boost"
   },
   "2378": {
-    "とくぎ ホラーフェイス の強化": ""
+    "とくぎ ホラーフェイス の強化": "Skill \"Scare Stare\" Boost"
   },
   "2379": {
-    "とくぎ ボミオスラッシュ の強化": ""
+    "とくぎ ボミオスラッシュ の強化": "Skill \"Deceleratle Rush\" Boost"
   },
   "2380": {
     "clarity_nt_char_2380": "clarity_nt_char_2380"
   },
   "2381": {
-    "とくぎ 真・かぶと割り の強化": ""
+    "とくぎ 真・かぶと割り の強化": "Skill \"Helm Crusher\" Boost"
   },
   "2382": {
-    "とくぎ 竜のおたけび の強化": ""
+    "とくぎ 竜のおたけび の強化": "Skill \"Dragon's Roar\" Boost"
   },
   "2383": {
     "clarity_nt_char_2383": "clarity_nt_char_2383"
   },
   "2384": {
-    "開戦時 25%でぶきみなひかり": ""
+    "開戦時 25%でぶきみなひかり": "Spooky Aura Trigger 25%"
   },
   "2385": {
-    "とくぎ ハッスルダンス の強化": ""
+    "とくぎ ハッスルダンス の強化": "Skill \"Hustle Dance\" Boost"
   },
   "2386": {
-    "とくぎ 回復ダンス の強化": ""
+    "とくぎ 回復ダンス の強化": "Skill \"Recovery Dance\" Boost"
   },
   "2387": {
-    "会心完全ガード +10%": ""
+    "会心完全ガード +10%": "Desperate Measures +10%"
   },
   "2388": {
     "clarity_nt_char_2388": "clarity_nt_char_2388"
   },
   "2389": {
-    "とくぎ 雷光さみだれ突き の強化": ""
+    "とくぎ 雷光さみだれ突き の強化": "Skill \"Multi Lightning Strike\" Boost"
   },
   "2390": {
     "clarity_nt_char_2390": "clarity_nt_char_2390"
   },
   "2391": {
-    "とくぎ いたずラッシュ の強化": ""
+    "とくぎ いたずラッシュ の強化": "Skill \"Naughty Rush\" Boost"
   },
   "2392": {
-    "とくぎ フィニッシュブロー の強化": ""
+    "とくぎ フィニッシュブロー の強化": "Skill \"Finish Blow\" Boost"
   },
   "2393": {
-    "とくぎ 魔道集束砲 の強化": ""
+    "とくぎ 魔道集束砲 の強化": "Skill \"Magic Cannon\" Boost"
   },
   "2394": {
-    "とくぎ スラ・フラッシュ の強化": ""
+    "とくぎ スラ・フラッシュ の強化": "Skill \"Schlazzle\" Boost"
   },
   "2395": {
     "clarity_nt_char_2395": "clarity_nt_char_2395"
   },
   "2396": {
-    "ＭＰ吸収ガード +100%": ""
+    "ＭＰ吸収ガード +100%": "MP Absorb Guard +100%"
   },
   "2397": {
-    "とくぎ 真・らいめい斬り の強化": ""
+    "とくぎ 真・らいめい斬り の強化": "Skill \"Thunder Crash\" Boost"
   },
   "2398": {
     "clarity_nt_char_2398": "clarity_nt_char_2398"
   },
   "2399": {
-    "とくぎ かぶと割り の強化": ""
+    "とくぎ かぶと割り の強化": "Skill \"Helm Splitter\" Boost"
   },
   "2400": {
-    "とくぎ スラ・ブレイク の強化": ""
+    "とくぎ スラ・ブレイク の強化": "Skill \"Slouble Trouble\" Boost"
   },
   "2401": {
-    "とくぎ バードスラッシュ の強化": ""
+    "とくぎ バードスラッシュ の強化": "Skill \"Bird Slash\" Boost"
   },
   "2402": {
     "clarity_nt_char_2402": "clarity_nt_char_2402"
   },
   "2403": {
-    "とくぎ 超ちからため の強化": ""
+    "とくぎ 超ちからため の強化": "Skill \"Super Strength\" Boost"
   },
   "2404": {
     "clarity_nt_char_2404": "clarity_nt_char_2404"
   },
   "2405": {
-    "とくぎ 鉄球ジャグリング の強化": ""
+    "とくぎ 鉄球ジャグリング の強化": "Skill \"Balls of Steel\" Boost"
   },
   "2406": {
     "clarity_nt_char_2406": "clarity_nt_char_2406"
   },
   "2407": {
-    "とくぎ パワースタンプ の強化": ""
+    "とくぎ パワースタンプ の強化": "Skill \"Power Stamp\" Boost"
   },
   "2408": {
-    "とくぎ グレートスタンプ の強化": ""
+    "とくぎ グレートスタンプ の強化": "Skill \"Great Stamp\" Boost"
   },
   "2409": {
     "clarity_nt_char_2409": "clarity_nt_char_2409"
   },
   "2410": {
-    "とくぎ スラ・ギガブレイク の強化": ""
+    "とくぎ スラ・ギガブレイク の強化": "Skill \"Googagash\" Boost"
   },
   "2411": {
-    "開戦時 50%でルカニ": ""
+    "開戦時 50%でルカニ": "Sap Trigger 50%"
   },
   "2412": {
-    "とくぎ 真・オノむそう の強化": ""
+    "とくぎ 真・オノむそう の強化": "Skill \"Axes of True Evil\" Boost"
   },
   "2413": {
-    "とくぎ いかずち の強化": ""
+    "とくぎ いかずち の強化": "Skill \"Lightning\" Boost"
   },
   "2414": {
     "clarity_nt_char_2414": "clarity_nt_char_2414"
   },
   "2415": {
-    "開戦時 20%で必殺チャージ": ""
+    "開戦時 20%で必殺チャージ": "Special Charge Trigger 20%"
   },
   "2416": {
     "clarity_nt_char_2416": "clarity_nt_char_2416"
   },
   "2417": {
-    "ブレス系効果 +50%": ""
+    "ブレス系効果 +50%": "Breath-type +50%"
   },
   "2418": {
-    "攻撃力アップの効果時間 +15秒": ""
+    "攻撃力アップの効果時間 +15秒": "Attack Up Effect Time +15s"
   },
   "2419": {
     "clarity_nt_char_2419": "clarity_nt_char_2419"
   },
   "2420": {
-    "10%で 行動ターンを消費しない": ""
+    "10%で 行動ターンを消費しない": "Don't Use Turn 10%"
   },
   "2421": {
     "clarity_nt_char_2421": "clarity_nt_char_2421"
   },
   "2422": {
-    "とくぎ マジカルヒール の強化": ""
+    "とくぎ マジカルヒール の強化": "Skill \"Magical Heal\" Boost"
   },
   "2423": {
-    "とくぎ 百花繚乱 の強化": ""
+    "とくぎ 百花繚乱 の強化": "Skill \"Flowerstorm\" Boost"
   },
   "2424": {
     "clarity_nt_char_2424": "clarity_nt_char_2424"
   },
   "2425": {
-    "開戦時 50%でヘナトス": ""
+    "開戦時 50%でヘナトス": "Blunt Trigger 50%"
   },
   "2426": {
     "clarity_nt_char_2426": "clarity_nt_char_2426"
   },
   "2427": {
-    "開戦時 60%で天使の守り": ""
+    "開戦時 60%で天使の守り": "Goddess' Grace Trigger 60%"
   },
   "2428": {
-    "死亡時 100%で回復量アップ残り": ""
+    "死亡時 100%で回復量アップ残り": "Keep Recovery Up Effect 100%"
   },
   "2429": {
-    "土耐性 +30%": ""
+    "土耐性 +30%": "Earth R. +30%"
   },
   "2430": {
     "clarity_nt_char_2430": "clarity_nt_char_2430"
   },
   "2431": {
-    "行動時 25%で早詠みの杖": ""
+    "行動時 25%で早詠みの杖": "Faster Caster On Action 25%"
   },
   "2432": {
-    "味方死亡時 25%で聖女の守り": ""
+    "味方死亡時 25%で聖女の守り": "Alma Mater Revenge 25%"
   },
   "2433": {
-    "ガード時 50%でヘナトス": ""
+    "ガード時 50%でヘナトス": "Blunt On Block 50%"
   },
   "2434": {
-    "味方死亡時 90%でスカラ": ""
+    "味方死亡時 90%でスカラ": "Buff Revenge 90%"
   },
   "2435": {
-    "氷攻撃ダメージ +15%": ""
+    "氷攻撃ダメージ +15%": "Ice Damage +15%"
   },
   "2436": {
     "clarity_nt_char_2436": "clarity_nt_char_2436"
   },
   "2437": {
-    "開戦時 90%で早詠みの杖": ""
+    "開戦時 90%で早詠みの杖": "Faster Caster Trigger 90%"
   },
   "2438": {
-    "5%で 行動ターンを消費しない": ""
+    "5%で 行動ターンを消費しない": "Don't Use Turn 5%"
   },
   "2439": {
-    "回復呪文威力アップ +60秒": ""
+    "回復呪文威力アップ +60秒": "Recovery Spell Up +60s"
   },
   "2440": {
     "clarity_nt_char_2440": "clarity_nt_char_2440"
   },
   "2441": {
-    "雷攻撃ダメージ +15%": ""
+    "雷攻撃ダメージ +15%": "Thunder Damage +15%"
   },
   "2442": {
     "clarity_nt_char_2442": "clarity_nt_char_2442"
   },
   "2443": {
-    "状態異常耐性アップ": ""
+    "状態異常耐性アップ": "Status Resistance Up"
   },
   "2444": {
-    "炎攻撃ダメージ +15%": ""
+    "炎攻撃ダメージ +15%": "Fire Damage +15%"
   },
   "2445": {
     "clarity_nt_char_2445": "clarity_nt_char_2445"
   },
   "2446": {
-    "攻撃時 15%で混乱": ""
+    "攻撃時 15%で混乱": "Confuse Attack 15%"
   },
   "2447": {
     "clarity_nt_char_2447": "clarity_nt_char_2447"
   },
   "2448": {
-    "ガード時 25%でマヒ": ""
+    "ガード時 25%でマヒ": "Paralyze On Block 25%"
   },
   "2449": {
-    "怪人系ダメージ +30%": ""
+    "怪人系ダメージ +30%": "Humanoid-type Damage +30%"
   },
   "2450": {
     "clarity_nt_char_2450": "clarity_nt_char_2450"
   },
   "2451": {
-    "攻撃時 50%でマホ系解除": ""
+    "攻撃時 50%でマホ系解除": "Magic-type Dispel Attack 50%"
   },
   "2452": {
-    "物質系ダメージ +20%": ""
+    "物質系ダメージ +20%": "Material-type Damage +20%"
   },
   "2453": {
     "clarity_nt_char_2453": "clarity_nt_char_2453"
   },
   "2454": {
-    "物質系ダメージ +30%": ""
+    "物質系ダメージ +30%": "Material-type Damage +30%"
   },
   "2455": {
     "clarity_nt_char_2455": "clarity_nt_char_2455"
   },
   "2456": {
-    "とくぎ ショータイム の強化": ""
+    "とくぎ ショータイム の強化": "Skill \"Show Time\" Boost"
   },
   "2457": {
     "clarity_nt_char_2457": "clarity_nt_char_2457"
   },
   "2458": {
-    "とくぎ 復活の杖 の強化": ""
+    "とくぎ 復活の杖 の強化": "Skill \"Zing Stick\" Boost"
   },
   "2459": {
     "clarity_nt_char_2459": "clarity_nt_char_2459"
   },
   "2460": {
-    "とくぎ アサシンアタック の強化": ""
+    "とくぎ アサシンアタック の強化": "Skill \"Assassin Stab\" Boost"
   },
   "2461": {
     "clarity_nt_char_2461": "clarity_nt_char_2461"
   },
   "2462": {
-    "とくぎ ミラクルスピン の強化": ""
+    "とくぎ ミラクルスピン の強化": "Skill \"Miracle Spin\" Boost"
   },
   "2463": {
-    "とくぎ ニャルプンテ の強化": ""
+    "とくぎ ニャルプンテ の強化": "Skill \"Hocuss Pocuss\" Boost"
   },
   "2464": {
     "clarity_nt_char_2464": "clarity_nt_char_2464"
   },
   "2465": {
-    "とくぎ らいめい斬り の強化": ""
+    "とくぎ らいめい斬り の強化": "Skill \"Storm Strike\" Boost"
   },
   "2466": {
     "clarity_nt_char_2466": "clarity_nt_char_2466"
   },
   "2467": {
-    "とくぎ マイクロブラスター の強化": ""
+    "とくぎ マイクロブラスター の強化": "Skill \"Micro Blaster\" Boost"
   },
   "2468": {
-    "とくぎ へそくりパワー の強化": ""
+    "とくぎ へそくりパワー の強化": "Skill \"Secret Stash\" Boost"
   },
   "2469": {
-    "とくぎ 破竹の一撃 の強化": ""
+    "とくぎ 破竹の一撃 の強化": "Skill \"Bamboo Blow\" Boost"
   },
   "2470": {
-    "とくぎ あやしいひかり の強化": ""
+    "とくぎ あやしいひかり の強化": "Skill \"Suspicious Light\" Boost"
   },
   "2471": {
-    "とくぎ 真・やいばくだき の強化": ""
+    "とくぎ 真・やいばくだき の強化": "Skill \"True Attack Attacker\" Boost"
   },
   "2472": {
     "clarity_nt_char_2472": "clarity_nt_char_2472"
   },
   "2473": {
-    "とくぎ へそくりシャワー の強化": ""
+    "とくぎ へそくりシャワー の強化": "Skill \"Stash Shower\" Boost"
   },
   "2474": {
     "clarity_nt_char_2474": "clarity_nt_char_2474"
   },
   "2475": {
-    "とくぎ ぼうぎょバリア の強化": ""
+    "とくぎ ぼうぎょバリア の強化": "Skill \"Defend Barrier\" Boost"
   },
   "2476": {
-    "ガード時 15%でマヒ": ""
+    "ガード時 15%でマヒ": "Paralyze On Block 15%"
   },
   "2477": {
-    "とくぎ はやぶさ斬り の強化": ""
+    "とくぎ はやぶさ斬り の強化": "Skill \"Falcon Slash\" Boost"
   },
   "2478": {
     "clarity_nt_char_2478": "clarity_nt_char_2478"
   },
   "2479": {
-    "開戦時 100%で会心率上昇": ""
+    "開戦時 100%で会心率上昇": "Critical Rate Up Trigger 100%"
   },
   "2480": {
     "clarity_nt_char_2480": "clarity_nt_char_2480"
   },
   "2481": {
-    "武器ガード +3%": ""
+    "武器ガード +3%": "Parry Rate +3%"
   },
   "2482": {
-    "開戦時 50%でヘヴィチャージ": ""
+    "開戦時 50%でヘヴィチャージ": "Heavy Charge Trigger 50%"
   },
   "2483": {
-    "とくぎ ミラクルストライク の強化": ""
+    "とくぎ ミラクルストライク の強化": "Skill \"Slop 'n Slap\" Boost"
   },
   "2484": {
-    "とくぎ ロストスラッシュ の強化": ""
+    "とくぎ ロストスラッシュ の強化": "Skill \"Lost Slash\" Boost"
   },
   "2485": {
     "clarity_nt_char_2485": "clarity_nt_char_2485"
   },
   "2486": {
-    "とくぎ スラ・スパーク の強化": ""
+    "とくぎ スラ・スパーク の強化": "Skill \"Zasplattle\" Boost"
   },
   "2487": {
-    "とくぎ 魔道砲 の強化": ""
+    "とくぎ 魔道砲 の強化": "Skill \"Magic Gun\" Boost"
   },
   "2488": {
-    "呪文発動速度 +5%": ""
+    "呪文発動速度 +5%": "Spellcast Speed +5%"
   },
   "2489": {
     "clarity_nt_char_2489": "clarity_nt_char_2489"
   },
   "2490": {
-    "たまにテンションを消費しない": ""
+    "たまにテンションを消費しない": "Sometimes Don't Use Tension"
   },
   "2491": {
     "clarity_nt_char_2491": "clarity_nt_char_2491"
   },
   "2492": {
-    "とくぎ ウルトラスタンプ の強化": ""
+    "とくぎ ウルトラスタンプ の強化": "Skill \"Ultra Stamp\" Boost"
   },
   "2493": {
     "clarity_nt_char_2493": "clarity_nt_char_2493"
   },
   "2494": {
-    "とくぎ プレートインパクト の強化": ""
+    "とくぎ プレートインパクト の強化": "Skill \"Plate Impact\" Boost"
   },
   "2495": {
-    "攻撃時 25%でためる": ""
+    "攻撃時 25%でためる": "Tension On Attack 25%"
   },
   "2496": {
-    "とくぎ やいばくだき の強化": ""
+    "とくぎ やいばくだき の強化": "Skill \"Attack Attacker\" Boost"
   },
   "2497": {
     "clarity_nt_char_2497": "clarity_nt_char_2497"
   },
   "2498": {
-    "受けたダメージの 20%ＨＰを回復": ""
+    "受けたダメージの 20%ＨＰを回復": "Recover 20% Taken Damage as HP"
   },
   "2499": {
-    "とくぎ 花ふぶき の強化": ""
+    "とくぎ 花ふぶき の強化": "Skill \"Flower Power\" Boost"
   },
   "2500": {
     "clarity_nt_char_2500": "clarity_nt_char_2500"
   },
   "2501": {
-    "状態異常成功率アップ +25%": ""
+    "状態異常成功率アップ +25%": "Status Afflict Rate +25%"
   },
   "2502": {
-    "攻撃時 10%でためる": ""
+    "攻撃時 10%でためる": "Tension On Attack 10%"
   },
   "2503": {
-    "開戦時 100%でチャージ短縮 -10秒": ""
+    "開戦時 100%でチャージ短縮 -10秒": "CT Skill -10s Trigger 100%"
   },
   "2504": {
     "clarity_nt_char_2504": "clarity_nt_char_2504"
   },
   "2505": {
-    "瀕死時 100%で身かわし率+30%": ""
+    "瀕死時 100%で身かわし率+30%": "Dodge Rate +30% On Death 100%"
   },
   "2506": {
     "clarity_nt_char_2506": "clarity_nt_char_2506"
   },
   "2507": {
-    "とくぎ キングスタンプ の強化": ""
+    "とくぎ キングスタンプ の強化": "Skill \"Slegicide\" Boost"
   },
   "2508": {
-    "とくぎ マジックブレイク の強化": ""
+    "とくぎ マジックブレイク の強化": "Skill \"Magic Break\" Boost"
   },
   "2509": {
     "clarity_nt_char_2509": "clarity_nt_char_2509"
   },
   "2510": {
-    "とくぎ キングダムソード の強化": ""
+    "とくぎ キングダムソード の強化": "Skill \"Kingdom Sword\" Boost"
   },
   "2511": {
     "clarity_nt_char_2511": "clarity_nt_char_2511"
   },
   "2512": {
-    "水系威力 +15%": ""
+    "水系威力 +15%": "Water-type +15%"
   },
   "2513": {
-    "瀕死時 100%でリベホイム": ""
+    "瀕死時 100%でリベホイム": "Remoreheal On Death 100%"
   },
   "2514": {
     "clarity_nt_char_2514": "clarity_nt_char_2514"
   },
   "2515": {
-    "Ｇ": ""
+    "Ｇ": "G"
   },
   "2516": {
-    "Ｆ": ""
+    "Ｆ": "F"
   },
   "2517": {
-    "Ｅ": ""
+    "Ｅ": "E"
   },
   "2518": {
-    "Ｄ": ""
+    "Ｄ": "D"
   },
   "2519": {
-    "Ｃ": ""
+    "Ｃ": "C"
   },
   "2520": {
-    "Ｂ": ""
+    "Ｂ": "B"
   },
   "2521": {
-    "Ａ": ""
+    "Ａ": "A"
   },
   "2522": {
-    "Ｓ": ""
+    "Ｓ": "S"
   },
   "2523": {
     "ワクワク・モクモク　ボーイズ": ""
@@ -7668,7 +7668,7 @@
     "clarity_nt_char_2556": "clarity_nt_char_2556"
   },
   "2557": {
-    "アストルティア防衛軍": ""
+    "アストルティア防衛軍": "Astoltia Defense Force"
   },
   "2558": {
     "clarity_nt_char_2558": "clarity_nt_char_2558"
@@ -7683,567 +7683,567 @@
     "clarity_nt_char_2561": "clarity_nt_char_2561"
   },
   "2562": {
-    "ビクトリーチップ・黄": ""
+    "ビクトリーチップ・黄": "Yellow Victory Chip"
   },
   "2563": {
     "clarity_nt_char_2563": "clarity_nt_char_2563"
   },
   "2564": {
-    "ビクトリーチップ・緑": ""
+    "ビクトリーチップ・緑": "Green Victory Chip"
   },
   "2565": {
     "clarity_nt_char_2565": "clarity_nt_char_2565"
   },
   "2566": {
-    "ビクトリーチップ・青": ""
+    "ビクトリーチップ・青": "Blue Victory Chip"
   },
   "2567": {
     "clarity_nt_char_2567": "clarity_nt_char_2567"
   },
   "2568": {
-    "？？？": ""
+    "？？？": "???"
   },
   "2569": {
-    "エステラ・光": ""
+    "エステラ・光": "Estella (L)"
   },
   "2570": {
     "clarity_nt_char_2570": "clarity_nt_char_2570"
   },
   "2571": {
-    "トビアス・光": ""
+    "トビアス・光": "Tobias (L)"
   },
   "2572": {
     "clarity_nt_char_2572": "clarity_nt_char_2572"
   },
   "2573": {
-    "ヒストリカ・虹": ""
+    "ヒストリカ・虹": "Historica (R)"
   },
   "2574": {
-    "ルビー・虹": ""
+    "ルビー・虹": "Ruby (R)"
   },
   "2575": {
-    "リルチェラ・虹": ""
+    "リルチェラ・虹": "Licherat (R)"
   },
   "2576": {
-    "サジェ・虹": ""
+    "サジェ・虹": "Sajay (R)"
   },
   "2577": {
-    "ペリポン・虹": ""
+    "ペリポン・虹": "Peripon (R)"
   },
   "2578": {
     "clarity_nt_char_2578": "clarity_nt_char_2578"
   },
   "2579": {
-    "行動時テンションアップ +15%": ""
+    "行動時テンションアップ +15%": "Tension On Action +15%"
   },
   "2580": {
     "clarity_nt_char_2580": "clarity_nt_char_2580"
   },
   "2581": {
-    "ＭＰ消費しない率 +20%": ""
+    "ＭＰ消費しない率 +20%": "Don't Use MP Rate +20%"
   },
   "2582": {
-    "味方死亡時 100%で魔力かくせい": ""
+    "味方死亡時 100%で魔力かくせい": "Channel Anger Revenge 100%"
   },
   "2583": {
-    "瀕死時 100%で身かわし率+60%": ""
+    "瀕死時 100%で身かわし率+60%": "Dodge Rate +60% On Death 100%"
   },
   "2584": {
     "clarity_nt_char_2584": "clarity_nt_char_2584"
   },
   "2585": {
-    "行動時 10%でバイキルト": ""
+    "行動時 10%でバイキルト": "Oomphle On Action 10%"
   },
   "2586": {
-    "蘇生時 100%でキラキラポーン": ""
+    "蘇生時 100%でキラキラポーン": "Snap Crackle Poof On Death 100%"
   },
   "2587": {
     "clarity_nt_char_2587": "clarity_nt_char_2587"
   },
   "2588": {
-    "魔力かくせいの効果時間 +60秒": ""
+    "魔力かくせいの効果時間 +60秒": "Channel Anger Time +60s"
   },
   "2589": {
     "clarity_nt_char_2589": "clarity_nt_char_2589"
   },
   "2590": {
-    "味方死亡時 25%で聖なる祈り": ""
+    "味方死亡時 25%で聖なる祈り": "Care Prayer Revenge 25%"
   },
   "2591": {
-    "黒の錬金石 １こ": ""
+    "黒の錬金石 １こ": "Yellow Gem x1"
   },
   "2592": {
     "clarity_nt_char_2592": "clarity_nt_char_2592"
   },
   "2593": {
-    "黒の錬金石 ２こ": ""
+    "黒の錬金石 ２こ": "Yellow Gem x2"
   },
   "2594": {
     "clarity_nt_char_2594": "clarity_nt_char_2594"
   },
   "2595": {
-    "赤の錬金石 ３こ": ""
+    "赤の錬金石 ３こ": "Red Gem x3"
   },
   "2596": {
     "clarity_nt_char_2596": "clarity_nt_char_2596"
   },
   "2597": {
-    "黒の錬金石 ５こ": ""
+    "黒の錬金石 ５こ": "Black Gem x5"
   },
   "2598": {
     "clarity_nt_char_2598": "clarity_nt_char_2598"
   },
   "2599": {
-    "黒の錬金石 １０こ": ""
+    "黒の錬金石 １０こ": "Black Gem x10"
   },
   "2600": {
-    "銀の錬金石 １こ": ""
+    "銀の錬金石 １こ": "Silver Gem x1"
   },
   "2601": {
     "clarity_nt_char_2601": "clarity_nt_char_2601"
   },
   "2602": {
-    "銀の錬金石 ２こ": ""
+    "銀の錬金石 ２こ": "Silver Gem x2"
   },
   "2603": {
     "clarity_nt_char_2603": "clarity_nt_char_2603"
   },
   "2604": {
-    "紫の錬金石 ３こ": ""
+    "紫の錬金石 ３こ": "Purple Gem x3"
   },
   "2605": {
     "clarity_nt_char_2605": "clarity_nt_char_2605"
   },
   "2606": {
-    "銀の錬金石 ５こ": ""
+    "銀の錬金石 ５こ": "Silver Gem x5"
   },
   "2607": {
     "clarity_nt_char_2607": "clarity_nt_char_2607"
   },
   "2608": {
-    "銀の錬金石 １０こ": ""
+    "銀の錬金石 １０こ": "Silver Gem x10"
   },
   "2609": {
-    "呪文強化": ""
+    "呪文強化": "Spell Boost"
   },
   "2610": {
     "clarity_nt_char_2610": "clarity_nt_char_2610"
   },
   "2611": {
-    "総帥Ｍ・光": ""
+    "総帥Ｍ・光": "General M (L)"
   },
   "2612": {
-    "黄金のパラディン・光": ""
+    "黄金のパラディン・光": "Golden Paladin (L)"
   },
   "2613": {
     "clarity_nt_char_2613": "clarity_nt_char_2613"
   },
   "2614": {
-    "０８号・光": ""
+    "０８号・光": "No. 08 (L)"
   },
   "2615": {
-    "プクラス・光": ""
+    "プクラス・光": "Pukulas (L)"
   },
   "2616": {
     "clarity_nt_char_2616": "clarity_nt_char_2616"
   },
   "2617": {
-    "アルヴァン・光": ""
+    "アルヴァン・光": "Alvan (L)"
   },
   "2618": {
-    "カミル・光": ""
+    "カミル・光": "Kamil (L)"
   },
   "2619": {
-    "ギルガラン・光": ""
+    "ギルガラン・光": "Gilgaran (L)"
   },
   "2620": {
-    "グリエ・光": ""
+    "グリエ・光": "Grei (L)"
   },
   "2621": {
-    "メレアーデ・光": ""
+    "メレアーデ・光": "Mereade (L)"
   },
   "2622": {
-    "クオード・光": ""
+    "クオード・光": "Quard (L)"
   },
   "2623": {
     "clarity_nt_char_2623": "clarity_nt_char_2623"
   },
   "2624": {
-    "ファラス・光": ""
+    "ファラス・光": "Faras (L)"
   },
   "2625": {
     "clarity_nt_char_2625": "clarity_nt_char_2625"
   },
   "2626": {
-    "パドレ・光": ""
+    "パドレ・光": "Padre (L)"
   },
   "2627": {
-    "マローネ・光": ""
+    "マローネ・光": "Marone (L)"
   },
   "2628": {
     "clarity_nt_char_2628": "clarity_nt_char_2628"
   },
   "2629": {
-    "キュルル・光": ""
+    "キュルル・光": "Kyururu (L)"
   },
   "2630": {
     "clarity_nt_char_2630": "clarity_nt_char_2630"
   },
   "2631": {
-    "行動時 10%で最大ＨＰアップ": ""
+    "行動時 10%で最大ＨＰアップ": "Max HP Up On Action 10%"
   },
   "2632": {
-    "必殺チャージ率 5%アップ": ""
+    "必殺チャージ率 5%アップ": "Special Charge Rate +5%"
   },
   "2633": {
-    "攻撃時 10%でバイキルト": ""
+    "攻撃時 10%でバイキルト": "Oomphle On Attack 10%"
   },
   "2634": {
-    "攻撃時 15%でためる": ""
+    "攻撃時 15%でためる": "Tension On Attack 15%"
   },
   "2635": {
-    "攻撃時 10%で会心率アップ": ""
+    "攻撃時 10%で会心率アップ": "Critical Rate Up On Attack 10%"
   },
   "2636": {
     "clarity_nt_char_2636": "clarity_nt_char_2636"
   },
   "2637": {
-    "攻撃時たまに攻撃力アップ": ""
+    "攻撃時たまに攻撃力アップ": "Attack Up Chance On Attack"
   },
   "2638": {
     "clarity_nt_char_2638": "clarity_nt_char_2638"
   },
   "2639": {
-    "開戦時 100%でチャージ時間-10秒": ""
+    "開戦時 100%でチャージ時間-10秒": "Charge Time -10s Trigger 100%"
   },
   "2640": {
-    "25%でテンションリンク": ""
+    "25%でテンションリンク": "Tension Link 25%"
   },
   "2641": {
     "clarity_nt_char_2641": "clarity_nt_char_2641"
   },
   "2642": {
-    "特技のダメージ +25": ""
+    "特技のダメージ +25": "Skill Damage +25"
   },
   "2643": {
-    "味方死亡時 25%でバイキルト": ""
+    "味方死亡時 25%でバイキルト": "Oomphle Revenge 25%"
   },
   "2644": {
-    "会心＆暴走時 追加ダメージ +50": ""
+    "会心＆暴走時 追加ダメージ +50": "All Critical Damage +50"
   },
   "2645": {
-    "金の錬金石 １こ": ""
+    "金の錬金石 １こ": "Gold Gem x1"
   },
   "2646": {
     "clarity_nt_char_2646": "clarity_nt_char_2646"
   },
   "2647": {
-    "金の錬金石 ２こ": ""
+    "金の錬金石 ２こ": "Gold Gem x2"
   },
   "2648": {
     "clarity_nt_char_2648": "clarity_nt_char_2648"
   },
   "2649": {
-    "黒の錬金石 ３こ": ""
+    "黒の錬金石 ３こ": "Black Gem x3"
   },
   "2650": {
     "clarity_nt_char_2650": "clarity_nt_char_2650"
   },
   "2651": {
-    "金の錬金石 ５こ": ""
+    "金の錬金石 ５こ": "Gold Gem x5"
   },
   "2652": {
     "clarity_nt_char_2652": "clarity_nt_char_2652"
   },
   "2653": {
-    "金の錬金石 １０こ": ""
+    "金の錬金石 １０こ": "Gold Gem x10"
   },
   "2654": {
-    "蘇生呪文の射程距離 +5m": ""
+    "蘇生呪文の射程距離 +5m": "Revive Spell Range +5m"
   },
   "2655": {
-    "攻撃時 5%で全属性耐性ダウン": ""
+    "攻撃時 5%で全属性耐性ダウン": "All Resist Down Attack 5%"
   },
   "2656": {
-    "復活時 100%で聖なる祈り": ""
+    "復活時 100%で聖なる祈り": "Care Prayer On Revival 100%"
   },
   "2657": {
     "clarity_nt_char_2657": "clarity_nt_char_2657"
   },
   "2658": {
-    "復活時 100%でバイキルト": ""
+    "復活時 100%でバイキルト": "Oomphle On Revival 100%"
   },
   "2659": {
     "clarity_nt_char_2659": "clarity_nt_char_2659"
   },
   "2660": {
-    "属性強化": ""
+    "属性強化": "Attribute Up"
   },
   "2661": {
     "clarity_nt_char_2661": "clarity_nt_char_2661"
   },
   "2662": {
-    "属性付与": ""
+    "属性付与": "Attr. Assign"
   },
   "2663": {
     "clarity_nt_char_2663": "clarity_nt_char_2663"
   },
   "2664": {
-    "系統ダメージ": ""
+    "系統ダメージ": "Family Damage"
   },
   "2665": {
     "clarity_nt_char_2665": "clarity_nt_char_2665"
   },
   "2666": {
-    "状態異常耐性": ""
+    "状態異常耐性": "Status Resistance"
   },
   "2667": {
     "clarity_nt_char_2667": "clarity_nt_char_2667"
   },
   "2668": {
-    "属性耐性": ""
+    "属性耐性": "Attr. Resist"
   },
   "2669": {
     "clarity_nt_char_2669": "clarity_nt_char_2669"
   },
   "2670": {
-    "ブレス耐性": ""
+    "ブレス耐性": "Breath Resist"
   },
   "2671": {
-    "呪文耐性": ""
+    "呪文耐性": "Spell Resist"
   },
   "2672": {
     "clarity_nt_char_2672": "clarity_nt_char_2672"
   },
   "2673": {
-    "身かわし率": ""
+    "身かわし率": "Dodge Rate"
   },
   "2674": {
-    "消費しない率": ""
+    "消費しない率": "Don't Use Turn"
   },
   "2675": {
     "clarity_nt_char_2675": "clarity_nt_char_2675"
   },
   "2676": {
-    "ぼうそう率": ""
+    "ぼうそう率": "Haywire Rate"
   },
   "2677": {
-    "呪文発動速度": ""
+    "呪文発動速度": "Spellcast Speed"
   },
   "2678": {
     "clarity_nt_char_2678": "clarity_nt_char_2678"
   },
   "2679": {
-    "武器ガード": ""
+    "武器ガード": "Parry"
   },
   "2680": {
-    "かいしん率": ""
+    "かいしん率": "Critical Rate"
   },
   "2681": {
-    "ふくびき券 ７こ": ""
+    "ふくびき券 ７こ": "Lottery Ticket x7"
   },
   "2682": {
     "clarity_nt_char_2682": "clarity_nt_char_2682"
   },
   "2683": {
-    "きんかい ５こ": ""
+    "きんかい ５こ": "Gold Bar x5"
   },
   "2684": {
-    "銀の錬金石 ３こ": ""
+    "銀の錬金石 ３こ": "Silver Gem x3"
   },
   "2685": {
     "clarity_nt_char_2685": "clarity_nt_char_2685"
   },
   "2686": {
-    "金の錬金石 ３こ": ""
+    "金の錬金石 ３こ": "Gold Gem x3"
   },
   "2687": {
     "clarity_nt_char_2687": "clarity_nt_char_2687"
   },
   "2688": {
-    "ふくびき券 ７０こ": ""
+    "ふくびき券 ７０こ": "Lottery Ticket x70"
   },
   "2689": {
-    "ふくびき券 ９９こ": ""
+    "ふくびき券 ９９こ": "Lottery Ticket x99"
   },
   "2690": {
-    "きんかい ５０こ": ""
+    "きんかい ５０こ": "Gold Bar x50"
   },
   "2691": {
     "clarity_nt_char_2691": "clarity_nt_char_2691"
   },
   "2692": {
-    "虹の錬金石 １こ": ""
+    "虹の錬金石 １こ": "Rainbow Gem x1"
   },
   "2693": {
     "clarity_nt_char_2693": "clarity_nt_char_2693"
   },
   "2694": {
-    "虹の錬金石 ２こ": ""
+    "虹の錬金石 ２こ": "Rainbow Gem x2"
   },
   "2695": {
     "clarity_nt_char_2695": "clarity_nt_char_2695"
   },
   "2696": {
-    "虹の錬金石 ３こ": ""
+    "虹の錬金石 ３こ": "Rainbow Gem x3"
   },
   "2697": {
     "clarity_nt_char_2697": "clarity_nt_char_2697"
   },
   "2698": {
-    "虹の錬金石 ５こ": ""
+    "虹の錬金石 ５こ": "Rainbow Gem x5"
   },
   "2699": {
     "clarity_nt_char_2699": "clarity_nt_char_2699"
   },
   "2700": {
-    "虹の錬金石 １０こ": ""
+    "虹の錬金石 １０こ": "Rainbow Gem x10"
   },
   "2701": {
-    "ユシュカ・虹": ""
+    "ユシュカ・虹": "Yushka (R)"
   },
   "2702": {
     "clarity_nt_char_2702": "clarity_nt_char_2702"
   },
   "2703": {
-    "ヴァレリア・虹": ""
+    "ヴァレリア・虹": "Valeria (R)"
   },
   "2704": {
-    "アスバル・虹": ""
+    "アスバル・虹": "Asbal (R)"
   },
   "2705": {
     "clarity_nt_char_2705": "clarity_nt_char_2705"
   },
   "2706": {
-    "ベルトロ・虹": ""
+    "ベルトロ・虹": "Veltro (R)"
   },
   "2707": {
     "clarity_nt_char_2707": "clarity_nt_char_2707"
   },
   "2708": {
-    "リンベリィ・虹": ""
+    "リンベリィ・虹": "Linberry (R)"
   },
   "2709": {
-    "ナジーン・虹": ""
+    "ナジーン・虹": "Nazine (R)"
   },
   "2710": {
     "clarity_nt_char_2710": "clarity_nt_char_2710"
   },
   "2711": {
-    "賢者マリーン・虹": ""
+    "賢者マリーン・虹": "Sage Malynn (R)"
   },
   "2712": {
     "clarity_nt_char_2712": "clarity_nt_char_2712"
   },
   "2713": {
-    "旅芸人ピュージュ・虹": ""
+    "旅芸人ピュージュ・虹": "Minstrel Pyuju (R)"
   },
   "2714": {
     "clarity_nt_char_2714": "clarity_nt_char_2714"
   },
   "2715": {
-    "シシカバブ・虹": ""
+    "シシカバブ・虹": "Shish-Kebab (R)"
   },
   "2716": {
-    "レイジバルス・虹": ""
+    "レイジバルス・虹": "Rigibalus (R)"
   },
   "2717": {
     "clarity_nt_char_2717": "clarity_nt_char_2717"
   },
   "2718": {
-    "モモリオン王・虹": ""
+    "モモリオン王・虹": "Sanguini King (R)"
   },
   "2719": {
     "clarity_nt_char_2719": "clarity_nt_char_2719"
   },
   "2720": {
-    "魔仙卿・虹": ""
+    "魔仙卿・虹": "Mage Lord (R)"
   },
   "2721": {
-    "炎攻撃ダメージ +20%": ""
+    "炎攻撃ダメージ +20%": "Fire Damage +20%"
   },
   "2722": {
     "clarity_nt_char_2722": "clarity_nt_char_2722"
   },
   "2723": {
-    "氷攻撃ダメージ +20%": ""
+    "氷攻撃ダメージ +20%": "Ice Damage +20%"
   },
   "2724": {
     "clarity_nt_char_2724": "clarity_nt_char_2724"
   },
   "2725": {
-    "闇攻撃ダメージ +20%": ""
+    "闇攻撃ダメージ +20%": "Dark Damage +20%"
   },
   "2726": {
     "clarity_nt_char_2726": "clarity_nt_char_2726"
   },
   "2727": {
-    "呪いガード +75%": ""
+    "呪いガード +75%": "Curse Guard +75%"
   },
   "2728": {
     "clarity_nt_char_2728": "clarity_nt_char_2728"
   },
   "2729": {
-    "必殺チャージ率 4%アップ": ""
+    "必殺チャージ率 4%アップ": "Special Charge Rate +4%"
   },
   "2730": {
-    "行動時 15%で暴走アップ": ""
+    "行動時 15%で暴走アップ": "Haywire Up On Action 15%"
   },
   "2731": {
-    "混乱ガード +75%": ""
+    "混乱ガード +75%": "Confuse Guard +75%"
   },
   "2732": {
     "clarity_nt_char_2732": "clarity_nt_char_2732"
   },
   "2733": {
-    "呪文ぼうそう率 +6.0%": ""
+    "呪文ぼうそう率 +6.0%": "Haywire Rate +6%"
   },
   "2734": {
-    "攻撃時 30%でヘナトス": ""
+    "攻撃時 30%でヘナトス": "Blunt Attack 30%"
   },
   "2735": {
     "clarity_nt_char_2735": "clarity_nt_char_2735"
   },
   "2736": {
-    "行動時 30%で聖なる祈り": ""
+    "行動時 30%で聖なる祈り": "Care Prayer On Action 30%"
   },
   "2737": {
-    "かいしん率 +7%": ""
+    "かいしん率 +7%": "Critical Rate +7%"
   },
   "2738": {
-    "15%で 行動ターンを消費しない": ""
+    "15%で 行動ターンを消費しない": "Don't Use Turn 15%"
   },
   "2739": {
     "clarity_nt_char_2739": "clarity_nt_char_2739"
   },
   "2740": {
-    "封印ガード +75%": ""
+    "封印ガード +75%": "Seal Guard +75%"
   },
   "2741": {
     "clarity_nt_char_2741": "clarity_nt_char_2741"
   },
   "2742": {
-    "蘇生時 50%で攻撃力アップ": ""
+    "蘇生時 50%で攻撃力アップ": "Attack Up On Revival 50%"
   },
   "2743": {
     "clarity_nt_char_2743": "clarity_nt_char_2743"
   },
   "2744": {
-    "呪文のダメージ +100": ""
+    "呪文のダメージ +100": "Spell Damage +100"
   },
   "2745": {
     "clarity_nt_char_2745": "clarity_nt_char_2745"
   },
   "2746": {
-    "行動時 30%で早詠みの杖": ""
+    "行動時 30%で早詠みの杖": "Faster Caster On Action 30%"
   },
   "2747": {
-    "行動時 5%で天使の守り": ""
+    "行動時 5%で天使の守り": "Goddess' Grace On Action 5%"
   },
   "2748": {
     "clarity_nt_char_2748": "clarity_nt_char_2748"
   },
   "2749": {
-    "呪文のダメージ上限アップ": ""
+    "呪文のダメージ上限アップ": "Spell Damage Limit Boost"
   }
 }

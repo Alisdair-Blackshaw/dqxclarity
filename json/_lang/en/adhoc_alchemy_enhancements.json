@@ -219,7 +219,7 @@
     "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "74": {
-    "炎の攻撃ダメージ 強化": "Fire Damage Boost"
+    "炎の攻撃ダメージ 強化": "Fire Attack Boost"
   },
   "75": {
     "封印ガード": "Blind Guard"
@@ -726,7 +726,7 @@
     "即死ガード Lv4": "Death Guard Lv4"
   },
   "243": {
-    "魅了ガード Lv4": "Charm Guard Lv4"
+    "魅了ガード Lv4": "Enthrall Guard Lv4"
   },
   "244": {
     "眠りガード Lv3": "Sleep Guard Lv3"
@@ -822,7 +822,7 @@
     "即死ガード Lv3": "Death Guard Lv3"
   },
   "275": {
-    "魅了ガード Lv3": "Charm Guard Lv3"
+    "魅了ガード Lv3": "Enthrall Guard Lv3"
   },
   "276": {
     "不死鳥天舞の型": "Phoenix Dance Mold"
@@ -1146,7 +1146,7 @@
     "clarity_nt_char_382": "clarity_nt_char_382"
   },
   "383": {
-    "魅了ガード＋５０％": "Charm Guard +50%"
+    "魅了ガード＋５０％": "Enthrall Guard +50%"
   },
   "384": {
     "魔物を倒すと１００％でためる": "Tension On Enemy Defeat 100%"

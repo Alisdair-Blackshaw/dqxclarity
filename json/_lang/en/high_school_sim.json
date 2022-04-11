@@ -984,7 +984,7 @@
     "clarity_nt_char_328": "clarity_nt_char_328"
   },
   "329": {
-    "フワフワダンス+100": "Fluffle Dance+100"
+    "フワフワダンス+100": "Fluffle Dance +100"
   },
   "330": {
     "ザオリク": "Kazing"
@@ -1254,7 +1254,7 @@
     "clarity_nt_char_418": "clarity_nt_char_418"
   },
   "419": {
-    "スラ・スラッシュ": "Slaslash"
+    "スラ・スラッシュ": "Slime Slash"
   },
   "420": {
     "clarity_nt_char_420": "clarity_nt_char_420"
@@ -1275,7 +1275,7 @@
     "clarity_nt_char_425": "clarity_nt_char_425"
   },
   "426": {
-    "スラ・ブレイク+100": "Slouble Trouble+100"
+    "スラ・ブレイク+100": "Slouble Trouble +100"
   },
   "427": {
     "常時かいふく魔力+40": "Magical Mending +40"
@@ -1698,7 +1698,7 @@
     "clarity_nt_char_566": "clarity_nt_char_566"
   },
   "567": {
-    "ベビーマダンテ": "Imp Burst"
+    "ベビーマダンテ": "Wimpy Burst"
   },
   "568": {
     "ちょとつもうしん": "Recklessness"
@@ -1935,7 +1935,7 @@
     "clarity_nt_char_645": "clarity_nt_char_645"
   },
   "646": {
-    "バードカッター": "Bird Cutter"
+    "バードカッター": "Birdcutter"
   },
   "647": {
     "バードスラッシュ": "Bird Slash"
@@ -1977,7 +1977,7 @@
     "クイックリペア": "Quick Repair"
   },
   "660": {
-    "魔道集束砲": "Magic Focus Gun"
+    "魔道集束砲": "Magic Cannon"
   },
   "661": {
     "おうえん": "Egg On"
@@ -2115,7 +2115,7 @@
     "因果の魔石": "Stone of Fate"
   },
   "706": {
-    "鉄球ジャグリング": "Iron Ball Juggling"
+    "鉄球ジャグリング": "Balls of Steel"
   },
   "707": {
     "clarity_nt_char_707": "clarity_nt_char_707"
@@ -2130,7 +2130,7 @@
     "ニードルレイン": "Needle Rain"
   },
   "711": {
-    "アサシンアタック": "Assassin Attack"
+    "アサシンアタック": "Assassin's Stab"
   },
   "712": {
     "clarity_nt_char_712": "clarity_nt_char_712"
@@ -2145,7 +2145,7 @@
     "clarity_nt_char_715": "clarity_nt_char_715"
   },
   "716": {
-    "アサシンアタック+50": "Assassin Attack +50"
+    "アサシンアタック+50": "Assassin's Stab +50"
   },
   "717": {
     "アップリケ": "Applique"
@@ -2397,10 +2397,10 @@
     "clarity_nt_char_799": "clarity_nt_char_799"
   },
   "800": {
-    "マジカルヒール": "Magical Heels"
+    "マジカルヒール": "Magical Heal"
   },
   "801": {
-    "マホトラ斬り": "Draining Dance"
+    "マホトラ斬り": "Draining Slash"
   },
   "802": {
     "clarity_nt_char_802": "clarity_nt_char_802"
@@ -2445,7 +2445,7 @@
     "ビッグシールド": "Immense Defence"
   },
   "816": {
-    "真・かぶと割り": "True Helm Splitter"
+    "真・かぶと割り": "Helm Crusher"
   },
   "817": {
     "ツッコミ": "Sober Slap"
@@ -2544,7 +2544,7 @@
     "ロックオン": "Lock-on"
   },
   "849": {
-    "真マヒャド斬り": "True Kacrack Slash"
+    "真マヒャド斬り": "Kacrackle Slash"
   },
   "850": {
     "ボミオスラッシュ+30": "Deceleratle Rush +30"
@@ -2553,7 +2553,7 @@
     "行動時10%ロックオン": "Lock-on On Action 10%"
   },
   "852": {
-    "真マヒャド斬り+100": "True Kacrack Slash +100"
+    "真マヒャド斬り+100": "Kacrackle Slash +100"
   },
   "853": {
     "スタンアロー": "Stun Arrow"
@@ -2679,7 +2679,7 @@
     "たんすのこやし": "Dresser Fertilizer"
   },
   "894": {
-    "ビックリたんす": "Surprised Dresser"
+    "ビックリたんす": "Wowdrobe"
   },
   "895": {
     "へそくりシャワー": "Stash Shower"
@@ -2688,7 +2688,7 @@
     "clarity_nt_char_896": "clarity_nt_char_896"
   },
   "897": {
-    "ビックリたんす+100": "Surprised Dresser +100"
+    "ビックリたんす+100": "Wowdrobe +100"
   },
   "898": {
     "ウッドボディ": "Wood Body"
@@ -4356,7 +4356,7 @@
     "clarity_nt_char_1452": "clarity_nt_char_1452"
   },
   "1453": {
-    "フワフワダンスの回復量が　増えた！": "Fluffle Dance power increased!"
+    "フワフワダンスの回復量が　増えた！": "Fluffle Dance's recovery increased!"
   },
   "1454": {
     "ザオリクの呪文を　おぼえた！": "You learned Kazing!"
@@ -4365,7 +4365,7 @@
     "clarity_nt_char_1455": "clarity_nt_char_1455"
   },
   "1456": {
-    "ラブリーフェイスの威力が　あがった！": "Minacious Allure power increased!"
+    "ラブリーフェイスの威力が　あがった！": "Minacious Allure's power increased!"
   },
   "1457": {
     "clarity_nt_char_1457": "clarity_nt_char_1457"
@@ -4413,7 +4413,7 @@
     "clarity_nt_char_1471": "clarity_nt_char_1471"
   },
   "1472": {
-    "ホラーフェイスの威力が　あがった！": "Scare Stare power increased!"
+    "ホラーフェイスの威力が　あがった！": "Scare Stare's power increased!"
   },
   "1473": {
     "スティック装備で　悪魔系モンスターを|攻撃時の威力が　あがった！": "Attack damage versus Demon-types increased|when equipped with a Wand!"
@@ -4611,7 +4611,7 @@
     "clarity_nt_char_1537": "clarity_nt_char_1537"
   },
   "1538": {
-    "スラ・スラッシュの特技を　おぼえた！": "You learned Slaslash!"
+    "スラ・スラッシュの特技を　おぼえた！": "You learned Slime Slash!"
   },
   "1539": {
     "clarity_nt_char_1539": "clarity_nt_char_1539"
@@ -5379,13 +5379,13 @@
     "おいかぜの効果時間が　１０秒　増えた！": "Blowback's duration increased by 10 seconds!"
   },
   "1794": {
-    "クイックリペアの特技を　おぼえた！": ""
+    "クイックリペアの特技を　おぼえた！": "You learned Quick Repair!"
   },
   "1795": {
-    "魔道集束砲の特技を　おぼえた！": ""
+    "魔道集束砲の特技を　おぼえた！": "You learned Magic Cannon!"
   },
   "1796": {
-    "おうえんの特技を　おぼえた！": ""
+    "おうえんの特技を　おぼえた！": "You learned Egg On!"
   },
   "1797": {
     "clarity_nt_char_1797": "clarity_nt_char_1797"
@@ -5532,7 +5532,7 @@
     "clarity_nt_char_1844": "clarity_nt_char_1844"
   },
   "1845": {
-    "鉄球ジャグリングの特技を　おぼえた！": ""
+    "鉄球ジャグリングの特技を　おぼえた！": "You learned Balls of Steel!"
   },
   "1846": {
     "clarity_nt_char_1846": "clarity_nt_char_1846"
@@ -5817,7 +5817,7 @@
     "リカバリングを　おぼえた！": ""
   },
   "1940": {
-    "マジカルブレイクの特技を　おぼえた！": ""
+    "マジカルブレイクの特技を　おぼえた！": "You learned Magical Break!"
   },
   "1941": {
     "clarity_nt_char_1941": "clarity_nt_char_1941"
@@ -5826,16 +5826,16 @@
     "やすらぎキャップを　おぼえた！": ""
   },
   "1943": {
-    "マジカルヒールの特技を　おぼえた！": ""
+    "マジカルヒールの特技を　おぼえた！": "You learned Magical Heal!"
   },
   "1944": {
-    "マホトラ斬りの特技を　おぼえた！": ""
+    "マホトラ斬りの特技を　おぼえた！": "You learned Draining Slash!"
   },
   "1945": {
     "clarity_nt_char_1945": "clarity_nt_char_1945"
   },
   "1946": {
-    "かぶと割りの特技を　おぼえた！": ""
+    "かぶと割りの特技を　おぼえた！": "You learned Helm Splitter!"
   },
   "1947": {
     "ロストスラッシュの特技を　おぼえた！": ""
@@ -5850,16 +5850,16 @@
     "clarity_nt_char_1950": "clarity_nt_char_1950"
   },
   "1951": {
-    "かぶと割りの威力が　あがった！": ""
+    "かぶと割りの威力が　あがった！": "Helm Splitter's power increased!"
   },
   "1952": {
-    "マジックブレイクの威力が　あがった！": ""
+    "マジックブレイクの威力が　あがった！": "Magic Break's power increased!"
   },
   "1953": {
     "clarity_nt_char_1953": "clarity_nt_char_1953"
   },
   "1954": {
-    "ズッシールドの特技を　おぼえた！": ""
+    "ズッシールドの特技を　おぼえた！": "You learned Kathunk!"
   },
   "1955": {
     "clarity_nt_char_1955": "clarity_nt_char_1955"
@@ -5871,7 +5871,7 @@
     "ビッグシールドの特技を　おぼえた！": "You learned Immense Defence!"
   },
   "1958": {
-    "真・かぶと割りの特技を　おぼえた！": ""
+    "真・かぶと割りの特技を　おぼえた！": "You learned Helm Crusher!"
   },
   "1959": {
     "ツッコミの特技を　おぼえた！": "You learned Sober Slap!"
@@ -5976,16 +5976,16 @@
     "clarity_nt_char_1992": "clarity_nt_char_1992"
   },
   "1993": {
-    "コードゼロの特技を　おぼえた！": ""
+    "コードゼロの特技を　おぼえた！": "You learned Code Zero!"
   },
   "1994": {
     "ロックオンの特技を　おぼえた！": "You learned Lock-On!"
   },
   "1995": {
-    "真マヒャド斬りの特技を　おぼえた！": ""
+    "真マヒャド斬りの特技を　おぼえた！": "You learned Kacrackle Slash!"
   },
   "1996": {
-    "ボミオスラッシュの威力が　あがった！": ""
+    "ボミオスラッシュの威力が　あがった！": "Kacrackle Slash's power increased!"
   },
   "1997": {
     "clarity_nt_char_1997": "clarity_nt_char_1997"
@@ -6114,16 +6114,16 @@
     "たんすマグナムの特技を　おぼえた！": ""
   },
   "2039": {
-    "チェストーの特技を　おぼえた！": ""
+    "チェストーの特技を　おぼえた！": "You learned Chesto!"
   },
   "2040": {
     "たんすマグナムの威力が　あがった！": ""
   },
   "2041": {
-    "チェストーの威力が　あがった！": ""
+    "チェストーの威力が　あがった！": "Chesto's power increased!"
   },
   "2042": {
-    "たいあたりの特技を　おぼえた！": ""
+    "たいあたりの特技を　おぼえた！": "You learned Body Slam!"
   },
   "2043": {
     "たんすのこやしを　おぼえた！": ""
@@ -6132,22 +6132,22 @@
     "clarity_nt_char_2044": "clarity_nt_char_2044"
   },
   "2045": {
-    "ビックリたんすの特技を　おぼえた！": ""
+    "ビックリたんすの特技を　おぼえた！": "You learned Wowdrobe!"
   },
   "2046": {
-    "へそくりシャワーの特技を　おぼえた！": ""
+    "へそくりシャワーの特技を　おぼえた！": "You learned Stash Shower!"
   },
   "2047": {
     "clarity_nt_char_2047": "clarity_nt_char_2047"
   },
   "2048": {
-    "ビックリたんすの威力が　あがった！": ""
+    "ビックリたんすの威力が　あがった！": "Wowdrobe's power increased!"
   },
   "2049": {
-    "ウッドボディを　おぼえた！": ""
+    "ウッドボディを　おぼえた！": "You learned Wood Body!"
   },
   "2050": {
-    "へそくりシャワーの威力が　あがった！": ""
+    "へそくりシャワーの威力が　あがった！": "Stash Shower's power increased!"
   },
   "2051": {
     "clarity_nt_char_2051": "clarity_nt_char_2051"
@@ -6180,7 +6180,7 @@
     "ダークネスショットの特技を　おぼえた！": "You learned Darkness Shot!"
   },
   "2061": {
-    "ペロペロの特技を　おぼえた！": ""
+    "ペロペロの特技を　おぼえた！": "You learned Lick!"
   },
   "2062": {
     "clarity_nt_char_2062": "clarity_nt_char_2062"
@@ -6189,7 +6189,7 @@
     "箱入りたんすを　おぼえた！": ""
   },
   "2064": {
-    "へそくりパワーの特技を　おぼえた！": ""
+    "へそくりパワーの特技を　おぼえた！": "You learned Secret Stash!"
   },
   "2065": {
     "石壁の護りの特技を　おぼえた！": ""

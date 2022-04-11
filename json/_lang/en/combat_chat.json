@@ -321,7 +321,7 @@
     "はげしいおたけび！": "Violent Roar!"
   },
   "108": {
-    "はじけとぶ！": ""
+    "はじけとぶ！": "Shoot Away!"
   },
   "109": {
     "clarity_nt_char_109": "clarity_nt_char_109"
@@ -8856,7 +8856,7 @@
     "clarity_nt_char_2952": "clarity_nt_char_2952"
   },
   "2953": {
-    "アサシンアタック": "Assassin Attack"
+    "アサシンアタック": "Assassin's Stab"
   },
   "2954": {
     "clarity_nt_char_2954": "clarity_nt_char_2954"
@@ -8919,13 +8919,13 @@
     "clarity_nt_char_2973": "clarity_nt_char_2973"
   },
   "2974": {
-    "フェザーストーム": ""
+    "フェザーストーム": "Featherstorm"
   },
   "2975": {
     "clarity_nt_char_2975": "clarity_nt_char_2975"
   },
   "2976": {
-    "スラ・スラッシュ": "Slaslash"
+    "スラ・スラッシュ": "Slime Slash"
   },
   "2977": {
     "clarity_nt_char_2977": "clarity_nt_char_2977"
@@ -8934,7 +8934,7 @@
     "スラ・ブレイク": "Slouble Trouble"
   },
   "2979": {
-    "ボディプレス": ""
+    "ボディプレス": "Body Press"
   },
   "2980": {
     "clarity_nt_char_2980": "clarity_nt_char_2980"
@@ -9204,7 +9204,7 @@
     "スラ・スパーク": "Zasplattle"
   },
   "3069": {
-    "バードカッター": "Bird Cutter"
+    "バードカッター": "Birdcutter"
   },
   "3070": {
     "バードスラッシュ": "Bird Slash"
@@ -9858,7 +9858,7 @@
     "clarity_nt_char_3286": "clarity_nt_char_3286"
   },
   "3287": {
-    "真マヒャド斬り": "True Kacrack Slash"
+    "真マヒャド斬り": "Kacrackle Slash"
   },
   "3288": {
     "ロックオン": "Lock-on"
@@ -10356,7 +10356,7 @@
     "ハットイルージョン": "Hat Illusion"
   },
   "3453": {
-    "マホトラ斬り": "Draining Dance"
+    "マホトラ斬り": "Draining Slash"
   },
   "3454": {
     "clarity_nt_char_3454": "clarity_nt_char_3454"
@@ -10860,7 +10860,7 @@
     "ラムネシャワー": "Ramune Shower"
   },
   "3621": {
-    "りゅうせいよび": "Call Meteor"
+    "りゅうせいよび": "Meteor Rain"
   },
   "3622": {
     "じゃあくのツメ": ""
@@ -11163,7 +11163,7 @@
     "チェストー": "Chesto"
   },
   "3722": {
-    "ビックリたんす": "Surprised Dresser"
+    "ビックリたんす": "Wowdrobe"
   },
   "3723": {
     "へそくりシャワー": "Stash Shower"
@@ -12441,7 +12441,7 @@
     "クイックリペア": "Quick Repair"
   },
   "4148": {
-    "魔道集束砲": "Magic Focus Gun"
+    "魔道集束砲": "Magic Cannon"
   },
   "4149": {
     "オーバーヒート": "Overheat"
@@ -12459,7 +12459,7 @@
     "clarity_nt_char_4153": "clarity_nt_char_4153"
   },
   "4154": {
-    "鉄球ジャグリング": "Iron Ball Juggling"
+    "鉄球ジャグリング": "Balls of Steel"
   },
   "4155": {
     "clarity_nt_char_4155": "clarity_nt_char_4155"
@@ -12489,10 +12489,10 @@
     "clarity_nt_char_4163": "clarity_nt_char_4163"
   },
   "4164": {
-    "マジカルヒール": "Magical Heel"
+    "マジカルヒール": "Magical Heal"
   },
   "4165": {
-    "真・かぶと割り": "True Helm Splitter"
+    "真・かぶと割り": "Helm Crusher"
   },
   "4166": {
     "たたかいの踊り": "Battle Dance"
@@ -12855,7 +12855,7 @@
     "clarity_nt_char_4285": "clarity_nt_char_4285"
   },
   "4286": {
-    "ベビーマダンテ": "Imp Burst"
+    "ベビーマダンテ": "Wimpy Burst"
   },
   "4287": {
     "ぼうぎょバリア": "Defend Barrier"
@@ -12912,7 +12912,7 @@
     "clarity_nt_char_4304": "clarity_nt_char_4304"
   },
   "4305": {
-    "へそくりパワー": "Stash Power"
+    "へそくりパワー": "Secret Stash"
   },
   "4306": {
     "フープサイクロン": ""
@@ -32718,7 +32718,7 @@
     "clarity_nt_char_10906": "clarity_nt_char_10906"
   },
   "10907": {
-    "マジカルヒールの|ＨＰ回復がおわった": ""
+    "マジカルヒールの|ＨＰ回復がおわった": "Magical Heal HP|recovery ended."
   },
   "10908": {
     "clarity_nt_char_10908": "clarity_nt_char_10908"
