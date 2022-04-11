@@ -377,22 +377,22 @@
         "「わあーっ　すごい！": "Wow! Amazing!"
     },
     "127": {
-        "「ほら　見て！|　大風車塔が　もう　あんなに遠くに！": "Look! Look! The big windmill tower is already|so far away!"
+        "「ほら　見て！|　大風車塔が　もう　あんなに遠くに！": "Look! The windmill tower is so far away!"
     },
     "128": {
-        "「……ねえ。|　思えば　私たち　一緒に|　たくさんの冒険を　してきたわよね。": "..... Looking back, we've had a lot of|adventures together..."
+        "「……ねえ。|　思えば　私たち　一緒に|　たくさんの冒険を　してきたわよね。": "You know, we've had so many adventures|together.."
     },
     "129": {
-        "「いろいろと　つらいことも　あったけれど|　あなたが　いてくれたから|　いつも　乗り越えることが　できたのよ。": "I've been through a lot, but because of you,|I've always been able to get through..."
+        "「いろいろと　つらいことも　あったけれど|　あなたが　いてくれたから|　いつも　乗り越えることが　できたのよ。": "Every hardship that we faced. I was able to|overcome them since you were always by my|side.."
     },
     "130": {
-        "「私　気づいたら　あなたのことばかり|　考えているわ……。": "I find myself thinking about you all the|time..."
+        "「私　気づいたら　あなたのことばかり|　考えているわ……。": "I'm always.. constantly thinking about you|..and us."
     },
     "131": {
-        "「ねえ……。|　あなたのことは　勇者と盟友の関係以上に|　……特別な人だと　思っているの。": "Hey... I thought you were more than just a|hero and an ally. I thought you were someone|special."
+        "「ねえ……。|　あなたのことは　勇者と盟友の関係以上に|　……特別な人だと　思っているの。": "You've become more than just a special|person to me than a brave hero and|ally. I really mean that from|<br>|the heart."
     },
     "132": {
-        "「……あなたにとって　私との関係は|　勇者と盟友……　だけなのかな？|　それとも……　特別な人　なのかな？|<select_nc>|特別な人|勇者と盟友|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "... To you, my relationship is that of hero|and ally... Is that it? Or... Or are you|someone special?|<select_nc>|Special People|Brave men and allies|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+        "「……あなたにとって　私との関係は|　勇者と盟友……　だけなのかな？|　それとも……　特別な人　なのかな？|<select_nc>|特別な人|勇者と盟友|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "Is our relationship just a brave hero and|ally? Or is it something special?|<select_nc>|Special|Just Allies|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
     },
     "133": {
         "「そんな　ひどい……。": "Oh, no, no, no, no."
