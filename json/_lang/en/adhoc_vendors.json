@@ -1125,85 +1125,85 @@
     "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
   },
   "376": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "377": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "378": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "379": {
-    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "380": {
-    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "381": {
-    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "382": {
-    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "383": {
-    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "384": {
-    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "385": {
-    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "386": {
-    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "387": {
-    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "388": {
-    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "389": {
-    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "390": {
-    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "391": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "I've a rule where each person can buy 1 item|per day, so that's it for today.|<bw_break>"
   },
   "392": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "I've a rule where each person can buy 1 item|per day, so that's it for today.|<bw_break>"
   },
   "393": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "I've a rule where each person can buy 1 item|per day, so that's it for today.|<bw_break>"
   },
   "394": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "I've a rule where each person can buy 1 item|per day, so that's it for today.|<bw_break>"
   },
   "395": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "I've a rule where each person can buy 1 item|per day, so that's it for today.|<bw_break>"
   },
   "396": {
-    "「……ありゃっ　<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えているみたいですね。|　それでも買われますか？|<yesno 2><break>": ""
+    "「……ありゃっ　<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えているみたいですね。|　それでも買われますか？|<yesno 2><break>": "Oh, looks like you already know the|<%sL_KAITAI_ITEM> recipe.|You still want to buy it?|<yesno 2><break>"
   },
   "397": {
-    "「他に何か　ご用はありますかね？|<break>": ""
+    "「他に何か　ご用はありますかね？|<break>": "Anything else I can help you with?|<break>"
   },
   "398": {
-    "「他にも　何か　見ていかれますか？|<break>": ""
+    "「他にも　何か　見ていかれますか？|<break>": "Would you like to see something else?|<break>"
   },
   "399": {
-    "「まだ何か　見ていかれますか？|<break>": ""
+    "「まだ何か　見ていかれますか？|<break>": "Still interested in something?|<break>"
   },
   "400": {
-    "「ほほう　<%sL_KAITAI_ITEM>ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": ""
+    "「ほほう　<%sL_KAITAI_ITEM>ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, the <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>"
   },
   "401": {
-    "「ほほう　<%sL_KAITAI_ITEM>を　ひとつですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": ""
+    "「ほほう　<%sL_KAITAI_ITEM>を　ひとつですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, the <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>"
   },
   "402": {
-    "「ほほう　<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": ""
+    "「ほほう　<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, <%dL_KAUKAZU> <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>"
   },
   "403": {
     "「<%sL_KAITAI_ITEM>ですね。|　おやっ　これは　<%sL_GENDER>性の方でないと|　装備できませんが　それでも買われますか？|<yesno 2><break>": ""
@@ -1269,7 +1269,7 @@
     "「うーん　申し訳ないですが|　お客さんは　すでに商品を購入されているので|　もう　お譲りできないですね。|<bw_break>": ""
   },
   "424": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "425": {
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
@@ -1320,7 +1320,7 @@
     "「ありがとうございました！ |　いつか　また　お会いできるとよいですね！|<turn_end>": ""
   },
   "441": {
-    "「いらっしゃいませ。|　ここは　トルネコの店です。|<break>": ""
+    "「いらっしゃいませ。|　ここは　トルネコの店です。|<break>": "Welcome, welcome. This is my store.|<break>"
   },
   "442": {
     "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -1332,7 +1332,7 @@
     "「<%sL_KAITAI_ITEM>ですね。|　これは　<%sL_SYOKUNIN>さんしか|　扱えないレシピですが　それでも買いますか？|<yesno 2><break>": ""
   },
   "445": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.<bw_break>"
   },
   "446": {
     "「お買い上げ　ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": ""
@@ -13440,7 +13440,7 @@
     "「<%sM_item>と　<%sM_item2>|　両方　お持ちのようですね。|　どちらを　ご使用されますか？|<select_se_off>|ボスコイン無料券|ボスコイン優待券|<select_end><close>": ""
   },
   "4481": {
-    "「いらっしゃいませ。|　ここは　トルネコの店です。|<break>": ""
+    "「いらっしゃいませ。|　ここは　トルネコの店です。|<break>": "Welcome, welcome. This is my store.|<break>"
   },
   "4482": {
     "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"

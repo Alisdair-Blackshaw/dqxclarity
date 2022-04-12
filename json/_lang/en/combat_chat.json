@@ -294,7 +294,7 @@
     "逃げだした": "Ran away!"
   },
   "99": {
-    "超ちからため！！": ""
+    "超ちからため！！": "Super Strength!!"
   },
   "100": {
     "clarity_nt_char_100": "clarity_nt_char_100"
@@ -321,7 +321,7 @@
     "はげしいおたけび！": "Violent Roar!"
   },
   "108": {
-    "はじけとぶ！": ""
+    "はじけとぶ！": "Shoot Away!"
   },
   "109": {
     "clarity_nt_char_109": "clarity_nt_char_109"
@@ -8856,7 +8856,7 @@
     "clarity_nt_char_2952": "clarity_nt_char_2952"
   },
   "2953": {
-    "アサシンアタック": "Assassin Attack"
+    "アサシンアタック": "Assassin's Stab"
   },
   "2954": {
     "clarity_nt_char_2954": "clarity_nt_char_2954"
@@ -8919,13 +8919,13 @@
     "clarity_nt_char_2973": "clarity_nt_char_2973"
   },
   "2974": {
-    "フェザーストーム": ""
+    "フェザーストーム": "Featherstorm"
   },
   "2975": {
     "clarity_nt_char_2975": "clarity_nt_char_2975"
   },
   "2976": {
-    "スラ・スラッシュ": "Slaslash"
+    "スラ・スラッシュ": "Slime Slash"
   },
   "2977": {
     "clarity_nt_char_2977": "clarity_nt_char_2977"
@@ -8934,7 +8934,7 @@
     "スラ・ブレイク": "Slouble Trouble"
   },
   "2979": {
-    "ボディプレス": ""
+    "ボディプレス": "Body Press"
   },
   "2980": {
     "clarity_nt_char_2980": "clarity_nt_char_2980"
@@ -9051,7 +9051,7 @@
     "飛翔拳": ""
   },
   "3018": {
-    "ロープ投げ": ""
+    "ロープ投げ": "Throw Rope"
   },
   "3019": {
     "のろい": "Curse"
@@ -9129,19 +9129,19 @@
     "しおまねき": ""
   },
   "3044": {
-    "ランダムフォース": ""
+    "ランダムフォース": "Random Fource"
   },
   "3045": {
     "clarity_nt_char_3045": "clarity_nt_char_3045"
   },
   "3046": {
-    "ガードマスター": ""
+    "ガードマスター": "Guard Master"
   },
   "3047": {
     "会心完全ガード": "Desperate Measures"
   },
   "3048": {
-    "かすみがくれ": ""
+    "かすみがくれ": "Haze Hide"
   },
   "3049": {
     "clarity_nt_char_3049": "clarity_nt_char_3049"
@@ -9204,7 +9204,7 @@
     "スラ・スパーク": "Zasplattle"
   },
   "3069": {
-    "バードカッター": "Bird Cutter"
+    "バードカッター": "Birdcutter"
   },
   "3070": {
     "バードスラッシュ": "Bird Slash"
@@ -9294,25 +9294,25 @@
     "笑いながら攻撃": "Laugh Attack"
   },
   "3099": {
-    "ドロップキック": ""
+    "ドロップキック": "Dropkick"
   },
   "3100": {
-    "ミサイルキック": ""
+    "ミサイルキック": "Missle Kick"
   },
   "3101": {
-    "ふみつけ": ""
+    "ふみつけ": "Trample"
   },
   "3102": {
     "clarity_nt_char_3102": "clarity_nt_char_3102"
   },
   "3103": {
-    "ロープハンマー": ""
+    "ロープハンマー": "Rope Hammer"
   },
   "3104": {
     "衝撃波": "Shockwave"
   },
   "3105": {
-    "タックル": ""
+    "タックル": "Tackle"
   },
   "3106": {
     "clarity_nt_char_3106": "clarity_nt_char_3106"
@@ -9330,7 +9330,7 @@
     "おおあばれ": ""
   },
   "3111": {
-    "リーフスラッシュ": ""
+    "リーフスラッシュ": "Leaf Slash"
   },
   "3112": {
     "clarity_nt_char_3112": "clarity_nt_char_3112"
@@ -9348,22 +9348,22 @@
     "テールスイング": "Tail Swing"
   },
   "3117": {
-    "回転キック": ""
+    "回転キック": "Spin Kick"
   },
   "3118": {
-    "振り回し": ""
+    "振り回し": "Toss Around"
   },
   "3119": {
     "clarity_nt_char_3119": "clarity_nt_char_3119"
   },
   "3120": {
-    "回転斬り": ""
+    "回転斬り": "Spin Slash"
   },
   "3121": {
     "clarity_nt_char_3121": "clarity_nt_char_3121"
   },
   "3122": {
-    "回転パンチ": ""
+    "回転パンチ": "Spin Punch"
   },
   "3123": {
     "根っこビンタ": ""
@@ -9630,7 +9630,7 @@
     "clarity_nt_char_3210": "clarity_nt_char_3210"
   },
   "3211": {
-    "ミサイル": ""
+    "ミサイル": "Missle"
   },
   "3212": {
     "clarity_nt_char_3212": "clarity_nt_char_3212"
@@ -9657,10 +9657,10 @@
     "Ｖジャンプ": "V Jump"
   },
   "3220": {
-    "Ｗジャンプ": ""
+    "Ｗジャンプ": "Double Jump"
   },
   "3221": {
-    "魔蝕": "Blast"
+    "魔蝕": "Decay"
   },
   "3222": {
     "clarity_nt_char_3222": "clarity_nt_char_3222"
@@ -9858,7 +9858,7 @@
     "clarity_nt_char_3286": "clarity_nt_char_3286"
   },
   "3287": {
-    "真マヒャド斬り": "True Kacrack Slash"
+    "真マヒャド斬り": "Kacrackle Slash"
   },
   "3288": {
     "ロックオン": "Lock-on"
@@ -10146,7 +10146,7 @@
     "いたずラッシュ": "Naughty Rush"
   },
   "3383": {
-    "超ちからため": ""
+    "超ちからため": "Super Strength"
   },
   "3384": {
     "clarity_nt_char_3384": "clarity_nt_char_3384"
@@ -10356,7 +10356,7 @@
     "ハットイルージョン": "Hat Illusion"
   },
   "3453": {
-    "マホトラ斬り": "Draining Dance"
+    "マホトラ斬り": "Draining Slash"
   },
   "3454": {
     "clarity_nt_char_3454": "clarity_nt_char_3454"
@@ -10809,7 +10809,7 @@
     "clarity_nt_char_3603": "clarity_nt_char_3603"
   },
   "3604": {
-    "ロマネスクなカラー": ""
+    "ロマネスクなカラー": "Romanesque Color"
   },
   "3605": {
     "ルネッサンスウェーブ": "Renaissance Wave"
@@ -10818,13 +10818,13 @@
     "clarity_nt_char_3606": "clarity_nt_char_3606"
   },
   "3607": {
-    "覇道のころも": ""
+    "覇道のころも": "Military Cloak"
   },
   "3608": {
     "clarity_nt_char_3608": "clarity_nt_char_3608"
   },
   "3609": {
-    "逆鱗のころも": ""
+    "逆鱗のころも": "Imperial Cloak"
   },
   "3610": {
     "clarity_nt_char_3610": "clarity_nt_char_3610"
@@ -10845,7 +10845,7 @@
     "アンチイエローバー": "Anti-Yellow Bar"
   },
   "3616": {
-    "一刀両断": ""
+    "一刀両断": "Half Slice"
   },
   "3617": {
     "clarity_nt_char_3617": "clarity_nt_char_3617"
@@ -10860,13 +10860,13 @@
     "ラムネシャワー": "Ramune Shower"
   },
   "3621": {
-    "りゅうせいよび": "Call Meteor"
+    "りゅうせいよび": "Meteor Rain"
   },
   "3622": {
-    "じゃあくのツメ": ""
+    "じゃあくのツメ": "Evil Claws"
   },
   "3623": {
-    "はめつのうた": ""
+    "はめつのうた": "Song of Ruin"
   },
   "3624": {
     "clarity_nt_char_3624": "clarity_nt_char_3624"
@@ -10878,7 +10878,7 @@
     "グラビティハンマー": "Gravity Hammer"
   },
   "3627": {
-    "祝福の光": ""
+    "祝福の光": "Bless Light"
   },
   "3628": {
     "clarity_nt_char_3628": "clarity_nt_char_3628"
@@ -10887,19 +10887,19 @@
     "クイーンオブハート": "Queen of Hearts"
   },
   "3630": {
-    "執事召喚": ""
+    "執事召喚": "Call Butler"
   },
   "3631": {
     "clarity_nt_char_3631": "clarity_nt_char_3631"
   },
   "3632": {
-    "精霊の風": ""
+    "精霊の風": "Spirit Winds"
   },
   "3633": {
     "clarity_nt_char_3633": "clarity_nt_char_3633"
   },
   "3634": {
-    "純真な祈り": ""
+    "純真な祈り": "Pure Prayer"
   },
   "3635": {
     "猛きたましい": "Fierce Soul"
@@ -10926,7 +10926,7 @@
     "clarity_nt_char_3642": "clarity_nt_char_3642"
   },
   "3643": {
-    "幻惑のひとみ": ""
+    "幻惑のひとみ": "Dazzling Eyes"
   },
   "3644": {
     "clarity_nt_char_3644": "clarity_nt_char_3644"
@@ -10941,7 +10941,7 @@
     "撃チマクル": ""
   },
   "3648": {
-    "突撃命令": ""
+    "突撃命令": "Charge Order"
   },
   "3649": {
     "clarity_nt_char_3649": "clarity_nt_char_3649"
@@ -11076,7 +11076,7 @@
     "clarity_nt_char_3692": "clarity_nt_char_3692"
   },
   "3693": {
-    "ちからため": ""
+    "ちからため": "Muster Strength"
   },
   "3694": {
     "うんメェ～モチ": ""
@@ -11163,7 +11163,7 @@
     "チェストー": "Chesto"
   },
   "3722": {
-    "ビックリたんす": "Surprised Dresser"
+    "ビックリたんす": "Wowdrobe"
   },
   "3723": {
     "へそくりシャワー": "Stash Shower"
@@ -12441,7 +12441,7 @@
     "クイックリペア": "Quick Repair"
   },
   "4148": {
-    "魔道集束砲": "Magic Focus Gun"
+    "魔道集束砲": "Magic Cannon"
   },
   "4149": {
     "オーバーヒート": "Overheat"
@@ -12459,7 +12459,7 @@
     "clarity_nt_char_4153": "clarity_nt_char_4153"
   },
   "4154": {
-    "鉄球ジャグリング": "Iron Ball Juggling"
+    "鉄球ジャグリング": "Balls of Steel"
   },
   "4155": {
     "clarity_nt_char_4155": "clarity_nt_char_4155"
@@ -12489,10 +12489,10 @@
     "clarity_nt_char_4163": "clarity_nt_char_4163"
   },
   "4164": {
-    "マジカルヒール": "Magical Heel"
+    "マジカルヒール": "Magical Heal"
   },
   "4165": {
-    "真・かぶと割り": "True Helm Splitter"
+    "真・かぶと割り": "Helm Crusher"
   },
   "4166": {
     "たたかいの踊り": "Battle Dance"
@@ -12855,7 +12855,7 @@
     "clarity_nt_char_4285": "clarity_nt_char_4285"
   },
   "4286": {
-    "ベビーマダンテ": "Imp Burst"
+    "ベビーマダンテ": "Wimpy Burst"
   },
   "4287": {
     "ぼうぎょバリア": "Defend Barrier"
@@ -12912,7 +12912,7 @@
     "clarity_nt_char_4304": "clarity_nt_char_4304"
   },
   "4305": {
-    "へそくりパワー": "Stash Power"
+    "へそくりパワー": "Secret Stash"
   },
   "4306": {
     "フープサイクロン": ""
@@ -17298,31 +17298,31 @@
     "大地激裂震": ""
   },
   "5767": {
-    "コズミックボール": ""
+    "コズミックボール": "Cosmic Ball"
   },
   "5768": {
     "clarity_nt_char_5768": "clarity_nt_char_5768"
   },
   "5769": {
-    "アポカリプスエンド": "Pole of Opposites End"
+    "アポカリプスエンド": "Apocalypse End"
   },
   "5770": {
-    "フェザーミサイル": ""
+    "フェザーミサイル": "Feather Missle"
   },
   "5771": {
     "clarity_nt_char_5771": "clarity_nt_char_5771"
   },
   "5772": {
-    "羽召喚": ""
+    "羽召喚": "Feathers"
   },
   "5773": {
-    "後光がさす": ""
+    "後光がさす": "Halo's Light"
   },
   "5774": {
     "時を進める": "Forward in time"
   },
   "5775": {
-    "神罰の光": ""
+    "神罰の光": "Divine Wrath"
   },
   "5776": {
     "clarity_nt_char_5776": "clarity_nt_char_5776"
@@ -17610,7 +17610,7 @@
     "翠将の喝破": "Green Defeat"
   },
   "5871": {
-    "強化ガジェットＺ式": ""
+    "強化ガジェットＺ式": "Gadget Type-Z"
   },
   "5872": {
     "クリムゾンパワー": "Crimson Power"
@@ -18378,7 +18378,7 @@
     "転魔の刻印": ""
   },
   "6127": {
-    "鎧殻強化": ""
+    "鎧殻強化": "Armor Boost"
   },
   "6128": {
     "clarity_nt_char_6128": "clarity_nt_char_6128"
@@ -18501,16 +18501,16 @@
     "厄災の滅撃": "Calamity Break"
   },
   "6168": {
-    "デスパワー発現": ""
+    "デスパワー発現": "Manifest Death Power"
   },
   "6169": {
     "巨大化トラップ": ""
   },
   "6170": {
-    "竜の巫女の祝福": ""
+    "竜の巫女の祝福": "Dragonic Blessing"
   },
   "6171": {
-    "鍛竜の誓い": ""
+    "鍛竜の誓い": "Dragonic Oath"
   },
   "6172": {
     "火の粉": ""
@@ -19605,7 +19605,7 @@
     "レミラーマ": "Snoop"
   },
   "6536": {
-    "暗闇の旋風": ""
+    "暗闇の旋風": "Dark Whirlwind"
   },
   "6537": {
     "天光の葉": "Heaven Leaf"
@@ -21384,7 +21384,7 @@
     "ラムネの雨で|周囲を巻きこむ|ダメージを与える": ""
   },
   "7129": {
-    "オオカミが|２回攻撃する": ""
+    "オオカミが|２回攻撃する": "A wolf that|attacks twice."
   },
   "7130": {
     "clarity_nt_char_7130": "clarity_nt_char_7130"
@@ -21465,37 +21465,37 @@
     "clarity_nt_char_7155": "clarity_nt_char_7155"
   },
   "7156": {
-    "会心ダメージが|必ず出る|周囲への重爆撃！": ""
+    "会心ダメージが|必ず出る|周囲への重爆撃！": "An area blow|that always deals|critical damage!"
   },
   "7157": {
-    "気合を乗せて|与えるダメージを|アップさせる！": ""
+    "気合を乗せて|与えるダメージを|アップさせる！": "Get fired up and|increase your|damage dealt!"
   },
   "7158": {
-    "呼び出した執事が|複数効果がかかる|ポルカを熱唱！": ""
+    "呼び出した執事が|複数効果がかかる|ポルカを熱唱！": "Call a butler to|sing a polka for|good effects!"
   },
   "7159": {
-    "たまに２回行動|できるようになる|仲間への恵みの風": ""
+    "たまに２回行動|できるようになる|仲間への恵みの風": "A gift to allies|that may let|them act twice."
   },
   "7160": {
-    "清らかな祈りで|みんなの|テンションが上昇": ""
+    "清らかな祈りで|みんなの|テンションが上昇": "Lift everyone's|spirits by|raising tension."
   },
   "7161": {
-    "たましい震わせ|自分のテンション|を一気に上げる！": ""
+    "たましい震わせ|自分のテンション|を一気に上げる！": "Shake your spirit|and boost your|tension to max!"
   },
   "7162": {
-    "精神をとぎ澄まし|自分の会心率と|暴走率をアップ！": ""
+    "精神をとぎ澄まし|自分の会心率と|暴走率をアップ！": "Sharpens mind to|boost critical/|haywire rates!"
   },
   "7163": {
-    "みんなの|ＭＰを回復し|ＭＰ消費０にする": ""
+    "みんなの|ＭＰを回復し|ＭＰ消費０にする": "Regain everyone's|MP and reduce|MP costs to 0."
   },
   "7164": {
     "clarity_nt_char_7164": "clarity_nt_char_7164"
   },
   "7165": {
-    "敵１体を|必ずマヒさせる|呪縛のまなざし！": ""
+    "敵１体を|必ずマヒさせる|呪縛のまなざし！": "A cursed gaze|that surely|paralyzes a foe!"
   },
   "7166": {
-    "自分の受ける|ダメージを|かなり減らす！": ""
+    "自分の受ける|ダメージを|かなり減らす！": "Reduce taken|damage by a|lot!"
   },
   "7167": {
     "clarity_nt_char_7167": "clarity_nt_char_7167"
@@ -21657,7 +21657,7 @@
     "みがわりの人形で|次の攻撃をガード": ""
   },
   "7220": {
-    "チカラをためて|テンションアップ": ""
+    "チカラをためて|テンションアップ": "Increase tension|by 1 level."
   },
   "7221": {
     "clarity_nt_char_7221": "clarity_nt_char_7221"
@@ -21669,7 +21669,7 @@
     "clarity_nt_char_7223": "clarity_nt_char_7223"
   },
   "7224": {
-    "フルパワーで|敵１体を攻撃|しばらく眠り": "Punch with the|power to put|enemy to sleep."
+    "フルパワーで|敵１体を攻撃|しばらく眠り": "Punch with the|power to put|a foe to sleep."
   },
   "7225": {
     "clarity_nt_char_7225": "clarity_nt_char_7225"
@@ -21681,7 +21681,7 @@
     "真のチカラを|引き出して|最大ＨＰが増える": "Draw out the true|power of Golems|to boost Max HP."
   },
   "7228": {
-    "敵１体を攻撃し|たまに魅了する": ""
+    "敵１体を攻撃し|たまに魅了する": "An attack that|sometimes|enthralls."
   },
   "7229": {
     "顔を洗って|自分のＭＰを|１０～回復": ""
@@ -21696,7 +21696,7 @@
     "clarity_nt_char_7232": "clarity_nt_char_7232"
   },
   "7233": {
-    "風のチカラを|剣に宿して|敵を斬りつける": "Woosh type|slash attack.|"
+    "風のチカラを|剣に宿して|敵を斬りつける": "Slash your sword|with the|power of wind."
   },
   "7234": {
     "clarity_nt_char_7234": "clarity_nt_char_7234"
@@ -21987,7 +21987,7 @@
     "clarity_nt_char_7329": "clarity_nt_char_7329"
   },
   "7330": {
-    "いやしの温泉水": ""
+    "いやしの温泉水": "Healing Spring Water"
   },
   "7331": {
     "死んでしまっても|確実に生き返る": "Chance to revive|if user dies."
@@ -21999,7 +21999,7 @@
     "呪文のダメージを|大幅に上げる": "Spell damage|greatly increased!"
   },
   "7334": {
-    "巨大なバクダンで|敵をふっとばす": ""
+    "巨大なバクダンで|敵をふっとばす": "Blow away foes|with a huge|bomb."
   },
   "7335": {
     "clarity_nt_char_7335": "clarity_nt_char_7335"
@@ -22029,31 +22029,31 @@
     "ＭＰ１００を|仲間に分け与える|神秘の踊り": ""
   },
   "7344": {
-    "勇者の心で ダメージが与えられるようになった！": ""
+    "勇者の心で ダメージが与えられるようになった！": "The Hero's Heart increases your damage dealt!"
   },
   "7345": {
-    "巨大な火球を|はきだして|敵を攻撃": ""
+    "巨大な火球を|はきだして|敵を攻撃": "Spits out a|huge fireball to|attack a foe."
   },
   "7346": {
-    "かすみにかくれて|身かわし率を|アップする": ""
+    "かすみにかくれて|身かわし率を|アップする": "Hide in a haze|to increase|dodge rate."
   },
   "7347": {
-    "回復呪文の効果を|かなり高める": ""
+    "回復呪文の効果を|かなり高める": "Greatly increases|recovery spell|effects."
   },
   "7348": {
-    "ダメージを受けて|ＭＰ回復": ""
+    "ダメージを受けて|ＭＰ回復": "Restore MP from|taken damage."
   },
   "7349": {
-    "周囲の敵の|目をくらませる": ""
+    "周囲の敵の|目をくらませる": "Dazzles enemies|surrounding you."
   },
   "7350": {
-    "勇者の眼で 幻影を見破った！": ""
+    "勇者の眼で 幻影を見破った！": "Saw through illusion with Hero's Eyes!"
   },
   "7351": {
     "clarity_nt_char_7351": "clarity_nt_char_7351"
   },
   "7352": {
-    "勇者の盾に 守られる！": ""
+    "勇者の盾に 守られる！": "Protected by the Hero's Shield!"
   },
   "7353": {
     "周りの敵を攻撃し|攻撃力を下げ|行動間隔ものばす": ""
@@ -23025,19 +23025,19 @@
     "clarity_nt_char_7675": "clarity_nt_char_7675"
   },
   "7676": {
-    "神もおそれる|闇のチカラを|３連続で放つ": ""
+    "神もおそれる|闇のチカラを|３連続で放つ": "Assault a foe|with darkness|3 times."
   },
   "7677": {
     "clarity_nt_char_7677": "clarity_nt_char_7677"
   },
   "7678": {
-    "巨大な火柱を|３連続で放ち|敵を焼きつくす": ""
+    "巨大な火柱を|３連続で放ち|敵を焼きつくす": "3 giant fireballs|rapidly burn|the enemy."
   },
   "7679": {
-    "周囲の仲間の|攻撃力を|少し上げる": ""
+    "周囲の仲間の|攻撃力を|少し上げる": "Raise nearby|allies' attack|a little."
   },
   "7680": {
-    "突撃命令で|周囲の攻撃力と|テンションアップ": ""
+    "突撃命令で|周囲の攻撃力と|テンションアップ": "Raise nearby|allies' attack|and tension."
   },
   "7681": {
     "clarity_nt_char_7681": "clarity_nt_char_7681"
@@ -23049,7 +23049,7 @@
     "clarity_nt_char_7683": "clarity_nt_char_7683"
   },
   "7684": {
-    "ひばしらを立て|敵１体を攻撃|天地雷鳴士専用": ""
+    "ひばしらを立て|敵１体を攻撃|天地雷鳴士専用": "Create a pillar|of flames that|singes an enemy."
   },
   "7685": {
     "clarity_nt_char_7685": "clarity_nt_char_7685"
@@ -24057,19 +24057,19 @@
     "clarity_nt_char_8019": "clarity_nt_char_8019"
   },
   "8020": {
-    "たまに２回行動|できるようになる|古代の処理術": ""
+    "たまに２回行動|できるようになる|古代の処理術": "Ancient technique|that may let an|ally act twice."
   },
   "8021": {
-    "気迫溢れる演説で|みんなの|テンションが上昇": ""
+    "気迫溢れる演説で|みんなの|テンションが上昇": "Spirited speech|raises everyone's|tension."
   },
   "8022": {
     "clarity_nt_char_8022": "clarity_nt_char_8022"
   },
   "8023": {
-    "勇気をたぎらせ|自分のテンション|を一気に上げる！": ""
+    "勇気をたぎらせ|自分のテンション|を一気に上げる！": "Bolster yourself|to raise tension|to the max!"
   },
   "8024": {
-    "敵１体を|必ずマヒさせる|時渡りの応用技": ""
+    "敵１体を|必ずマヒさせる|時渡りの応用技": "A time technique|that surely|paralyzes a foe."
   },
   "8025": {
     "clarity_nt_char_8025": "clarity_nt_char_8025"
@@ -27426,7 +27426,7 @@
     "clarity_nt_char_9142": "clarity_nt_char_9142"
   },
   "9143": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 鍛竜の誓いに 守られた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 鍛竜の誓いに 守られた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was protected by Dragonic Oath!"
   },
   "9144": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃を はね返した！|\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに <%dB_VALUE>のダメージ！": ""
@@ -28836,7 +28836,7 @@
     "clarity_nt_char_9612": "clarity_nt_char_9612"
   },
   "9613": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鎧殻強化が とけた。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鎧殻強化が とけた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Armor Boost faded."
   },
   "9614": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 不滅の聖なる祈りの効果がきえた。": ""
@@ -28857,7 +28857,7 @@
     "clarity_nt_char_9619": "clarity_nt_char_9619"
   },
   "9620": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鍛竜の誓いが とけた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鍛竜の誓いが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Dragonic Oath faded!"
   },
   "9621": {
     "clarity_nt_char_9621": "clarity_nt_char_9621"
@@ -30999,7 +30999,7 @@
     "鎌でガードが|しやすくなった！": "Easier to parry|with a sickle!"
   },
   "10334": {
-    "鍛竜の誓い！": ""
+    "鍛竜の誓い！": "Dragonic Oath!"
   },
   "10335": {
     "clarity_nt_char_10335": "clarity_nt_char_10335"
@@ -31662,7 +31662,7 @@
     "デスパワーを|消費しなかった！": "Death Power was|not consumed!"
   },
   "10555": {
-    "鍛竜の誓いに|守られた！": ""
+    "鍛竜の誓いに|守られた！": "Protected by|Dragonic Oath!"
   },
   "10556": {
     "clarity_nt_char_10556": "clarity_nt_char_10556"
@@ -32718,7 +32718,7 @@
     "clarity_nt_char_10906": "clarity_nt_char_10906"
   },
   "10907": {
-    "マジカルヒールの|ＨＰ回復がおわった": ""
+    "マジカルヒールの|ＨＰ回復がおわった": "Magical Heal HP|recovery ended."
   },
   "10908": {
     "clarity_nt_char_10908": "clarity_nt_char_10908"
@@ -33045,22 +33045,22 @@
     "スピリットゾーンの|ＭＰ回復がおわった": "Spirit Zone MP|recovery ended."
   },
   "11016": {
-    "視界がもどった": ""
+    "視界がもどった": "Vision returned."
   },
   "11017": {
     "攻撃時呪いの効果が|きえた": "Curse on attack effect|faded."
   },
   "11018": {
-    "死霊の導き効果が|きえた": ""
+    "死霊の導き効果が|きえた": "Spirit Guidance|effect ended."
   },
   "11019": {
     "clarity_nt_char_11019": "clarity_nt_char_11019"
   },
   "11020": {
-    "鎧殻強化が|とけた": ""
+    "鎧殻強化が|とけた": "Armor Boost faded."
   },
   "11021": {
-    "デスパワー解放がおわった": ""
+    "デスパワー解放がおわった": "Death Power Release|ended."
   },
   "11022": {
     "clarity_nt_char_11022": "clarity_nt_char_11022"
@@ -33072,7 +33072,7 @@
     "不滅のバイシが|もとにもどった": ""
   },
   "11025": {
-    "不滅の魔力かくせいが|もとにもどった": ""
+    "不滅の魔力かくせいが|もとにもどった": "Keep Channel Anger|back to normal."
   },
   "11026": {
     "clarity_nt_char_11026": "clarity_nt_char_11026"
@@ -33084,7 +33084,7 @@
     "clarity_nt_char_11028": "clarity_nt_char_11028"
   },
   "11029": {
-    "鍛竜の誓いが|とけた": ""
+    "鍛竜の誓いが|とけた": "Dragonic Oath|faded."
   },
   "11030": {
     "clarity_nt_char_11030": "clarity_nt_char_11030"
@@ -33141,13 +33141,13 @@
     "どうぐ最適術の|ガード効果がきえた": ""
   },
   "11048": {
-    "ブレイブチャージの|効果がきえた": ""
+    "ブレイブチャージの|効果がきえた": "Brave Charge effect|faded."
   },
   "11049": {
     "clarity_nt_char_11049": "clarity_nt_char_11049"
   },
   "11050": {
-    "特技と呪文のダメージが|50増える効果がきえた": ""
+    "特技と呪文のダメージが|50増える効果がきえた": "Skill/Spell Damage|+50 effect faded."
   },
   "11051": {
     "うけるダメージが|20少なくなる効果がきえた": "Damage reduction|effect faded."
@@ -33168,7 +33168,7 @@
     "clarity_nt_char_11056": "clarity_nt_char_11056"
   },
   "11057": {
-    "ＨＰが少しずつ|回復効果がきえた": ""
+    "ＨＰが少しずつ|回復効果がきえた": "HP recovery over|time effect faded."
   },
   "11058": {
     "clarity_nt_char_11058": "clarity_nt_char_11058"
@@ -33204,19 +33204,19 @@
     "clarity_nt_char_11068": "clarity_nt_char_11068"
   },
   "11069": {
-    "<%sB_TARGET>が いい気持ちになった！": ""
+    "<%sB_TARGET>が いい気持ちになった！": "<%sB_TARGET> felt good!"
   },
   "11070": {
     "clarity_nt_char_11070": "clarity_nt_char_11070"
   },
   "11071": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack Up effect extended!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's attack up effect extended!"
   },
   "11072": {
     "clarity_nt_char_11072": "clarity_nt_char_11072"
   },
   "11073": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Defense up effect extended!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力アップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's defense up effect extended!"
   },
   "11074": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔短縮の 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval shorten effect extended!"
@@ -33225,7 +33225,7 @@
     "clarity_nt_char_11075": "clarity_nt_char_11075"
   },
   "11076": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくアップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm Up effect extended!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくアップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's charm up effect extended!"
   },
   "11077": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 重さアップの 効果延長！": ""
@@ -34608,25 +34608,25 @@
     "clarity_nt_char_11536": "clarity_nt_char_11536"
   },
   "11537": {
-    "獲得経験値3倍|獲得特訓スタンプ1.5倍": "Earned EXP x3|Earned Training Stamps x1.5"
+    "獲得経験値3倍|獲得特訓スタンプ1.5倍": "Earned EXP 3x|Earned Training Stamps 1.5x"
   },
   "11538": {
     "clarity_nt_char_11538": "clarity_nt_char_11538"
   },
   "11539": {
-    "陳情書処理術": ""
+    "陳情書処理術": "Art of Petitions"
   },
   "11540": {
     "clarity_nt_char_11540": "clarity_nt_char_11540"
   },
   "11541": {
-    "軍団長の演説": ""
+    "軍団長の演説": "Commander's Speech"
   },
   "11542": {
     "clarity_nt_char_11542": "clarity_nt_char_11542"
   },
   "11543": {
-    "勇者の咆哮": ""
+    "勇者の咆哮": "Hero's Roar"
   },
   "11544": {
     "アンサンブルメテオが 降り注いだ！": "Ensemble Meteors begin pouring down!"
@@ -34647,13 +34647,13 @@
     "clarity_nt_char_11549": "clarity_nt_char_11549"
   },
   "11550": {
-    "壮士絶刀": ""
+    "壮士絶刀": "Prime Sword"
   },
   "11551": {
     "clarity_nt_char_11551": "clarity_nt_char_11551"
   },
   "11552": {
-    "ウルベア超技術": ""
+    "ウルベア超技術": "Urbea Supertech"
   },
   "11553": {
     "時間よ止まれ！": "Stop Time!"
@@ -34671,10 +34671,10 @@
     "clarity_nt_char_11557": "clarity_nt_char_11557"
   },
   "11558": {
-    "黄金の守り": ""
+    "黄金の守り": "Golden Guardian"
   },
   "11559": {
-    "ムドーに|かえられてしまった！": ""
+    "ムドーに|かえられてしまった！": "Turned into Murdaw!"
   },
   "11560": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 聖なるバリアを 身にまとった！": ""
@@ -34866,7 +34866,7 @@
     "clarity_nt_char_11622": "clarity_nt_char_11622"
   },
   "11623": {
-    "盟友の祈願": ""
+    "盟友の祈願": "Allied Prayer"
   },
   "11624": {
     "羅刹王バラシュナの ジャッジメントダーク！": "Evil Beast Barashna's Darkest Judgement!"
@@ -34887,7 +34887,7 @@
     "clarity_nt_char_11629": "clarity_nt_char_11629"
   },
   "11630": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 石になってしまった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 石になってしまった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e turned to stone!"
   },
   "11631": {
     "石になってしまった！": "Turned to stone!"
@@ -35121,7 +35121,7 @@
     "湯の花音頭": ""
   },
   "11708": {
-    "デスボイス": ""
+    "デスボイス": "Death Voice"
   },
   "11709": {
     "魔蝕の沼解放": ""
@@ -35130,7 +35130,7 @@
     "clarity_nt_char_11710": "clarity_nt_char_11710"
   },
   "11711": {
-    "私に まかせて！": ""
+    "私に まかせて！": "I'll handle this!"
   },
   "11712": {
     "clarity_nt_char_11712": "clarity_nt_char_11712"
@@ -35142,7 +35142,7 @@
     "clarity_nt_char_11714": "clarity_nt_char_11714"
   },
   "11715": {
-    "自分の重さを|アップする": ""
+    "自分の重さを|アップする": "Increase your|own Weight."
   },
   "11716": {
     "clarity_nt_char_11716": "clarity_nt_char_11716"
@@ -35160,13 +35160,13 @@
     "敵を攻撃しつつ|攻撃力も下げる": ""
   },
   "11721": {
-    "自分のまわりに|キノコ爆弾を|３つはやす": ""
+    "自分のまわりに|キノコ爆弾を|３つはやす": "Lays 3 mushroom|bombs around|you."
   },
   "11722": {
     "clarity_nt_char_11722": "clarity_nt_char_11722"
   },
   "11723": {
-    "自分の重さを|大幅アップする": ""
+    "自分の重さを|大幅アップする": "Greatly increase|your own Weight."
   },
   "11724": {
     "clarity_nt_char_11724": "clarity_nt_char_11724"
@@ -35376,7 +35376,7 @@
     "clarity_nt_char_11792": "clarity_nt_char_11792"
   },
   "11793": {
-    "周囲に闇ダメージ|様々な状態異常を|引き起こす": ""
+    "周囲に闇ダメージ|様々な状態異常を|引き起こす": "Deals area dark|damage and many|status effects."
   },
   "11794": {
     "げんまを召喚し|２分間一緒に戦う|天地雷鳴士専用": "Summon a spirit|to fight for|2 minutes."
@@ -37101,7 +37101,7 @@
     "clarity_nt_char_12367": "clarity_nt_char_12367"
   },
   "12368": {
-    "竜の加護で|呪文の詠唱時間が|大幅短縮される！": ""
+    "竜の加護で|呪文の詠唱時間が|大幅短縮される！": "Greatly increases|spell casting|speed!"
   },
   "12369": {
     "敵１体を切り裂き|与えるダメージも|増加させる": "Cut an enemy and|increase their|damage taken."
@@ -37167,7 +37167,7 @@
     "clarity_nt_char_12389": "clarity_nt_char_12389"
   },
   "12390": {
-    "時渡りの恩恵で|呪文の詠唱時間が|大幅短縮される！": ""
+    "時渡りの恩恵で|呪文の詠唱時間が|大幅短縮される！": "Greatly increases|spell casting|speed!"
   },
   "12391": {
     "光のチカラで|あらゆる闇を|払いのける": ""
@@ -37854,7 +37854,7 @@
     "死霊を自爆させ|特殊な効果を得る|デスマスター専用": "Explode your|spirit and gain|special effects."
   },
   "12619": {
-    "みんなを一度だけ|ダメージ無効にし|自分にバイキルト": "Nulls damage to|all once. Gives|you Oomphle."
+    "みんなを一度だけ|ダメージ無効にし|自分にバイキルト": "Nulls all damage|one time. Grants|you Oomphle."
   },
   "12620": {
     "clarity_nt_char_12620": "clarity_nt_char_12620"
@@ -38643,7 +38643,7 @@
     "clarity_nt_char_12881": "clarity_nt_char_12881"
   },
   "12882": {
-    "周囲を巻き込む|竜巻で攻撃して|敵を幻惑にする": ""
+    "周囲を巻き込む|竜巻で攻撃して|敵を幻惑にする": "A whirlwind that|hits and blinds|nearby foes."
   },
   "12883": {
     "あげあげガード": "Excited Guard"

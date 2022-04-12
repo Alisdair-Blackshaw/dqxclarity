@@ -573,7 +573,7 @@
     "clarity_nt_char_191": "clarity_nt_char_191"
   },
   "192": {
-    "魅了ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Charm Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+    "魅了ガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Enthrall Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "193": {
     "clarity_nt_char_193": "clarity_nt_char_193"
@@ -612,7 +612,7 @@
     "ＭＰ吸収ガード +100%": "MP Absorb Guard +100%"
   },
   "205": {
-    "魅了ガード +100%": "Charm Guard +100%"
+    "魅了ガード +100%": "Enthrall Guard +100%"
   },
   "206": {
     "致死ダメージ時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で生存": "Survive Lethal Damage <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1725,7 +1725,7 @@
     "clarity_nt_char_575": "clarity_nt_char_575"
   },
   "576": {
-    "魅了ガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Charm Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+    "魅了ガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Enthrall Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "577": {
     "clarity_nt_char_577": "clarity_nt_char_577"
@@ -5565,7 +5565,7 @@
     "どくガード +？%": "Poison Guard +?%"
   },
   "1856": {
-    "魅了ガード +？%": "Charm Guard +?%"
+    "魅了ガード +？%": "Enthrall Guard +?%"
   },
   "1857": {
     "炎ダメージ ？%減": "Fire Damage Down ?%"

@@ -285,7 +285,7 @@
     "clarity_nt_char_95": "clarity_nt_char_95"
   },
   "96": {
-    "アサシンアタック": "Assassin Attack"
+    "アサシンアタック": "Assassin's Stab"
   },
   "97": {
     "clarity_nt_char_97": "clarity_nt_char_97"
@@ -669,7 +669,7 @@
     "呪文　　　　　　もう１回　右をふる": "Spell　Roll Right Side"
   },
   "224": {
-    "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Call Meteor　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
+    "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "Meteor Rain　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
   },
   "225": {
     "clarity_nt_char_225": "clarity_nt_char_225"
@@ -711,7 +711,7 @@
     "clarity_nt_char_237": "clarity_nt_char_237"
   },
   "238": {
-    "アサシンアタック　もう１回　右をふる": "Assassin Attack　Roll Right Side"
+    "アサシンアタック　もう１回　右をふる": "Assassin's Stab　Roll Right Side"
   },
   "239": {
     "clarity_nt_char_239": "clarity_nt_char_239"
@@ -1008,7 +1008,7 @@
     "clarity_nt_char_336": "clarity_nt_char_336"
   },
   "337": {
-    "バードカッター　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　守備力を１０下げる": "Bird Cutter　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Defense -10"
+    "バードカッター　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　守備力を１０下げる": "Birdcutter　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Defense -10"
   },
   "338": {
     "バードスラッシュ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ４のダメージ": "Bird Slash　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x4"
@@ -1392,7 +1392,7 @@
     "clarity_nt_char_464": "clarity_nt_char_464"
   },
   "465": {
-    "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Call Meteor　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+    "りゅうせいよび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Meteor Rain　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "466": {
     "{color=purple}かがやくいき{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}C-c-cold Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1695,7 +1695,7 @@
     "clarity_nt_char_565": "clarity_nt_char_565"
   },
   "566": {
-    "りゅうせいよび！": "Call Meteor!"
+    "りゅうせいよび！": "Meteor Rain!"
   },
   "567": {
     "clarity_nt_char_567": "clarity_nt_char_567"
@@ -1740,7 +1740,7 @@
     "ツメできりさいた！": "Rip and Tear!"
   },
   "581": {
-    "アサシンアタック！": "Assassin Attack!"
+    "アサシンアタック！": "Assassin's Stab!"
   },
   "582": {
     "すみ攻撃！": "Ink Shot!"
@@ -1914,7 +1914,7 @@
     "一閃突き！": "T. Thrust!"
   },
   "639": {
-    "バードカッター！": "Bird Cutter!"
+    "バードカッター！": "Birdcutter!"
   },
   "640": {
     "clarity_nt_char_640": "clarity_nt_char_640"

@@ -1,6 +1,6 @@
 {
   "1": {
-    "【ショプ】": "[Shop] [Shop"
+    "【ショプ】": "[Shop]"
   },
   "2": {
     "「よく　お休みでしたね。|　どうぞ　お気をつけて　いってらっしゃいませ！": "Good night, sir. Please take care and have a|good day!"
@@ -507,7 +507,7 @@
     "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and will not|come off!<bw_break>"
   },
   "170": {
-    "「はい　どうぞっ。|<bw_break>": "Yes. Which...<bw_break>"
+    "「はい　どうぞっ。|<bw_break>": "Yes. Here you go.|<bw_break>"
   },
   "171": {
     "「そりゃ　ざんねん。|<bw_break>": "That's...<bw_break>"
@@ -534,7 +534,7 @@
     "「どれを　売ってくれるんだい？|<break>": "Which one are you going to sell me?<break>"
   },
   "179": {
-    "「<%sL_URITAI_ITEM>だね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買いとるけど　いいかい？|<yesno><break>": "<%sL_URITAI_ITEM... Then I'll buy it for|<%nL_SELL_PRICE> gold, okay?<yesno><break>"
+    "「<%sL_URITAI_ITEM>だね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買いとるけど　いいかい？|<yesno><break>": "<%sL_URITAI_ITEM>? Then I'll buy it for|<%nL_SELL_PRICE> gold, okay?<yesno><break>"
   },
   "180": {
     "「ん？　<%sL_URITAI_ITEM>は　いま|　そうびしてる　みたいだけど|　いいのかい？|<yesno><break>": "Hmm? It looks like <%sL_URITAI_ITEM> is doing|that right now, is that okay?<yesno><break>"

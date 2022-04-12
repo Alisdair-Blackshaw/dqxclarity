@@ -1,24 +1,24 @@
 {
     "1": {
-        "「あらっ　もう　来てくれていたのね！": "Oh, my God! You're already here!"
+        "「あらっ　もう　来てくれていたのね！": "Oh, You're already here!"
     },
     "2": {
-        "「……待たせちゃったかしら？|　急な　お誘いだったのに|　来てくれて　ありがとう……。うれしいわ！": "I... I hope I didn't keep you waiting too|long. Thank you for coming on such short|notice. I'm so happy."
+        "「……待たせちゃったかしら？|　急な　お誘いだったのに|　来てくれて　ありがとう……。うれしいわ！": "Sorry to keep you waiting! Thanks for coming|on such short notice! I really appreciate it!"
     },
     "3": {
-        "「私……気球に乗るのが　夢だったのよ。|　だから　期間限定で　気球に乗れるって聞いて|　思わず　予約しちゃったの。": "I... I've always wanted to go on a balloon|ride. So when I heard that I could ride in a|balloon for a limited time, I made a|<br>|reservation..."
+        "「私……気球に乗るのが　夢だったのよ。|　だから　期間限定で　気球に乗れるって聞いて|　思わず　予約しちゃったの。": "I dreamed of getting this balloon. It was a|limited time offer, so I made a reservation|for the two of us to go on a ride in the sky!"
     },
     "4": {
-        "「それと　前から　あなたと|　のんびり　過ごしてみたかったから……|　一緒に　どうかな……と思って。": "Also, I've always wanted to spend some|quality time with you. I was wondering if you|wanted to... I just..."
+        "「それと　前から　あなたと|　のんびり　過ごしてみたかったから……|　一緒に　どうかな……と思って。": "I've always wanted to spend some time alone|with you and was wondering if we could do it|together after everything we've been through."
     },
     "5": {
-        "「……うふふ。|　それじゃ　さっそく　乗りましょう！": "...... Let's go for a ride!"
+        "「……うふふ。|　それじゃ　さっそく　乗りましょう！": "Now, let's get on the balloon!"
     },
     "6": {
-        "<pc>と　アンルシアは|気球に　乗り込んだ！": "<pc> And Anrushia got into the balloon!"
+        "<pc>と　アンルシアは|気球に　乗り込んだ！": "<pc> and Anlucia got into the balloon!"
     },
     "7": {
-        "「おお　そなた　無事だったか！|　アンルシア姫も　よくやってくれた！": "Oh, you're all right! You've done well,|Princess Anduleia!"
+        "「おお　そなた　無事だったか！|　アンルシア姫も　よくやってくれた！": "Oh, you're all right! You've done well,|Princess Anlucia!"
     },
     "8": {
         "「……ええ　危機一髪のところでした。|　ルシェンダさまの　おかげです。|　けれど……　ピュージュを逃してしまいました。": "... Yes, it was a close call... Lady|Lushenda's help. But... I missed Pugee..."
@@ -174,7 +174,7 @@
         "「これで　ボクたちの役目は　果たされた♪|　本当に怖いのは　ここからだよ♪": "♪ Now we've done our part ♪| This is where it gets really scary ♪"
     },
     "59": {
-        "「……ここが　アストルティア。": "... This is Astrid..."
+        "「……ここが　アストルティア。": "... This is Astoltia"
     },
     "60": {
         "「この地は……我らが　征服する。": "This place... Our conquest..."
@@ -378,22 +378,22 @@
         "「わあーっ　すごい！": "Wow! Amazing!"
     },
     "127": {
-        "「ほら　見て！|　大風車塔が　もう　あんなに遠くに！": "Look! Look! The big windmill tower is already|so far away!"
+        "「ほら　見て！|　大風車塔が　もう　あんなに遠くに！": "Look! The windmill tower is so far away!"
     },
     "128": {
-        "「……ねえ。|　思えば　私たち　一緒に|　たくさんの冒険を　してきたわよね。": "..... Looking back, we've had a lot of|adventures together..."
+        "「……ねえ。|　思えば　私たち　一緒に|　たくさんの冒険を　してきたわよね。": "You know, we've had so many adventures|together.."
     },
     "129": {
-        "「いろいろと　つらいことも　あったけれど|　あなたが　いてくれたから|　いつも　乗り越えることが　できたのよ。": "I've been through a lot, but because of you,|I've always been able to get through..."
+        "「いろいろと　つらいことも　あったけれど|　あなたが　いてくれたから|　いつも　乗り越えることが　できたのよ。": "Every hardship that we faced. I was able to|overcome them since you were always by my|side.."
     },
     "130": {
-        "「私　気づいたら　あなたのことばかり|　考えているわ……。": "I find myself thinking about you all the|time..."
+        "「私　気づいたら　あなたのことばかり|　考えているわ……。": "I'm always.. constantly thinking about you|..and us."
     },
     "131": {
-        "「ねえ……。|　あなたのことは　勇者と盟友の関係以上に|　……特別な人だと　思っているの。": "Hey... I thought you were more than just a|hero and an ally. I thought you were someone|special."
+        "「ねえ……。|　あなたのことは　勇者と盟友の関係以上に|　……特別な人だと　思っているの。": "You've become more than just a special person|to me than a brave hero and ally.|I really mean that from the heart."
     },
     "132": {
-        "「……あなたにとって　私との関係は|　勇者と盟友……　だけなのかな？|　それとも……　特別な人　なのかな？|<select_nc>|特別な人|勇者と盟友|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "... To you, my relationship is that of hero|and ally... Is that it? Or... Or are you|someone special?|<select_nc>|Special People|Brave men and allies|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+        "「……あなたにとって　私との関係は|　勇者と盟友……　だけなのかな？|　それとも……　特別な人　なのかな？|<select_nc>|特別な人|勇者と盟友|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "Are we just a brave hero and ally?|Or are we something special?|<select_nc>|Special|Brave hero and ally|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
     },
     "133": {
         "「そんな　ひどい……。": "Oh, no, no, no, no."
@@ -408,7 +408,7 @@
         "「まさか　あなたも　同じ気持ちで|　いてくれたなんて……うれしいわ。": "I can't believe you feel the same way about|me. I'm..."
     },
     "137": {
-        "「……なーんちゃって。": "... What the hell..."
+        "「……なーんちゃって。": "Oh, how naughty.."
     },
     "138": {
         "「あはは！　そんなワケ　ないでしょ！|　こんな冗談に　本気になっちゃうなんて|　とんだ　マヌケね！": "Ha-ha! No, of course not! You're too dumb to|take this joke seriously!"
