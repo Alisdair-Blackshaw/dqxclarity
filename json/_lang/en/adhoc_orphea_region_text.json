@@ -30,10 +30,10 @@
     "<center>↑けがれの谷|<left>←道なり　ポーポラ地方|<center>プクレットの村↓": "↑ Injury Valley|← Road to Popola Region|↓ Pukulet Village"
   },
   "11": {
-    "<center>↑オルフェアの町|<center>リンクル地方↓": "↑ Orphea Village|↓ Wrinkle Region"
+    "<center>↑オルフェアの町|<center>リンクル地方↓": "↑ Town of Orphea|↓ Wrinkle Region"
   },
   "12": {
-    "<center>↑オルフェアの町|<right>フェルアバの洞くつ→|<center>風車の丘↓": "↑ Orphea Village|→ Felaba Cave|↓ Windmill Way"
+    "<center>↑オルフェアの町|<right>フェルアバの洞くつ→|<center>風車の丘↓": "↑ Town of Orphea|→ Felaba Cave|↓ Windmill Way"
   },
   "13": {
     "<left>←ミュルエルの森": "← Muruel Forest"
@@ -45,7 +45,7 @@
     "<left>ここから先　ちっとも怪しくないので|<left>行ったりしないこと！|<left>ダンダダ団アジトなんか　絶対ないぞ！": "<left>There's nothing suspicious about this place,|<left>so don't go there! There's no such thing as a|<left>Robbin' 'Ood Gang HQ!"
   },
   "16": {
-    "<left>←オルフェアの町|<right>リンクル地方→|<center>ミュルエルの森↓": "← Orphea Village|→ Wrinkle Region|↓ Muruel Forest"
+    "<left>←オルフェアの町|<right>リンクル地方→|<center>ミュルエルの森↓": "← Town of Orphea|→ Wrinkle Region|↓ Muruel Forest"
   },
   "17": {
     "<left>この農園は　自然野菜を愛する|<left>オルフェア町民の共同出資で　成り立っています。|<left>あなたも　野菜中心の生活にしてみませんか？": "<left>The farm is jointly funded by the residents of|<left>Orphea who love natural vegetables.|<left>Why not try a vegetable-centered lifestyle?"
@@ -60,10 +60,10 @@
     "<left>この辺り　レッドベリーのなる木。|<left>そのままだと　からくて食べられません。": "<left>Trees with buzzberries in this area.|<left>You can't eat them as they are because they are|<left>too spicy."
   },
   "21": {
-    "<center>↑リンクル地方|<center>オルフェアの町↓": "↑ Wrinkle Region|↓ Orphea Village"
+    "<center>↑リンクル地方|<center>オルフェアの町↓": "↑ Wrinkle Region|↓ Town of Orphea"
   },
   "22": {
-    "<center>↑風車の丘|<left>←フェルアバの洞くつ|<center>オルフェアの町↓": "↑ Windmill Way|← Felaba Cave|↓ Orphea Village"
+    "<center>↑風車の丘|<left>←フェルアバの洞くつ|<center>オルフェアの町↓": "↑ Windmill Way|← Felaba Cave|↓ Town of Orphea"
   },
   "23": {
     "<center>↑道なり　風車の丘|<right>坂を上ると　メギラザの洞くつ→": "↑ Road to Windmill Way|→ Up the hill is Megilaza Cave"
@@ -180,19 +180,19 @@
     "<center>↑銀の丘|<center>オルフェア地方西↓": "↑ Silver Hill|↓ Orphea Region West"
   },
   "61": {
-    "<center>↑オルフェアの町|<center>ポーポラ地方↓": "↑ Orphea Village|↓ Popola Region"
+    "<center>↑オルフェアの町|<center>ポーポラ地方↓": "↑ Town of Orphea|↓ Popola Region"
   },
   "62": {
-    "<center>↑ポーポラ地方|<center>オルフェアの町↓": "↑ Popola Region|↓ Orphea Village"
+    "<center>↑ポーポラ地方|<center>オルフェアの町↓": "↑ Popola Region|↓ Town of Orphea"
   },
   "63": {
     "<left>この先　危険地帯！|<left>橋をふたつ　渡りきるまでは。|<left>用心して　進むべし。": "<left>Dangerous area ahead!|<left>Until you cross two bridges.|<left>You must proceed with caution."
   },
   "64": {
-    "<center>↑オルフェアの町|<left>←プーラのほら穴|<center>ポーポラ地方↓": "↑ Orphea Village|← Pura's Cave|↓ Popola Region"
+    "<center>↑オルフェアの町|<left>←プーラのほら穴|<center>ポーポラ地方↓": "↑ Town of Orphea|← Pura's Cave|↓ Popola Region"
   },
   "65": {
-    "<center>↑オルフェアの町|<right>オルッパ地下洞くつ→|<center>ポーポラ地方↓": "↑ Orphea Village|→ Orppa Underground Caves|↓ Popola Region"
+    "<center>↑オルフェアの町|<right>オルッパ地下洞くつ→|<center>ポーポラ地方↓": "↑ Town of Orphea|→ Orppa Underground Caves|↓ Popola Region"
   },
   "66": {
     "<center>↑オルッパ地下洞くつ": "↑ Orppa Underground Caves"
@@ -207,19 +207,19 @@
     "<left>柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Beyond the fence is a dangerous area!|<left>Make sure you are prepared."
   },
   "70": {
-    "<center>↑ポーポラ地方|<center>オルフェアの町↓": "↑ Popola Region|↓ Orphea Village"
+    "<center>↑ポーポラ地方|<center>オルフェアの町↓": "↑ Popola Region|↓ Town of Orphea"
   },
   "71": {
-    "<center>↑オルフェアの町|<center>ポーポラ地方↓": "↑ Orphea Village|↓ Popola Region"
+    "<center>↑オルフェアの町|<center>ポーポラ地方↓": "↑ Town of Orphea|↓ Popola Region"
   },
   "72": {
     "<center>↑ポポリアきのこ山": "↑ Popolia Mushroom Mountain"
   },
   "73": {
-    "<center>↑ポーポラ地方|<right>プーラのほら穴→|<center>オルフェアの町↓": "↑ Popola Region|→ Pura's Cave|↓ Orphea Village"
+    "<center>↑ポーポラ地方|<right>プーラのほら穴→|<center>オルフェアの町↓": "↑ Popola Region|→ Pura's Cave|↓ Town of Orphea"
   },
   "74": {
-    "<center>↑ポーポラ地方|<left>←オルッパ地下洞くつ|<center>オルフェアの町↓": "↑ Popola Region|← Orppa Underground Caves|↓ Orphea Village"
+    "<center>↑ポーポラ地方|<left>←オルッパ地下洞くつ|<center>オルフェアの町↓": "↑ Popola Region|← Orppa Underground Caves|↓ Town of Orphea"
   },
   "75": {
     "<center>国立自然保護区　ミュルエルの森|<br>|<center>フォステイル広場は　道なりに北東へ": "    National Nature Reserve, Muruel Forest|<br>|Along the road Northeast is Fostail Square."
@@ -546,7 +546,7 @@
     "<center>空を飛び　炎を吹き　姿を消す|<center>奇跡のエンターテイメントが　ここにある！|<right>ナブナブ大サーカス団": "Here's miraculous entertainment that flies|through the air, breathes fire and disappears!|～ Nab Nab Grand Circus Troupe"
   },
   "183": {
-    "<left>オルフェアの町へ　いらっしゃい♪|<left>ここは　町のあちこちが　お菓子でできた|<left>おかしな町だよん♪": "<left>Welcome to Orphea Village ♪|<left>This is a strange town where the whole place|<left>is made of candy ♪"
+    "<left>オルフェアの町へ　いらっしゃい♪|<left>ここは　町のあちこちが　お菓子でできた|<left>おかしな町だよん♪": "<left>Welcome to Town of Orphea ♪|<left>This is a strange town where the whole place|<left>is made of candy ♪"
   },
   "184": {
     "<left>大地の箱舟が　来たときは|<left>ビスケットの線の　後ろまで下がって|<left>お待ちください。": "<left>When the Ark of the Earth arrives, please|<left>stand back behind the cookie line and wait."
