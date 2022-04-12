@@ -4530,7 +4530,7 @@
     "clarity_nt_char_1510": "clarity_nt_char_1510"
   },
   "1511": {
-    "<speed=0><%sM_Badge>バッジを　手に入れた！|<se_nots System 7>": "<speed=0>You received the <%sM_Badge> badge!|<se_nots System 7>"
+    "<speed=0><%sM_Badge>バッジを　手に入れた！|<se_nots System 7>": "<speed=0>Received the <%sM_Badge>|Badge!|<se_nots System 7>"
   },
   "1512": {
     "clarity_nt_char_1512": "clarity_nt_char_1512"
@@ -7473,7 +7473,7 @@
     "clarity_nt_char_2491": "clarity_nt_char_2491"
   },
   "2492": {
-    "おびえガード": "Fear Guard"
+    "おびえガード": "Surprise Guard"
   },
   "2493": {
     "clarity_nt_char_2493": "clarity_nt_char_2493"

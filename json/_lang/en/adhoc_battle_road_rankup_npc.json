@@ -12,7 +12,7 @@
     "「よし！　バトルをスタートして いいカ？|<yesno><break>": "All right! Can we start the battle, please?<yesno><break>"
   },
   "5": {
-    "<select_se_off>|挑戦する|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|挑戦する|説明を聞く|<select_end><break>": "<select_se_off>|Challenge|Explanation|<select_end><break>"
   },
   "6": {
     "削除": ""

@@ -5649,7 +5649,7 @@
     "clarity_nt_char_1883": "clarity_nt_char_1883"
   },
   "1884": {
-    "確認する": ""
+    "確認する": "Confirm"
   },
   "1885": {
     "clarity_nt_char_1885": "clarity_nt_char_1885"
@@ -5691,7 +5691,7 @@
     "clarity_nt_char_1897": "clarity_nt_char_1897"
   },
   "1898": {
-    "サブ": ""
+    "サブ": "Sub"
   },
   "1899": {
     "clarity_nt_char_1899": "clarity_nt_char_1899"
@@ -5823,7 +5823,7 @@
     "カテゴリ７_1": "Category 7_1"
   },
   "1942": {
-    "保存枚数 <%dM_albumRest>/<%dM_albumAll>枚": "# Saved <%dM_albumRest>/<%dM_albumAll>"
+    "保存枚数 <%dM_albumRest>/<%dM_albumAll>枚": "Photos Saved: <%dM_albumRest>/<%dM_albumAll>"
   },
   "1943": {
     "clarity_nt_char_1943": "clarity_nt_char_1943"
@@ -12774,7 +12774,7 @@
     "肉料理": "Meat Dish"
   },
   "4259": {
-    "未入手": "Don't Own"
+    "未入手": "Not Have"
   },
   "4260": {
     "チャージ": "Charge"
@@ -26235,10 +26235,10 @@
     "clarity_nt_char_8745": "clarity_nt_char_8745"
   },
   "8746": {
-    "他のついてクン": ""
+    "他のついてクン": "Other Pets"
   },
   "8747": {
-    "自分のついてクン": ""
+    "自分のついてクン": "Your Pet"
   },
   "8748": {
     "clarity_nt_char_8748": "clarity_nt_char_8748"
@@ -26532,7 +26532,7 @@
     "clarity_nt_char_8844": "clarity_nt_char_8844"
   },
   "8845": {
-    "[次の50件を表示]": ""
+    "[次の50件を表示]": "[Show Next 50]"
   },
   "8846": {
     "clarity_nt_char_8846": "clarity_nt_char_8846"
@@ -26640,7 +26640,7 @@
     "clarity_nt_char_8880": "clarity_nt_char_8880"
   },
   "8881": {
-    "<%sM_pc>のオープンハウスアピール": "Open House Appeal for <%sM_pc>"
+    "<%sM_pc>のオープンハウスアピール": "<%sM_pc>'s Open House Appeal"
   },
   "8882": {
     "clarity_nt_char_8882": "clarity_nt_char_8882"
@@ -26682,19 +26682,19 @@
     "ニャンコインと交換する": "Exchange Cat Coins"
   },
   "8895": {
-    "カプセルと交換する": "Replace Capsule"
+    "カプセルと交換する": "Exchange Capsule"
   },
   "8896": {
     "～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": ""
   },
   "8897": {
-    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": ""
+    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "<tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～<tm%2dM_TIME2>/<td%2dM_TIME2>/<ty%dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>"
   },
   "8898": {
     "clarity_nt_char_8898": "clarity_nt_char_8898"
   },
   "8899": {
-    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～": ""
+    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～": "<tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～"
   },
   "8900": {
     "clarity_nt_char_8900": "clarity_nt_char_8900"
@@ -32685,7 +32685,7 @@
     "clarity_nt_char_10895": "clarity_nt_char_10895"
   },
   "10896": {
-    "かみがた選択": ""
+    "かみがた選択": "Choose Hairstyle"
   },
   "10897": {
     "clarity_nt_char_10897": "clarity_nt_char_10897"
@@ -32694,25 +32694,25 @@
     "思い出の場所に行く": ""
   },
   "10899": {
-    "写真を撮り直す": ""
+    "写真を撮り直す": "Retake Photo"
   },
   "10900": {
-    "撮影した写真を見る": ""
+    "撮影した写真を見る": "View Taken Photos"
   },
   "10901": {
-    "日付表示設定": ""
+    "日付表示設定": "Date Display"
   },
   "10902": {
     "clarity_nt_char_10902": "clarity_nt_char_10902"
   },
   "10903": {
-    "黒文字": ""
+    "黒文字": "Black"
   },
   "10904": {
     "フィルム風": "Film Style"
   },
   "10905": {
-    "白文字": ""
+    "白文字": "White"
   },
   "10906": {
     "ウェルカム中のフレンドのマイタウンへ": "To Welcoming Friend My Town"
@@ -32769,7 +32769,7 @@
     "あめ１": ""
   },
   "10924": {
-    "羽根": ""
+    "羽根": "Feathr"
   },
   "10925": {
     "clarity_nt_char_10925": "clarity_nt_char_10925"

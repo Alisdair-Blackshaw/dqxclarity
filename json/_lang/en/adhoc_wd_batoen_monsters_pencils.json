@@ -558,7 +558,7 @@
     "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "187": {
-    "つるぎのまい　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Swords Dance　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+    "つるぎのまい　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Sword Dance　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "188": {
     "clarity_nt_char_188": "clarity_nt_char_188"
@@ -1611,7 +1611,7 @@
     "clarity_nt_char_537": "clarity_nt_char_537"
   },
   "538": {
-    "つるぎのまい！": "Swords Dance!"
+    "つるぎのまい！": "Sword Dance!"
   },
   "539": {
     "バイキルト！": "Oomphle!"
@@ -2493,7 +2493,7 @@
     "clarity_nt_char_831": "clarity_nt_char_831"
   },
   "832": {
-    "猛毒ダメージをうけた": "Took Deadly|Poison damage!"
+    "猛毒ダメージをうけた": "Took damage|from venom!"
   },
   "833": {
     "clarity_nt_char_833": "clarity_nt_char_833"
@@ -2778,7 +2778,7 @@
     "毒の効果延長！": "Poison extended!"
   },
   "927": {
-    "猛毒の効果延長！": "Deadly Poison|extended!"
+    "猛毒の効果延長！": "Envenom effect|extended!"
   },
   "928": {
     "clarity_nt_char_928": "clarity_nt_char_928"
@@ -2847,7 +2847,7 @@
     "打撃攻撃のダメージ上昇": "Physical damage dealt ↑"
   },
   "950": {
-    "呪文攻撃のダメージ上昇": "Spell damage dealt up!"
+    "呪文攻撃のダメージ上昇": "Spell damage dealt ↑"
   },
   "951": {
     "打撃で受けるダメージ減": "Physical damage taken ↓"
@@ -2916,7 +2916,7 @@
     "clarity_nt_char_972": "clarity_nt_char_972"
   },
   "973": {
-    "打撃で受けるダメージ増": "Phys. damage taken up!"
+    "打撃で受けるダメージ増": "Phys. damage taken ↑"
   },
   "974": {
     "呪文で受けるダメージ増": "Spell damage taken ↑"

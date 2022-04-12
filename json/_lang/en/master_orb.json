@@ -684,7 +684,7 @@
     "お宝ハンターの極意": "Secret of Itemised Kill"
   },
   "229": {
-    "戦鬼の乱れ舞の瞬き": "Blink of Demon's Dance"
+    "戦鬼の乱れ舞の瞬き": "Blink of Demon's Duet"
   },
   "230": {
     "サプライズラッシュの極意": "Secret of Surprise Rush"
@@ -882,7 +882,7 @@
     "ロイヤルステップの技巧": "Royal Step Technique"
   },
   "295": {
-    "つるぎの舞の極意": "Secret of Swords Dance"
+    "つるぎの舞の極意": "Secret of Sword Dance"
   },
   "296": {
     "clarity_nt_char_296": "clarity_nt_char_296"
@@ -1284,7 +1284,7 @@
     "clarity_nt_char_428": "clarity_nt_char_428"
   },
   "429": {
-    "鉄壁のおびえガード": "Ironclad Fear Guard"
+    "鉄壁のおびえガード": "Ironclad Surprise Guard"
   },
   "430": {
     "鉄壁のしばりガード": "Ironclad Restraint Guard"
@@ -3543,19 +3543,19 @@
     "clarity_nt_char_1181": "clarity_nt_char_1181"
   },
   "1182": {
-    "つるぎの舞の威力+5%": "Swords Dance Power +5%"
+    "つるぎの舞の威力+5%": "Sword Dance Power +5%"
   },
   "1183": {
-    "つるぎの舞の威力+1%": "Swords Dance Power +1%"
+    "つるぎの舞の威力+1%": "Sword Dance Power +1%"
   },
   "1184": {
-    "戦鬼の乱れ舞の発動速度+5%": "Demon's Dance Speed +5%"
+    "戦鬼の乱れ舞の発動速度+5%": "Demon's Duet Speed +5%"
   },
   "1185": {
     "clarity_nt_char_1185": "clarity_nt_char_1185"
   },
   "1186": {
-    "戦鬼の乱れ舞の発動速度+2%": "Demon's Dance Speed +2%"
+    "戦鬼の乱れ舞の発動速度+2%": "Demon's Duet Speed +2%"
   },
   "1187": {
     "clarity_nt_char_1187": "clarity_nt_char_1187"
@@ -4095,7 +4095,7 @@
     "clarity_nt_char_1365": "clarity_nt_char_1365"
   },
   "1366": {
-    "おびえガード+2%": "Fear Guard +2%"
+    "おびえガード+2%": "Surprise Guard +2%"
   },
   "1367": {
     "しばりガード+2%": "Restraint Guard +2%"
@@ -7191,19 +7191,19 @@
     "転びガード＋１０％": "Fall Guard +10%"
   },
   "2398": {
-    "おびえガード＋２％": "Fear Guard +2%"
+    "おびえガード＋２％": "Surprise Guard +2%"
   },
   "2399": {
-    "おびえガード＋４％": "Fear Guard +4%"
+    "おびえガード＋４％": "Surprise Guard +4%"
   },
   "2400": {
-    "おびえガード＋６％": "Fear Guard +6%"
+    "おびえガード＋６％": "Surprise Guard +6%"
   },
   "2401": {
-    "おびえガード＋８％": "Fear Guard +8%"
+    "おびえガード＋８％": "Surprise Guard +8%"
   },
   "2402": {
-    "おびえガード＋１０％": "Fear Guard +10%"
+    "おびえガード＋１０％": "Surprise Guard +10%"
   },
   "2403": {
     "clarity_nt_char_2403": "clarity_nt_char_2403"
@@ -8736,13 +8736,13 @@
     "clarity_nt_char_2912": "clarity_nt_char_2912"
   },
   "2913": {
-    "つるぎの舞のダメージが５％増える|（踊り子専用）": "Swords Dance damage increased by 5%.|(DNC Only)"
+    "つるぎの舞のダメージが５％増える|（踊り子専用）": "Sword Dance damage increased by 5%.|(DNC Only)"
   },
   "2914": {
     "clarity_nt_char_2914": "clarity_nt_char_2914"
   },
   "2915": {
-    "戦鬼の乱れ舞の発動速度が|５％アップする（踊り子専用）": "Demon's Dance activation speed increased|by 5%. (DNC Only)"
+    "戦鬼の乱れ舞の発動速度が|５％アップする（踊り子専用）": "Demon's Duet activation speed increased|by 5%. (DNC Only)"
   },
   "2916": {
     "開戦時２％の確率で|敵１体にルカニがかかる": "Sap triggers at a 2% chance at|battle start."
@@ -10713,7 +10713,7 @@
     "転びガード＋１２％": "Fall Guard +12%"
   },
   "3572": {
-    "おびえガード＋１２％": "Fear Guard +12%"
+    "おびえガード＋１２％": "Surprise Guard +12%"
   },
   "3573": {
     "clarity_nt_char_3573": "clarity_nt_char_3573"
@@ -15495,49 +15495,49 @@
     "ロイヤルステップ成功率+30%": "Royal Step Success +30%"
   },
   "5166": {
-    "つるぎの舞の威力+10%": "Swords Dance Power +10%"
+    "つるぎの舞の威力+10%": "Sword Dance Power +10%"
   },
   "5167": {
     "clarity_nt_char_5167": "clarity_nt_char_5167"
   },
   "5168": {
-    "つるぎの舞の威力+15%": "Swords Dance Power +15%"
+    "つるぎの舞の威力+15%": "Sword Dance Power +15%"
   },
   "5169": {
     "clarity_nt_char_5169": "clarity_nt_char_5169"
   },
   "5170": {
-    "つるぎの舞の威力+20%": "Swords Dance Power +20%"
+    "つるぎの舞の威力+20%": "Sword Dance Power +20%"
   },
   "5171": {
     "clarity_nt_char_5171": "clarity_nt_char_5171"
   },
   "5172": {
-    "つるぎの舞の威力+25%": "Swords Dance Power +25%"
+    "つるぎの舞の威力+25%": "Sword Dance Power +25%"
   },
   "5173": {
     "clarity_nt_char_5173": "clarity_nt_char_5173"
   },
   "5174": {
-    "つるぎの舞の威力+30%": "Swords Dance Power +30%"
+    "つるぎの舞の威力+30%": "Sword Dance Power +30%"
   },
   "5175": {
     "clarity_nt_char_5175": "clarity_nt_char_5175"
   },
   "5176": {
-    "戦鬼の乱れ舞の発動速度+10%": "Demon's Dance Speed +10%"
+    "戦鬼の乱れ舞の発動速度+10%": "Demon's Duet Speed +10%"
   },
   "5177": {
-    "戦鬼の乱れ舞の発動速度+15%": "Demon's Dance Speed +15%"
+    "戦鬼の乱れ舞の発動速度+15%": "Demon's Duet Speed +15%"
   },
   "5178": {
-    "戦鬼の乱れ舞の発動速度+20%": "Demon's Dance Speed +20%"
+    "戦鬼の乱れ舞の発動速度+20%": "Demon's Duet Speed +20%"
   },
   "5179": {
-    "戦鬼の乱れ舞の発動速度+25%": "Demon's Dance Speed +25%"
+    "戦鬼の乱れ舞の発動速度+25%": "Demon's Duet Speed +25%"
   },
   "5180": {
-    "戦鬼の乱れ舞の発動速度+30%": "Demon's Dance Speed +30%"
+    "戦鬼の乱れ舞の発動速度+30%": "Demon's Duet Speed +30%"
   },
   "5181": {
     "開戦時4%でルカニ": "Sap Trigger 4%"
@@ -17919,22 +17919,22 @@
     "転びガード+12%": "Fall Guard +12%"
   },
   "5974": {
-    "おびえガード+4%": "Fear Guard +4%"
+    "おびえガード+4%": "Surprise Guard +4%"
   },
   "5975": {
-    "おびえガード+6%": "Fear Guard +6%"
+    "おびえガード+6%": "Surprise Guard +6%"
   },
   "5976": {
-    "おびえガード+8%": "Fear Guard +8%"
+    "おびえガード+8%": "Surprise Guard +8%"
   },
   "5977": {
-    "おびえガード+10%": "Fear Guard +10%"
+    "おびえガード+10%": "Surprise Guard +10%"
   },
   "5978": {
     "clarity_nt_char_5978": "clarity_nt_char_5978"
   },
   "5979": {
-    "おびえガード+12%": "Fear Guard +12%"
+    "おびえガード+12%": "Surprise Guard +12%"
   },
   "5980": {
     "clarity_nt_char_5980": "clarity_nt_char_5980"

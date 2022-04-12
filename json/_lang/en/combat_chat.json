@@ -8196,7 +8196,7 @@
     "clarity_nt_char_2732": "clarity_nt_char_2732"
   },
   "2733": {
-    "キラージャグリング": "Have A Ball"
+    "キラージャグリング": "Have a Ball"
   },
   "2734": {
     "きせきの香水": "Miracle Perfume"
@@ -9141,7 +9141,7 @@
     "会心完全ガード": "Desperate Measures"
   },
   "3048": {
-    "かすみがくれ": "Haze Hide"
+    "かすみがくれ": "Mist Shroud"
   },
   "3049": {
     "clarity_nt_char_3049": "clarity_nt_char_3049"
@@ -9162,7 +9162,7 @@
     "clarity_nt_char_3054": "clarity_nt_char_3054"
   },
   "3055": {
-    "大地の怒り": ""
+    "大地の怒り": "Earth's Rage"
   },
   "3056": {
     "あやしいひかり": "Suspicious Light"
@@ -9171,7 +9171,7 @@
     "みわくのひかり": ""
   },
   "3058": {
-    "竜眼": ""
+    "竜眼": "Ryugan"
   },
   "3059": {
     "clarity_nt_char_3059": "clarity_nt_char_3059"
@@ -9186,19 +9186,19 @@
     "ダメージバリア": "Damage Barrier"
   },
   "3063": {
-    "ビリビリバリア": ""
+    "竜眼": ""
   },
   "3064": {
-    "打撃完全ガード": "Physical Damage|Guard"
+    "打撃完全ガード": "Physical Damage Guard"
   },
   "3065": {
-    "呪文完全ガード": "Spell Damage|Guard"
+    "呪文完全ガード": "Spell Damage Guard"
   },
   "3066": {
     "おこった顔": ""
   },
   "3067": {
-    "ウィングインパクト": ""
+    "ウィングインパクト": "Wing Impact"
   },
   "3068": {
     "スラ・スパーク": "Zasplattle"
@@ -9282,7 +9282,7 @@
     "しっぽアタック": ""
   },
   "3095": {
-    "ジャンプ斬り": ""
+    "ジャンプ斬り": "Jump Slash"
   },
   "3096": {
     "clarity_nt_char_3096": "clarity_nt_char_3096"
@@ -10047,7 +10047,7 @@
     "呪いのうた": "Cursed Verse"
   },
   "3350": {
-    "呪いのおどり": "Cursed Dance"
+    "呪いのおどり": "Flex 'n' Hex"
   },
   "3351": {
     "clarity_nt_char_3351": "clarity_nt_char_3351"
@@ -10089,7 +10089,7 @@
     "しもべ召喚": ""
   },
   "3364": {
-    "仲間呼び": ""
+    "仲間呼び": "Call Ally"
   },
   "3365": {
     "clarity_nt_char_3365": "clarity_nt_char_3365"
@@ -10125,13 +10125,13 @@
     "テールアタック": "Tail Attack"
   },
   "3376": {
-    "竜のおたけび": ""
+    "竜のおたけび": "Dragon's Roar"
   },
   "3377": {
     "clarity_nt_char_3377": "clarity_nt_char_3377"
   },
   "3378": {
-    "眠り攻撃": ""
+    "眠り攻撃": "Sleep Attack"
   },
   "3379": {
     "clarity_nt_char_3379": "clarity_nt_char_3379"
@@ -10191,7 +10191,7 @@
     "clarity_nt_char_3397": "clarity_nt_char_3397"
   },
   "3398": {
-    "ブライガ": ""
+    "ブライガ": "Brigade"
   },
   "3399": {
     "clarity_nt_char_3399": "clarity_nt_char_3399"
@@ -10200,7 +10200,7 @@
     "キノコ爆弾": "Mushroom Bomb"
   },
   "3401": {
-    "混乱攻撃": ""
+    "混乱攻撃": "Confuse Hit"
   },
   "3402": {
     "clarity_nt_char_3402": "clarity_nt_char_3402"
@@ -10218,7 +10218,7 @@
     "clarity_nt_char_3406": "clarity_nt_char_3406"
   },
   "3407": {
-    "マヌーサエキス": ""
+    "マヌーサエキス": "Dazzle Extract"
   },
   "3408": {
     "ヘルサークル": "Hell Circle"
@@ -10872,7 +10872,7 @@
     "clarity_nt_char_3624": "clarity_nt_char_3624"
   },
   "3625": {
-    "ブレイクブレス": "Break Breath"
+    "ブレイクブレス": "Crafty Breather"
   },
   "3626": {
     "グラビティハンマー": "Gravity Hammer"
@@ -11355,7 +11355,7 @@
     "clarity_nt_char_3785": "clarity_nt_char_3785"
   },
   "3786": {
-    "戦鬼の乱れ舞": "Demon's Dance"
+    "戦鬼の乱れ舞": "Demon's Duet"
   },
   "3787": {
     "clarity_nt_char_3787": "clarity_nt_char_3787"
@@ -20448,7 +20448,7 @@
     "フルパワーで|敵１体を斬りつけ|大ダメージ": "Slash an enemy|at full power|for huge damage."
   },
   "6817": {
-    "敵１体を|斬りつけて|たまに猛毒にする": "Slash an enemy|with a chance|to poison."
+    "敵１体を|斬りつけて|たまに猛毒にする": "Slash an enemy|with a chance|to envenom."
   },
   "6818": {
     "虫系の敵に|威力を発揮する|すばやい剣技": "A strike|effective against|Insect-types."
@@ -20472,10 +20472,10 @@
     "眠りや混乱の敵に|威力を発揮する|追い打ちの技": "Deals huge damage|to asleep or|confused enemies."
   },
   "6825": {
-    "敵１体を斬りつけ|混乱やマヒを|起こさせる": ""
+    "敵１体を斬りつけ|混乱やマヒを|起こさせる": "A slash that can|cause confusion|and paralysis."
   },
   "6826": {
-    "敵１体を斬りつけ|猛毒や眠りを|起こさせる": ""
+    "敵１体を斬りつけ|猛毒や眠りを|起こさせる": "A slash that can|envenom and|cause sleep."
   },
   "6827": {
     "獣系の敵に|威力を発揮する|荒々しい突き": "A rough thrust|effective to|Beast-types."
@@ -22035,7 +22035,7 @@
     "巨大な火球を|はきだして|敵を攻撃": "Spits out a|huge fireball to|attack a foe."
   },
   "7346": {
-    "かすみにかくれて|身かわし率を|アップする": "Hide in a haze|to increase|dodge rate."
+    "かすみにかくれて|身かわし率を|アップする": "Hide in a mist|to increase|dodge rate."
   },
   "7347": {
     "回復呪文の効果を|かなり高める": "Greatly increases|recovery spell|effects."
@@ -30021,7 +30021,7 @@
     "clarity_nt_char_10007": "clarity_nt_char_10007"
   },
   "10008": {
-    "攻撃時に猛毒を|かけるようになった！": "Attacks can now|deeply poison!"
+    "攻撃時に猛毒を|かけるようになった！": "Attacks can now|envenom!"
   },
   "10009": {
     "clarity_nt_char_10009": "clarity_nt_char_10009"
@@ -32535,7 +32535,7 @@
     "経験値と特訓アップの|効果がきえた": ""
   },
   "10846": {
-    "攻撃時猛毒の効果が|きえた": "Deep poison attack|effect faded."
+    "攻撃時猛毒の効果が|きえた": "Envenom attack|effect faded."
   },
   "10847": {
     "攻撃時ＭＰ回復が|きえた": "MP recovery on attack|faded."
@@ -33903,7 +33903,7 @@
     "clarity_nt_char_11301": "clarity_nt_char_11301"
   },
   "11302": {
-    "魔導の書の|効果時間延長！": ""
+    "魔導の書の|効果時間延長！": "Magical Book effect|extended!"
   },
   "11303": {
     "能力アップの|効果時間延長！": "Skill up effect|extended!"
@@ -35181,7 +35181,7 @@
     "clarity_nt_char_11727": "clarity_nt_char_11727"
   },
   "11728": {
-    "周囲の味方に|攻撃時猛毒の効果|踊り子専用": "Grants allies a|poison effect for|their attacks."
+    "周囲の味方に|攻撃時猛毒の効果|踊り子専用": "Grants allies an|envenom effect|when attacking."
   },
   "11729": {
     "行動せずに仲間の|ダメージを受ける": ""

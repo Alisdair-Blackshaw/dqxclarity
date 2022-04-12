@@ -465,7 +465,7 @@
     "clarity_nt_char_155": "clarity_nt_char_155"
   },
   "156": {
-    "おびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Fear Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+    "おびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Surprise Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "157": {
     "転びガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Fall Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1023,7 +1023,7 @@
     "clarity_nt_char_341": "clarity_nt_char_341"
   },
   "342": {
-    "おびえガード +100%": "Fear Guard +100%"
+    "おびえガード +100%": "Surprise Guard +100%"
   },
   "343": {
     "clarity_nt_char_343": "clarity_nt_char_343"
@@ -1200,7 +1200,7 @@
     "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖女の守り": "Battle Start Alma Mater <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "401": {
-    "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で猛毒": "Deadly Psn. Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+    "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で猛毒": "Envenom Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "402": {
     "clarity_nt_char_402": "clarity_nt_char_402"
@@ -1833,7 +1833,7 @@
     "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でマホ系解除": "Magic-type Dispel Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "612": {
-    "おびえガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Fear Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+    "おびえガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Surprise Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "613": {
     "転びガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Fall Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -2088,7 +2088,7 @@
     "clarity_nt_char_696": "clarity_nt_char_696"
   },
   "697": {
-    "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で猛毒": "Deadly Psn. Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+    "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で猛毒": "Envenom Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "698": {
     "clarity_nt_char_698": "clarity_nt_char_698"
@@ -5004,7 +5004,7 @@
     "呪文ぼうそう率 <%+.1fB_renkin>(<%+.1fB_renkindiff>)%": "Haywire Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
   },
   "1669": {
-    "おびえガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Fear Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
+    "おびえガード <%sB_renkin1>(<%+dB_renkindiff>)%": "Surprise Guard <%sB_renkin1>(<%+dB_renkindiff>)%"
   },
   "1670": {
     "clarity_nt_char_1670": "clarity_nt_char_1670"
@@ -5235,7 +5235,7 @@
     "呪文ぼうそう率 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%": "Haywire Rate <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
   },
   "1746": {
-    "おびえガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Fear Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
+    "おびえガード <%+dB_renkin>（<%+dB_renkindiff>）%": "Surprise Guard <%+dB_renkin> (<%+dB_renkindiff>)%"
   },
   "1747": {
     "clarity_nt_char_1747": "clarity_nt_char_1747"
@@ -5268,16 +5268,16 @@
     "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でテンション下げ": "Tension Down On Attack <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
   },
   "1757": {
-    "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でぶきみなひかり": ""
+    "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でぶきみなひかり": "Spooky Aura Attack <%+.1fB_renkin> （<%+.1fB_renkindiff>）%"
   },
   "1758": {
-    "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で魔導の書": ""
+    "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で魔導の書": "Magical Book Attack <%+.1fB_renkin> （<%+.1fB_renkindiff>）%"
   },
   "1759": {
     "clarity_nt_char_1759": "clarity_nt_char_1759"
   },
   "1760": {
-    "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で猛毒": ""
+    "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%で猛毒": "Envenom Attack <%+.1fB_renkin> （<%+.1fB_renkindiff>）%"
   },
   "1761": {
     "clarity_nt_char_1761": "clarity_nt_char_1761"
@@ -5526,7 +5526,7 @@
     "clarity_nt_char_1842": "clarity_nt_char_1842"
   },
   "1843": {
-    "ＭＰ吸収率 +？%": ""
+    "ＭＰ吸収率 +？%": "MP Absorption +?%"
   },
   "1844": {
     "ブレス系ダメージ ？%減": "Breath Damage Reduction ?%"
@@ -5568,25 +5568,25 @@
     "魅了ガード +？%": "Enthrall Guard +?%"
   },
   "1857": {
-    "炎ダメージ ？%減": "Fire Damage Down ?%"
+    "炎ダメージ ？%減": "Fire Resist ?%"
   },
   "1858": {
-    "氷ダメージ ？%減": "Ice Damage Down ?%"
+    "氷ダメージ ？%減": "Ice Resist ?%"
   },
   "1859": {
-    "風ダメージ ？%減": "Wind Damage Down ?%"
+    "風ダメージ ？%減": "Wind Resist ?%"
   },
   "1860": {
-    "雷ダメージ ？%減": "Thunder Dmg. Down ?%"
+    "雷ダメージ ？%減": "Thunder Resist ?%"
   },
   "1861": {
-    "土ダメージ ？%減": "Earth Damage Down -?%"
+    "土ダメージ ？%減": "Earth Resist ?%"
   },
   "1862": {
-    "闇ダメージ ？%減": "Dark Damage Down ?%"
+    "闇ダメージ ？%減": "Dark Resist ?%"
   },
   "1863": {
-    "光ダメージ ？%減": "Light Damage -?%"
+    "光ダメージ ？%減": "Light Resist ?%"
   },
   "1864": {
     "ＭＰ吸収ガード +？%": "MP Absorb Guard +?%"
@@ -5658,7 +5658,7 @@
     "呪文ぼうそう率 +？%": "Haywire Rate +?%"
   },
   "1887": {
-    "おびえガード +？%": "Fear Guard +?%"
+    "おびえガード +？%": "Surprise Guard +?%"
   },
   "1888": {
     "clarity_nt_char_1888": "clarity_nt_char_1888"
@@ -5688,7 +5688,7 @@
     "戦闘勝利時に ＨＰが？回復": "Recover ? HP After Battle"
   },
   "1897": {
-    "各弱体系耐性 +？%": "Weak Resistances +?%"
+    "各弱体系耐性 +？%": "Weak Resistance +?%"
   },
   "1898": {
     "clarity_nt_char_1898": "clarity_nt_char_1898"
@@ -6126,7 +6126,7 @@
     "clarity_nt_char_2042": "clarity_nt_char_2042"
   },
   "2043": {
-    "？%で行動ターンを消費しない": ""
+    "？%で行動ターンを消費しない": "Don't Use Turn On Action ?%"
   },
   "2044": {
     "clarity_nt_char_2044": "clarity_nt_char_2044"
@@ -6159,22 +6159,22 @@
     "clarity_nt_char_2053": "clarity_nt_char_2053"
   },
   "2054": {
-    "攻撃時 ？%で炎耐性ダウン": ""
+    "攻撃時 ？%で炎耐性ダウン": "Fire Resist Down Attack ?%"
   },
   "2055": {
-    "攻撃時 ？%で氷耐性ダウン": ""
+    "攻撃時 ？%で氷耐性ダウン": "Ice Resist Down Attack ?%"
   },
   "2056": {
-    "攻撃時 ？%で風耐性ダウン": ""
+    "攻撃時 ？%で風耐性ダウン": "Wind Resist Down Attack ?%"
   },
   "2057": {
-    "攻撃時 ？%で土耐性ダウン": ""
+    "攻撃時 ？%で土耐性ダウン": "Earth Resist Down Attack ?%"
   },
   "2058": {
-    "攻撃時 ？%で雷耐性ダウン": ""
+    "攻撃時 ？%で雷耐性ダウン": "Thunder Resist Down Attack ?%"
   },
   "2059": {
-    "攻撃時 ？%で光耐性ダウン": ""
+    "攻撃時 ？%で光耐性ダウン": "Light Resist Down Attack ?%"
   },
   "2060": {
     "開戦時 ？%でヘヴィチャージ": "Battle Start Heavy Charge ?%"
@@ -6660,7 +6660,7 @@
     "clarity_nt_char_2220": "clarity_nt_char_2220"
   },
   "2221": {
-    "うけるダメージ ？%減": ""
+    "うけるダメージ ？%減": "Reduced Damage Taken ?%"
   },
   "2222": {
     "呪文威力アップの時間が ？秒増加": "Spell Up Effect Time +?s"
@@ -6699,7 +6699,7 @@
     "clarity_nt_char_2233": "clarity_nt_char_2233"
   },
   "2234": {
-    "ＨＰとしゅび力 +？": ""
+    "ＨＰとしゅび力 +？": "HP & Defense +?"
   },
   "2235": {
     "clarity_nt_char_2235": "clarity_nt_char_2235"
@@ -6834,7 +6834,7 @@
     "clarity_nt_char_2278": "clarity_nt_char_2278"
   },
   "2279": {
-    "デスパワーを たまに消費しない(試合無効)": ""
+    "デスパワーを たまに消費しない(試合無効)": "Rarely Don't Use Death Power (No PvP)"
   },
   "2280": {
     "死亡時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で聖なる祈りが消えない": "On Death Keep Care Prayer <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -6948,7 +6948,7 @@
     "clarity_nt_char_2316": "clarity_nt_char_2316"
   },
   "2317": {
-    "錬金開始時たまにパルプンテの効果が変化": ""
+    "錬金開始時たまにパルプンテの効果が変化": "Hocus Pocus effect may change at start"
   },
   "2318": {
     "かえん斬りを習得": "Learn Flame Slash"
@@ -7026,7 +7026,7 @@
     "かいしんの型４": "Critical Mold 4"
   },
   "2343": {
-    "つるぎの舞の型": "Swords Dance Mold"
+    "つるぎの舞の型": "Sword Dance Mold"
   },
   "2344": {
     "ギラグレイドの型": "Kasizzle Mold"
@@ -7053,7 +7053,7 @@
     "無双の型４": "Peerless Mold 4"
   },
   "2352": {
-    "天下無双の型": ""
+    "天下無双の型": "A Cut Above Mold"
   },
   "2353": {
     "clarity_nt_char_2353": "clarity_nt_char_2353"
@@ -7128,7 +7128,7 @@
     "冷雷の型４": "Ic./Th. Mold 4"
   },
   "2377": {
-    "暗黒連撃の型": ""
+    "暗黒連撃の型": "Dark Barrage Mold"
   },
   "2378": {
     "clarity_nt_char_2378": "clarity_nt_char_2378"
@@ -7401,7 +7401,7 @@
     "clarity_nt_char_2467": "clarity_nt_char_2467"
   },
   "2468": {
-    "戦鬼の乱れ舞を習得": "Learn Demon's Dance"
+    "戦鬼の乱れ舞を習得": "Learn Demon's Duet"
   },
   "2469": {
     "ぱふぱふを習得": "Learn Puff-puff"
@@ -7674,13 +7674,13 @@
     "低下系ガード率＋99％(-99%)": "Debuff Guard Rate +99% (-99%)"
   },
   "2559": {
-    "特技のダメージ +<%sB_renkin1>": ""
+    "特技のダメージ +<%sB_renkin1>": "Skill Damage +<%sB_renkin1>"
   },
   "2560": {
     "clarity_nt_char_2560": "clarity_nt_char_2560"
   },
   "2561": {
-    "会心と暴走ダメージ +<%sB_renkin1>": ""
+    "会心と暴走ダメージ +<%sB_renkin1>": "All Critical Damage +<%sB_renkin1>"
   },
   "2562": {
     "clarity_nt_char_2562": "clarity_nt_char_2562"
@@ -7764,13 +7764,13 @@
     "ウォークライの効果時間 +<%sB_renkin1>秒": ""
   },
   "2589": {
-    "つるぎの舞の威力 +<%sB_renkin1>%": "Swords Dance Power +<%sB_renkin1>%"
+    "つるぎの舞の威力 +<%sB_renkin1>%": "Sword Dance Power +<%sB_renkin1>%"
   },
   "2590": {
     "clarity_nt_char_2590": "clarity_nt_char_2590"
   },
   "2591": {
-    "ミラクルブーストの効果 +<%sB_renkin1>秒": ""
+    "ミラクルブーストの効果 +<%sB_renkin1>秒": "Hurt Converter Time +<%sB_renkin1>s"
   },
   "2592": {
     "フォースブレイク成功率 +<%sB_renkin1>%": "Fource Break Success +<%sB_renkin1>%"
@@ -7779,7 +7779,7 @@
     "キラージャグリング威力 +<%sB_renkin1>%": "Have A Ball Power +<%sB_renkin1>%"
   },
   "2594": {
-    "ためる参で追加テンション": ""
+    "ためる参で追加テンション": "Psyche 3 Extra Tension"
   },
   "2595": {
     "clarity_nt_char_2595": "clarity_nt_char_2595"
@@ -7803,13 +7803,13 @@
     "プラズマリムーバー速度 +<%sB_renkin1>%": "Plasma Remover Speed +<%sB_renkin1>%"
   },
   "2602": {
-    "早詠みの杖の効果時間 +<%sB_renkin1>秒": ""
+    "早詠みの杖の効果時間 +<%sB_renkin1>秒": "Faster Caster Time +<%sB_renkin1>s"
   },
   "2603": {
     "clarity_nt_char_2603": "clarity_nt_char_2603"
   },
   "2604": {
-    "霊脈魔法陣の射程 +<%sB_renkin1>ｍ": ""
+    "霊脈魔法陣の射程 +<%sB_renkin1>ｍ": "Ring of Spirit Range +<%sB_renkin1>m"
   },
   "2605": {
     "clarity_nt_char_2605": "clarity_nt_char_2605"
@@ -7872,7 +7872,7 @@
     "clarity_nt_char_2624": "clarity_nt_char_2624"
   },
   "2625": {
-    "スピリットゾーンⅡ範囲 +<%sB_renkin1>ｍ": ""
+    "スピリットゾーンⅡ範囲 +<%sB_renkin1>ｍ": "Spirit Zone Ⅱ Range +<%sB_renkin1>m"
   },
   "2626": {
     "いやしのメロディⅡの範囲 +<%sB_renkin1>ｍ": "Healing Melody Ⅱ Range +<%sB_renkin1>m"
@@ -7932,7 +7932,7 @@
     "clarity_nt_char_2644": "clarity_nt_char_2644"
   },
   "2645": {
-    "大ぼうぎょ中のダメージ-": ""
+    "大ぼうぎょ中のダメージ-": "Defending Champ Damage"
   },
   "2646": {
     "clarity_nt_char_2646": "clarity_nt_char_2646"
@@ -8058,28 +8058,28 @@
     "clarity_nt_char_2686": "clarity_nt_char_2686"
   },
   "2687": {
-    "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%で呪い": ""
+    "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%で呪い": "Curse Attack <%dB_renkin> （<%+dB_renkindiff>）%"
   },
   "2688": {
-    "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%でボミエ": ""
+    "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%でボミエ": "Decel Attack <%dB_renkin> （<%+dB_renkindiff>）"
   },
   "2689": {
     "clarity_nt_char_2689": "clarity_nt_char_2689"
   },
   "2690": {
-    "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%で呪文威力低下": ""
+    "攻撃時 <%dB_renkin>（<%+dB_renkindiff>）%で呪文威力低下": "Spell Power Down Attack <%dB_renkin> （<%+dB_renkindiff>）%"
   },
   "2691": {
-    "攻撃時 ？%で呪い": ""
+    "攻撃時 ？%で呪い": "Curse Attack ?%"
   },
   "2692": {
-    "攻撃時 ？%でボミエ": ""
+    "攻撃時 ？%でボミエ": "Decel Attack ?%"
   },
   "2693": {
     "clarity_nt_char_2693": "clarity_nt_char_2693"
   },
   "2694": {
-    "攻撃時 ？%で呪文威力低下": ""
+    "攻撃時 ？%で呪文威力低下": "Spell Power Down Attack ?%"
   },
   "2695": {
     "攻撃時○%でためる": ""
@@ -8100,22 +8100,22 @@
     "clarity_nt_char_2700": "clarity_nt_char_2700"
   },
   "2701": {
-    "クロックチャージの型": ""
+    "クロックチャージの型": "Clock Charge Mold"
   },
   "2702": {
     "clarity_nt_char_2702": "clarity_nt_char_2702"
   },
   "2703": {
-    "フォースブレイクの型": ""
+    "フォースブレイクの型": "Fource Break Mold"
   },
   "2704": {
     "clarity_nt_char_2704": "clarity_nt_char_2704"
   },
   "2705": {
-    "女神の祝福の型": ""
+    "女神の祝福の型": "Divine Blessing Mold"
   },
   "2706": {
-    "アイギスの守りの型": ""
+    "アイギスの守りの型": "Aegis Defense Mold"
   },
   "2707": {
     "マグマの威力 +<%sB_renkin1>%": "Magma Power +<%sB_renkin1>%"
@@ -8175,145 +8175,145 @@
     "銃撃時たまにテンション維持(試合無効)": "Rarely Gain Tension On Shoot (No PvP)"
   },
   "2726": {
-    "マヌーサを習得": ""
+    "マヌーサを習得": "Learn Dazzle"
   },
   "2727": {
-    "ジバルンバを習得": ""
+    "ジバルンバを習得": "Learn Ridgeraiser"
   },
   "2728": {
     "clarity_nt_char_2728": "clarity_nt_char_2728"
   },
   "2729": {
-    "つるぎの舞を習得": ""
+    "つるぎの舞を習得": "Learn Sword Dance"
   },
   "2730": {
     "clarity_nt_char_2730": "clarity_nt_char_2730"
   },
   "2731": {
-    "フェンリルアタックを習得": ""
+    "フェンリルアタックを習得": "Learn Fenrir Whistle"
   },
   "2732": {
     "clarity_nt_char_2732": "clarity_nt_char_2732"
   },
   "2733": {
-    "ヴェレーノを習得": ""
+    "ヴェレーノを習得": "Learn Toxle"
   },
   "2734": {
     "clarity_nt_char_2734": "clarity_nt_char_2734"
   },
   "2735": {
-    "ヴェレノーマを習得": ""
+    "ヴェレノーマを習得": "Learn Katoxle"
   },
   "2736": {
-    "どうぐ倍化術を習得": ""
+    "どうぐ倍化術を習得": "Learn Double Dose"
   },
   "2737": {
-    "マホトーンを習得": ""
+    "マホトーンを習得": "Learn Fizzle"
   },
   "2738": {
     "clarity_nt_char_2738": "clarity_nt_char_2738"
   },
   "2739": {
-    "聖女の守りを習得": ""
+    "聖女の守りを習得": "Learn Alma Mater"
   },
   "2740": {
     "clarity_nt_char_2740": "clarity_nt_char_2740"
   },
   "2741": {
-    "ホーリーライトを習得": ""
+    "ホーリーライトを習得": "Learn Divine Restitution"
   },
   "2742": {
     "clarity_nt_char_2742": "clarity_nt_char_2742"
   },
   "2743": {
-    "ロストブレイクⅢを習得": ""
+    "ロストブレイクⅢを習得": "Learn Lost Break Ⅲ"
   },
   "2744": {
-    "メダパニを習得": ""
+    "メダパニを習得": "Learn Fuddle"
   },
   "2745": {
-    "めいそうを習得": ""
+    "めいそうを習得": "Learn Meditation"
   },
   "2746": {
-    "不撓不屈を習得": ""
+    "不撓不屈を習得": "Learn Mens Sana"
   },
   "2747": {
-    "バイキルトを習得": ""
+    "バイキルトを習得": "Learn Oomphle"
   },
   "2748": {
     "clarity_nt_char_2748": "clarity_nt_char_2748"
   },
   "2749": {
-    "ザキを習得": ""
+    "ザキを習得": "Learn Whack"
   },
   "2750": {
-    "ベホマⅢを習得": ""
+    "ベホマⅢを習得": "Learn Fullheal Ⅲ"
   },
   "2751": {
-    "ぶきみな閃光Ⅲを習得": ""
+    "ぶきみな閃光Ⅲを習得": "Learn Eerie Gleam Ⅲ"
   },
   "2752": {
     "clarity_nt_char_2752": "clarity_nt_char_2752"
   },
   "2753": {
-    "メイクアップを習得": ""
+    "メイクアップを習得": "Learn Extreme Makeover"
   },
   "2754": {
-    "女神の祝福を習得": ""
+    "女神の祝福を習得": "Learn Divine Blessing"
   },
   "2755": {
     "clarity_nt_char_2755": "clarity_nt_char_2755"
   },
   "2756": {
-    "大ぼうぎょを習得": ""
+    "大ぼうぎょを習得": "Learn Defending Champ"
   },
   "2757": {
     "clarity_nt_char_2757": "clarity_nt_char_2757"
   },
   "2758": {
-    "古今無双Ⅱを習得": ""
+    "古今無双Ⅱを習得": "Learn Kokon Musou Ⅱ"
   },
   "2759": {
     "clarity_nt_char_2759": "clarity_nt_char_2759"
   },
   "2760": {
-    "煉獄魔斬Ⅲを習得": ""
+    "煉獄魔斬Ⅲを習得": "Learn Demon Edge Ⅲ"
   },
   "2761": {
     "clarity_nt_char_2761": "clarity_nt_char_2761"
   },
   "2762": {
-    "メラガイアーを習得": ""
+    "メラガイアーを習得": "Learn Kafrizzle"
   },
   "2763": {
-    "マヒャデドスを習得": ""
+    "マヒャデドスを習得": "Learn Kacrackle"
   },
   "2764": {
-    "バギムーチョを習得": ""
+    "バギムーチョを習得": "Learn Kaswooshle"
   },
   "2765": {
-    "ギラグレイドⅢを習得": ""
+    "ギラグレイドⅢを習得": "Learn Kasizzle"
   },
   "2766": {
     "clarity_nt_char_2766": "clarity_nt_char_2766"
   },
   "2767": {
-    "イオマータⅡを習得": ""
+    "イオマータⅡを習得": "Learn Kablam Ⅱ"
   },
   "2768": {
-    "ドルマドンを習得": ""
+    "ドルマドンを習得": "Learn Kazammle"
   },
   "2769": {
     "clarity_nt_char_2769": "clarity_nt_char_2769"
   },
   "2770": {
-    "いやしの雨を習得": ""
+    "いやしの雨を習得": "Learn Right as Rain"
   },
   "2771": {
     "clarity_nt_char_2771": "clarity_nt_char_2771"
   },
   "2772": {
-    "敵を倒すと 100%でためる": ""
+    "敵を倒すと 100%でためる": "Tension On Enemy Defeat 100%"
   },
   "2773": {
     "clarity_nt_char_2773": "clarity_nt_char_2773"
@@ -8328,13 +8328,13 @@
     "clarity_nt_char_2776": "clarity_nt_char_2776"
   },
   "2777": {
-    "敵を倒すと １００%でためる": ""
+    "敵を倒すと １００%でためる": "Tension On Enemy Defeat 100%"
   },
   "2778": {
     "clarity_nt_char_2778": "clarity_nt_char_2778"
   },
   "2779": {
-    "ためる参を習得": ""
+    "ためる参を習得": "Learn Psyche 3"
   },
   "2780": {
     "ベギラマの威力 +<%sB_renkin1>%": "Sizzle Power +<%sB_renkin1>%"
@@ -8400,10 +8400,10 @@
     "clarity_nt_char_2800": "clarity_nt_char_2800"
   },
   "2801": {
-    "ミリオンスマイルを習得": ""
+    "ミリオンスマイルを習得": "Learn Million Smile"
   },
   "2802": {
-    "みのがすを習得": ""
+    "みのがすを習得": "Learn Mercy"
   },
   "2803": {
     "ほのおのつるぎの型": "Fire Blade Mold"
@@ -8427,36 +8427,36 @@
     "みかわしの服上の型": "Evasion Cloak Mold"
   },
   "2810": {
-    "キラージャグリングを習得": ""
+    "キラージャグリングを習得": "Learn Have a Ball"
   },
   "2811": {
     "clarity_nt_char_2811": "clarity_nt_char_2811"
   },
   "2812": {
-    "コーラルレインの威力 +<%sB_renkin1>%": ""
+    "コーラルレインの威力 +<%sB_renkin1>%": "Coral Grief Power +<%sB_renkin1>%"
   },
   "2813": {
     "clarity_nt_char_2813": "clarity_nt_char_2813"
   },
   "2814": {
-    "メイルストロムの威力 +<%sB_renkin1>%": ""
+    "メイルストロムの威力 +<%sB_renkin1>%": "Maelstrom Power +<%sB_renkin1>%"
   },
   "2815": {
     "clarity_nt_char_2815": "clarity_nt_char_2815"
   },
   "2816": {
-    "大呪詛を習得": ""
+    "大呪詛を習得": "Learn Hex"
   },
   "2817": {
     "clarity_nt_char_2817": "clarity_nt_char_2817"
   },
   "2818": {
-    "開戦時 100%でピオラ": ""
+    "開戦時 100%でピオラ": "Battle Start Accel 100%"
   },
   "2819": {
     "clarity_nt_char_2819": "clarity_nt_char_2819"
   },
   "2820": {
-    "ピオラを習得": ""
+    "ピオラを習得": "Learn Accel"
   }
 }

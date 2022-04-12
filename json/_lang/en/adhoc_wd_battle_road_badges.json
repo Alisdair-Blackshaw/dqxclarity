@@ -5538,7 +5538,7 @@
     "ルナナ・虹": "Lunana (R)"
   },
   "1847": {
-    "怪盗ポイックリン・虹": "Phantom Thief Poiclin (R)"
+    "怪盗ポイックリン・虹": "Thief Poiclin (R)"
   },
   "1848": {
     "clarity_nt_char_1848": "clarity_nt_char_1848"
@@ -5625,7 +5625,7 @@
     "clarity_nt_char_1875": "clarity_nt_char_1875"
   },
   "1876": {
-    "勇者姫アンルシア・虹": "Hero Princess Anlucia (R)"
+    "勇者姫アンルシア・虹": "Hero Anlucia (R)"
   },
   "1877": {
     "clarity_nt_char_1877": "clarity_nt_char_1877"
@@ -5640,19 +5640,19 @@
     "かいしん率 +4%": "Critical Rate +4%"
   },
   "1881": {
-    "攻撃時 15%で猛毒": "Deadly Psn. Attack 15%"
+    "攻撃時 15%で猛毒": "Envenom Attack 15%"
   },
   "1882": {
     "clarity_nt_char_1882": "clarity_nt_char_1882"
   },
   "1883": {
-    "攻撃時 30%で猛毒": "Deadly Psn. Attack 30%"
+    "攻撃時 30%で猛毒": "Envenom Attack 30%"
   },
   "1884": {
     "clarity_nt_char_1884": "clarity_nt_char_1884"
   },
   "1885": {
-    "攻撃時 50%で猛毒": "Deadly Psn. Attack 50%"
+    "攻撃時 50%で猛毒": "Envenom Attack 50%"
   },
   "1886": {
     "clarity_nt_char_1886": "clarity_nt_char_1886"
@@ -6453,19 +6453,19 @@
     "clarity_nt_char_2151": "clarity_nt_char_2151"
   },
   "2152": {
-    "攻撃時 10%で魔導の書": "Magic Book Attack 10%"
+    "攻撃時 10%で魔導の書": "Magical Book Attack 10%"
   },
   "2153": {
     "clarity_nt_char_2153": "clarity_nt_char_2153"
   },
   "2154": {
-    "攻撃時 15%で魔導の書": "Magic Book Attack 15%"
+    "攻撃時 15%で魔導の書": "Magical Book Attack 15%"
   },
   "2155": {
     "clarity_nt_char_2155": "clarity_nt_char_2155"
   },
   "2156": {
-    "攻撃時 20%で魔導の書": "Magic Book Attack 20%"
+    "攻撃時 20%で魔導の書": "Magical Book Attack 20%"
   },
   "2157": {
     "clarity_nt_char_2157": "clarity_nt_char_2157"
@@ -7995,7 +7995,7 @@
     "clarity_nt_char_2665": "clarity_nt_char_2665"
   },
   "2666": {
-    "状態異常耐性": "Status Resistance"
+    "状態異常耐性": "Status Resist"
   },
   "2667": {
     "clarity_nt_char_2667": "clarity_nt_char_2667"
@@ -8028,7 +8028,7 @@
     "ぼうそう率": "Haywire Rate"
   },
   "2677": {
-    "呪文発動速度": "Spellcast Speed"
+    "呪文発動速度": "Cast Speed"
   },
   "2678": {
     "clarity_nt_char_2678": "clarity_nt_char_2678"
