@@ -1200,10 +1200,10 @@
     "「ほほう　<%sL_KAITAI_ITEM>ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, the <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>"
   },
   "401": {
-    "「ほほう　<%sL_KAITAI_ITEM>を　ひとつですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, the <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>""
+    "「ほほう　<%sL_KAITAI_ITEM>を　ひとつですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, the <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>"
   },
   "402": {
-    "「ほほう　<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, <%dL_KAUKAZU> <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>""
+    "「ほほう　<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno><break>": "Hoho, <%dL_KAUKAZU> <%sL_KAITAI_ITEM>?|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>"
   },
   "403": {
     "「<%sL_KAITAI_ITEM>ですね。|　おやっ　これは　<%sL_GENDER>性の方でないと|　装備できませんが　それでも買われますか？|<yesno 2><break>": ""

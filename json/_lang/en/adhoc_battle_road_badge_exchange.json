@@ -48,7 +48,7 @@
     "「むむ！　おぬし　まだバッジを１つも|　手に入れてないようじゃな。|　手に入れてから　来るとよいのじゃぞ。": "Mmm! You haven't picked up a single badge|yet. I suggest you come back when you have|one."
   },
   "17": {
-    "<%sM_Badge>バッジを　手に入れた！|<se_nots System 7><bw_break>": ""
+    "<%sM_Badge>バッジを　手に入れた！|<se_nots System 7><bw_break>": "Received the <%sM_Badge>|Badge!|<se_nots System 7><bw_break>"
   },
   "18": {
     "「ほう！　このバッジを選ぶとは|　おぬしも　なかなか　わかっているな……！|　では　交換成立で　よいかな？|<yesno><break>": "Wow! You really know your stuff when it comes|to choosing this badge... So, shall we make|the exchange?<yesno><break>"
@@ -57,15 +57,15 @@
     "「このバッジを　<%dM_BadgeNum>個じゃと！|　ぐぬぬ……これを選ぶとは　あっぱれじゃ！|　では　交換成立で　よいかな？|<yesno><break>": "He wants <%dM_BadgeNum> of these badges! Oh|no... I'm impressed you chose this one! So, I|guess we'll make the trade, then?<yesno><break>"
   },
   "20": {
-    "<%sM_Badge>バッジを|<%dM_BadgeNum>個　手に入れた！|<se_nots System 7><bw_break>": ""
+    "<%sM_Badge>バッジを|<%dM_BadgeNum>個　手に入れた！|<se_nots System 7><bw_break>": "Received <%dM_BadgeNum> <%sM_Badge>|Badges!|<se_nots System 7><bw_break>"
   },
   "21": {
-    "「<%sM_Badge2>バッジは|　モンスターが　装備しているようじゃが　|　本当に　交換しても　よいかな？|<yesno2><break>": ""
+    "「<%sM_Badge2>バッジは|　モンスターが　装備しているようじゃが　|　本当に　交換しても　よいかな？|<yesno2><break>": "The <%sM_Badge2> Badge is|currently equipped to a monster. Are|you sure you want to exchange?|<yesno2><break>"
   },
   "22": {
-    "はじめて　<%sM_Badge>バッジを|手に入れた！|<se_nots System 7><bw_break>": ""
+    "はじめて　<%sM_Badge>バッジを|手に入れた！|<se_nots System 7><bw_break>": "Received your first <%sM_Badge>|Badge!|<se_nots System 7><bw_break>"
   },
   "23": {
-    "はじめて　<%sM_Badge>バッジを|<%dM_BadgeNum>個　手に入れた！|<se_nots System 7><bw_break>": ""
+    "はじめて　<%sM_Badge>バッジを|<%dM_BadgeNum>個　手に入れた！|<se_nots System 7><bw_break>": "Received your first <%dM_BadgeNum> <%sM_Badge>|Badges!|<se_nots System 7><bw_break>"
   }
 }
