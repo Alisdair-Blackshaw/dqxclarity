@@ -1,7 +1,3 @@
-# dqxclarity <a href="http://weblate.ethene.wiki/engage/dragon-quest-x/">
-<img src="http://weblate.ethene.wiki/widgets/dragon-quest-x/en/svg-badge.svg" alt="Translation status" />
-</a>
-
 Toolkit for translating various elements of the game "Dragon Quest X".
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
