@@ -1260,7 +1260,7 @@
     "錬金釜が元気になりました！": "Alchemy Pot is now charged!"
   },
   "421": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに さそわれました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに さそわれました！": "Invited to Battle Road from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "422": {
     "制限時間内に 脱出してください！": "Escape within the time limit!"
@@ -1968,7 +1968,7 @@
     "<%dC_N1>分以内に わたぼうに話しかけ同期しよう": ""
   },
   "657": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに誘われました": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに誘われました": "Invited to Battle Road from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "658": {
     "clarity_nt_char_658": "clarity_nt_char_658"
